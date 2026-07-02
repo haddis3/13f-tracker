@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>13F Tracker</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&family=Noto+Sans+SC:wght@400;700&display=swap" rel="stylesheet" />
+<script crossorigin src="https://unpkg.com/react@18.3.1/umd/react.production.min.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.production.min.js"></script>
+<script crossorigin src="https://unpkg.com/prop-types@15.8.1/prop-types.min.js"></script>
+<script crossorigin src="https://unpkg.com/recharts@2.12.7/umd/Recharts.js"></script>
+<script src="https://unpkg.com/@babel/standalone@7.24.7/babel.min.js"></script>
+<style>
+  * { box-sizing: border-box; }
+  body { margin: 0; background: #eef1f5; }
+  button { font-family: inherit; }
+  input { font-family: inherit; }
+</style>
+</head>
+<body>
+<div id="root"></div>
+<script type="text/babel" data-presets="react">
+/* @jsxRuntime classic */
+/* @jsx React.createElement */
+const { useState, useEffect } = React;
+const {
+  ComposedChart, Area, Line, Bar, XAxis, YAxis, CartesianGrid,
+  Tooltip, Legend, ResponsiveContainer, BarChart, Cell,
+} = Recharts;
+
+/* Where live data lives (produced by edgar_13f.py via GitHub Actions).
+   Relative path works on GitHub Pages; falls back to demo data if missing. */
+const DATA_URL = "./data/data.json";
+
+/* ─────────────── i18n ─────────────── */
+const T = {
+  en: {
+    appName: "13F Tracker", appSub: "Institutional holdings",
+    dashboard: "Dashboard", discover: "Discover", sectors: "Sectors",
+    stock: "Stock", settings: "Settings",
+    trackedHolders: "Tracked holders", shares: "Shares", value: "Value",
+    newPos: "New", addCut: "Add / Cut", timeline: "Tracked Timeline",
+    watchlistSignal: "Watchlist Signal", topHolders: "Top Tracked Holders",
+    fund: "Fund", qoq: "QoQ Δ",
+    searchPh: "Ticker…", universe: "tracked watchlist universe",
+    quarterOverview: "Quarter Overview", asOf: "as of",
+    ticker: "Ticker", holdersCol: "Holders", newCol: "New",
+    valueCol: "Value", valueChg: "Value Δ",
+    mostBought: "Most New Positions", mostSold: "Most Reduced",
+    filings: "filings", discoverSub: "Where institutions opened positions this quarter",
+    sectorSub: "Demo view — sector aggregation not yet wired to live data",
+    trackedFunds: "Tracked Funds", settingsSub: "Funds in your watchlist universe (edit WATCHLIST_FUNDS in edgar_13f.py).",
+    newQ: "new this Q", increased: "increased", decreased: "decreased",
+    NEW: "NEW", INCREASED: "INCREASED", DECREASED: "DECREASED", "SOLD OUT": "SOLD OUT",
+    holdersAxis: "tracked holders", valueAxis: "value",
+    liveData: "Live data", demoData: "Demo data — data/data.json not found",
+    generated: "generated", viewStock: "View", netFlow: "net flow",
+  },
+  zh: {
+    appName: "13F 追踪", appSub: "机构持仓",
+    dashboard: "总览", discover: "发现", sectors: "行业",
+    stock: "个股", settings: "设置",
+    trackedHolders: "追踪持有机构", shares: "持股数", value: "市值",
+    newPos: "新建仓", addCut: "加仓 / 减仓", timeline: "持仓时间线",
+    watchlistSignal: "关注名单信号", topHolders: "主要机构持仓",
+    fund: "机构", qoq: "环比变化",
+    searchPh: "输入代码…", universe: "追踪的观察名单范围",
+    quarterOverview: "本季度总览", asOf: "截至",
+    ticker: "代码", holdersCol: "机构数", newCol: "新建仓",
+    valueCol: "市值", valueChg: "市值变化",
+    mostBought: "新建仓最多", mostSold: "减持最多",
+    filings: "份申报", discoverSub: "本季度机构新开仓的方向",
+    sectorSub: "演示视图——行业聚合尚未接入实时数据",
+    trackedFunds: "追踪机构", settingsSub: "观察名单机构（在 edgar_13f.py 的 WATCHLIST_FUNDS 中编辑）。",
+    newQ: "本季新建", increased: "加仓", decreased: "减仓",
+    NEW: "新建仓", INCREASED: "加仓", DECREASED: "减仓", "SOLD OUT": "清仓",
+    holdersAxis: "追踪机构数", valueAxis: "市值",
+    liveData: "实时数据", demoData: "演示数据——未找到 data/data.json",
+    generated: "生成于", viewStock: "查看", netFlow: "净流向",
+  },
+};
+
+/* ─────────────── demo fallback ─────────────── */
+const DEMO = {
+  generated: null,
+  quarters: ["2025-06-30", "2025-09-30", "2025-12-31", "2026-03-31"],
+  stocks: {
+    SNDK: {
+      name: "SANDISK CORP", sharesM: 51.7,
+      tl: [
+        { q: "2025-06-30", holders: 12, valueB: 0.1, neu: 12, inc: 0, dec: 0 },
+        { q: "2025-09-30", holders: 38, valueB: 0.4, neu: 24, inc: 9, dec: 3 },
+        { q: "2025-12-31", holders: 720, valueB: 14.2, neu: 610, inc: 74, dec: 30 },
+        { q: "2026-03-31", holders: 1170, valueB: 32.6, neu: 484, inc: 326, dec: 270 },
+      ],
+      signals: [
+        { fund: "Appaloosa LP", action: "NEW", shares: "281.3K", value: "$178.7M" },
+        { fund: "Bridgewater Associates, LP", action: "NEW", shares: "9.5K", value: "$6.0M" },
+        { fund: "Citadel Advisors LLC", action: "INCREASED", shares: "2.5M", value: "$1.6B", chg: "+212%" },
+        { fund: "Millennium Management LLC", action: "INCREASED", shares: "139.0K", value: "$88.3M", chg: "+31%" },
+      ],
+      holders: [
+        { fund: "Vanguard Group Inc", shares: "5.9M", value: "$3.75B", chg: "+4.2%" },
+        { fund: "BlackRock, Inc.", shares: "5.1M", value: "$3.24B", chg: "+2.8%" },
+        { fund: "Citadel Advisors LLC", shares: "2.5M", value: "$1.60B", chg: "+212%" },
+        { fund: "Appaloosa LP", shares: "281.3K", value: "$178.7M", chg: "NEW" },
+      ],
+    },
+  },
+};
+
+const SECTOR_FLOW = [
+  { sector: "Semiconductors", zh: "半导体", flow: 86.4 },
+  { sector: "Consumer Internet", zh: "消费互联网", flow: 31.2 },
+  { sector: "Software & IT", zh: "软件与IT", flow: 18.5 },
+  { sector: "Healthcare", zh: "医疗", flow: -4.8 },
+  { sector: "Energy", zh: "能源", flow: -9.3 },
+];
+
+/* ─────────────── helpers ─────────────── */
+const C = {
+  bg: "#eef1f5", card: "#ffffff", ink: "#0f172a", sub: "#64748b",
+  line: "#2563eb", green: "#10b981", blue: "#38bdf8", red: "#fb7185",
+  greenBg: "#ecfdf5", yellowBg: "#fefce8", border: "#e2e8f0",
+};
+const fmtB = (v) => (v >= 1000 ? `$${(v / 1000).toFixed(1)}T` : `$${v.toFixed(1)}B`);
+const fmtM = (v) => (v >= 1000 ? `${(v / 1000).toFixed(1)}B` : `${v.toFixed(1)}M`);
+const actionStyle = (a) =>
+  a === "NEW" ? { color: "#047857", bg: C.greenBg }
+  : a === "INCREASED" ? { color: "#0369a1", bg: "#eff6ff" }
+  : a === "SOLD OUT" ? { color: "#7f1d1d", bg: "#fef2f2" }
+  : { color: "#be123c", bg: "#fff1f2" };
+
+/* ─────────────── small components ─────────────── */
+function StatCard({ label, value, tint }) {
+  return (
+    <div style={{
+      flex: "1 1 150px", minWidth: 140, background: tint || C.card,
+      border: `1px solid ${tint ? "transparent" : C.border}`,
+      borderRadius: 16, padding: "18px 20px", boxShadow: "0 1px 2px rgba(15,23,42,0.04)",
+    }}>
+      <div style={{ fontSize: 11, letterSpacing: 1.2, textTransform: "uppercase", color: C.sub, fontWeight: 600 }}>{label}</div>
+      <div style={{ fontSize: 28, fontWeight: 800, color: C.ink, marginTop: 8, fontVariantNumeric: "tabular-nums" }}>{value}</div>
+    </div>
+  );
+}
+
+function Badge({ action, t }) {
+  const s = actionStyle(action);
+  return <span style={{ fontSize: 11, fontWeight: 700, letterSpacing: 0.6, color: s.color, background: s.bg, padding: "3px 8px", borderRadius: 6 }}>{t[action] || action}</span>;
+}
+
+function SignalCard({ sig, t }) {
+  return (
+    <div style={{ background: "#fffdf5", border: "1px solid #fde68a", borderRadius: 14, padding: "16px 18px", display: "flex", flexDirection: "column", gap: 6 }}>
+      <div style={{ fontWeight: 700, color: C.ink, fontSize: 15 }}>{sig.fund}</div>
+      <div style={{ display: "flex", alignItems: "center", gap: 8, flexWrap: "wrap", color: C.sub, fontSize: 13 }}>
+        <Badge action={sig.action} t={t} />
+        <span>{sig.shares} · {sig.value}{sig.chg ? ` · ${sig.chg}` : ""}</span>
+      </div>
+    </div>
+  );
+}
+
+/* ─────────────── views ─────────────── */
+function StockView({ data, ticker, t }) {
+  const s = data.stocks[ticker];
+  if (!s) return <div style={{ color: C.sub, padding: 40 }}>No data for “{ticker}”. Available: {Object.keys(data.stocks).join(", ")}</div>;
+  const tl = s.tl.filter(Boolean);
+  const last = tl[tl.length - 1];
+
+  return (
+    <React.Fragment>
+      <div style={{ display: "flex", flexWrap: "wrap", gap: 12, marginBottom: 22 }}>
+        <StatCard label={t.trackedHolders} value={last.holders.toLocaleString()} tint="#eff8ff" />
+        <StatCard label={t.shares} value={fmtM(s.sharesM)} />
+        <StatCard label={t.value} value={fmtB(last.valueB)} />
+        <StatCard label={t.newPos} value={last.neu.toLocaleString()} tint={C.greenBg} />
+        <StatCard label={t.addCut} value={`${last.inc.toLocaleString()} / ${last.dec.toLocaleString()}`} tint={C.yellowBg} />
+      </div>
+
+      <h2 style={{ fontSize: 19, fontWeight: 800, color: C.ink, margin: "6px 0 12px" }}>{t.timeline}</h2>
+      <div style={{ background: C.card, border: `1px solid ${C.border}`, borderRadius: 16, padding: "22px 12px 10px", marginBottom: 26 }}>
+        <ResponsiveContainer width="100%" height={340}>
+          <ComposedChart data={tl} margin={{ top: 5, right: 10, left: 0, bottom: 0 }}>
+            <defs>
+              <linearGradient id="hf" x1="0" y1="0" x2="0" y2="1">
+                <stop offset="0%" stopColor="#5eead4" stopOpacity={0.7} />
+                <stop offset="100%" stopColor="#93c5fd" stopOpacity={0.25} />
+              </linearGradient>
+            </defs>
+            <CartesianGrid strokeDasharray="3 3" stroke="#f1f5f9" />
+            <XAxis dataKey="q" tick={{ fontSize: 12, fill: C.sub }} axisLine={false} tickLine={false} />
+            <YAxis yAxisId="h" tick={{ fontSize: 12, fill: C.sub }} axisLine={false} tickLine={false} />
+            <YAxis yAxisId="v" orientation="right" tickFormatter={(v) => `${v}B`} tick={{ fontSize: 12, fill: C.sub }} axisLine={false} tickLine={false} />
+            <Tooltip formatter={(val, name) => name === t.valueAxis ? [fmtB(val), name] : [Number(val).toLocaleString(), name]}
+              contentStyle={{ borderRadius: 10, border: `1px solid ${C.border}`, fontSize: 13 }} />
+            <Legend wrapperStyle={{ fontSize: 13 }} iconSize={11} />
+            <Area yAxisId="h" type="monotone" dataKey="holders" name={t.holdersAxis} stroke="#0d9488" strokeWidth={2} fill="url(#hf)" />
+            <Line yAxisId="v" type="monotone" dataKey="valueB" name={t.valueAxis} stroke={C.line} strokeWidth={2.2} dot={false} />
+            <Bar yAxisId="h" dataKey="neu" name={t.newQ} fill={C.green} barSize={16} radius={[3,3,0,0]} />
+            <Bar yAxisId="h" dataKey="inc" name={t.increased} fill={C.blue} barSize={16} radius={[3,3,0,0]} />
+            <Bar yAxisId="h" dataKey="dec" name={t.decreased} fill={C.red} barSize={16} radius={[3,3,0,0]} />
+          </ComposedChart>
+        </ResponsiveContainer>
+      </div>
+
+      {s.signals && s.signals.length > 0 && (
+        <div style={{ background: "#fffbeb", border: "1px solid #fde68a", borderRadius: 18, padding: "22px 22px 24px", marginBottom: 26 }}>
+          <h2 style={{ fontSize: 19, fontWeight: 800, color: C.ink, margin: "0 0 16px" }}>{t.watchlistSignal}</h2>
+          <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(300px, 1fr))", gap: 14 }}>
+            {s.signals.map((sig, i) => <SignalCard key={i} sig={sig} t={t} />)}
+          </div>
+        </div>
+      )}
+
+      <h2 style={{ fontSize: 19, fontWeight: 800, color: C.ink, margin: "6px 0 12px" }}>{t.topHolders}</h2>
+      <div style={{ background: C.card, border: `1px solid ${C.border}`, borderRadius: 16, overflow: "auto", marginBottom: 20 }}>
+        <table style={{ width: "100%", borderCollapse: "collapse", fontSize: 14, minWidth: 520 }}>
+          <thead>
+            <tr style={{ textAlign: "left", color: C.sub, fontSize: 11, textTransform: "uppercase", letterSpacing: 1 }}>
+              {[t.fund, t.shares, t.value, t.qoq].map((h, i) => (
+                <th key={i} style={{ padding: "13px 18px", borderBottom: `1px solid ${C.border}`, textAlign: i === 0 ? "left" : "right" }}>{h}</th>
+              ))}
+            </tr>
+          </thead>
+          <tbody>
+            {s.holders.map((h, i) => (
+              <tr key={i} style={{ borderBottom: i < s.holders.length - 1 ? "1px solid #f1f5f9" : "none" }}>
+                <td style={{ padding: "13px 18px", fontWeight: 600, color: C.ink }}>{h.fund}</td>
+                <td style={{ padding: "13px 18px", textAlign: "right", fontVariantNumeric: "tabular-nums" }}>{h.shares}</td>
+                <td style={{ padding: "13px 18px", textAlign: "right", fontVariantNumeric: "tabular-nums" }}>{h.value}</td>
+                <td style={{ padding: "13px 18px", textAlign: "right", fontWeight: 700,
+                  color: h.chg === "NEW" ? "#047857" : String(h.chg).startsWith("-") ? "#be123c" : "#0369a1" }}>
+                  {h.chg === "NEW" ? t.NEW : h.chg}
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </React.Fragment>
+  );
+}
+
+function DashboardView({ data, t, goStock }) {
+  const rows = Object.entries(data.stocks).map(([tk, s]) => {
+    const tl = s.tl.filter(Boolean);
+    const l = tl[tl.length - 1], p = tl.length > 1 ? tl[tl.length - 2] : null;
+    return { tk, name: s.name, holders: l.holders, neu: l.neu, inc: l.inc, dec: l.dec,
+      valueB: l.valueB, chg: p ? ((l.valueB - p.valueB) / p.valueB) * 100 : null };
+  }).sort((a, b) => b.neu - a.neu);
+
+  return (
+    <React.Fragment>
+      <div style={{ display: "flex", flexWrap: "wrap", gap: 12, marginBottom: 22 }}>
+        <StatCard label={t.ticker} value={rows.length} tint="#eff8ff" />
+        <StatCard label={t.trackedHolders} value={rows.reduce((a, r) => a + r.holders, 0).toLocaleString()} />
+        <StatCard label={t.newPos} value={rows.reduce((a, r) => a + r.neu, 0).toLocaleString()} tint={C.greenBg} />
+        <StatCard label={t.addCut} value={`${rows.reduce((a, r) => a + r.inc, 0).toLocaleString()} / ${rows.reduce((a, r) => a + r.dec, 0).toLocaleString()}`} tint={C.yellowBg} />
+      </div>
+      <h2 style={{ fontSize: 19, fontWeight: 800, color: C.ink, margin: "6px 0 12px" }}>{t.quarterOverview} · {data.quarters[data.quarters.length - 1]}</h2>
+      <div style={{ background: C.card, border: `1px solid ${C.border}`, borderRadius: 16, overflow: "auto" }}>
+        <table style={{ width: "100%", borderCollapse: "collapse", fontSize: 14, minWidth: 640 }}>
+          <thead>
+            <tr style={{ color: C.sub, fontSize: 11, textTransform: "uppercase", letterSpacing: 1 }}>
+              {[t.ticker, t.holdersCol, t.newCol, t.addCut, t.valueCol, t.valueChg, ""].map((h, i) => (
+                <th key={i} style={{ padding: "13px 16px", borderBottom: `1px solid ${C.border}`, textAlign: i === 0 ? "left" : "right" }}>{h}</th>
+              ))}
+            </tr>
+          </thead>
+          <tbody>
+            {rows.map((r, i) => (
+              <tr key={r.tk} style={{ borderBottom: i < rows.length - 1 ? "1px solid #f1f5f9" : "none" }}>
+                <td style={{ padding: "13px 16px" }}>
+                  <div style={{ fontWeight: 800, color: C.ink }}>{r.tk}</div>
+                  <div style={{ fontSize: 11, color: C.sub }}>{r.name}</div>
+                </td>
+                <td style={{ padding: "13px 16px", textAlign: "right" }}>{r.holders.toLocaleString()}</td>
+                <td style={{ padding: "13px 16px", textAlign: "right", color: "#047857", fontWeight: 700 }}>+{r.neu.toLocaleString()}</td>
+                <td style={{ padding: "13px 16px", textAlign: "right" }}>
+                  <span style={{ color: "#0369a1" }}>{r.inc.toLocaleString()}</span>
+                  <span style={{ color: C.sub }}> / </span>
+                  <span style={{ color: "#be123c" }}>{r.dec.toLocaleString()}</span>
+                </td>
+                <td style={{ padding: "13px 16px", textAlign: "right" }}>{fmtB(r.valueB)}</td>
+                <td style={{ padding: "13px 16px", textAlign: "right", fontWeight: 700, color: r.chg == null ? C.sub : r.chg >= 0 ? "#047857" : "#be123c" }}>
+                  {r.chg == null ? "—" : `${r.chg >= 0 ? "+" : ""}${r.chg.toFixed(1)}%`}
+                </td>
+                <td style={{ padding: "13px 16px", textAlign: "right" }}>
+                  <button onClick={() => goStock(r.tk)} style={{ border: `1px solid ${C.border}`, background: "#f8fafc", borderRadius: 8, padding: "5px 12px", fontSize: 12, fontWeight: 700, color: C.ink, cursor: "pointer" }}>{t.viewStock}</button>
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </React.Fragment>
+  );
+}
+
+function DiscoverView({ data, t, goStock }) {
+  const rows = Object.entries(data.stocks).map(([tk, s]) => {
+    const tl = s.tl.filter(Boolean); const l = tl[tl.length - 1];
+    return { tk, name: s.name, neu: l.neu, dec: l.dec };
+  });
+  if (!rows.length) return null;
+  const bought = [...rows].sort((a, b) => b.neu - a.neu);
+  const sold = [...rows].sort((a, b) => b.dec - a.dec);
+
+  const List = ({ items, keyName, max, color, title }) => (
+    <div style={{ flex: "1 1 340px", background: C.card, border: `1px solid ${C.border}`, borderRadius: 16, padding: "20px 22px" }}>
+      <h3 style={{ margin: "0 0 14px", fontSize: 16, fontWeight: 800, color: C.ink }}>{title}</h3>
+      {items.map((r) => (
+        <div key={r.tk} onClick={() => goStock(r.tk)} style={{ cursor: "pointer", marginBottom: 12 }}>
+          <div style={{ display: "flex", justifyContent: "space-between", fontSize: 13, marginBottom: 4 }}>
+            <span style={{ fontWeight: 700, color: C.ink }}>{r.tk} <span style={{ color: C.sub, fontWeight: 400 }}>· {r.name}</span></span>
+            <span style={{ fontWeight: 700, color }}>{r[keyName].toLocaleString()} {t.filings}</span>
+          </div>
+          <div style={{ height: 8, background: "#f1f5f9", borderRadius: 4 }}>
+            <div style={{ width: `${(r[keyName] / (max || 1)) * 100}%`, height: "100%", background: color, borderRadius: 4 }} />
+          </div>
+        </div>
+      ))}
+    </div>
+  );
+
+  return (
+    <React.Fragment>
+      <p style={{ color: C.sub, margin: "0 0 18px", fontSize: 14 }}>{t.discoverSub}</p>
+      <div style={{ display: "flex", flexWrap: "wrap", gap: 16 }}>
+        <List items={bought} keyName="neu" max={bought[0].neu} color={C.green} title={t.mostBought} />
+        <List items={sold} keyName="dec" max={sold[0].dec} color={C.red} title={t.mostSold} />
+      </div>
+    </React.Fragment>
+  );
+}
+
+function SectorsView({ t, lang }) {
+  const data = SECTOR_FLOW.map((s) => ({ name: lang === "zh" ? s.zh : s.sector, flow: s.flow }));
+  return (
+    <React.Fragment>
+      <p style={{ color: C.sub, margin: "0 0 18px", fontSize: 14 }}>{t.sectorSub}</p>
+      <div style={{ background: C.card, border: `1px solid ${C.border}`, borderRadius: 16, padding: "22px 14px 8px" }}>
+        <ResponsiveContainer width="100%" height={320}>
+          <BarChart data={data} layout="vertical" margin={{ left: 30, right: 30 }}>
+            <CartesianGrid strokeDasharray="3 3" stroke="#f1f5f9" horizontal={false} />
+            <XAxis type="number" tickFormatter={(v) => `${v}B`} tick={{ fontSize: 12, fill: C.sub }} axisLine={false} tickLine={false} />
+            <YAxis type="category" dataKey="name" width={110} tick={{ fontSize: 13, fill: C.ink }} axisLine={false} tickLine={false} />
+            <Tooltip formatter={(v) => [`$${v}B`, t.netFlow]} contentStyle={{ borderRadius: 10, border: `1px solid ${C.border}`, fontSize: 13 }} />
+            <Bar dataKey="flow" barSize={20} radius={[0,4,4,0]}>
+              {data.map((d, i) => <Cell key={i} fill={d.flow >= 0 ? C.green : C.red} />)}
+            </Bar>
+          </BarChart>
+        </ResponsiveContainer>
+      </div>
+    </React.Fragment>
+  );
+}
+
+/* ─────────────── shell ─────────────── */
+const NAV = [
+  { id: "dashboard", icon: "▦" }, { id: "discover", icon: "◎" },
+  { id: "sectors", icon: "▤" }, { id: "stock", icon: "☆" },
+];
+
+function App() {
+  const [lang, setLang] = useState("en");
+  const [view, setView] = useState("stock");
+  const [data, setData] = useState(DEMO);
+  const [live, setLive] = useState(false);
+  const [ticker, setTicker] = useState("SNDK");
+  const [query, setQuery] = useState("SNDK");
+  const t = T[lang];
+
+  useEffect(() => {
+    fetch(DATA_URL, { cache: "no-store" })
+      .then((r) => (r.ok ? r.json() : Promise.reject()))
+      .then((d) => {
+        if (d && d.stocks && Object.keys(d.stocks).length) {
+          setData(d); setLive(true);
+          const first = Object.keys(d.stocks)[0];
+          setTicker(first); setQuery(first);
+        }
+      })
+      .catch(() => {});
+  }, []);
+
+  const goStock = (tk) => { setTicker(tk); setQuery(tk); setView("stock"); };
+  const doSearch = () => { const q = query.trim().toUpperCase(); if (q) goStock(q); };
+  const stock = data.stocks[ticker];
+  const latestQ = data.quarters[data.quarters.length - 1];
+
+  return (
+    <div style={{ display: "flex", minHeight: "100vh", background: C.bg, fontFamily: "'Inter','Noto Sans SC',system-ui,sans-serif", color: C.ink }}>
+      <aside style={{ width: 220, flexShrink: 0, background: "#fff", borderRight: `1px solid ${C.border}`, padding: "24px 14px", display: "flex", flexDirection: "column", position: "sticky", top: 0, height: "100vh" }}>
+        <div style={{ display: "flex", alignItems: "center", gap: 12, marginBottom: 30, paddingLeft: 6 }}>
+          <div style={{ width: 42, height: 42, borderRadius: 12, background: "#0f172a", color: "#fff", display: "grid", placeItems: "center", fontSize: 18 }}>▥</div>
+          <div>
+            <div style={{ fontWeight: 800, fontSize: 16 }}>{t.appName}</div>
+            <div style={{ fontSize: 12, color: C.sub }}>{t.appSub}</div>
+          </div>
+        </div>
+        {NAV.map((n) => (
+          <button key={n.id} onClick={() => setView(n.id)} style={{
+            display: "flex", alignItems: "center", gap: 12, padding: "11px 14px",
+            borderRadius: 10, border: "none", cursor: "pointer", textAlign: "left",
+            background: view === n.id ? "#f1f5f9" : "transparent",
+            color: view === n.id ? C.ink : "#334155",
+            fontWeight: view === n.id ? 800 : 600, fontSize: 15, marginBottom: 2,
+          }}>
+            <span style={{ fontSize: 16, width: 20 }}>{n.icon}</span>{t[n.id]}
+          </button>
+        ))}
+        <div style={{ marginTop: "auto" }}>
+          <div style={{ fontSize: 11, color: live ? "#047857" : "#b45309", marginBottom: 10, paddingLeft: 6 }}>
+            {live ? `● ${t.liveData}` : `○ ${t.demoData}`}
+            {data.generated && <div style={{ color: C.sub }}>{t.generated} {String(data.generated).slice(0, 10)}</div>}
+          </div>
+          <button onClick={() => setLang(lang === "en" ? "zh" : "en")} style={{ border: `1px solid ${C.border}`, background: "#fff", borderRadius: 10, padding: "8px 16px", fontSize: 14, fontWeight: 700, cursor: "pointer", color: C.ink }}>
+            {lang === "en" ? "中文" : "EN"}
+          </button>
+        </div>
+      </aside>
+
+      <main style={{ flex: 1, padding: "30px 36px", maxWidth: 1280, minWidth: 0 }}>
+        <div style={{ display: "flex", alignItems: "flex-start", justifyContent: "space-between", gap: 16, flexWrap: "wrap", marginBottom: 24 }}>
+          <div>
+            <h1 style={{ margin: 0, fontSize: 32, fontWeight: 900, letterSpacing: -0.5 }}>
+              {view === "stock" ? ticker : t[view]}
+            </h1>
+            <div style={{ color: C.sub, fontSize: 14, marginTop: 6 }}>
+              {view === "stock" && stock ? `${stock.name} · ${latestQ} · ${t.universe}` : `${t.asOf} ${latestQ} · ${t.universe}`}
+            </div>
+          </div>
+          <div style={{ display: "flex", gap: 8 }}>
+            <input value={query} onChange={(e) => setQuery(e.target.value)} onKeyDown={(e) => e.key === "Enter" && doSearch()} placeholder={t.searchPh}
+              style={{ width: 180, padding: "10px 14px", borderRadius: 10, border: `1px solid ${C.border}`, fontSize: 14, outline: "none", background: "#fff" }} />
+            <button onClick={doSearch} style={{ width: 42, height: 42, borderRadius: 10, border: "none", background: C.ink, color: "#fff", fontSize: 16, cursor: "pointer" }}>⌕</button>
+          </div>
+        </div>
+
+        {view === "stock" && <StockView data={data} ticker={ticker} t={t} />}
+        {view === "dashboard" && <DashboardView data={data} t={t} goStock={goStock} />}
+        {view === "discover" && <DiscoverView data={data} t={t} goStock={goStock} />}
+        {view === "sectors" && <SectorsView t={t} lang={lang} />}
+      </main>
+    </div>
+  );
+}
+
+ReactDOM.createRoot(document.getElementById("root")).render(<App />);
+</script>
+</body>
+</html>

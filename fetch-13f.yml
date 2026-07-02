@@ -1,0 +1,46 @@
+# .github/workflows/fetch-13f.yml
+# 定时抓取 13F 数据并把更新后的 data.json 提交回仓库
+
+name: Fetch 13F data
+
+on:
+  schedule:
+    # cron 语法（UTC 时间）: 分 时 日 月 星期
+    # 每天 22:00 UTC = 美东下午 5/6 点，EDGAR 当天申报基本收齐
+    - cron: "0 22 * * *"
+  workflow_dispatch: {}   # 允许在 GitHub 网页上手动点击运行
+
+permissions:
+  contents: write         # 允许把结果 commit 回仓库
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests
+
+      # 缓存已下载的 13F 申报，申报季每天跑只增量抓新的
+      - uses: actions/cache@v4
+        with:
+          path: .cache
+          key: edgar-cache-${{ github.run_id }}
+          restore-keys: edgar-cache-
+
+      - name: Run scraper
+        env:
+          EDGAR_UA: "13FTracker ${{ secrets.EDGAR_CONTACT_EMAIL }}"
+        run: python edgar_13f.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "13f-bot"
+          git config user.email "actions@github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "data: refresh 13F $(date -u +%F)"
+          git push

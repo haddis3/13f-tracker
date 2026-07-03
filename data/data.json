@@ -1,0 +1,86 @@
+{
+ "generated": "2026-07-03T03:57:31.392305Z",
+ "quarters": [
+  "2026-06-30"
+ ],
+ "stocks": {
+  "SNDK": {
+   "name": "SANDISK CORP",
+   "sharesM": 0.0,
+   "tl": [
+    {
+     "q": "2026-06-30",
+     "holders": 10,
+     "valueB": 0.0,
+     "neu": 10,
+     "inc": 0,
+     "dec": 0,
+     "sold": 0
+    }
+   ],
+   "signals": [],
+   "holders": [
+    {
+     "fund": "MassMutual Private Wealth & Trust, FSB",
+     "shares": "645",
+     "value": "$1.5M",
+     "chg": "NEW"
+    },
+    {
+     "fund": "Versant Capital Management, Inc",
+     "shares": "527",
+     "value": "$1.2M",
+     "chg": "NEW"
+    },
+    {
+     "fund": "First Financial Bank - Trust Division",
+     "shares": "240",
+     "value": "$546K",
+     "chg": "NEW"
+    },
+    {
+     "fund": "EASTERN BANK",
+     "shares": "133",
+     "value": "$302K",
+     "chg": "NEW"
+    },
+    {
+     "fund": "Hilltop National Bank",
+     "shares": "90",
+     "value": "$205K",
+     "chg": "NEW"
+    },
+    {
+     "fund": "Cedar Mountain Advisors, LLC",
+     "shares": "57",
+     "value": "$130K",
+     "chg": "NEW"
+    },
+    {
+     "fund": "KERR FINANCIAL PLANNING Corp",
+     "shares": "15",
+     "value": "$34K",
+     "chg": "NEW"
+    },
+    {
+     "fund": "Kozak & Associates, Inc.",
+     "shares": "6",
+     "value": "$12K",
+     "chg": "NEW"
+    },
+    {
+     "fund": "Noble Wealth Management PBC",
+     "shares": "1",
+     "value": "$2K",
+     "chg": "NEW"
+    },
+    {
+     "fund": "CX Institutional",
+     "shares": "776",
+     "value": "$2K",
+     "chg": "NEW"
+    }
+   ]
+  }
+ }
+}

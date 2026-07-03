@@ -1,83 +1,150 @@
 {
- "generated": "2026-07-03T03:57:31.392305Z",
+ "generated": "2026-07-03T08:06:58.630911Z",
  "quarters": [
-  "2026-06-30"
+  "2026-03-31"
  ],
  "stocks": {
   "SNDK": {
    "name": "SANDISK CORP",
-   "sharesM": 0.0,
+   "sharesM": 113.3,
    "tl": [
     {
-     "q": "2026-06-30",
-     "holders": 10,
-     "valueB": 0.0,
-     "neu": 10,
+     "q": "2026-03-31",
+     "holders": 1171,
+     "valueB": 68.93,
+     "neu": 1171,
      "inc": 0,
      "dec": 0,
      "sold": 0
     }
    ],
-   "signals": [],
+   "signals": [
+    {
+     "fund": "D. E. Shaw & Co., Inc.",
+     "action": "NEW",
+     "shares": "1.2M",
+     "value": "$745.2M"
+    },
+    {
+     "fund": "Renaissance Technologies LLC",
+     "action": "NEW",
+     "shares": "799.6K",
+     "value": "$508.0M"
+    },
+    {
+     "fund": "Millennium Management LLC",
+     "action": "NEW",
+     "shares": "1.1M",
+     "value": "$725.7M"
+    },
+    {
+     "fund": "Bridgewater Associates, LP",
+     "action": "NEW",
+     "shares": "9.5K",
+     "value": "$6.0M"
+    },
+    {
+     "fund": "Citadel Advisors LLC",
+     "action": "NEW",
+     "shares": "607.8K",
+     "value": "$386.2M"
+    },
+    {
+     "fund": "Appaloosa LP",
+     "action": "NEW",
+     "shares": "281.2K",
+     "value": "$178.7M"
+    }
+   ],
    "holders": [
     {
-     "fund": "MassMutual Private Wealth & Trust, FSB",
-     "shares": "645",
-     "value": "$1.5M",
+     "fund": "FMR LLC",
+     "shares": "13.4M",
+     "value": "$8.5B",
      "chg": "NEW"
     },
     {
-     "fund": "Versant Capital Management, Inc",
-     "shares": "527",
-     "value": "$1.2M",
+     "fund": "BlackRock, Inc.  (BLK)",
+     "shares": "10.4M",
+     "value": "$6.6B",
      "chg": "NEW"
     },
     {
-     "fund": "First Financial Bank - Trust Division",
-     "shares": "240",
-     "value": "$546K",
+     "fund": "VANGUARD CAPITAL MANAGEMENT LLC",
+     "shares": "9.5M",
+     "value": "$6.1B",
      "chg": "NEW"
     },
     {
-     "fund": "EASTERN BANK",
-     "shares": "133",
-     "value": "$302K",
+     "fund": "STATE STREET CORP  (STT, STT-PG)",
+     "shares": "5.6M",
+     "value": "$3.5B",
      "chg": "NEW"
     },
     {
-     "fund": "Hilltop National Bank",
-     "shares": "90",
-     "value": "$205K",
+     "fund": "GEODE CAPITAL MANAGEMENT, LLC",
+     "shares": "4.2M",
+     "value": "$2.7B",
      "chg": "NEW"
     },
     {
-     "fund": "Cedar Mountain Advisors, LLC",
-     "shares": "57",
-     "value": "$130K",
+     "fund": "VANGUARD PORTFOLIO MANAGEMENT LLC",
+     "shares": "3.6M",
+     "value": "$2.3B",
      "chg": "NEW"
     },
     {
-     "fund": "KERR FINANCIAL PLANNING Corp",
-     "shares": "15",
-     "value": "$34K",
+     "fund": "MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ)",
+     "shares": "2.8M",
+     "value": "$1.8B",
      "chg": "NEW"
     },
     {
-     "fund": "Kozak & Associates, Inc.",
-     "shares": "6",
-     "value": "$12K",
+     "fund": "ARROWSTREET CAPITAL, LIMITED PARTNERSHIP",
+     "shares": "2.8M",
+     "value": "$1.8B",
      "chg": "NEW"
     },
     {
-     "fund": "Noble Wealth Management PBC",
-     "shares": "1",
-     "value": "$2K",
+     "fund": "GOLDMAN SACHS GROUP INC  (GS, GSCE, GS-PA, GS-PC, GS-PD)",
+     "shares": "2.0M",
+     "value": "$1.3B",
      "chg": "NEW"
     },
     {
-     "fund": "CX Institutional",
-     "shares": "776",
-     "value": "$2K",
+     "fund": "JANE STREET GROUP, LLC",
+     "shares": "1.8M",
+     "value": "$1.1B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "CHARLES SCHWAB INVESTMENT MANAGEMENT INC",
+     "shares": "1.7M",
+     "value": "$1.1B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "JPMORGAN CHASE & CO  (JPM, AMJB, VYLD, JPM-PC, JPM-PD, JPM-PJ, JPM-PK, JPM-PL, JPM-PM)",
+     "shares": "1.4M",
+     "value": "$818.0M",
+     "chg": "NEW"
+    },
+    {
+     "fund": "BNP PARIBAS FINANCIAL MARKETS",
+     "shares": "1.3M",
+     "value": "$794.9M",
+     "chg": "NEW"
+    },
+    {
+     "fund": "NORTHERN TRUST CORP  (NTRS, NTRSO)",
+     "shares": "1.2M",
+     "value": "$784.4M",
+     "chg": "NEW"
+    },
+    {
+     "fund": "Clear Street Group Inc.",
+     "shares": "1.2M",
+     "value": "$778.0M",
      "chg": "NEW"
     }
    ]

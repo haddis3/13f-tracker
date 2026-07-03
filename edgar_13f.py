@@ -328,10 +328,12 @@ def emit(quarters_done: list[str]):
 # ──────────────────────────── main ────────────────────────────
 
 def latest_completed_quarter() -> str:
+    """Latest quarter whose 45-day 13F filing deadline has already passed,
+    so most institutions have actually filed (not just the earliest ones)."""
     t = date.today()
     q = [(3, 31), (6, 30), (9, 30), (12, 31)]
     ends = [date(t.year - 1, 12, 31)] + [date(t.year, m, d) for m, d in q]
-    return max(e for e in ends if e < t).isoformat()
+    return max(e for e in ends if e + timedelta(days=45) < t).isoformat()
 
 
 def main():

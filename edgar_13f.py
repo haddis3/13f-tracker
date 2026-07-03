@@ -47,7 +47,7 @@ USER_AGENT = os.environ.get("EDGAR_UA", "13FTracker your-email@example.com")
 # via EDGAR full-text search before trusting the numbers.
 TICKERS = {
     "SNDK": {"name": "SANDISK CORP", "issuer6": "80004C", "com_cusip": "80004C200"},
-    # "MU":   {"name": "MICRON TECHNOLOGY", "issuer6": "595112", "com_cusip": "595112103"},
+    "MU":   {"name": "MICRON TECHNOLOGY", "issuer6": "595112", "com_cusip": "595112103"},
     # "NVDA": {"name": "NVIDIA CORP",       "issuer6": "67066G", "com_cusip": "67066G104"},
 }
 

@@ -2739,11 +2739,6 @@
   "value": 440163298,
   "name": "BNP Paribas Asset Management Holding S.A."
  },
- "1520601": {
-  "shares": 16789,
-  "value": 5671996,
-  "name": "AFFINITY INVESTMENT ADVISORS, LLC"
- },
  "1520683": {
   "shares": 4574,
   "value": 1545280,
@@ -3413,6 +3408,11 @@
   "shares": 102679,
   "value": 34689073,
   "name": "Headlands Technologies LLC"
+ },
+ "1571556": {
+  "shares": 6885,
+  "value": 2326092,
+  "name": "Pure Financial Advisors, LLC"
  },
  "1571727": {
   "shares": 113878,
@@ -6914,11 +6914,6 @@
   "value": 2495286,
   "name": "Americana Partners, LLC"
  },
- "1797873": {
-  "shares": 1059,
-  "value": 357620,
-  "name": "Lineweaver Wealth Advisors, LLC"
- },
  "1798150": {
   "shares": 25,
   "value": 8446,
@@ -9559,11 +9554,6 @@
   "value": 244282,
   "name": "Verum Partners LLC"
  },
- "1959730": {
-  "shares": 5000,
-  "value": 1689200,
-  "name": "Fund 1 Investments, LLC"
- },
  "1959790": {
   "shares": 3280,
   "value": 1108377,
@@ -9978,6 +9968,11 @@
   "shares": 7717,
   "value": 2607037,
   "name": "Eaton Financial Holdings Company, LLC"
+ },
+ "1972331": {
+  "shares": 4291,
+  "value": 1449671,
+  "name": "ClearAlpha Technologies LP"
  },
  "1972653": {
   "shares": 1384,
@@ -11790,8 +11785,8 @@
   "name": "Crews Bank & Trust"
  },
  "2052321": {
-  "shares": 1800,
-  "value": 156402,
+  "shares": 3854,
+  "value": 1302035,
   "name": "GKV Capital Management Co., Inc."
  },
  "2052441": {
@@ -13948,6 +13943,11 @@
   "shares": 840,
   "value": 284,
   "name": "NEVILLE RODIE & SHAW INC"
+ },
+ "712537": {
+  "shares": 828,
+  "value": 279732,
+  "name": "FIRST COMMONWEALTH FINANCIAL CORP /PA/  (FCF)"
  },
  "713676": {
   "shares": 494211,

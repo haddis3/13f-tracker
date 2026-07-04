@@ -1,0 +1,12 @@
+{
+ "SNDK": {
+  "name": "SANDISK CORP",
+  "issuer6": "80004C",
+  "com_cusip": "80004C200"
+ },
+ "MU": {
+  "name": "MICRON TECHNOLOGY",
+  "issuer6": "595112",
+  "com_cusip": "595112103"
+ }
+}

@@ -1374,6 +1374,11 @@
   "value": 32318,
   "name": "Avalon Global Asset Management LLC"
  },
+ "1315269": {
+  "shares": 43863,
+  "value": 14818567,
+  "name": "Scott & Selber, Inc."
+ },
  "1315421": {
   "shares": 64873,
   "value": 21916694,
@@ -3404,6 +3409,11 @@
   "value": 34689073,
   "name": "Headlands Technologies LLC"
  },
+ "1571556": {
+  "shares": 6885,
+  "value": 2326092,
+  "name": "Pure Financial Advisors, LLC"
+ },
  "1571727": {
   "shares": 113878,
   "value": 38472544,
@@ -4159,6 +4169,11 @@
   "value": 734145,
   "name": "NorthRock Partners, LLC"
  },
+ "1632105": {
+  "shares": 1665,
+  "value": 562504,
+  "name": "MITCHELL MCLEOD PUGH & WILLIAMS INC"
+ },
  "1632187": {
   "shares": 342,
   "value": 115537,
@@ -4328,11 +4343,6 @@
   "shares": 208786,
   "value": 70536262,
   "name": "XPONANCE LLC"
- },
- "1637689": {
-  "shares": 486688,
-  "value": 100117388,
-  "name": "Swiss Life Asset Management Ltd"
  },
  "1638022": {
   "shares": 647,
@@ -6909,11 +6919,6 @@
   "value": 2495286,
   "name": "Americana Partners, LLC"
  },
- "1797873": {
-  "shares": 1059,
-  "value": 357620,
-  "name": "Lineweaver Wealth Advisors, LLC"
- },
  "1798150": {
   "shares": 25,
   "value": 8446,
@@ -7043,6 +7048,11 @@
   "shares": 10818,
   "value": 3656413,
   "name": "Great Lakes Retirement, Inc."
+ },
+ "1801674": {
+  "shares": 1218,
+  "value": 411489,
+  "name": "WJ Wealth Management, LLC"
  },
  "1801720": {
   "shares": 356,
@@ -8343,6 +8353,11 @@
   "shares": 18320,
   "value": 6184818,
   "name": "Y.D. More Investments Ltd"
+ },
+ "1870686": {
+  "shares": 3039,
+  "value": 1026837,
+  "name": "Strategic Financial Concepts, LLC"
  },
  "1870761": {
   "shares": 6634,
@@ -11504,11 +11519,6 @@
   "value": 115679,
   "name": "HIGHLINE WEALTH PARTNERS LLC"
  },
- "2042930": {
-  "shares": 610,
-  "value": 206174,
-  "name": "Prosperity Advisers, LLC"
- },
  "2042955": {
   "shares": 50000,
   "value": 16892000,
@@ -11785,8 +11795,8 @@
   "name": "Crews Bank & Trust"
  },
  "2052321": {
-  "shares": 3854,
-  "value": 1302035,
+  "shares": 1800,
+  "value": 156402,
   "name": "GKV Capital Management Co., Inc."
  },
  "2052441": {
@@ -12378,6 +12388,11 @@
   "shares": 10399,
   "value": 4383282,
   "name": "Parkway Wealth Management Group, LLC"
+ },
+ "2065771": {
+  "shares": 2020,
+  "value": 682437,
+  "name": "Nicholson Meyer Capital Management, Inc."
  },
  "2065777": {
   "shares": 709,
@@ -13939,11 +13954,6 @@
   "value": 284,
   "name": "NEVILLE RODIE & SHAW INC"
  },
- "712537": {
-  "shares": 828,
-  "value": 279732,
-  "name": "FIRST COMMONWEALTH FINANCIAL CORP /PA/  (FCF)"
- },
  "713676": {
   "shares": 494211,
   "value": 166964404,
@@ -14748,11 +14758,6 @@
   "shares": 355468,
   "value": 120091309,
   "name": "TUDOR INVESTMENT CORP ET AL"
- },
- "924166": {
-  "shares": 200,
-  "value": 67568,
-  "name": "VALLEY WEALTH MANAGERS, INC."
  },
  "924181": {
   "shares": 10501,

@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-04T02:05:09.839197Z",
+ "generated": "2026-07-04T02:22:23.648750Z",
  "quarters": [
   "2026-03-31"
  ],
@@ -10,9 +10,9 @@
    "tl": [
     {
      "q": "2026-03-31",
-     "holders": 1171,
+     "holders": 1170,
      "valueB": 68.93,
-     "neu": 1171,
+     "neu": 1170,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -151,13 +151,13 @@
   },
   "MU": {
    "name": "MICRON TECHNOLOGY",
-   "sharesM": 843.6,
+   "sharesM": 844.0,
    "tl": [
     {
      "q": "2026-03-31",
-     "holders": 2986,
-     "valueB": 271.78,
-     "neu": 2986,
+     "holders": 2981,
+     "valueB": 271.85,
+     "neu": 2981,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -290,6 +290,145 @@
      "fund": "Capital International Investors",
      "shares": "8.9M",
      "value": "$3.0B",
+     "chg": "NEW"
+    }
+   ]
+  },
+  "LITE": {
+   "name": "LUMENTUM HLDGS INC",
+   "sharesM": 86.6,
+   "tl": [
+    {
+     "q": "2026-03-31",
+     "holders": 1080,
+     "valueB": 52.26,
+     "neu": 1080,
+     "inc": 0,
+     "dec": 0,
+     "sold": 0
+    }
+   ],
+   "signals": [
+    {
+     "fund": "D. E. Shaw & Co., Inc.",
+     "action": "NEW",
+     "shares": "14.0K",
+     "value": "$9.8M"
+    },
+    {
+     "fund": "Renaissance Technologies LLC",
+     "action": "NEW",
+     "shares": "202.8K",
+     "value": "$142.5M"
+    },
+    {
+     "fund": "Millennium Management LLC",
+     "action": "NEW",
+     "shares": "122.0K",
+     "value": "$85.7M"
+    },
+    {
+     "fund": "Bridgewater Associates, LP",
+     "action": "NEW",
+     "shares": "5.8K",
+     "value": "$4.1M"
+    },
+    {
+     "fund": "Citadel Advisors LLC",
+     "action": "NEW",
+     "shares": "140.7K",
+     "value": "$98.9M"
+    }
+   ],
+   "holders": [
+    {
+     "fund": "BlackRock, Inc.  (BLK)",
+     "shares": "7.8M",
+     "value": "$5.5B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "FMR LLC",
+     "shares": "7.2M",
+     "value": "$5.0B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "VANGUARD CAPITAL MANAGEMENT LLC",
+     "shares": "4.6M",
+     "value": "$3.3B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "VANGUARD PORTFOLIO MANAGEMENT LLC",
+     "shares": "3.7M",
+     "value": "$2.6B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "STATE STREET CORP  (STT, STT-PG)",
+     "shares": "3.0M",
+     "value": "$2.1B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "JPMORGAN CHASE & CO  (JPM, AMJB, VYLD, JPM-PC, JPM-PD, JPM-PJ, JPM-PK, JPM-PL, JPM-PM)",
+     "shares": "2.9M",
+     "value": "$1.9B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "GEODE CAPITAL MANAGEMENT, LLC",
+     "shares": "2.1M",
+     "value": "$1.5B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "UBS Group AG  (UBS)",
+     "shares": "1.4M",
+     "value": "$992.7M",
+     "chg": "NEW"
+    },
+    {
+     "fund": "WT Asset Management Ltd",
+     "shares": "1.4M",
+     "value": "$969.9M",
+     "chg": "NEW"
+    },
+    {
+     "fund": "Capital World Investors",
+     "shares": "1.3M",
+     "value": "$923.3M",
+     "chg": "NEW"
+    },
+    {
+     "fund": "Invesco Ltd.  (IVZ)",
+     "shares": "1.2M",
+     "value": "$826.7M",
+     "chg": "NEW"
+    },
+    {
+     "fund": "Value Aligned Research Advisors, LLC",
+     "shares": "1.1M",
+     "value": "$743.0M",
+     "chg": "NEW"
+    },
+    {
+     "fund": "MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ)",
+     "shares": "1.0M",
+     "value": "$722.1M",
+     "chg": "NEW"
+    },
+    {
+     "fund": "CHARLES SCHWAB INVESTMENT MANAGEMENT INC",
+     "shares": "974.0K",
+     "value": "$684.5M",
+     "chg": "NEW"
+    },
+    {
+     "fund": "JANE STREET GROUP, LLC",
+     "shares": "956.4K",
+     "value": "$672.1M",
      "chg": "NEW"
     }
    ]

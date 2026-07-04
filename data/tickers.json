@@ -8,5 +8,10 @@
   "name": "MICRON TECHNOLOGY",
   "issuer6": "595112",
   "com_cusip": "595112103"
+ },
+ "LITE": {
+  "name": "LUMENTUM HLDGS INC",
+  "issuer6": "55024U",
+  "com_cusip": "55024U109"
  }
 }

@@ -1374,11 +1374,6 @@
   "value": 32318,
   "name": "Avalon Global Asset Management LLC"
  },
- "1315269": {
-  "shares": 43863,
-  "value": 14818567,
-  "name": "Scott & Selber, Inc."
- },
  "1315421": {
   "shares": 64873,
   "value": 21916694,
@@ -2313,11 +2308,6 @@
   "shares": 1136835,
   "value": 384068336,
   "name": "Ensign Peak Advisors, Inc"
- },
- "1455258": {
-  "shares": 9180,
-  "value": 3101371,
-  "name": "Calamos Wealth Management LLC"
  },
  "1455267": {
   "shares": 3654,
@@ -4169,11 +4159,6 @@
   "value": 734145,
   "name": "NorthRock Partners, LLC"
  },
- "1632105": {
-  "shares": 1665,
-  "value": 562504,
-  "name": "MITCHELL MCLEOD PUGH & WILLIAMS INC"
- },
  "1632187": {
   "shares": 342,
   "value": 115537,
@@ -4188,11 +4173,6 @@
   "shares": 2997,
   "value": 1012408,
   "name": "Blue Chip Partners, LLC"
- },
- "1632802": {
-  "shares": 15250,
-  "value": 5152060,
-  "name": "BUTENSKY & COHEN FINANCIAL SECURITY, INC"
  },
  "1632812": {
   "shares": 16916,
@@ -4343,6 +4323,11 @@
   "shares": 208786,
   "value": 70536262,
   "name": "XPONANCE LLC"
+ },
+ "1637689": {
+  "shares": 486688,
+  "value": 100117388,
+  "name": "Swiss Life Asset Management Ltd"
  },
  "1638022": {
   "shares": 647,
@@ -4803,11 +4788,6 @@
   "shares": 1938686,
   "value": 654965678,
   "name": "VANGUARD ASSET MANAGEMENT, Ltd"
- },
- "1682021": {
-  "shares": 2410,
-  "value": 814071,
-  "name": "Vivaldi Capital Management LP"
  },
  "1682057": {
   "shares": 2492,
@@ -5573,11 +5553,6 @@
   "shares": 23,
   "value": 7774,
   "name": "Front Row Advisors LLC"
- },
- "1729299": {
-  "shares": 4265,
-  "value": 1513388,
-  "name": "Keystone Financial Group"
  },
  "1729300": {
   "shares": 18897,
@@ -8154,11 +8129,6 @@
   "value": 1277711,
   "name": "Mayflower Financial Advisors, LLC"
  },
- "1852993": {
-  "shares": 648,
-  "value": 218927,
-  "name": "South Shore Capital Advisors"
- },
  "1853322": {
   "shares": 21866,
   "value": 7387209,
@@ -8353,11 +8323,6 @@
   "shares": 18320,
   "value": 6184818,
   "name": "Y.D. More Investments Ltd"
- },
- "1870686": {
-  "shares": 3039,
-  "value": 1026837,
-  "name": "Strategic Financial Concepts, LLC"
  },
  "1870761": {
   "shares": 6634,
@@ -11519,6 +11484,11 @@
   "value": 115679,
   "name": "HIGHLINE WEALTH PARTNERS LLC"
  },
+ "2042930": {
+  "shares": 610,
+  "value": 206174,
+  "name": "Prosperity Advisers, LLC"
+ },
  "2042955": {
   "shares": 50000,
   "value": 16892000,
@@ -11795,8 +11765,8 @@
   "name": "Crews Bank & Trust"
  },
  "2052321": {
-  "shares": 1800,
-  "value": 156402,
+  "shares": 3854,
+  "value": 1302035,
   "name": "GKV Capital Management Co., Inc."
  },
  "2052441": {
@@ -11983,11 +11953,6 @@
   "shares": 2712,
   "value": 916097,
   "name": "SCRATCH CAPITAL LLC"
- },
- "2055352": {
-  "shares": 2264,
-  "value": 764870,
-  "name": "Teucrium Investment Advisors, LLC"
  },
  "2055366": {
   "shares": 13094,
@@ -13954,6 +13919,11 @@
   "value": 284,
   "name": "NEVILLE RODIE & SHAW INC"
  },
+ "712537": {
+  "shares": 828,
+  "value": 279732,
+  "name": "FIRST COMMONWEALTH FINANCIAL CORP /PA/  (FCF)"
+ },
  "713676": {
   "shares": 494211,
   "value": 166964404,
@@ -14758,6 +14728,11 @@
   "shares": 355468,
   "value": 120091309,
   "name": "TUDOR INVESTMENT CORP ET AL"
+ },
+ "924166": {
+  "shares": 200,
+  "value": 67568,
+  "name": "VALLEY WEALTH MANAGERS, INC."
  },
  "924181": {
   "shares": 10501,

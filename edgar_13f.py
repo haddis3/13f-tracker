@@ -16,6 +16,7 @@ Usage:
   python edgar_13f.py --quarter 2026-03-31            # one quarter
   python edgar_13f.py --quarter 2026-03-31 --tickers SNDK
   python edgar_13f.py --backfill 4                    # last 4 quarters
+  python edgar_13f.py --add AVGO                      # add ticker, CUSIP auto
 
 Notes:
   * SEC fair-access policy: <=10 req/s and a User-Agent identifying you.
@@ -41,15 +42,25 @@ import requests
 
 USER_AGENT = os.environ.get("EDGAR_UA", "13FTracker your-email@example.com")
 
-# Ticker -> 6-char CUSIP issuer prefix (first 6 of the 9-char CUSIP).
-# Full CUSIP works too; the prefix also catches filers who list option
-# CUSIPs under the same issuer number. Verify each prefix in any 13F filing
-# via EDGAR full-text search before trusting the numbers.
-TICKERS = {
+# Ticker config lives in data/tickers.json (committed to the repo) so new
+# tickers can be added without touching code: python edgar_13f.py --add AVGO
+TICKERS_FILE = Path("data/tickers.json")
+DEFAULT_TICKERS = {
     "SNDK": {"name": "SANDISK CORP", "issuer6": "80004C", "com_cusip": "80004C200"},
     "MU":   {"name": "MICRON TECHNOLOGY", "issuer6": "595112", "com_cusip": "595112103"},
-    # "NVDA": {"name": "NVIDIA CORP",       "issuer6": "67066G", "com_cusip": "67066G104"},
 }
+TICKERS = dict(DEFAULT_TICKERS)  # replaced by load_tickers() in main()
+
+
+def load_tickers() -> dict:
+    if TICKERS_FILE.exists():
+        return json.loads(TICKERS_FILE.read_text())
+    return dict(DEFAULT_TICKERS)
+
+
+def save_tickers(t: dict):
+    TICKERS_FILE.parent.mkdir(parents=True, exist_ok=True)
+    TICKERS_FILE.write_text(json.dumps(t, indent=1, ensure_ascii=False))
 
 # Watchlist funds (CIK -> display name) that trigger "Watchlist Signal" cards.
 WATCHLIST_FUNDS = {
@@ -186,7 +197,101 @@ def parse_positions(xml_path: Path, issuer6: str):
     return {"shares": shares, "value": value}
 
 
+# ──────────────────────────── ticker -> CUSIP auto-resolve ────────────────────────────
+
+REF_FILER_CIK = "102909"  # Vanguard Group – holds nearly every US-listed name
+
+_SUFFIX = re.compile(r"\b(INC|INCORPORATED|CORP|CORPORATION|CO|COM|COMPANY|LTD|PLC|SA|NV|NEW|DEL|THE|HOLDINGS|HOLDING|HLDGS|HLDG|GROUP|GRP|CL|CLASS|ADR|ADS|SHS|SPON|SPONS|SPONSORED|REPSTG|COMMON|STOCK|ORD)\b")
+
+
+def _norm_name(s: str) -> str:
+    s = re.sub(r"[^A-Z0-9 ]", " ", s.upper())
+    s = _SUFFIX.sub(" ", s)
+    return re.sub(r"\s+", " ", s).strip()
+
+
+def _latest_ref_infotable() -> Path:
+    """Path to the newest 13F-HR infotable of the reference filer (cached)."""
+    subs = _get(f"https://data.sec.gov/submissions/CIK{int(REF_FILER_CIK):010d}.json").json()
+    recent = subs["filings"]["recent"]
+    adsh = next(a for f, a in zip(recent["form"], recent["accessionNumber"]) if f == "13F-HR")
+    acc_nodash = adsh.replace("-", "")
+    idx = _get(f"https://www.sec.gov/Archives/edgar/data/{REF_FILER_CIK}/{acc_nodash}/index.json").json()
+    xmls = [i for i in idx["directory"]["item"] if i["name"].lower().endswith(".xml")
+            and "primary_doc" not in i["name"].lower()]
+    fname = max(xmls, key=lambda i: int(i.get("size") or 0))["name"]
+    return fetch_infotable(REF_FILER_CIK, adsh, fname)
+
+
+def _iter_rows(xml_path: Path):
+    """Yield (norm_name, value, cusip, issuer_name) for non-option rows."""
+    for _, el in ET.iterparse(str(xml_path), events=("end",)):
+        if _TAG.sub("", el.tag) != "infoTable":
+            continue
+        row = {}
+        for c in el.iter():
+            row[_TAG.sub("", c.tag)] = (c.text or "").strip()
+        el.clear()
+        got = _norm_name(row.get("nameOfIssuer", ""))
+        if not got or row.get("putCall") or not row.get("cusip"):
+            continue
+        yield (got, int(float(row.get("value", 0) or 0)),
+               row["cusip"].upper(), row.get("nameOfIssuer", ""))
+
+
+def _pick_match(rows, want: str):
+    want_t = want.split()
+
+    def pick(pred):
+        c = [r for r in rows if pred(r[0])]
+        return max(c, key=lambda r: r[1]) if c else None
+
+    best = pick(lambda g: g == want or g.startswith(want) or want.startswith(g))
+    if not best and len(want_t) >= 2:
+        best = pick(lambda g: g.split()[:2] == want_t[:2])
+    return best
+
+
+def resolve_cusip(ticker: str) -> dict:
+    """Ticker -> {name, issuer6, com_cusip} via SEC mapping + reference filings."""
+    mapping = _get("https://www.sec.gov/files/company_tickers.json").json()
+    title = next((v["title"] for v in mapping.values()
+                  if v["ticker"].upper() == ticker.upper()), None)
+    if not title:
+        sys.exit(f"ticker {ticker!r} not found in SEC company_tickers.json")
+    want = _norm_name(title)
+    print(f"  resolving {ticker} ({title}) via reference 13F…")
+
+    # source 1: Vanguard's latest 13F (covers nearly all US-listed common)
+    best = _pick_match(list(_iter_rows(_latest_ref_infotable())), want)
+
+    # source 2: FTS phrase search — any filer holding the name (covers ADRs etc.)
+    if not best:
+        phrase = " ".join(want.split()[:2]) if len(want.split()) >= 2 else want
+        startdt, enddt = quarter_window(latest_completed_quarter())
+        d = _get(FTS_URL, params={"q": f'"{phrase}"', "forms": "13F-HR",
+                                  "startdt": startdt, "enddt": enddt}).json()
+        for h in d["hits"]["hits"][:5]:
+            adsh, fname = h["_id"].split(":", 1)
+            cik = str(int(h["_source"]["ciks"][0]))
+            try:
+                best = _pick_match(list(_iter_rows(fetch_infotable(cik, adsh, fname))), want)
+            except Exception:
+                continue
+            if best:
+                break
+    if not best:
+        sys.exit(f"could not find {title!r} in reference filings — pass CUSIP manually "
+                 f"by editing data/tickers.json")
+    _, _, cusip, issuer = best
+    print(f"  ✓ {ticker}: {issuer} -> CUSIP {cusip}")
+    return {"name": issuer.upper(), "issuer6": cusip[:6], "com_cusip": cusip}
+
+
 # ──────────────────────────── step 3/4: snapshot & diff ────────────────────────────
+
+
+
 
 def build_snapshot(ticker: str, qend: str) -> dict:
     cfg = TICKERS[ticker]
@@ -337,14 +442,28 @@ def latest_completed_quarter() -> str:
 
 
 def main():
+    global TICKERS
     ap = argparse.ArgumentParser()
     ap.add_argument("--quarter", help="quarter end YYYY-MM-DD (default: latest completed)")
     ap.add_argument("--backfill", type=int, default=1, help="number of quarters ending at --quarter")
     ap.add_argument("--tickers", help="comma-separated subset of configured tickers")
+    ap.add_argument("--add", help="add new ticker(s) by symbol, e.g. AVGO or AVGO,TSM (CUSIP auto-resolved)")
     args = ap.parse_args()
 
     if "your-email" in USER_AGENT:
         sys.exit("Set EDGAR_UA env var to 'AppName your-real-email' first (SEC requirement).")
+
+    TICKERS = load_tickers()
+    if args.add:
+        for tk in args.add.split(","):
+            tk = tk.strip().upper()
+            if not tk:
+                continue
+            if tk in TICKERS:
+                print(f"  {tk} already tracked, skipping add")
+                continue
+            TICKERS[tk] = resolve_cusip(tk)
+    save_tickers(TICKERS)  # persist config (incl. first-run defaults)
 
     tickers = args.tickers.split(",") if args.tickers else list(TICKERS)
     qend = args.quarter or latest_completed_quarter()

@@ -1924,11 +1924,6 @@
   "value": 2513921793,
   "name": "Bank of New York Mellon Corp  (BK, BK-PK)"
  },
- "1392364": {
-  "shares": 13367,
-  "value": 4515907,
-  "name": "L & S Advisors Inc"
- },
  "1393389": {
   "shares": 3236,
   "value": 1093251,
@@ -2739,6 +2734,11 @@
   "value": 440163298,
   "name": "BNP Paribas Asset Management Holding S.A."
  },
+ "1520601": {
+  "shares": 16789,
+  "value": 5671996,
+  "name": "AFFINITY INVESTMENT ADVISORS, LLC"
+ },
  "1520683": {
   "shares": 4574,
   "value": 1545280,
@@ -3408,11 +3408,6 @@
   "shares": 102679,
   "value": 34689073,
   "name": "Headlands Technologies LLC"
- },
- "1571556": {
-  "shares": 6885,
-  "value": 2326092,
-  "name": "Pure Financial Advisors, LLC"
  },
  "1571727": {
   "shares": 113878,
@@ -4803,6 +4798,11 @@
   "shares": 1938686,
   "value": 654965678,
   "name": "VANGUARD ASSET MANAGEMENT, Ltd"
+ },
+ "1682021": {
+  "shares": 2410,
+  "value": 814071,
+  "name": "Vivaldi Capital Management LP"
  },
  "1682057": {
   "shares": 2492,
@@ -6914,6 +6914,11 @@
   "value": 2495286,
   "name": "Americana Partners, LLC"
  },
+ "1797873": {
+  "shares": 1059,
+  "value": 357620,
+  "name": "Lineweaver Wealth Advisors, LLC"
+ },
  "1798150": {
   "shares": 25,
   "value": 8446,
@@ -7148,11 +7153,6 @@
   "shares": 1386,
   "value": 468246,
   "name": "Alhambra Investment Management LLC"
- },
- "1802865": {
-  "shares": 3127,
-  "value": 1056426,
-  "name": "Summit Wealth Group, LLC"
  },
  "1802882": {
   "shares": 3098,
@@ -9554,6 +9554,11 @@
   "value": 244282,
   "name": "Verum Partners LLC"
  },
+ "1959730": {
+  "shares": 5000,
+  "value": 1689200,
+  "name": "Fund 1 Investments, LLC"
+ },
  "1959790": {
   "shares": 3280,
   "value": 1108377,
@@ -9969,11 +9974,6 @@
   "value": 2607037,
   "name": "Eaton Financial Holdings Company, LLC"
  },
- "1972331": {
-  "shares": 4291,
-  "value": 1449671,
-  "name": "ClearAlpha Technologies LP"
- },
  "1972653": {
   "shares": 1384,
   "value": 467571,
@@ -10163,11 +10163,6 @@
   "shares": 5272,
   "value": 1781092,
   "name": "Dupree Financial Group, LLC"
- },
- "1989341": {
-  "shares": 2108,
-  "value": 712167,
-  "name": "INVENIO WEALTH PARTNERS LLC"
  },
  "1989349": {
   "shares": 3258,
@@ -11334,11 +11329,6 @@
   "value": 518464,
   "name": "Summit Wealth Partners, LLC"
  },
- "2033413": {
-  "shares": 1411,
-  "value": 476692,
-  "name": "Ted Buchan & Co"
- },
  "2033536": {
   "shares": 1566,
   "value": 591572,
@@ -11503,11 +11493,6 @@
   "shares": 342,
   "value": 115679,
   "name": "HIGHLINE WEALTH PARTNERS LLC"
- },
- "2042930": {
-  "shares": 610,
-  "value": 206174,
-  "name": "Prosperity Advisers, LLC"
  },
  "2042955": {
   "shares": 50000,

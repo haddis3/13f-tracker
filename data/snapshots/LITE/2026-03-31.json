@@ -594,11 +594,6 @@
   "value": 2385168,
   "name": "GUGGENHEIM CAPITAL LLC"
  },
- "1283718": {
-  "shares": 4700,
-  "value": 3302972,
-  "name": "CANADA PENSION PLAN INVESTMENT BOARD"
- },
  "1290162": {
   "shares": 444,
   "value": 312025,
@@ -979,11 +974,6 @@
   "value": 256507,
   "name": "WealthTrust Axiom LLC"
  },
- "1426196": {
-  "shares": 875,
-  "value": 614915,
-  "name": "CAPSTONE INVESTMENT ADVISORS, LLC"
- },
  "1426853": {
   "shares": 549,
   "value": 385815,
@@ -1159,11 +1149,6 @@
   "value": 535502,
   "name": "Diversified Trust Co"
  },
- "1481045": {
-  "shares": 13370,
-  "value": 9395901,
-  "name": "Daiwa Securities Group Inc.  (DSECF, DSEEY)"
- },
  "1482880": {
   "shares": 676,
   "value": 475067,
@@ -1333,11 +1318,6 @@
   "shares": 2756,
   "value": 1936807,
   "name": "Leonteq Securities AG"
- },
- "1536186": {
-  "shares": 1398,
-  "value": 982458,
-  "name": "LANDSCAPE CAPITAL MANAGEMENT, L.L.C."
  },
  "1536411": {
   "shares": 6963,
@@ -2159,11 +2139,6 @@
   "value": 393581,
   "name": "Parallel Advisors, LLC"
  },
- "1690370": {
-  "shares": 2427,
-  "value": 1705599,
-  "name": "OneDigital Investment Advisors LLC"
- },
  "1691919": {
   "shares": 2050,
   "value": 1440658,
@@ -2698,11 +2673,6 @@
   "shares": 30,
   "value": 21083,
   "name": "Western Wealth Management, LLC"
- },
- "1767945": {
-  "shares": 192,
-  "value": 134930,
-  "name": "OSTRUM ASSET MANAGEMENT"
  },
  "1767989": {
   "shares": 1,
@@ -3989,6 +3959,11 @@
   "value": 2357760,
   "name": "GAMMA Investing LLC"
  },
+ "2010393": {
+  "shares": 362,
+  "value": 237034,
+  "name": "Smartleaf Asset Management LLC"
+ },
  "2010574": {
   "shares": 35,
   "value": 24597,
@@ -4973,11 +4948,6 @@
   "shares": 1309909,
   "value": 920552,
   "name": "PRICE T ROWE ASSOCIATES INC /MD/"
- },
- "809443": {
-  "shares": 90,
-  "value": 63249,
-  "name": "MEEDER ASSET MANAGEMENT INC"
  },
  "810121": {
   "shares": 288,

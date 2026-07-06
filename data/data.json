@@ -1,18 +1,18 @@
 {
- "generated": "2026-07-05T23:10:04.173320Z",
+ "generated": "2026-07-06T23:17:00.845880Z",
  "quarters": [
   "2026-03-31"
  ],
  "stocks": {
   "SNDK": {
    "name": "SANDISK CORP",
-   "sharesM": 113.3,
+   "sharesM": 112.0,
    "tl": [
     {
      "q": "2026-03-31",
-     "holders": 1172,
-     "valueB": 68.94,
-     "neu": 1172,
+     "holders": 1159,
+     "valueB": 68.86,
+     "neu": 1159,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -151,13 +151,13 @@
   },
   "MU": {
    "name": "MICRON TECHNOLOGY",
-   "sharesM": 844.1,
+   "sharesM": 816.1,
    "tl": [
     {
      "q": "2026-03-31",
-     "holders": 2983,
-     "valueB": 271.87,
-     "neu": 2983,
+     "holders": 2913,
+     "valueB": 266.35,
+     "neu": 2913,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -169,12 +169,6 @@
      "action": "NEW",
      "shares": "3.7M",
      "value": "$1.2B"
-    },
-    {
-     "fund": "Renaissance Technologies LLC",
-     "action": "NEW",
-     "shares": "2.2M",
-     "value": "$730.7M"
     },
     {
      "fund": "Millennium Management LLC",
@@ -300,9 +294,9 @@
    "tl": [
     {
      "q": "2026-03-31",
-     "holders": 1080,
-     "valueB": 52.26,
-     "neu": 1080,
+     "holders": 1074,
+     "valueB": 52.24,
+     "neu": 1074,
      "inc": 0,
      "dec": 0,
      "sold": 0

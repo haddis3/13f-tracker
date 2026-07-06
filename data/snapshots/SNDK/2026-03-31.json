@@ -204,16 +204,6 @@
   "value": 379600334,
   "name": "VOYA INVESTMENT MANAGEMENT LLC"
  },
- "1068855": {
-  "shares": 7581,
-  "value": 4816513,
-  "name": "Asset Management One Co., Ltd."
- },
- "107136": {
-  "shares": 1270,
-  "value": 837378,
-  "name": "&PARTNERS"
- },
  "1071640": {
   "shares": 2459,
   "value": 1562,
@@ -414,11 +404,6 @@
   "value": 6813,
   "name": "WEDBUSH SECURITIES INC"
  },
- "1144208": {
-  "shares": 562,
-  "value": 357061,
-  "name": "BLUEFIN CAPITAL MANAGEMENT, LLC"
- },
  "1161722": {
   "shares": 2420,
   "value": 1537523,
@@ -488,11 +473,6 @@
   "shares": 4212772,
   "value": 2672243072,
   "name": "GEODE CAPITAL MANAGEMENT, LLC"
- },
- "1218210": {
-  "shares": 26797,
-  "value": 16094546,
-  "name": "NORDEA INVESTMENT MANAGEMENT AB"
  },
  "1218710": {
   "shares": 28337,
@@ -719,11 +699,6 @@
   "value": 4447,
   "name": "Bangor Savings Bank"
  },
- "1352851": {
-  "shares": 650,
-  "value": 372125,
-  "name": "Magnetar Financial LLC"
- },
  "1356407": {
   "shares": 100,
   "value": 63534,
@@ -748,11 +723,6 @@
   "shares": 1486,
   "value": 944,
   "name": "GSA CAPITAL PARTNERS LLP"
- },
- "1368163": {
-  "shares": 36388,
-  "value": 23118752,
-  "name": "Zurcher Kantonalbank (Zurich Cantonalbank)"
  },
  "1368465": {
   "shares": 14400,
@@ -2393,11 +2363,6 @@
   "shares": 305770,
   "value": 194267912,
   "name": "Holocene Advisors, LP"
- },
- "1701714": {
-  "shares": 73,
-  "value": 46380,
-  "name": "McIlrath & Eck, LLC"
  },
  "1702435": {
   "shares": 3893,
@@ -4044,11 +4009,6 @@
   "value": 360873,
   "name": "Polymer Capital Management (US) LLC"
  },
- "1976151": {
-  "shares": 24441,
-  "value": 15528345,
-  "name": "Entropy Technologies, LP"
- },
  "1976256": {
   "shares": 14,
   "value": 8895,
@@ -4839,11 +4799,6 @@
   "value": 340542,
   "name": "Clark Asset Management, LLC"
  },
- "2062680": {
-  "shares": 26954,
-  "value": 11355284,
-  "name": "Rakuten Investment Management, Inc."
- },
  "2064039": {
   "shares": 3907,
   "value": 2482273,
@@ -5133,16 +5088,6 @@
   "shares": 700,
   "value": 444738,
   "name": "PeakShares LLC"
- },
- "2115254": {
-  "shares": 333,
-  "value": 211568,
-  "name": "Basecamp Wealth Advisors LLC"
- },
- "2119881": {
-  "shares": 9,
-  "value": 5718,
-  "name": "Intentional Wealth Strategies, LLC"
  },
  "2126503": {
   "shares": 889568,
@@ -5464,11 +5409,6 @@
   "value": 235076,
   "name": "CONNING INC."
  },
- "80255": {
-  "shares": 1155739,
-  "value": 734289,
-  "name": "PRICE T ROWE ASSOCIATES INC /MD/"
- },
  "809443": {
   "shares": 986,
   "value": 626446,
@@ -5633,11 +5573,6 @@
   "shares": 451,
   "value": 286539,
   "name": "TOCQUEVILLE ASSET MANAGEMENT L.P."
- },
- "884414": {
-  "shares": 8087,
-  "value": 5137995,
-  "name": "JACOBS LEVY EQUITY MANAGEMENT, INC"
  },
  "884423": {
   "shares": 1445,

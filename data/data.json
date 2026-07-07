@@ -1,18 +1,18 @@
 {
- "generated": "2026-07-06T23:17:00.845880Z",
+ "generated": "2026-07-07T23:10:05.745462Z",
  "quarters": [
   "2026-03-31"
  ],
  "stocks": {
   "SNDK": {
    "name": "SANDISK CORP",
-   "sharesM": 112.0,
+   "sharesM": 110.2,
    "tl": [
     {
      "q": "2026-03-31",
-     "holders": 1159,
-     "valueB": 68.86,
-     "neu": 1159,
+     "holders": 1127,
+     "valueB": 67.2,
+     "neu": 1127,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -124,12 +124,6 @@
      "chg": "NEW"
     },
     {
-     "fund": "JPMORGAN CHASE & CO  (JPM, AMJB, VYLD, JPM-PC, JPM-PD, JPM-PJ, JPM-PK, JPM-PL, JPM-PM)",
-     "shares": "1.4M",
-     "value": "$818.0M",
-     "chg": "NEW"
-    },
-    {
      "fund": "BNP PARIBAS FINANCIAL MARKETS",
      "shares": "1.3M",
      "value": "$794.9M",
@@ -146,18 +140,24 @@
      "shares": "1.2M",
      "value": "$778.0M",
      "chg": "NEW"
+    },
+    {
+     "fund": "D. E. Shaw & Co., Inc.",
+     "shares": "1.2M",
+     "value": "$745.2M",
+     "chg": "NEW"
     }
    ]
   },
   "MU": {
    "name": "MICRON TECHNOLOGY",
-   "sharesM": 816.1,
+   "sharesM": 782.7,
    "tl": [
     {
      "q": "2026-03-31",
-     "holders": 2913,
-     "valueB": 266.35,
-     "neu": 2913,
+     "holders": 2737,
+     "valueB": 251.98,
+     "neu": 2737,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -171,16 +171,16 @@
      "value": "$1.2B"
     },
     {
+     "fund": "Renaissance Technologies LLC",
+     "action": "NEW",
+     "shares": "2.2M",
+     "value": "$730.7M"
+    },
+    {
      "fund": "Millennium Management LLC",
      "action": "NEW",
      "shares": "1.6M",
      "value": "$542.3M"
-    },
-    {
-     "fund": "Bridgewater Associates, LP",
-     "action": "NEW",
-     "shares": "1.5M",
-     "value": "$498.6M"
     },
     {
      "fund": "Citadel Advisors LLC",
@@ -257,18 +257,6 @@
      "chg": "NEW"
     },
     {
-     "fund": "GOLDMAN SACHS GROUP INC  (GS, GSCE, GS-PA, GS-PC, GS-PD)",
-     "shares": "12.6M",
-     "value": "$4.2B",
-     "chg": "NEW"
-    },
-    {
-     "fund": "Invesco Ltd.  (IVZ)",
-     "shares": "12.1M",
-     "value": "$4.1B",
-     "chg": "NEW"
-    },
-    {
      "fund": "NORTHERN TRUST CORP  (NTRS, NTRSO)",
      "shares": "10.4M",
      "value": "$3.5B",
@@ -285,30 +273,36 @@
      "shares": "8.9M",
      "value": "$3.0B",
      "chg": "NEW"
+    },
+    {
+     "fund": "BANK OF AMERICA CORP /DE/  (BAC, BAC-PB, BAC-PE, BAC-PK, BAC-PL, BAC-PM, BAC-PN, BAC-PO, BAC-PP, BAC-PQ, BAC-PS, BML-PG, BML-PL)",
+     "shares": "8.0M",
+     "value": "$2.7B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "Bank of New York Mellon Corp  (BK, BK-PK)",
+     "shares": "7.4M",
+     "value": "$2.5B",
+     "chg": "NEW"
     }
    ]
   },
   "LITE": {
    "name": "LUMENTUM HLDGS INC",
-   "sharesM": 86.6,
+   "sharesM": 86.1,
    "tl": [
     {
      "q": "2026-03-31",
-     "holders": 1074,
-     "valueB": 52.24,
-     "neu": 1074,
+     "holders": 1065,
+     "valueB": 51.92,
+     "neu": 1065,
      "inc": 0,
      "dec": 0,
      "sold": 0
     }
    ],
    "signals": [
-    {
-     "fund": "D. E. Shaw & Co., Inc.",
-     "action": "NEW",
-     "shares": "14.0K",
-     "value": "$9.8M"
-    },
     {
      "fund": "Renaissance Technologies LLC",
      "action": "NEW",

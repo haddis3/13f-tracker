@@ -29,6 +29,11 @@
   "value": 6704330,
   "name": "COMMERCE BANK"
  },
+ "1009207": {
+  "shares": 14006,
+  "value": 9842857,
+  "name": "D. E. Shaw & Co., Inc."
+ },
  "1015083": {
   "shares": 3011,
   "value": 2116010,
@@ -163,6 +168,11 @@
   "shares": 326,
   "value": 229,
   "name": "SHIKIAR ASSET MANAGEMENT INC"
+ },
+ "1068837": {
+  "shares": 388262,
+  "value": 272855003,
+  "name": "VOYA INVESTMENT MANAGEMENT LLC"
  },
  "1068855": {
   "shares": 29373,
@@ -839,6 +849,11 @@
   "value": 323185783,
   "name": "Bank of New York Mellon Corp  (BK, BK-PK)"
  },
+ "1393389": {
+  "shares": 20,
+  "value": 14056,
+  "name": "Manchester Capital Management LLC"
+ },
  "1393818": {
   "shares": 11138,
   "value": 7827341,
@@ -908,11 +923,6 @@
   "shares": 20000,
   "value": 14055200,
   "name": "Migdal Insurance & Financial Holdings Ltd."
- },
- "1418333": {
-  "shares": 3848,
-  "value": 2704220,
-  "name": "MACQUARIE GROUP LTD"
  },
  "1418427": {
   "shares": 214826,
@@ -1364,6 +1374,11 @@
   "value": 65064096,
   "name": "PICTON MAHONEY ASSET MANAGEMENT"
  },
+ "1539204": {
+  "shares": 3241,
+  "value": 2277645,
+  "name": "Crossmark Global Holdings, Inc."
+ },
  "1540235": {
   "shares": 23781,
   "value": 16712355,
@@ -1788,6 +1803,11 @@
   "shares": 446,
   "value": 313431,
   "name": "Absolute Gestao de Investimentos Ltda."
+ },
+ "1624510": {
+  "shares": 24,
+  "value": 16867,
+  "name": "FINANCIAL CONSULATE, INC"
  },
  "1629649": {
   "shares": 2284,
@@ -2464,6 +2484,11 @@
   "value": 53410,
   "name": "Versant Capital Management, Inc"
  },
+ "1736225": {
+  "shares": 29686,
+  "value": 20862133,
+  "name": "ExodusPoint Capital Management, LP"
+ },
  "1736982": {
   "shares": 3161,
   "value": 2221424,
@@ -2688,6 +2713,11 @@
   "shares": 73395,
   "value": 51579070,
   "name": "Munro Partners"
+ },
+ "1772715": {
+  "shares": 83,
+  "value": 58330,
+  "name": "Prestige Wealth Management Group LLC"
  },
  "1776033": {
   "shares": 372,
@@ -2999,6 +3029,11 @@
   "value": 1860206,
   "name": "Advisor Resource Council"
  },
+ "1821561": {
+  "shares": 2008,
+  "value": 1411142,
+  "name": "INCEPTIONR LLC"
+ },
  "1821626": {
   "shares": 1066,
   "value": 749142,
@@ -3078,6 +3113,11 @@
   "shares": 10658,
   "value": 7490016,
   "name": "Bouvel Investment Partners, LLC"
+ },
+ "1840129": {
+  "shares": 22112,
+  "value": 15539429,
+  "name": "Hel Ved Capital Management Ltd"
  },
  "1841496": {
   "shares": 5867,
@@ -3313,6 +3353,11 @@
   "shares": 1221,
   "value": 858070,
   "name": "Greenland Capital Management LP"
+ },
+ "1897090": {
+  "shares": 6612,
+  "value": 4646649,
+  "name": "PensionDanmark Pensionsforsikringsaktieselskab"
  },
  "1897144": {
   "shares": 418,
@@ -3624,6 +3669,11 @@
   "value": 352786,
   "name": "TFB Advisors LLC"
  },
+ "1965207": {
+  "shares": 173,
+  "value": 121577,
+  "name": "Quarry LP"
+ },
  "1965328": {
   "shares": 1000,
   "value": 702760,
@@ -3789,6 +3839,11 @@
   "value": 24810325,
   "name": "Pictet Asset Management Holding SA"
  },
+ "1994563": {
+  "shares": 8,
+  "value": 5623,
+  "name": "DiNuzzo Private Wealth, Inc."
+ },
  "1996154": {
   "shares": 14200,
   "value": 9979192,
@@ -3823,6 +3878,11 @@
   "shares": 2,
   "value": 1406,
   "name": "Arlington Trust Co LLC"
+ },
+ "1998414": {
+  "shares": 3,
+  "value": 2109,
+  "name": "Annis Gardner Whiting Capital Advisors, LLC"
  },
  "1999606": {
   "shares": 10952,
@@ -4093,6 +4153,11 @@
   "shares": 37720,
   "value": 26508107,
   "name": "Science & Technology Partners, L.P."
+ },
+ "2030780": {
+  "shares": 410,
+  "value": 351911,
+  "name": "DIVERSIFY WEALTH MANAGEMENT, LLC"
  },
  "2031235": {
   "shares": 406,
@@ -4864,6 +4929,11 @@
   "value": 44123490,
   "name": "AMERICAN CENTURY COMPANIES INC"
  },
+ "757657": {
+  "shares": 21740,
+  "value": 1364182,
+  "name": "STEPHENS INC /AR/"
+ },
  "759944": {
   "shares": 851,
   "value": 598049,
@@ -5129,6 +5199,11 @@
   "value": 268454,
   "name": "AXA S.A."
  },
+ "899051": {
+  "shares": 7310,
+  "value": 5137176,
+  "name": "ALLSTATE CORP  (ALL, ALL-PB, ALL-PH, ALL-PI, ALL-PJ)"
+ },
  "900529": {
   "shares": 6200,
   "value": 4364676,
@@ -5318,6 +5393,11 @@
   "shares": 6456,
   "value": 4537018,
   "name": "Jefferies Financial Group Inc.  (JEF)"
+ },
+ "9631": {
+  "shares": 9077,
+  "value": 6378953,
+  "name": "BANK OF NOVA SCOTIA  (BNS)"
  },
  "9634": {
   "shares": 6497,

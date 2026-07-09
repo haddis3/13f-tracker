@@ -1,18 +1,18 @@
 {
- "generated": "2026-07-08T23:16:03.176115Z",
+ "generated": "2026-07-09T23:19:30.325302Z",
  "quarters": [
   "2026-03-31"
  ],
  "stocks": {
   "SNDK": {
    "name": "SANDISK CORP",
-   "sharesM": 113.2,
+   "sharesM": 113.1,
    "tl": [
     {
      "q": "2026-03-31",
-     "holders": 1171,
-     "valueB": 68.86,
-     "neu": 1171,
+     "holders": 1130,
+     "valueB": 68.8,
+     "neu": 1130,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -151,13 +151,13 @@
   },
   "MU": {
    "name": "MICRON TECHNOLOGY",
-   "sharesM": 844.3,
+   "sharesM": 520.7,
    "tl": [
     {
      "q": "2026-03-31",
-     "holders": 2990,
-     "valueB": 271.95,
-     "neu": 2990,
+     "holders": 2843,
+     "valueB": 169.36,
+     "neu": 2843,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -171,12 +171,6 @@
      "value": "$1.2B"
     },
     {
-     "fund": "Renaissance Technologies LLC",
-     "action": "NEW",
-     "shares": "2.2M",
-     "value": "$730.7M"
-    },
-    {
      "fund": "Millennium Management LLC",
      "action": "NEW",
      "shares": "1.6M",
@@ -187,12 +181,6 @@
      "action": "NEW",
      "shares": "1.5M",
      "value": "$498.6M"
-    },
-    {
-     "fund": "Citadel Advisors LLC",
-     "action": "NEW",
-     "shares": "4.6M",
-     "value": "$1.6B"
     },
     {
      "fund": "Appaloosa LP",
@@ -209,39 +197,9 @@
      "chg": "NEW"
     },
     {
-     "fund": "VANGUARD CAPITAL MANAGEMENT LLC",
-     "shares": "73.1M",
-     "value": "$24.7B",
-     "chg": "NEW"
-    },
-    {
-     "fund": "STATE STREET CORP  (STT, STT-PG)",
-     "shares": "52.2M",
-     "value": "$17.7B",
-     "chg": "NEW"
-    },
-    {
      "fund": "Capital World Investors",
      "shares": "42.1M",
      "value": "$14.2B",
-     "chg": "NEW"
-    },
-    {
-     "fund": "FMR LLC",
-     "shares": "32.1M",
-     "value": "$10.8B",
-     "chg": "NEW"
-    },
-    {
-     "fund": "GEODE CAPITAL MANAGEMENT, LLC",
-     "shares": "27.4M",
-     "value": "$9.2B",
-     "chg": "NEW"
-    },
-    {
-     "fund": "VANGUARD PORTFOLIO MANAGEMENT LLC",
-     "shares": "23.0M",
-     "value": "$7.8B",
      "chg": "NEW"
     },
     {
@@ -291,6 +249,36 @@
      "shares": "8.9M",
      "value": "$3.0B",
      "chg": "NEW"
+    },
+    {
+     "fund": "BARCLAYS PLC  (BCS, BCLYF)",
+     "shares": "7.8M",
+     "value": "$2.6B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "Bank of New York Mellon Corp  (BK, BK-PK)",
+     "shares": "7.4M",
+     "value": "$2.5B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "UBS Group AG  (UBS)",
+     "shares": "6.0M",
+     "value": "$2.0B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "Amundi",
+     "shares": "6.0M",
+     "value": "$2.0B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "HSBC HOLDINGS PLC",
+     "shares": "5.3M",
+     "value": "$1.8B",
+     "chg": "NEW"
     }
    ]
   },
@@ -300,9 +288,9 @@
    "tl": [
     {
      "q": "2026-03-31",
-     "holders": 1081,
-     "valueB": 52.26,
-     "neu": 1081,
+     "holders": 1082,
+     "valueB": 52.27,
+     "neu": 1082,
      "inc": 0,
      "dec": 0,
      "sold": 0

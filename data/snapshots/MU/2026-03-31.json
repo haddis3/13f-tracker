@@ -2784,6 +2784,11 @@
   "value": 353043,
   "name": "CapWealth Advisors, LLC"
  },
+ "1532385": {
+  "shares": 21521,
+  "value": 7270655,
+  "name": "Genus Capital Management Inc."
+ },
  "1533421": {
   "shares": 268948,
   "value": 90861393,
@@ -4039,11 +4044,6 @@
   "value": 31924,
   "name": "Pacer Advisors, Inc."
  },
- "1619124": {
-  "shares": 336884,
-  "value": 113812,
-  "name": "Cardano Risk Management B.V."
- },
  "1619532": {
   "shares": 1313,
   "value": 443442,
@@ -4429,10 +4429,10 @@
   "value": 31063879,
   "name": "KESTRA PRIVATE WEALTH SERVICES, LLC"
  },
- "1650135": {
-  "shares": 251391,
-  "value": 84929935,
-  "name": "Hosking Partners LLP"
+ "1649647": {
+  "shares": 16435,
+  "value": 5552401,
+  "name": "EDMOND DE ROTHSCHILD HOLDING S.A."
  },
  "1650150": {
   "shares": 210903,
@@ -6039,6 +6039,11 @@
   "value": 302367,
   "name": "Brand Asset Management Group, Inc."
  },
+ "1748814": {
+  "shares": 4330,
+  "value": 1462874,
+  "name": "LITTLE HOUSE CAPITAL LLC"
+ },
  "1748861": {
   "shares": 736,
   "value": 248734,
@@ -6514,11 +6519,6 @@
   "value": 26606252,
   "name": "Quilter Plc"
  },
- "1770994": {
-  "shares": 6587,
-  "value": 2225429,
-  "name": "Occidental Asset Management, LLC"
- },
  "1771605": {
   "shares": 1337,
   "value": 451692,
@@ -6918,11 +6918,6 @@
   "shares": 4455,
   "value": 1505077,
   "name": "LRT Capital Management, LLC"
- },
- "1798924": {
-  "shares": 631,
-  "value": 213177,
-  "name": "Bay Rivers Group"
  },
  "1798986": {
   "shares": 56,
@@ -7514,11 +7509,6 @@
   "value": 631085,
   "name": "BNC WEALTH MANAGEMENT, LLC"
  },
- "1821561": {
-  "shares": 4332,
-  "value": 1463523,
-  "name": "INCEPTIONR LLC"
- },
  "1821626": {
   "shares": 991,
   "value": 334799,
@@ -8089,6 +8079,11 @@
   "value": 738,
   "name": "SkyView Investment Advisors, LLC"
  },
+ "1849055": {
+  "shares": 3272,
+  "value": 1105412,
+  "name": "Navis Wealth Advisors, LLC"
+ },
  "1849444": {
   "shares": 776,
   "value": 261996,
@@ -8328,11 +8323,6 @@
   "shares": 3039,
   "value": 1026837,
   "name": "Strategic Financial Concepts, LLC"
- },
- "1870761": {
-  "shares": 6634,
-  "value": 2241231,
-  "name": "Bank of New Hampshire"
  },
  "1871926": {
   "shares": 3265420,
@@ -8953,11 +8943,6 @@
   "shares": 5941,
   "value": 2007209,
   "name": "KRS Capital Management, LLC"
- },
- "1910971": {
-  "shares": 11025,
-  "value": 3724770,
-  "name": "Benchmark Investment Advisors LLC"
  },
  "1911056": {
   "shares": 13047,
@@ -10489,11 +10474,6 @@
   "value": 1197837,
   "name": "Quotient Wealth Partners, LLC"
  },
- "2005098": {
-  "shares": 785,
-  "value": 265204,
-  "name": "Rockline Wealth Management, LLC"
- },
  "2005245": {
   "shares": 6000,
   "value": 2027040,
@@ -10793,11 +10773,6 @@
   "shares": 131,
   "value": 44236,
   "name": "Wiser Advisor Group LLC"
- },
- "2011587": {
-  "shares": 1333,
-  "value": 450341,
-  "name": "NorthStar Asset Management LLC /NJ/"
  },
  "2011612": {
   "shares": 154811,
@@ -13664,6 +13639,11 @@
   "value": 1657105,
   "name": "PATHWAY WEALTH MANAGEMENT LLC"
  },
+ "2135773": {
+  "shares": 1122,
+  "value": 379056,
+  "name": "BankChampaign, National Association"
+ },
  "2136442": {
   "shares": 2712,
   "value": 916234,
@@ -13693,11 +13673,6 @@
   "shares": 85275,
   "value": 28809342,
   "name": "INDEPENDENT FINANCIAL GROUP, LLC"
- },
- "310051": {
-  "shares": 6526,
-  "value": 2204744,
-  "name": "KING LUTHER CAPITAL MANAGEMENT CORP"
  },
  "312069": {
   "shares": 7774892,
@@ -14018,6 +13993,11 @@
   "shares": 10399487,
   "value": 3513362688,
   "name": "NORTHERN TRUST CORP  (NTRS, NTRSO)"
+ },
+ "733020": {
+  "shares": 230303,
+  "value": 77805566,
+  "name": "ARS Investment Partners, LLC"
  },
  "733444": {
   "shares": 875,
@@ -14518,11 +14498,6 @@
   "shares": 499,
   "value": 168631,
   "name": "BARRETT & COMPANY, INC."
- },
- "887777": {
-  "shares": 36499,
-  "value": 12330861,
-  "name": "DAVENPORT & Co LLC"
  },
  "887818": {
   "shares": 170845,

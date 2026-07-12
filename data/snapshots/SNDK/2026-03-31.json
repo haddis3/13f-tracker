@@ -404,6 +404,11 @@
   "value": 7556734,
   "name": "NORTHWESTERN MUTUAL WEALTH MANAGEMENT CO"
  },
+ "1142031": {
+  "shares": 2003,
+  "value": 1272586,
+  "name": "PRIVATE MANAGEMENT GROUP INC"
+ },
  "1142495": {
   "shares": 10724,
   "value": 6813,
@@ -2653,11 +2658,6 @@
   "shares": 14,
   "value": 8895,
   "name": "Vermillion Wealth Management, Inc."
- },
- "1737089": {
-  "shares": 804,
-  "value": 511,
-  "name": "CX Institutional"
  },
  "1737109": {
   "shares": 6619,

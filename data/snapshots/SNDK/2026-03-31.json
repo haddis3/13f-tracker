@@ -2014,11 +2014,6 @@
   "value": 918702,
   "name": "IFP Advisors, Inc"
  },
- "1642305": {
-  "shares": 61,
-  "value": 39,
-  "name": "Roble, Belko & Company, Inc"
- },
  "1642575": {
   "shares": 278562,
   "value": 176981581,
@@ -2288,11 +2283,6 @@
   "shares": 836,
   "value": 531369,
   "name": "Mutual Advisors, LLC"
- },
- "1694126": {
-  "shares": 276,
-  "value": 175,
-  "name": "Harvest Fund Management Co., Ltd"
  },
  "1694164": {
   "shares": 156766,
@@ -2659,6 +2649,11 @@
   "value": 8895,
   "name": "Vermillion Wealth Management, Inc."
  },
+ "1737089": {
+  "shares": 804,
+  "value": 511,
+  "name": "CX Institutional"
+ },
  "1737109": {
   "shares": 6619,
   "value": 4205312,
@@ -2803,11 +2798,6 @@
   "shares": 22071,
   "value": 14022589,
   "name": "Wealthfront Advisers LLC"
- },
- "1764387": {
-  "shares": 1652,
-  "value": 1049754,
-  "name": "Apollon Wealth Management, LLC"
  },
  "1764807": {
   "shares": 4456,

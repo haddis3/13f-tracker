@@ -1759,11 +1759,6 @@
   "value": 176385837,
   "name": "Mariner, LLC"
  },
- "1374384": {
-  "shares": 56480,
-  "value": 18163845,
-  "name": "Intesa Sanpaolo S.p.A."
- },
  "1374889": {
   "shares": 61961,
   "value": 20932904,
@@ -2063,6 +2058,11 @@
   "shares": 378556,
   "value": 127891290,
   "name": "CIBC WORLD MARKET INC."
+ },
+ "1422508": {
+  "shares": 5502,
+  "value": 1858795,
+  "name": "Montecito Bank & Trust"
  },
  "1422848": {
   "shares": 4156259,
@@ -4044,6 +4044,11 @@
   "value": 31924,
   "name": "Pacer Advisors, Inc."
  },
+ "1619124": {
+  "shares": 336884,
+  "value": 113812,
+  "name": "Cardano Risk Management B.V."
+ },
  "1619532": {
   "shares": 1313,
   "value": 443442,
@@ -4433,6 +4438,11 @@
   "shares": 16435,
   "value": 5552401,
   "name": "EDMOND DE ROTHSCHILD HOLDING S.A."
+ },
+ "1650135": {
+  "shares": 251391,
+  "value": 84929935,
+  "name": "Hosking Partners LLP"
  },
  "1650150": {
   "shares": 210903,
@@ -5579,11 +5589,6 @@
   "value": 498321,
   "name": "WealthShield Partners, LLC"
  },
- "1729304": {
-  "shares": 1118,
-  "value": 377706,
-  "name": "Holistic Financial Partners"
- },
  "1729347": {
   "shares": 900,
   "value": 518805,
@@ -5758,11 +5763,6 @@
   "shares": 4200,
   "value": 1418928,
   "name": "All Terrain Financial Advisors, LLC"
- },
- "1731444": {
-  "shares": 12477,
-  "value": 4215252,
-  "name": "MGO ONE SEVEN LLC"
  },
  "1731446": {
   "shares": 28636,
@@ -6519,6 +6519,11 @@
   "value": 26606252,
   "name": "Quilter Plc"
  },
+ "1770994": {
+  "shares": 6587,
+  "value": 2225429,
+  "name": "Occidental Asset Management, LLC"
+ },
  "1771605": {
   "shares": 1337,
   "value": 451692,
@@ -6919,6 +6924,11 @@
   "value": 1505077,
   "name": "LRT Capital Management, LLC"
  },
+ "1798924": {
+  "shares": 631,
+  "value": 213177,
+  "name": "Bay Rivers Group"
+ },
  "1798986": {
   "shares": 56,
   "value": 19007,
@@ -7219,6 +7229,11 @@
   "value": 1114872,
   "name": "MAGNOLIA CAPITAL ADVISORS LLC"
  },
+ "1803675": {
+  "shares": 2713,
+  "value": 916967,
+  "name": "Keebeck Wealth Management"
+ },
  "1803804": {
   "shares": 1647,
   "value": 556422,
@@ -7258,6 +7273,11 @@
   "shares": 849,
   "value": 286856,
   "name": "TABR Capital Management, LLC"
+ },
+ "1806027": {
+  "shares": 1029,
+  "value": 347794,
+  "name": "Aspen Grove Capital, LLC"
  },
  "1806425": {
   "shares": 13888,
@@ -7508,6 +7528,11 @@
   "shares": 1868,
   "value": 631085,
   "name": "BNC WEALTH MANAGEMENT, LLC"
+ },
+ "1821561": {
+  "shares": 4332,
+  "value": 1463523,
+  "name": "INCEPTIONR LLC"
  },
  "1821626": {
   "shares": 991,
@@ -8324,6 +8349,11 @@
   "value": 1026837,
   "name": "Strategic Financial Concepts, LLC"
  },
+ "1870761": {
+  "shares": 6634,
+  "value": 2241231,
+  "name": "Bank of New Hampshire"
+ },
  "1871926": {
   "shares": 3265420,
   "value": 1103189493,
@@ -8636,7 +8666,7 @@
  },
  "1903058": {
   "shares": 1487,
-  "value": 334331,
+  "value": 502369,
   "name": "MWA Asset Management"
  },
  "1903059": {
@@ -8943,6 +8973,11 @@
   "shares": 5941,
   "value": 2007209,
   "name": "KRS Capital Management, LLC"
+ },
+ "1910971": {
+  "shares": 11025,
+  "value": 3724770,
+  "name": "Benchmark Investment Advisors LLC"
  },
  "1911056": {
   "shares": 13047,
@@ -9774,11 +9809,6 @@
   "value": 1518605,
   "name": "Garden State Investment Advisory Services LLC"
  },
- "1965401": {
-  "shares": 1035,
-  "value": 349664,
-  "name": "VIAWEALTH, LLC"
- },
  "1965552": {
   "shares": 11469,
   "value": 3874687,
@@ -10474,6 +10504,11 @@
   "value": 1197837,
   "name": "Quotient Wealth Partners, LLC"
  },
+ "2005098": {
+  "shares": 785,
+  "value": 265204,
+  "name": "Rockline Wealth Management, LLC"
+ },
  "2005245": {
   "shares": 6000,
   "value": 2027040,
@@ -10773,6 +10808,11 @@
   "shares": 131,
   "value": 44236,
   "name": "Wiser Advisor Group LLC"
+ },
+ "2011587": {
+  "shares": 1333,
+  "value": 450341,
+  "name": "NorthStar Asset Management LLC /NJ/"
  },
  "2011612": {
   "shares": 154811,
@@ -13674,6 +13714,11 @@
   "value": 28809342,
   "name": "INDEPENDENT FINANCIAL GROUP, LLC"
  },
+ "310051": {
+  "shares": 6526,
+  "value": 2204744,
+  "name": "KING LUTHER CAPITAL MANAGEMENT CORP"
+ },
  "312069": {
   "shares": 7774892,
   "value": 2626669517,
@@ -14498,6 +14543,11 @@
   "shares": 499,
   "value": 168631,
   "name": "BARRETT & COMPANY, INC."
+ },
+ "887777": {
+  "shares": 36499,
+  "value": 12330861,
+  "name": "DAVENPORT & Co LLC"
  },
  "887818": {
   "shares": 170845,

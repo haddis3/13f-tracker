@@ -729,11 +729,6 @@
   "value": 51293911,
   "name": "GATEWAY INVESTMENT ADVISERS LLC"
  },
- "1114702": {
-  "shares": 1003,
-  "value": 338854,
-  "name": "MARIETTA INVESTMENT PARTNERS LLC"
- },
  "1115418": {
   "shares": 1903681,
   "value": 643139460,
@@ -1299,6 +1294,11 @@
   "value": 21784937,
   "name": "Advisors Asset Management, Inc."
  },
+ "1299910": {
+  "shares": 300,
+  "value": 101352,
+  "name": "Skylands Capital, LLC"
+ },
  "1301540": {
   "shares": 3292,
   "value": 1112169,
@@ -1758,6 +1758,11 @@
   "shares": 522169,
   "value": 176385837,
   "name": "Mariner, LLC"
+ },
+ "1374384": {
+  "shares": 56480,
+  "value": 18163845,
+  "name": "Intesa Sanpaolo S.p.A."
  },
  "1374889": {
   "shares": 61961,
@@ -3388,11 +3393,6 @@
   "shares": 1290,
   "value": 435814,
   "name": "BTG Pactual Asset Management US LLC"
- },
- "1569688": {
-  "shares": 740,
-  "value": 250002,
-  "name": "Kerrisdale Advisers, LLC"
  },
  "1569758": {
   "shares": 15000,
@@ -5319,11 +5319,6 @@
   "value": 439192,
   "name": "Abbot Financial Management, Inc."
  },
- "1714590": {
-  "shares": 3101,
-  "value": 1047642,
-  "name": "GS Investments, Inc."
- },
  "1715228": {
   "shares": 1500,
   "value": 506760,
@@ -5589,6 +5584,11 @@
   "value": 498321,
   "name": "WealthShield Partners, LLC"
  },
+ "1729304": {
+  "shares": 1118,
+  "value": 377706,
+  "name": "Holistic Financial Partners"
+ },
  "1729347": {
   "shares": 900,
   "value": 518805,
@@ -5694,11 +5694,6 @@
   "value": 124663,
   "name": "Solstein Capital, LLC"
  },
- "1730774": {
-  "shares": 905,
-  "value": 305745,
-  "name": "Rinkey Investments"
- },
  "1730810": {
   "shares": 9394,
   "value": 3173655,
@@ -5763,6 +5758,11 @@
   "shares": 4200,
   "value": 1418928,
   "name": "All Terrain Financial Advisors, LLC"
+ },
+ "1731444": {
+  "shares": 12477,
+  "value": 4215252,
+  "name": "MGO ONE SEVEN LLC"
  },
  "1731446": {
   "shares": 28636,
@@ -7229,11 +7229,6 @@
   "value": 1114872,
   "name": "MAGNOLIA CAPITAL ADVISORS LLC"
  },
- "1803675": {
-  "shares": 2713,
-  "value": 916967,
-  "name": "Keebeck Wealth Management"
- },
  "1803804": {
   "shares": 1647,
   "value": 556422,
@@ -7323,6 +7318,11 @@
   "shares": 4296,
   "value": 1451373,
   "name": "Revolve Wealth Partners, LLC"
+ },
+ "1809236": {
+  "shares": 900,
+  "value": 304056,
+  "name": "Salvus Wealth Management, LLC"
  },
  "1810089": {
   "shares": 255,
@@ -8974,11 +8974,6 @@
   "value": 2007209,
   "name": "KRS Capital Management, LLC"
  },
- "1910971": {
-  "shares": 11025,
-  "value": 3724770,
-  "name": "Benchmark Investment Advisors LLC"
- },
  "1911056": {
   "shares": 13047,
   "value": 4407610,
@@ -9808,6 +9803,11 @@
   "shares": 4486,
   "value": 1518605,
   "name": "Garden State Investment Advisory Services LLC"
+ },
+ "1965401": {
+  "shares": 1035,
+  "value": 349664,
+  "name": "VIAWEALTH, LLC"
  },
  "1965552": {
   "shares": 11469,
@@ -12783,6 +12783,11 @@
   "shares": 5,
   "value": 1689,
   "name": "Align Financial, LLC"
+ },
+ "2089528": {
+  "shares": 1960,
+  "value": 662278,
+  "name": "STEINBERGANNA WEALTH MANAGEMENT"
  },
  "2090040": {
   "shares": 133,

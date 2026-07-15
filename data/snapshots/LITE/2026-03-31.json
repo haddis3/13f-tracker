@@ -2889,11 +2889,6 @@
   "value": 7028,
   "name": "CVA Family Office, LLC"
  },
- "1802451": {
-  "shares": 200,
-  "value": 140552,
-  "name": "HighMark Wealth Management LLC"
- },
  "1802473": {
   "shares": 300,
   "value": 210828,
@@ -3003,11 +2998,6 @@
   "shares": 25108,
   "value": 17644898,
   "name": "JACKSON SQUARE CAPITAL, LLC"
- },
- "1817652": {
-  "shares": 18434,
-  "value": 12954678,
-  "name": "HIMENSION CAPITAL (SINGAPORE) PTE. LTD."
  },
  "1818014": {
   "shares": 195,
@@ -3763,6 +3753,11 @@
   "shares": 395,
   "value": 277590,
   "name": "Trivant Custom Portfolio Group, LLC"
+ },
+ "1978011": {
+  "shares": 457,
+  "value": 321161,
+  "name": "Abacus Wealth Partners, LLC"
  },
  "1978879": {
   "shares": 3154,

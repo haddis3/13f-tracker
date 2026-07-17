@@ -1299,6 +1299,11 @@
   "value": 21784937,
   "name": "Advisors Asset Management, Inc."
  },
+ "1299910": {
+  "shares": 300,
+  "value": 101352,
+  "name": "Skylands Capital, LLC"
+ },
  "1301540": {
   "shares": 3292,
   "value": 1112169,
@@ -5769,11 +5774,6 @@
   "value": 1418928,
   "name": "All Terrain Financial Advisors, LLC"
  },
- "1731444": {
-  "shares": 12477,
-  "value": 4215252,
-  "name": "MGO ONE SEVEN LLC"
- },
  "1731446": {
   "shares": 28636,
   "value": 9674388,
@@ -5968,11 +5968,6 @@
   "shares": 50,
   "value": 16,
   "name": "FNY Investment Advisers, LLC"
- },
- "1743404": {
-  "shares": 13427,
-  "value": 4536238,
-  "name": "FOUNDATIONS INVESTMENT ADVISORS, LLC"
  },
  "1743413": {
   "shares": 1327,
@@ -7233,6 +7228,11 @@
   "shares": 3300,
   "value": 1114872,
   "name": "MAGNOLIA CAPITAL ADVISORS LLC"
+ },
+ "1803675": {
+  "shares": 2713,
+  "value": 916967,
+  "name": "Keebeck Wealth Management"
  },
  "1803804": {
   "shares": 1647,
@@ -8964,11 +8964,6 @@
   "value": 2007209,
   "name": "KRS Capital Management, LLC"
  },
- "1910971": {
-  "shares": 11025,
-  "value": 3724770,
-  "name": "Benchmark Investment Advisors LLC"
- },
  "1911056": {
   "shares": 13047,
   "value": 4407610,
@@ -9038,11 +9033,6 @@
   "shares": 3206,
   "value": 1083093,
   "name": "Forum Financial Management, LP"
- },
- "1912202": {
-  "shares": 4028,
-  "value": 1360907,
-  "name": "Leo Wealth, LLC"
  },
  "1912338": {
   "shares": 4805,
@@ -10798,11 +10788,6 @@
   "shares": 131,
   "value": 44236,
   "name": "Wiser Advisor Group LLC"
- },
- "2011587": {
-  "shares": 1333,
-  "value": 450341,
-  "name": "NorthStar Asset Management LLC /NJ/"
  },
  "2011612": {
   "shares": 154811,
@@ -12773,6 +12758,11 @@
   "shares": 5,
   "value": 1689,
   "name": "Align Financial, LLC"
+ },
+ "2089528": {
+  "shares": 1960,
+  "value": 662278,
+  "name": "STEINBERGANNA WEALTH MANAGEMENT"
  },
  "2090040": {
   "shares": 133,

@@ -5639,11 +5639,6 @@
   "value": 346962,
   "name": "Nikulski Financial, Inc."
  },
- "1729866": {
-  "shares": 1170,
-  "value": 395448,
-  "name": "FIDUCIENT ADVISORS LLC"
- },
  "1729985": {
   "shares": 5477,
   "value": 1762499,
@@ -5968,6 +5963,11 @@
   "shares": 50,
   "value": 16,
   "name": "FNY Investment Advisers, LLC"
+ },
+ "1743404": {
+  "shares": 13427,
+  "value": 4536238,
+  "name": "FOUNDATIONS INVESTMENT ADVISORS, LLC"
  },
  "1743413": {
   "shares": 1327,
@@ -7274,11 +7274,6 @@
   "value": 286856,
   "name": "TABR Capital Management, LLC"
  },
- "1806027": {
-  "shares": 1029,
-  "value": 347794,
-  "name": "Aspen Grove Capital, LLC"
- },
  "1806425": {
   "shares": 13888,
   "value": 4691922,
@@ -7528,6 +7523,11 @@
   "shares": 1868,
   "value": 631085,
   "name": "BNC WEALTH MANAGEMENT, LLC"
+ },
+ "1821561": {
+  "shares": 4332,
+  "value": 1463523,
+  "name": "INCEPTIONR LLC"
  },
  "1821626": {
   "shares": 991,
@@ -8344,6 +8344,11 @@
   "value": 1026837,
   "name": "Strategic Financial Concepts, LLC"
  },
+ "1870761": {
+  "shares": 6634,
+  "value": 2241231,
+  "name": "Bank of New Hampshire"
+ },
  "1871926": {
   "shares": 3265420,
   "value": 1103189493,
@@ -8603,11 +8608,6 @@
   "shares": 4839,
   "value": 1634808,
   "name": "DGS Capital Management, LLC"
- },
- "1900923": {
-  "shares": 16063,
-  "value": 5426724,
-  "name": "READYSTATE ASSET MANAGEMENT LP"
  },
  "1901166": {
   "shares": 121997,
@@ -10704,11 +10704,6 @@
   "value": 3866214,
   "name": "Signal Advisors Wealth, LLC"
  },
- "2010942": {
-  "shares": 5021,
-  "value": 1696157,
-  "name": "Focus Financial Network, Inc."
- },
  "2011050": {
   "shares": 1447,
   "value": 489,
@@ -10769,11 +10764,6 @@
   "value": 1807711,
   "name": "Stablepoint Partners, LLC"
  },
- "2011267": {
-  "shares": 1144,
-  "value": 386489,
-  "name": "SEAMOUNT FINANCIAL GROUP INC"
- },
  "2011333": {
   "shares": 2964,
   "value": 1001358,
@@ -10788,6 +10778,11 @@
   "shares": 131,
   "value": 44236,
   "name": "Wiser Advisor Group LLC"
+ },
+ "2011587": {
+  "shares": 1333,
+  "value": 450341,
+  "name": "NorthStar Asset Management LLC /NJ/"
  },
  "2011612": {
   "shares": 154811,
@@ -13693,6 +13688,11 @@
   "shares": 85275,
   "value": 28809342,
   "name": "INDEPENDENT FINANCIAL GROUP, LLC"
+ },
+ "310051": {
+  "shares": 6526,
+  "value": 2204744,
+  "name": "KING LUTHER CAPITAL MANAGEMENT CORP"
  },
  "312069": {
   "shares": 7774892,

@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-17T22:56:25.537295Z",
+ "generated": "2026-07-18T22:58:14.639914Z",
  "quarters": [
   "2026-03-31"
  ],
@@ -296,13 +296,13 @@
   },
   "LITE": {
    "name": "LUMENTUM HLDGS INC",
-   "sharesM": 82.6,
+   "sharesM": 86.5,
    "tl": [
     {
      "q": "2026-03-31",
-     "holders": 1051,
-     "valueB": 51.95,
-     "neu": 1051,
+     "holders": 1079,
+     "valueB": 52.23,
+     "neu": 1079,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -326,6 +326,12 @@
      "action": "NEW",
      "shares": "122.0K",
      "value": "$85.7M"
+    },
+    {
+     "fund": "Bridgewater Associates, LP",
+     "action": "NEW",
+     "shares": "5.8K",
+     "value": "$4.1M"
     },
     {
      "fund": "Citadel Advisors LLC",

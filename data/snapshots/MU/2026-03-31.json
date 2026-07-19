@@ -4054,11 +4054,6 @@
   "value": 31924,
   "name": "Pacer Advisors, Inc."
  },
- "1619124": {
-  "shares": 336884,
-  "value": 113812,
-  "name": "Cardano Risk Management B.V."
- },
  "1619532": {
   "shares": 1313,
   "value": 443442,
@@ -4819,6 +4814,11 @@
   "value": 814071,
   "name": "Vivaldi Capital Management LP"
  },
+ "1682057": {
+  "shares": 2492,
+  "value": 841897,
+  "name": "Syverson Strege & Co"
+ },
  "1682576": {
   "shares": 16978,
   "value": 5735896,
@@ -5324,11 +5324,6 @@
   "value": 439192,
   "name": "Abbot Financial Management, Inc."
  },
- "1714590": {
-  "shares": 3101,
-  "value": 1047642,
-  "name": "GS Investments, Inc."
- },
  "1715228": {
   "shares": 1500,
   "value": 506760,
@@ -5699,11 +5694,6 @@
   "value": 124663,
   "name": "Solstein Capital, LLC"
  },
- "1730774": {
-  "shares": 905,
-  "value": 305745,
-  "name": "Rinkey Investments"
- },
  "1730810": {
   "shares": 9394,
   "value": 3173655,
@@ -5768,6 +5758,11 @@
   "shares": 4200,
   "value": 1418928,
   "name": "All Terrain Financial Advisors, LLC"
+ },
+ "1731444": {
+  "shares": 12477,
+  "value": 4215252,
+  "name": "MGO ONE SEVEN LLC"
  },
  "1731446": {
   "shares": 28636,
@@ -5858,6 +5853,11 @@
   "shares": 27,
   "value": 9122,
   "name": "Sherman Asset Management, Inc."
+ },
+ "1736736": {
+  "shares": 50508,
+  "value": 17063624,
+  "name": "Rice Partnership, LLC"
  },
  "1736982": {
   "shares": 29477,
@@ -7274,6 +7274,11 @@
   "value": 286856,
   "name": "TABR Capital Management, LLC"
  },
+ "1806027": {
+  "shares": 1029,
+  "value": 347794,
+  "name": "Aspen Grove Capital, LLC"
+ },
  "1806425": {
   "shares": 13888,
   "value": 4691922,
@@ -7479,6 +7484,11 @@
   "value": 696228,
   "name": "Horst & Graben Wealth Management LLC"
  },
+ "1818391": {
+  "shares": 2127,
+  "value": 718586,
+  "name": "Independent Solutions Wealth Management, LLC"
+ },
  "1818604": {
   "shares": 246473,
   "value": 4470300,
@@ -7523,11 +7533,6 @@
   "shares": 1868,
   "value": 631085,
   "name": "BNC WEALTH MANAGEMENT, LLC"
- },
- "1821561": {
-  "shares": 4332,
-  "value": 1463523,
-  "name": "INCEPTIONR LLC"
  },
  "1821626": {
   "shares": 991,
@@ -8344,11 +8349,6 @@
   "value": 1026837,
   "name": "Strategic Financial Concepts, LLC"
  },
- "1870761": {
-  "shares": 6634,
-  "value": 2241231,
-  "name": "Bank of New Hampshire"
- },
  "1871926": {
   "shares": 3265420,
   "value": 1103189493,
@@ -8608,6 +8608,11 @@
   "shares": 4839,
   "value": 1634808,
   "name": "DGS Capital Management, LLC"
+ },
+ "1900923": {
+  "shares": 16063,
+  "value": 5426724,
+  "name": "READYSTATE ASSET MANAGEMENT LP"
  },
  "1901166": {
   "shares": 121997,
@@ -9034,6 +9039,11 @@
   "value": 1083093,
   "name": "Forum Financial Management, LP"
  },
+ "1912202": {
+  "shares": 4028,
+  "value": 1360907,
+  "name": "Leo Wealth, LLC"
+ },
  "1912338": {
   "shares": 4805,
   "value": 1623299,
@@ -9183,6 +9193,11 @@
   "shares": 5305,
   "value": 1792241,
   "name": "FIDUCIARY FINANCIAL GROUP, LLC"
+ },
+ "1925853": {
+  "shares": 1214,
+  "value": 410169,
+  "name": "Sterling Investment Counsel, LLC"
  },
  "1926596": {
   "shares": 3800,
@@ -9868,11 +9883,6 @@
   "shares": 4098,
   "value": 1384775,
   "name": "LaSalle St. Investment Advisors, LLC"
- },
- "1966210": {
-  "shares": 633,
-  "value": 213853,
-  "name": "Strait & Sound Wealth Management LLC"
  },
  "1966297": {
   "shares": 7216,
@@ -10764,6 +10774,11 @@
   "value": 1807711,
   "name": "Stablepoint Partners, LLC"
  },
+ "2011267": {
+  "shares": 1144,
+  "value": 386489,
+  "name": "SEAMOUNT FINANCIAL GROUP INC"
+ },
  "2011333": {
   "shares": 2964,
   "value": 1001358,
@@ -10953,11 +10968,6 @@
   "shares": 1465,
   "value": 494936,
   "name": "M3 Advisory Group, LLC"
- },
- "2015131": {
-  "shares": 1180,
-  "value": 398651,
-  "name": "Cove Private Wealth, LLC"
  },
  "2015178": {
   "shares": 35619,
@@ -11668,11 +11678,6 @@
   "shares": 3083,
   "value": 1041640,
   "name": "Prasad Wealth Partners, LLC"
- },
- "2048892": {
-  "shares": 832,
-  "value": 281015,
-  "name": "Vantage Point Financial LLC"
  },
  "2049064": {
   "shares": 1252,
@@ -13654,11 +13659,6 @@
   "value": 1657105,
   "name": "PATHWAY WEALTH MANAGEMENT LLC"
  },
- "2135773": {
-  "shares": 1122,
-  "value": 379056,
-  "name": "BankChampaign, National Association"
- },
  "2136442": {
   "shares": 2712,
   "value": 916234,
@@ -13688,11 +13688,6 @@
   "shares": 85275,
   "value": 28809342,
   "name": "INDEPENDENT FINANCIAL GROUP, LLC"
- },
- "310051": {
-  "shares": 6526,
-  "value": 2204744,
-  "name": "KING LUTHER CAPITAL MANAGEMENT CORP"
  },
  "312069": {
   "shares": 7774892,
@@ -14518,11 +14513,6 @@
   "shares": 499,
   "value": 168631,
   "name": "BARRETT & COMPANY, INC."
- },
- "887777": {
-  "shares": 36499,
-  "value": 12330861,
-  "name": "DAVENPORT & Co LLC"
  },
  "887818": {
   "shares": 170845,

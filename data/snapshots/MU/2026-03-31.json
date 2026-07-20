@@ -2794,11 +2794,6 @@
   "value": 353043,
   "name": "CapWealth Advisors, LLC"
  },
- "1532385": {
-  "shares": 21521,
-  "value": 7270655,
-  "name": "Genus Capital Management Inc."
- },
  "1533421": {
   "shares": 268948,
   "value": 90861393,
@@ -4054,6 +4049,11 @@
   "value": 31924,
   "name": "Pacer Advisors, Inc."
  },
+ "1619124": {
+  "shares": 336884,
+  "value": 113812,
+  "name": "Cardano Risk Management B.V."
+ },
  "1619532": {
   "shares": 1313,
   "value": 443442,
@@ -4438,11 +4438,6 @@
   "shares": 91948,
   "value": 31063879,
   "name": "KESTRA PRIVATE WEALTH SERVICES, LLC"
- },
- "1649647": {
-  "shares": 16435,
-  "value": 5552401,
-  "name": "EDMOND DE ROTHSCHILD HOLDING S.A."
  },
  "1650135": {
   "shares": 251391,
@@ -5229,11 +5224,6 @@
   "value": 10596014,
   "name": "Morse Asset Management, Inc"
  },
- "1705929": {
-  "shares": 1907,
-  "value": 644261,
-  "name": "QUATTRO FINANCIAL ADVISORS LLC"
- },
  "1706028": {
   "shares": 13702,
   "value": 4629089,
@@ -5323,6 +5313,11 @@
   "shares": 1300,
   "value": 439192,
   "name": "Abbot Financial Management, Inc."
+ },
+ "1714590": {
+  "shares": 3101,
+  "value": 1047642,
+  "name": "GS Investments, Inc."
  },
  "1715228": {
   "shares": 1500,
@@ -5634,6 +5629,11 @@
   "value": 346962,
   "name": "Nikulski Financial, Inc."
  },
+ "1729866": {
+  "shares": 1170,
+  "value": 395448,
+  "name": "FIDUCIENT ADVISORS LLC"
+ },
  "1729985": {
   "shares": 5477,
   "value": 1762499,
@@ -5693,6 +5693,11 @@
   "shares": 369,
   "value": 124663,
   "name": "Solstein Capital, LLC"
+ },
+ "1730774": {
+  "shares": 905,
+  "value": 305745,
+  "name": "Rinkey Investments"
  },
  "1730810": {
   "shares": 9394,
@@ -7254,11 +7259,6 @@
   "value": 823222,
   "name": "Bright Futures Wealth Management, LLC."
  },
- "1804329": {
-  "shares": 7737,
-  "value": 2613761,
-  "name": "Procyon Advisors, LLC"
- },
  "1804909": {
   "shares": 674,
   "value": 227680,
@@ -7444,11 +7444,6 @@
   "value": 45220,
   "name": "Scarborough Advisors, LLC"
  },
- "1817174": {
-  "shares": 11141,
-  "value": 3763875,
-  "name": "Prudent Man Advisors, LLC"
- },
  "1817494": {
   "shares": 923,
   "value": 311826,
@@ -7533,6 +7528,11 @@
   "shares": 1868,
   "value": 631085,
   "name": "BNC WEALTH MANAGEMENT, LLC"
+ },
+ "1821561": {
+  "shares": 4332,
+  "value": 1463523,
+  "name": "INCEPTIONR LLC"
  },
  "1821626": {
   "shares": 991,
@@ -7944,11 +7944,6 @@
   "value": 458111,
   "name": "COLLECTIVE FAMILY OFFICE LLC"
  },
- "1845109": {
-  "shares": 805,
-  "value": 271961,
-  "name": "Oder Investment Management, LLC"
- },
  "1845199": {
   "shares": 110,
   "value": 37162,
@@ -8348,6 +8343,11 @@
   "shares": 3039,
   "value": 1026837,
   "name": "Strategic Financial Concepts, LLC"
+ },
+ "1870761": {
+  "shares": 6634,
+  "value": 2241231,
+  "name": "Bank of New Hampshire"
  },
  "1871926": {
   "shares": 3265420,
@@ -8969,6 +8969,11 @@
   "value": 2007209,
   "name": "KRS Capital Management, LLC"
  },
+ "1910971": {
+  "shares": 11025,
+  "value": 3724770,
+  "name": "Benchmark Investment Advisors LLC"
+ },
  "1911056": {
   "shares": 13047,
   "value": 4407610,
@@ -9463,11 +9468,6 @@
   "shares": 255,
   "value": 86153,
   "name": "Colonial Trust Co / SC"
- },
- "1954242": {
-  "shares": 2239,
-  "value": 708822,
-  "name": "Ethos Financial Group, LLC"
  },
  "1954480": {
   "shares": 7710,
@@ -10034,11 +10034,6 @@
   "value": 2108459,
   "name": "Quintet Private Bank (Europe) S.A."
  },
- "1977560": {
-  "shares": 28606,
-  "value": 9664251,
-  "name": "Frank, Rimerman Advisors LLC"
- },
  "1977602": {
   "shares": 385702,
   "value": 113389247,
@@ -10098,11 +10093,6 @@
   "shares": 492,
   "value": 166217,
   "name": "Nemes Rush Group LLC"
- },
- "1982920": {
-  "shares": 602,
-  "value": 203379,
-  "name": "9823 Capital, L.P."
  },
  "1984256": {
   "shares": 237,
@@ -10714,6 +10704,11 @@
   "value": 3866214,
   "name": "Signal Advisors Wealth, LLC"
  },
+ "2010942": {
+  "shares": 5021,
+  "value": 1696157,
+  "name": "Focus Financial Network, Inc."
+ },
  "2011050": {
   "shares": 1447,
   "value": 489,
@@ -10968,6 +10963,11 @@
   "shares": 1465,
   "value": 494936,
   "name": "M3 Advisory Group, LLC"
+ },
+ "2015131": {
+  "shares": 1180,
+  "value": 398651,
+  "name": "Cove Private Wealth, LLC"
  },
  "2015178": {
   "shares": 35619,
@@ -11678,6 +11678,11 @@
   "shares": 3083,
   "value": 1041640,
   "name": "Prasad Wealth Partners, LLC"
+ },
+ "2048892": {
+  "shares": 832,
+  "value": 281015,
+  "name": "Vantage Point Financial LLC"
  },
  "2049064": {
   "shares": 1252,
@@ -13624,11 +13629,6 @@
   "value": 382624,
   "name": "CPWA, LLC"
  },
- "2134779": {
-  "shares": 1008,
-  "value": 341,
-  "name": "Avail Investment Partners, LLC"
- },
  "2135047": {
   "shares": 9432,
   "value": 3186507,
@@ -13688,6 +13688,11 @@
   "shares": 85275,
   "value": 28809342,
   "name": "INDEPENDENT FINANCIAL GROUP, LLC"
+ },
+ "310051": {
+  "shares": 6526,
+  "value": 2204744,
+  "name": "KING LUTHER CAPITAL MANAGEMENT CORP"
  },
  "312069": {
   "shares": 7774892,
@@ -14008,11 +14013,6 @@
   "shares": 10399487,
   "value": 3513362688,
   "name": "NORTHERN TRUST CORP  (NTRS, NTRSO)"
- },
- "733020": {
-  "shares": 230303,
-  "value": 77805566,
-  "name": "ARS Investment Partners, LLC"
  },
  "733444": {
   "shares": 875,
@@ -14514,6 +14514,11 @@
   "value": 168631,
   "name": "BARRETT & COMPANY, INC."
  },
+ "887777": {
+  "shares": 36499,
+  "value": 12330861,
+  "name": "DAVENPORT & Co LLC"
+ },
  "887818": {
   "shares": 170845,
   "value": 57718275,
@@ -14803,11 +14808,6 @@
   "shares": 263680,
   "value": 89120982,
   "name": "NISA INVESTMENT ADVISORS, LLC"
- },
- "937729": {
-  "shares": 2420,
-  "value": 817573,
-  "name": "FAYEZ SAROFIM & CO"
  },
  "937760": {
   "shares": 13914,

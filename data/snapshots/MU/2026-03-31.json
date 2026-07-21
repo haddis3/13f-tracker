@@ -2794,6 +2794,11 @@
   "value": 353043,
   "name": "CapWealth Advisors, LLC"
  },
+ "1532385": {
+  "shares": 21521,
+  "value": 7270655,
+  "name": "Genus Capital Management Inc."
+ },
  "1533421": {
   "shares": 268948,
   "value": 90861393,
@@ -4439,6 +4444,11 @@
   "value": 31063879,
   "name": "KESTRA PRIVATE WEALTH SERVICES, LLC"
  },
+ "1649647": {
+  "shares": 16435,
+  "value": 5552401,
+  "name": "EDMOND DE ROTHSCHILD HOLDING S.A."
+ },
  "1650135": {
   "shares": 251391,
   "value": 84929935,
@@ -5224,6 +5234,11 @@
   "value": 10596014,
   "name": "Morse Asset Management, Inc"
  },
+ "1705929": {
+  "shares": 1907,
+  "value": 644261,
+  "name": "QUATTRO FINANCIAL ADVISORS LLC"
+ },
  "1706028": {
   "shares": 13702,
   "value": 4629089,
@@ -5653,11 +5668,6 @@
   "shares": 12143,
   "value": 4102391,
   "name": "Nan Shan Life Insurance Co., Ltd."
- },
- "1730477": {
-  "shares": 9850,
-  "value": 3327724,
-  "name": "Ballast, Inc."
  },
  "1730479": {
   "shares": 8162,
@@ -7259,6 +7269,11 @@
   "value": 823222,
   "name": "Bright Futures Wealth Management, LLC."
  },
+ "1804329": {
+  "shares": 7737,
+  "value": 2613761,
+  "name": "Procyon Advisors, LLC"
+ },
  "1804909": {
   "shares": 674,
   "value": 227680,
@@ -7444,6 +7459,11 @@
   "value": 45220,
   "name": "Scarborough Advisors, LLC"
  },
+ "1817174": {
+  "shares": 11141,
+  "value": 3763875,
+  "name": "Prudent Man Advisors, LLC"
+ },
  "1817494": {
   "shares": 923,
   "value": 311826,
@@ -7528,11 +7548,6 @@
   "shares": 1868,
   "value": 631085,
   "name": "BNC WEALTH MANAGEMENT, LLC"
- },
- "1821561": {
-  "shares": 4332,
-  "value": 1463523,
-  "name": "INCEPTIONR LLC"
  },
  "1821626": {
   "shares": 991,
@@ -7944,6 +7959,11 @@
   "value": 458111,
   "name": "COLLECTIVE FAMILY OFFICE LLC"
  },
+ "1845109": {
+  "shares": 805,
+  "value": 271961,
+  "name": "Oder Investment Management, LLC"
+ },
  "1845199": {
   "shares": 110,
   "value": 37162,
@@ -8343,11 +8363,6 @@
   "shares": 3039,
   "value": 1026837,
   "name": "Strategic Financial Concepts, LLC"
- },
- "1870761": {
-  "shares": 6634,
-  "value": 2241231,
-  "name": "Bank of New Hampshire"
  },
  "1871926": {
   "shares": 3265420,
@@ -9044,11 +9059,6 @@
   "value": 1083093,
   "name": "Forum Financial Management, LP"
  },
- "1912202": {
-  "shares": 4028,
-  "value": 1360907,
-  "name": "Leo Wealth, LLC"
- },
  "1912338": {
   "shares": 4805,
   "value": 1623299,
@@ -9468,6 +9478,11 @@
   "shares": 255,
   "value": 86153,
   "name": "Colonial Trust Co / SC"
+ },
+ "1954242": {
+  "shares": 2239,
+  "value": 708822,
+  "name": "Ethos Financial Group, LLC"
  },
  "1954480": {
   "shares": 7710,
@@ -10033,6 +10048,11 @@
   "shares": 6241,
   "value": 2108459,
   "name": "Quintet Private Bank (Europe) S.A."
+ },
+ "1977560": {
+  "shares": 28606,
+  "value": 9664251,
+  "name": "Frank, Rimerman Advisors LLC"
  },
  "1977602": {
   "shares": 385702,
@@ -12194,11 +12214,6 @@
   "value": 1020818,
   "name": "Sunbeam Capital Management, LLC"
  },
- "2057556": {
-  "shares": 940,
-  "value": 317570,
-  "name": "Lighthouse Financial LLC"
- },
  "2057602": {
   "shares": 759,
   "value": 256293,
@@ -13609,11 +13624,6 @@
   "value": 998,
   "name": "Forum Finance Group S.A."
  },
- "2133805": {
-  "shares": 973,
-  "value": 328719,
-  "name": "Owl Creek Wealth Partners LLC"
- },
  "2133991": {
   "shares": 1389,
   "value": 469260,
@@ -13659,6 +13669,11 @@
   "value": 1657105,
   "name": "PATHWAY WEALTH MANAGEMENT LLC"
  },
+ "2135773": {
+  "shares": 1122,
+  "value": 379056,
+  "name": "BankChampaign, National Association"
+ },
  "2136442": {
   "shares": 2712,
   "value": 916234,
@@ -13688,11 +13703,6 @@
   "shares": 85275,
   "value": 28809342,
   "name": "INDEPENDENT FINANCIAL GROUP, LLC"
- },
- "310051": {
-  "shares": 6526,
-  "value": 2204744,
-  "name": "KING LUTHER CAPITAL MANAGEMENT CORP"
  },
  "312069": {
   "shares": 7774892,
@@ -14013,6 +14023,11 @@
   "shares": 10399487,
   "value": 3513362688,
   "name": "NORTHERN TRUST CORP  (NTRS, NTRSO)"
+ },
+ "733020": {
+  "shares": 230303,
+  "value": 77805566,
+  "name": "ARS Investment Partners, LLC"
  },
  "733444": {
   "shares": 875,
@@ -14808,6 +14823,11 @@
   "shares": 263680,
   "value": 89120982,
   "name": "NISA INVESTMENT ADVISORS, LLC"
+ },
+ "937729": {
+  "shares": 2420,
+  "value": 817573,
+  "name": "FAYEZ SAROFIM & CO"
  },
  "937760": {
   "shares": 13914,

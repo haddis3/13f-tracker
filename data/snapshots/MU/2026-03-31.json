@@ -1299,11 +1299,6 @@
   "value": 21784937,
   "name": "Advisors Asset Management, Inc."
  },
- "1299910": {
-  "shares": 300,
-  "value": 101352,
-  "name": "Skylands Capital, LLC"
- },
  "1301540": {
   "shares": 3292,
   "value": 1112169,
@@ -1763,11 +1758,6 @@
   "shares": 522169,
   "value": 176385837,
   "name": "Mariner, LLC"
- },
- "1374384": {
-  "shares": 56480,
-  "value": 18163845,
-  "name": "Intesa Sanpaolo S.p.A."
  },
  "1374889": {
   "shares": 61961,
@@ -4819,11 +4809,6 @@
   "value": 814071,
   "name": "Vivaldi Capital Management LP"
  },
- "1682057": {
-  "shares": 2492,
-  "value": 841897,
-  "name": "Syverson Strege & Co"
- },
  "1682576": {
   "shares": 16978,
   "value": 5735896,
@@ -5669,6 +5654,11 @@
   "value": 4102391,
   "name": "Nan Shan Life Insurance Co., Ltd."
  },
+ "1730477": {
+  "shares": 9850,
+  "value": 3327724,
+  "name": "Ballast, Inc."
+ },
  "1730479": {
   "shares": 8162,
   "value": 2757450,
@@ -5868,11 +5858,6 @@
   "shares": 27,
   "value": 9122,
   "name": "Sherman Asset Management, Inc."
- },
- "1736736": {
-  "shares": 50508,
-  "value": 17063624,
-  "name": "Rice Partnership, LLC"
  },
  "1736982": {
   "shares": 29477,
@@ -7499,11 +7484,6 @@
   "value": 696228,
   "name": "Horst & Graben Wealth Management LLC"
  },
- "1818391": {
-  "shares": 2127,
-  "value": 718586,
-  "name": "Independent Solutions Wealth Management, LLC"
- },
  "1818604": {
   "shares": 246473,
   "value": 4470300,
@@ -7548,6 +7528,11 @@
   "shares": 1868,
   "value": 631085,
   "name": "BNC WEALTH MANAGEMENT, LLC"
+ },
+ "1821561": {
+  "shares": 4332,
+  "value": 1463523,
+  "name": "INCEPTIONR LLC"
  },
  "1821626": {
   "shares": 991,
@@ -8364,6 +8349,11 @@
   "value": 1026837,
   "name": "Strategic Financial Concepts, LLC"
  },
+ "1870761": {
+  "shares": 6634,
+  "value": 2241231,
+  "name": "Bank of New Hampshire"
+ },
  "1871926": {
   "shares": 3265420,
   "value": 1103189493,
@@ -8984,11 +8974,6 @@
   "value": 2007209,
   "name": "KRS Capital Management, LLC"
  },
- "1910971": {
-  "shares": 11025,
-  "value": 3724770,
-  "name": "Benchmark Investment Advisors LLC"
- },
  "1911056": {
   "shares": 13047,
   "value": 4407610,
@@ -9208,11 +9193,6 @@
   "shares": 5305,
   "value": 1792241,
   "name": "FIDUCIARY FINANCIAL GROUP, LLC"
- },
- "1925853": {
-  "shares": 1214,
-  "value": 410169,
-  "name": "Sterling Investment Counsel, LLC"
  },
  "1926596": {
   "shares": 3800,
@@ -9899,6 +9879,11 @@
   "value": 1384775,
   "name": "LaSalle St. Investment Advisors, LLC"
  },
+ "1966210": {
+  "shares": 633,
+  "value": 213853,
+  "name": "Strait & Sound Wealth Management LLC"
+ },
  "1966297": {
   "shares": 7216,
   "value": 2437853,
@@ -10113,6 +10098,11 @@
   "shares": 492,
   "value": 166217,
   "name": "Nemes Rush Group LLC"
+ },
+ "1982920": {
+  "shares": 602,
+  "value": 203379,
+  "name": "9823 Capital, L.P."
  },
  "1984256": {
   "shares": 237,
@@ -11729,11 +11719,6 @@
   "value": 12737192,
   "name": "VestGen Advisors, LLC"
  },
- "2050660": {
-  "shares": 709,
-  "value": 239538,
-  "name": "VSM Wealth Advisory, LLC"
- },
  "2050972": {
   "shares": 11457,
   "value": 3871049,
@@ -12213,6 +12198,11 @@
   "shares": 3022,
   "value": 1020818,
   "name": "Sunbeam Capital Management, LLC"
+ },
+ "2057556": {
+  "shares": 940,
+  "value": 317570,
+  "name": "Lighthouse Financial LLC"
  },
  "2057602": {
   "shares": 759,
@@ -12709,11 +12699,6 @@
   "value": 51611347,
   "name": "Pinnacle Financial Partners, Inc.  (PNFP, PNFP-PA, PNFP-PB, PNFP-PC)"
  },
- "2083087": {
-  "shares": 2015,
-  "value": 575101,
-  "name": "Wealth Science Advisors LLC"
- },
  "2083456": {
   "shares": 792,
   "value": 267569,
@@ -12778,11 +12763,6 @@
   "shares": 5,
   "value": 1689,
   "name": "Align Financial, LLC"
- },
- "2089528": {
-  "shares": 1960,
-  "value": 662278,
-  "name": "STEINBERGANNA WEALTH MANAGEMENT"
  },
  "2090040": {
   "shares": 133,
@@ -13624,6 +13604,11 @@
   "value": 998,
   "name": "Forum Finance Group S.A."
  },
+ "2133805": {
+  "shares": 973,
+  "value": 328719,
+  "name": "Owl Creek Wealth Partners LLC"
+ },
  "2133991": {
   "shares": 1389,
   "value": 469260,
@@ -13638,6 +13623,11 @@
   "shares": 481,
   "value": 382624,
   "name": "CPWA, LLC"
+ },
+ "2134779": {
+  "shares": 1008,
+  "value": 341,
+  "name": "Avail Investment Partners, LLC"
  },
  "2135047": {
   "shares": 9432,
@@ -13703,6 +13693,11 @@
   "shares": 85275,
   "value": 28809342,
   "name": "INDEPENDENT FINANCIAL GROUP, LLC"
+ },
+ "310051": {
+  "shares": 6526,
+  "value": 2204744,
+  "name": "KING LUTHER CAPITAL MANAGEMENT CORP"
  },
  "312069": {
   "shares": 7774892,

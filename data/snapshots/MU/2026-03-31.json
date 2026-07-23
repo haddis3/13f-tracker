@@ -1299,6 +1299,11 @@
   "value": 21784937,
   "name": "Advisors Asset Management, Inc."
  },
+ "1299910": {
+  "shares": 300,
+  "value": 101352,
+  "name": "Skylands Capital, LLC"
+ },
  "1301540": {
   "shares": 3292,
   "value": 1112169,
@@ -1758,6 +1763,11 @@
   "shares": 522169,
   "value": 176385837,
   "name": "Mariner, LLC"
+ },
+ "1374384": {
+  "shares": 56480,
+  "value": 18163845,
+  "name": "Intesa Sanpaolo S.p.A."
  },
  "1374889": {
   "shares": 61961,
@@ -3569,11 +3579,6 @@
   "value": 65857208,
   "name": "USS Investment Management Ltd"
  },
- "1587973": {
-  "shares": 391334,
-  "value": 132208279,
-  "name": "State of Tennessee, Department of Treasury"
- },
  "1588340": {
   "shares": 281291,
   "value": 95031352,
@@ -4809,6 +4814,11 @@
   "value": 814071,
   "name": "Vivaldi Capital Management LP"
  },
+ "1682057": {
+  "shares": 2492,
+  "value": 841897,
+  "name": "Syverson Strege & Co"
+ },
  "1682576": {
   "shares": 16978,
   "value": 5735896,
@@ -5859,6 +5869,11 @@
   "value": 9122,
   "name": "Sherman Asset Management, Inc."
  },
+ "1736736": {
+  "shares": 50508,
+  "value": 17063624,
+  "name": "Rice Partnership, LLC"
+ },
  "1736982": {
   "shares": 29477,
   "value": 9959003,
@@ -5963,11 +5978,6 @@
   "shares": 50,
   "value": 16,
   "name": "FNY Investment Advisers, LLC"
- },
- "1743404": {
-  "shares": 13427,
-  "value": 4536238,
-  "name": "FOUNDATIONS INVESTMENT ADVISORS, LLC"
  },
  "1743413": {
   "shares": 1327,
@@ -7484,6 +7494,11 @@
   "value": 696228,
   "name": "Horst & Graben Wealth Management LLC"
  },
+ "1818391": {
+  "shares": 2127,
+  "value": 718586,
+  "name": "Independent Solutions Wealth Management, LLC"
+ },
  "1818604": {
   "shares": 246473,
   "value": 4470300,
@@ -7528,11 +7543,6 @@
   "shares": 1868,
   "value": 631085,
   "name": "BNC WEALTH MANAGEMENT, LLC"
- },
- "1821561": {
-  "shares": 4332,
-  "value": 1463523,
-  "name": "INCEPTIONR LLC"
  },
  "1821626": {
   "shares": 991,
@@ -8349,11 +8359,6 @@
   "value": 1026837,
   "name": "Strategic Financial Concepts, LLC"
  },
- "1870761": {
-  "shares": 6634,
-  "value": 2241231,
-  "name": "Bank of New Hampshire"
- },
  "1871926": {
   "shares": 3265420,
   "value": 1103189493,
@@ -8493,11 +8498,6 @@
   "shares": 15530,
   "value": 5246655,
   "name": "Octahedron Capital Management L.P."
- },
- "1892929": {
-  "shares": 1902,
-  "value": 642584,
-  "name": "Tanager Wealth Management LLP"
  },
  "1893143": {
   "shares": 15,
@@ -9044,6 +9044,11 @@
   "value": 1083093,
   "name": "Forum Financial Management, LP"
  },
+ "1912202": {
+  "shares": 4028,
+  "value": 1360907,
+  "name": "Leo Wealth, LLC"
+ },
  "1912338": {
   "shares": 4805,
   "value": 1623299,
@@ -9193,6 +9198,11 @@
   "shares": 5305,
   "value": 1792241,
   "name": "FIDUCIARY FINANCIAL GROUP, LLC"
+ },
+ "1925853": {
+  "shares": 1214,
+  "value": 410169,
+  "name": "Sterling Investment Counsel, LLC"
  },
  "1926596": {
   "shares": 3800,
@@ -9758,11 +9768,6 @@
   "shares": 749,
   "value": 253157,
   "name": "McGlone Suttner Wealth Management, Inc."
- },
- "1964831": {
-  "shares": 146,
-  "value": 49377,
-  "name": "MRP Capital Investments, LLC"
  },
  "1964958": {
   "shares": 21485,
@@ -11719,6 +11724,11 @@
   "value": 12737192,
   "name": "VestGen Advisors, LLC"
  },
+ "2050660": {
+  "shares": 709,
+  "value": 239538,
+  "name": "VSM Wealth Advisory, LLC"
+ },
  "2050972": {
   "shares": 11457,
   "value": 3871049,
@@ -12699,6 +12709,11 @@
   "value": 51611347,
   "name": "Pinnacle Financial Partners, Inc.  (PNFP, PNFP-PA, PNFP-PB, PNFP-PC)"
  },
+ "2083087": {
+  "shares": 2015,
+  "value": 575101,
+  "name": "Wealth Science Advisors LLC"
+ },
  "2083456": {
   "shares": 792,
   "value": 267569,
@@ -12763,6 +12778,11 @@
   "shares": 5,
   "value": 1689,
   "name": "Align Financial, LLC"
+ },
+ "2089528": {
+  "shares": 1960,
+  "value": 662278,
+  "name": "STEINBERGANNA WEALTH MANAGEMENT"
  },
  "2090040": {
   "shares": 133,
@@ -13693,11 +13713,6 @@
   "shares": 85275,
   "value": 28809342,
   "name": "INDEPENDENT FINANCIAL GROUP, LLC"
- },
- "310051": {
-  "shares": 6526,
-  "value": 2204744,
-  "name": "KING LUTHER CAPITAL MANAGEMENT CORP"
  },
  "312069": {
   "shares": 7774892,

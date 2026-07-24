@@ -549,11 +549,6 @@
   "value": 7263560,
   "name": "GABELLI FUNDS LLC"
  },
- "1082339": {
-  "shares": 23457,
-  "value": 7925053,
-  "name": "COLDSTREAM CAPITAL MANAGEMENT INC"
- },
  "1082509": {
   "shares": 1291,
   "value": 435983,
@@ -1763,11 +1758,6 @@
   "shares": 522169,
   "value": 176385837,
   "name": "Mariner, LLC"
- },
- "1374384": {
-  "shares": 56480,
-  "value": 18163845,
-  "name": "Intesa Sanpaolo S.p.A."
  },
  "1374889": {
   "shares": 61961,
@@ -3579,6 +3569,11 @@
   "value": 65857208,
   "name": "USS Investment Management Ltd"
  },
+ "1587973": {
+  "shares": 391334,
+  "value": 132208279,
+  "name": "State of Tennessee, Department of Treasury"
+ },
  "1588340": {
   "shares": 281291,
   "value": 95031352,
@@ -4048,11 +4043,6 @@
   "shares": 94495,
   "value": 31924,
   "name": "Pacer Advisors, Inc."
- },
- "1619124": {
-  "shares": 336884,
-  "value": 113812,
-  "name": "Cardano Risk Management B.V."
  },
  "1619532": {
   "shares": 1313,
@@ -5034,11 +5024,6 @@
   "value": 1191757,
   "name": "Shepherd Financial Partners LLC"
  },
- "1696715": {
-  "shares": 53735,
-  "value": 18154165,
-  "name": "LEVEL FOUR ADVISORY SERVICES, LLC"
- },
  "1696899": {
   "shares": 37859,
   "value": 12790373,
@@ -5594,11 +5579,6 @@
   "value": 498321,
   "name": "WealthShield Partners, LLC"
  },
- "1729304": {
-  "shares": 1118,
-  "value": 377706,
-  "name": "Holistic Financial Partners"
- },
  "1729347": {
   "shares": 900,
   "value": 518805,
@@ -5978,6 +5958,11 @@
   "shares": 50,
   "value": 16,
   "name": "FNY Investment Advisers, LLC"
+ },
+ "1743404": {
+  "shares": 13427,
+  "value": 4536238,
+  "name": "FOUNDATIONS INVESTMENT ADVISORS, LLC"
  },
  "1743413": {
   "shares": 1327,
@@ -6553,11 +6538,6 @@
   "shares": 127057,
   "value": 42924937,
   "name": "Y-Intercept (Hong Kong) Ltd"
- },
- "1773368": {
-  "shares": 59630,
-  "value": 20145,
-  "name": "Wesleyan Assurance Society"
  },
  "1774086": {
   "shares": 7963,
@@ -7239,11 +7219,6 @@
   "value": 1114872,
   "name": "MAGNOLIA CAPITAL ADVISORS LLC"
  },
- "1803675": {
-  "shares": 2713,
-  "value": 916967,
-  "name": "Keebeck Wealth Management"
- },
  "1803804": {
   "shares": 1647,
   "value": 556422,
@@ -7318,11 +7293,6 @@
   "shares": 3242,
   "value": 1095278,
   "name": "waypoint wealth counsel"
- },
- "1808179": {
-  "shares": 2866,
-  "value": 968249,
-  "name": "COLUMBIA ADVISORY PARTNERS LLC"
  },
  "1808915": {
   "shares": 15544,
@@ -7543,6 +7513,11 @@
   "shares": 1868,
   "value": 631085,
   "name": "BNC WEALTH MANAGEMENT, LLC"
+ },
+ "1821561": {
+  "shares": 4332,
+  "value": 1463523,
+  "name": "INCEPTIONR LLC"
  },
  "1821626": {
   "shares": 991,
@@ -7954,11 +7929,6 @@
   "value": 458111,
   "name": "COLLECTIVE FAMILY OFFICE LLC"
  },
- "1845109": {
-  "shares": 805,
-  "value": 271961,
-  "name": "Oder Investment Management, LLC"
- },
  "1845199": {
   "shares": 110,
   "value": 37162,
@@ -8179,11 +8149,6 @@
   "value": 3261462,
   "name": "Naviter Wealth, LLC"
  },
- "1855713": {
-  "shares": 28038,
-  "value": 9472399,
-  "name": "WCG Wealth Advisors LLC"
- },
  "1856022": {
   "shares": 12716,
   "value": 4295973,
@@ -8359,6 +8324,11 @@
   "value": 1026837,
   "name": "Strategic Financial Concepts, LLC"
  },
+ "1870761": {
+  "shares": 6634,
+  "value": 2241231,
+  "name": "Bank of New Hampshire"
+ },
  "1871926": {
   "shares": 3265420,
   "value": 1103189493,
@@ -8498,6 +8468,11 @@
   "shares": 15530,
   "value": 5246655,
   "name": "Octahedron Capital Management L.P."
+ },
+ "1892929": {
+  "shares": 1902,
+  "value": 642584,
+  "name": "Tanager Wealth Management LLP"
  },
  "1893143": {
   "shares": 15,
@@ -9269,11 +9244,6 @@
   "value": 204731,
   "name": "Quantum Private Wealth, LLC"
  },
- "1929986": {
-  "shares": 12361,
-  "value": 4176040,
-  "name": "WealthPlan Investment Management, LLC"
- },
  "1930301": {
   "shares": 1361,
   "value": 459800,
@@ -9769,6 +9739,11 @@
   "value": 253157,
   "name": "McGlone Suttner Wealth Management, Inc."
  },
+ "1964831": {
+  "shares": 146,
+  "value": 49377,
+  "name": "MRP Capital Investments, LLC"
+ },
  "1964958": {
   "shares": 21485,
   "value": 7258493,
@@ -9798,11 +9773,6 @@
   "shares": 4486,
   "value": 1518605,
   "name": "Garden State Investment Advisory Services LLC"
- },
- "1965401": {
-  "shares": 1035,
-  "value": 349664,
-  "name": "VIAWEALTH, LLC"
  },
  "1965552": {
   "shares": 11469,
@@ -10719,11 +10689,6 @@
   "value": 3866214,
   "name": "Signal Advisors Wealth, LLC"
  },
- "2010942": {
-  "shares": 5021,
-  "value": 1696157,
-  "name": "Focus Financial Network, Inc."
- },
  "2011050": {
   "shares": 1447,
   "value": 489,
@@ -11468,11 +11433,6 @@
   "shares": 1227,
   "value": 414396,
   "name": "FMB WEALTH MANAGEMENT"
- },
- "2040353": {
-  "shares": 2874,
-  "value": 970956,
-  "name": "Kera Capital Partners, Inc."
  },
  "2040405": {
   "shares": 200000,
@@ -12709,11 +12669,6 @@
   "value": 51611347,
   "name": "Pinnacle Financial Partners, Inc.  (PNFP, PNFP-PA, PNFP-PB, PNFP-PC)"
  },
- "2083087": {
-  "shares": 2015,
-  "value": 575101,
-  "name": "Wealth Science Advisors LLC"
- },
  "2083456": {
   "shares": 792,
   "value": 267569,
@@ -13713,6 +13668,11 @@
   "shares": 85275,
   "value": 28809342,
   "name": "INDEPENDENT FINANCIAL GROUP, LLC"
+ },
+ "310051": {
+  "shares": 6526,
+  "value": 2204744,
+  "name": "KING LUTHER CAPITAL MANAGEMENT CORP"
  },
  "312069": {
   "shares": 7774892,

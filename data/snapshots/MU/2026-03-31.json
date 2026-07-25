@@ -549,6 +549,11 @@
   "value": 7263560,
   "name": "GABELLI FUNDS LLC"
  },
+ "1082339": {
+  "shares": 23457,
+  "value": 7925053,
+  "name": "COLDSTREAM CAPITAL MANAGEMENT INC"
+ },
  "1082509": {
   "shares": 1291,
   "value": 435983,
@@ -2744,11 +2749,6 @@
   "value": 23969410,
   "name": "Parallax Volatility Advisers, L.P."
  },
- "1522877": {
-  "shares": 95579,
-  "value": 32290409,
-  "name": "AIA Group Ltd"
- },
  "1527641": {
   "shares": 8484,
   "value": 2866378,
@@ -3724,11 +3724,6 @@
   "value": 2800018,
   "name": "Somerset Trust Co"
  },
- "1597694": {
-  "shares": 636535,
-  "value": 215046984,
-  "name": "MUFG Securities EMEA plc"
- },
  "1597878": {
   "shares": 247,
   "value": 83,
@@ -4043,6 +4038,11 @@
   "shares": 94495,
   "value": 31924,
   "name": "Pacer Advisors, Inc."
+ },
+ "1619124": {
+  "shares": 336884,
+  "value": 113812,
+  "name": "Cardano Risk Management B.V."
  },
  "1619532": {
   "shares": 1313,
@@ -4433,11 +4433,6 @@
   "shares": 16435,
   "value": 5552401,
   "name": "EDMOND DE ROTHSCHILD HOLDING S.A."
- },
- "1650135": {
-  "shares": 251391,
-  "value": 84929935,
-  "name": "Hosking Partners LLP"
  },
  "1650150": {
   "shares": 210903,
@@ -5104,11 +5099,6 @@
   "value": 644937,
   "name": "CAMDEN NATIONAL BANK"
  },
- "1697882": {
-  "shares": 2289,
-  "value": 773455,
-  "name": "Flaharty Asset Management, LLC"
- },
  "1697953": {
   "shares": 22803,
   "value": 7704,
@@ -5463,11 +5453,6 @@
   "shares": 21960,
   "value": 7418966,
   "name": "Shay Capital LLC"
- },
- "1723925": {
-  "shares": 1798,
-  "value": 607507,
-  "name": "Legacy Financial Strategies, LLC"
  },
  "1725297": {
   "shares": 3491,
@@ -6539,6 +6524,11 @@
   "value": 42924937,
   "name": "Y-Intercept (Hong Kong) Ltd"
  },
+ "1773368": {
+  "shares": 59630,
+  "value": 20145,
+  "name": "Wesleyan Assurance Society"
+ },
  "1774086": {
   "shares": 7963,
   "value": 2690351,
@@ -6914,11 +6904,6 @@
   "value": 1505077,
   "name": "LRT Capital Management, LLC"
  },
- "1798924": {
-  "shares": 631,
-  "value": 213177,
-  "name": "Bay Rivers Group"
- },
  "1798986": {
   "shares": 56,
   "value": 19007,
@@ -7293,6 +7278,11 @@
   "shares": 3242,
   "value": 1095278,
   "name": "waypoint wealth counsel"
+ },
+ "1808179": {
+  "shares": 2866,
+  "value": 968249,
+  "name": "COLUMBIA ADVISORY PARTNERS LLC"
  },
  "1808915": {
   "shares": 15544,
@@ -7929,6 +7919,11 @@
   "value": 458111,
   "name": "COLLECTIVE FAMILY OFFICE LLC"
  },
+ "1845109": {
+  "shares": 805,
+  "value": 271961,
+  "name": "Oder Investment Management, LLC"
+ },
  "1845199": {
   "shares": 110,
   "value": 37162,
@@ -8148,6 +8143,11 @@
   "shares": 9650,
   "value": 3261462,
   "name": "Naviter Wealth, LLC"
+ },
+ "1855713": {
+  "shares": 28038,
+  "value": 9472399,
+  "name": "WCG Wealth Advisors LLC"
  },
  "1856022": {
   "shares": 12716,
@@ -9243,6 +9243,11 @@
   "shares": 606,
   "value": 204731,
   "name": "Quantum Private Wealth, LLC"
+ },
+ "1929986": {
+  "shares": 12361,
+  "value": 4176040,
+  "name": "WealthPlan Investment Management, LLC"
  },
  "1930301": {
   "shares": 1361,
@@ -10469,11 +10474,6 @@
   "value": 1197837,
   "name": "Quotient Wealth Partners, LLC"
  },
- "2005098": {
-  "shares": 785,
-  "value": 265204,
-  "name": "Rockline Wealth Management, LLC"
- },
  "2005245": {
   "shares": 6000,
   "value": 2027040,
@@ -10689,6 +10689,11 @@
   "value": 3866214,
   "name": "Signal Advisors Wealth, LLC"
  },
+ "2010942": {
+  "shares": 5021,
+  "value": 1696157,
+  "name": "Focus Financial Network, Inc."
+ },
  "2011050": {
   "shares": 1447,
   "value": 489,
@@ -10768,11 +10773,6 @@
   "shares": 131,
   "value": 44236,
   "name": "Wiser Advisor Group LLC"
- },
- "2011587": {
-  "shares": 1333,
-  "value": 450341,
-  "name": "NorthStar Asset Management LLC /NJ/"
  },
  "2011612": {
   "shares": 154811,
@@ -11433,6 +11433,11 @@
   "shares": 1227,
   "value": 414396,
   "name": "FMB WEALTH MANAGEMENT"
+ },
+ "2040353": {
+  "shares": 2874,
+  "value": 970956,
+  "name": "Kera Capital Partners, Inc."
  },
  "2040405": {
   "shares": 200000,

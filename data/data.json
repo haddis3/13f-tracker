@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-24T23:08:40.984452Z",
+ "generated": "2026-07-25T23:02:11.103805Z",
  "quarters": [
   "2026-03-31"
  ],
@@ -11,7 +11,7 @@
     {
      "q": "2026-03-31",
      "holders": 1172,
-     "valueB": 68.94,
+     "valueB": 68.93,
      "neu": 1172,
      "inc": 0,
      "dec": 0,
@@ -151,13 +151,13 @@
   },
   "MU": {
    "name": "MICRON TECHNOLOGY",
-   "sharesM": 843.7,
+   "sharesM": 843.2,
    "tl": [
     {
      "q": "2026-03-31",
-     "holders": 2978,
-     "valueB": 271.89,
-     "neu": 2978,
+     "holders": 2979,
+     "valueB": 271.58,
+     "neu": 2979,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -300,9 +300,9 @@
    "tl": [
     {
      "q": "2026-03-31",
-     "holders": 1081,
+     "holders": 1080,
      "valueB": 52.26,
-     "neu": 1081,
+     "neu": 1080,
      "inc": 0,
      "dec": 0,
      "sold": 0

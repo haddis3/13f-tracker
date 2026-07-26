@@ -374,11 +374,6 @@
   "value": 158265879,
   "name": "FEDERATED HERMES, INC.  (FHI)"
  },
- "1056516": {
-  "shares": 9528,
-  "value": 3218940,
-  "name": "Palouse Capital Management, Inc."
- },
  "1056581": {
   "shares": 140000,
   "value": 47297600,
@@ -1299,11 +1294,6 @@
   "value": 21784937,
   "name": "Advisors Asset Management, Inc."
  },
- "1299910": {
-  "shares": 300,
-  "value": 101352,
-  "name": "Skylands Capital, LLC"
- },
  "1301540": {
   "shares": 3292,
   "value": 1112169,
@@ -1763,6 +1753,11 @@
   "shares": 522169,
   "value": 176385837,
   "name": "Mariner, LLC"
+ },
+ "1374384": {
+  "shares": 56480,
+  "value": 18163845,
+  "name": "Intesa Sanpaolo S.p.A."
  },
  "1374889": {
   "shares": 61961,
@@ -3724,6 +3719,11 @@
   "value": 2800018,
   "name": "Somerset Trust Co"
  },
+ "1597694": {
+  "shares": 636535,
+  "value": 215046984,
+  "name": "MUFG Securities EMEA plc"
+ },
  "1597878": {
   "shares": 247,
   "value": 83,
@@ -5099,6 +5099,11 @@
   "value": 644937,
   "name": "CAMDEN NATIONAL BANK"
  },
+ "1697882": {
+  "shares": 2289,
+  "value": 773455,
+  "name": "Flaharty Asset Management, LLC"
+ },
  "1697953": {
   "shares": 22803,
   "value": 7704,
@@ -5454,6 +5459,11 @@
   "value": 7418966,
   "name": "Shay Capital LLC"
  },
+ "1723925": {
+  "shares": 1798,
+  "value": 607507,
+  "name": "Legacy Financial Strategies, LLC"
+ },
  "1725297": {
   "shares": 3491,
   "value": 1179399,
@@ -5563,6 +5573,11 @@
   "shares": 1475,
   "value": 498321,
   "name": "WealthShield Partners, LLC"
+ },
+ "1729304": {
+  "shares": 1118,
+  "value": 377706,
+  "name": "Holistic Financial Partners"
  },
  "1729347": {
   "shares": 900,
@@ -7243,11 +7258,6 @@
   "shares": 849,
   "value": 286856,
   "name": "TABR Capital Management, LLC"
- },
- "1806027": {
-  "shares": 1029,
-  "value": 347794,
-  "name": "Aspen Grove Capital, LLC"
  },
  "1806425": {
   "shares": 13888,
@@ -9779,6 +9789,11 @@
   "value": 1518605,
   "name": "Garden State Investment Advisory Services LLC"
  },
+ "1965401": {
+  "shares": 1035,
+  "value": 349664,
+  "name": "VIAWEALTH, LLC"
+ },
  "1965552": {
   "shares": 11469,
   "value": 3874687,
@@ -12139,11 +12154,6 @@
   "value": 165204,
   "name": "Dogwood Wealth Management LLC"
  },
- "2056976": {
-  "shares": 5000,
-  "value": 1689200,
-  "name": "Pacific Point Advisors, LLC"
- },
  "2057004": {
   "shares": 607,
   "value": 205214,
@@ -12674,6 +12684,11 @@
   "value": 51611347,
   "name": "Pinnacle Financial Partners, Inc.  (PNFP, PNFP-PA, PNFP-PB, PNFP-PC)"
  },
+ "2083087": {
+  "shares": 2015,
+  "value": 575101,
+  "name": "Wealth Science Advisors LLC"
+ },
  "2083456": {
   "shares": 792,
   "value": 267569,
@@ -12738,11 +12753,6 @@
   "shares": 5,
   "value": 1689,
   "name": "Align Financial, LLC"
- },
- "2089528": {
-  "shares": 1960,
-  "value": 662278,
-  "name": "STEINBERGANNA WEALTH MANAGEMENT"
  },
  "2090040": {
   "shares": 133,
@@ -13583,11 +13593,6 @@
   "shares": 3313,
   "value": 998,
   "name": "Forum Finance Group S.A."
- },
- "2133805": {
-  "shares": 973,
-  "value": 328719,
-  "name": "Owl Creek Wealth Partners LLC"
  },
  "2133991": {
   "shares": 1389,

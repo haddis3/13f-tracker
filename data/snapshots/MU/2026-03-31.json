@@ -374,6 +374,11 @@
   "value": 158265879,
   "name": "FEDERATED HERMES, INC.  (FHI)"
  },
+ "1056516": {
+  "shares": 9528,
+  "value": 3218940,
+  "name": "Palouse Capital Management, Inc."
+ },
  "1056581": {
   "shares": 140000,
   "value": 47297600,
@@ -1293,6 +1298,11 @@
   "shares": 64483,
   "value": 21784937,
   "name": "Advisors Asset Management, Inc."
+ },
+ "1299910": {
+  "shares": 300,
+  "value": 101352,
+  "name": "Skylands Capital, LLC"
  },
  "1301540": {
   "shares": 3292,
@@ -2743,6 +2753,11 @@
   "shares": 70949,
   "value": 23969410,
   "name": "Parallax Volatility Advisers, L.P."
+ },
+ "1522877": {
+  "shares": 95579,
+  "value": 32290409,
+  "name": "AIA Group Ltd"
  },
  "1527641": {
   "shares": 8484,
@@ -4434,6 +4449,11 @@
   "value": 5552401,
   "name": "EDMOND DE ROTHSCHILD HOLDING S.A."
  },
+ "1650135": {
+  "shares": 251391,
+  "value": 84929935,
+  "name": "Hosking Partners LLP"
+ },
  "1650150": {
   "shares": 210903,
   "value": 71278830,
@@ -4799,11 +4819,6 @@
   "value": 814071,
   "name": "Vivaldi Capital Management LP"
  },
- "1682057": {
-  "shares": 2492,
-  "value": 841897,
-  "name": "Syverson Strege & Co"
- },
  "1682576": {
   "shares": 16978,
   "value": 5735896,
@@ -5018,6 +5033,11 @@
   "shares": 3528,
   "value": 1191757,
   "name": "Shepherd Financial Partners LLC"
+ },
+ "1696715": {
+  "shares": 53735,
+  "value": 18154165,
+  "name": "LEVEL FOUR ADVISORY SERVICES, LLC"
  },
  "1696899": {
   "shares": 37859,
@@ -5458,11 +5478,6 @@
   "shares": 21960,
   "value": 7418966,
   "name": "Shay Capital LLC"
- },
- "1723925": {
-  "shares": 1798,
-  "value": 607507,
-  "name": "Legacy Financial Strategies, LLC"
  },
  "1725297": {
   "shares": 3491,
@@ -6919,6 +6934,11 @@
   "value": 1505077,
   "name": "LRT Capital Management, LLC"
  },
+ "1798924": {
+  "shares": 631,
+  "value": 213177,
+  "name": "Bay Rivers Group"
+ },
  "1798986": {
   "shares": 56,
   "value": 19007,
@@ -7259,6 +7279,11 @@
   "value": 286856,
   "name": "TABR Capital Management, LLC"
  },
+ "1806027": {
+  "shares": 1029,
+  "value": 347794,
+  "name": "Aspen Grove Capital, LLC"
+ },
  "1806425": {
   "shares": 13888,
   "value": 4691922,
@@ -7464,11 +7489,6 @@
   "value": 696228,
   "name": "Horst & Graben Wealth Management LLC"
  },
- "1818391": {
-  "shares": 2127,
-  "value": 718586,
-  "name": "Independent Solutions Wealth Management, LLC"
- },
  "1818604": {
   "shares": 246473,
   "value": 4470300,
@@ -7513,11 +7533,6 @@
   "shares": 1868,
   "value": 631085,
   "name": "BNC WEALTH MANAGEMENT, LLC"
- },
- "1821561": {
-  "shares": 4332,
-  "value": 1463523,
-  "name": "INCEPTIONR LLC"
  },
  "1821626": {
   "shares": 991,
@@ -8334,11 +8349,6 @@
   "value": 1026837,
   "name": "Strategic Financial Concepts, LLC"
  },
- "1870761": {
-  "shares": 6634,
-  "value": 2241231,
-  "name": "Bank of New Hampshire"
- },
  "1871926": {
   "shares": 3265420,
   "value": 1103189493,
@@ -8958,6 +8968,11 @@
   "shares": 5941,
   "value": 2007209,
   "name": "KRS Capital Management, LLC"
+ },
+ "1910971": {
+  "shares": 11025,
+  "value": 3724770,
+  "name": "Benchmark Investment Advisors LLC"
  },
  "1911056": {
   "shares": 13047,
@@ -10489,6 +10504,11 @@
   "value": 1197837,
   "name": "Quotient Wealth Partners, LLC"
  },
+ "2005098": {
+  "shares": 785,
+  "value": 265204,
+  "name": "Rockline Wealth Management, LLC"
+ },
  "2005245": {
   "shares": 6000,
   "value": 2027040,
@@ -10788,6 +10808,11 @@
   "shares": 131,
   "value": 44236,
   "name": "Wiser Advisor Group LLC"
+ },
+ "2011587": {
+  "shares": 1333,
+  "value": 450341,
+  "name": "NorthStar Asset Management LLC /NJ/"
  },
  "2011612": {
   "shares": 154811,
@@ -11353,11 +11378,6 @@
   "shares": 1008,
   "value": 340686,
   "name": "Hershey Financial Advisers, LLC"
- },
- "2034793": {
-  "shares": 2162,
-  "value": 730734,
-  "name": "Ariadne Wealth Management, LP"
  },
  "2035215": {
   "shares": 269,
@@ -12154,6 +12174,11 @@
   "value": 165204,
   "name": "Dogwood Wealth Management LLC"
  },
+ "2056976": {
+  "shares": 5000,
+  "value": 1689200,
+  "name": "Pacific Point Advisors, LLC"
+ },
  "2057004": {
   "shares": 607,
   "value": 205214,
@@ -12753,6 +12778,11 @@
   "shares": 5,
   "value": 1689,
   "name": "Align Financial, LLC"
+ },
+ "2089528": {
+  "shares": 1960,
+  "value": 662278,
+  "name": "STEINBERGANNA WEALTH MANAGEMENT"
  },
  "2090040": {
   "shares": 133,
@@ -13594,6 +13624,11 @@
   "value": 998,
   "name": "Forum Finance Group S.A."
  },
+ "2133805": {
+  "shares": 973,
+  "value": 328719,
+  "name": "Owl Creek Wealth Partners LLC"
+ },
  "2133991": {
   "shares": 1389,
   "value": 469260,
@@ -13678,11 +13713,6 @@
   "shares": 85275,
   "value": 28809342,
   "name": "INDEPENDENT FINANCIAL GROUP, LLC"
- },
- "310051": {
-  "shares": 6526,
-  "value": 2204744,
-  "name": "KING LUTHER CAPITAL MANAGEMENT CORP"
  },
  "312069": {
   "shares": 7774892,

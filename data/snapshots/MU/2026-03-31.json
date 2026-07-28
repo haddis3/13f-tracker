@@ -3734,11 +3734,6 @@
   "value": 2800018,
   "name": "Somerset Trust Co"
  },
- "1597694": {
-  "shares": 636535,
-  "value": 215046984,
-  "name": "MUFG Securities EMEA plc"
- },
  "1597878": {
   "shares": 247,
   "value": 83,
@@ -4053,11 +4048,6 @@
   "shares": 94495,
   "value": 31924,
   "name": "Pacer Advisors, Inc."
- },
- "1619124": {
-  "shares": 336884,
-  "value": 113812,
-  "name": "Cardano Risk Management B.V."
  },
  "1619532": {
   "shares": 1313,
@@ -4819,6 +4809,11 @@
   "value": 814071,
   "name": "Vivaldi Capital Management LP"
  },
+ "1682057": {
+  "shares": 2492,
+  "value": 841897,
+  "name": "Syverson Strege & Co"
+ },
  "1682576": {
   "shares": 16978,
   "value": 5735896,
@@ -5229,11 +5224,6 @@
   "value": 10596014,
   "name": "Morse Asset Management, Inc"
  },
- "1705929": {
-  "shares": 1907,
-  "value": 644261,
-  "name": "QUATTRO FINANCIAL ADVISORS LLC"
- },
  "1706028": {
   "shares": 13702,
   "value": 4629089,
@@ -5479,6 +5469,11 @@
   "value": 7418966,
   "name": "Shay Capital LLC"
  },
+ "1723925": {
+  "shares": 1798,
+  "value": 607507,
+  "name": "Legacy Financial Strategies, LLC"
+ },
  "1725297": {
   "shares": 3491,
   "value": 1179399,
@@ -5588,11 +5583,6 @@
   "shares": 1475,
   "value": 498321,
   "name": "WealthShield Partners, LLC"
- },
- "1729304": {
-  "shares": 1118,
-  "value": 377706,
-  "name": "Holistic Financial Partners"
  },
  "1729347": {
   "shares": 900,
@@ -5973,11 +5963,6 @@
   "shares": 50,
   "value": 16,
   "name": "FNY Investment Advisers, LLC"
- },
- "1743404": {
-  "shares": 13427,
-  "value": 4536238,
-  "name": "FOUNDATIONS INVESTMENT ADVISORS, LLC"
  },
  "1743413": {
   "shares": 1327,
@@ -7239,6 +7224,11 @@
   "value": 1114872,
   "name": "MAGNOLIA CAPITAL ADVISORS LLC"
  },
+ "1803675": {
+  "shares": 2713,
+  "value": 916967,
+  "name": "Keebeck Wealth Management"
+ },
  "1803804": {
   "shares": 1647,
   "value": 556422,
@@ -7489,6 +7479,11 @@
   "value": 696228,
   "name": "Horst & Graben Wealth Management LLC"
  },
+ "1818391": {
+  "shares": 2127,
+  "value": 718586,
+  "name": "Independent Solutions Wealth Management, LLC"
+ },
  "1818604": {
   "shares": 246473,
   "value": 4470300,
@@ -7533,6 +7528,11 @@
   "shares": 1868,
   "value": 631085,
   "name": "BNC WEALTH MANAGEMENT, LLC"
+ },
+ "1821561": {
+  "shares": 4332,
+  "value": 1463523,
+  "name": "INCEPTIONR LLC"
  },
  "1821626": {
   "shares": 991,
@@ -8348,6 +8348,11 @@
   "shares": 3039,
   "value": 1026837,
   "name": "Strategic Financial Concepts, LLC"
+ },
+ "1870761": {
+  "shares": 6634,
+  "value": 2241231,
+  "name": "Bank of New Hampshire"
  },
  "1871926": {
   "shares": 3265420,
@@ -9269,11 +9274,6 @@
   "value": 204731,
   "name": "Quantum Private Wealth, LLC"
  },
- "1929986": {
-  "shares": 12361,
-  "value": 4176040,
-  "name": "WealthPlan Investment Management, LLC"
- },
  "1930301": {
   "shares": 1361,
   "value": 459800,
@@ -9803,11 +9803,6 @@
   "shares": 4486,
   "value": 1518605,
   "name": "Garden State Investment Advisory Services LLC"
- },
- "1965401": {
-  "shares": 1035,
-  "value": 349664,
-  "name": "VIAWEALTH, LLC"
  },
  "1965552": {
   "shares": 11469,
@@ -11379,6 +11374,11 @@
   "value": 340686,
   "name": "Hershey Financial Advisers, LLC"
  },
+ "2034793": {
+  "shares": 2162,
+  "value": 730734,
+  "name": "Ariadne Wealth Management, LP"
+ },
  "2035215": {
   "shares": 269,
   "value": 90876,
@@ -11723,11 +11723,6 @@
   "shares": 16616,
   "value": 12737192,
   "name": "VestGen Advisors, LLC"
- },
- "2050660": {
-  "shares": 709,
-  "value": 239538,
-  "name": "VSM Wealth Advisory, LLC"
  },
  "2050972": {
   "shares": 11457,
@@ -12708,11 +12703,6 @@
   "shares": 152764,
   "value": 51611347,
   "name": "Pinnacle Financial Partners, Inc.  (PNFP, PNFP-PA, PNFP-PB, PNFP-PC)"
- },
- "2083087": {
-  "shares": 2015,
-  "value": 575101,
-  "name": "Wealth Science Advisors LLC"
  },
  "2083456": {
   "shares": 792,
@@ -13713,6 +13703,11 @@
   "shares": 85275,
   "value": 28809342,
   "name": "INDEPENDENT FINANCIAL GROUP, LLC"
+ },
+ "310051": {
+  "shares": 6526,
+  "value": 2204744,
+  "name": "KING LUTHER CAPITAL MANAGEMENT CORP"
  },
  "312069": {
   "shares": 7774892,

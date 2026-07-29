@@ -549,11 +549,6 @@
   "value": 7263560,
   "name": "GABELLI FUNDS LLC"
  },
- "1082339": {
-  "shares": 23457,
-  "value": 7925053,
-  "name": "COLDSTREAM CAPITAL MANAGEMENT INC"
- },
  "1082509": {
   "shares": 1291,
   "value": 435983,
@@ -2754,11 +2749,6 @@
   "value": 23969410,
   "name": "Parallax Volatility Advisers, L.P."
  },
- "1522877": {
-  "shares": 95579,
-  "value": 32290409,
-  "name": "AIA Group Ltd"
- },
  "1527641": {
   "shares": 8484,
   "value": 2866378,
@@ -3733,6 +3723,11 @@
   "shares": 8288,
   "value": 2800018,
   "name": "Somerset Trust Co"
+ },
+ "1597694": {
+  "shares": 636535,
+  "value": 215046984,
+  "name": "MUFG Securities EMEA plc"
  },
  "1597878": {
   "shares": 247,
@@ -5224,6 +5219,11 @@
   "value": 10596014,
   "name": "Morse Asset Management, Inc"
  },
+ "1705929": {
+  "shares": 1907,
+  "value": 644261,
+  "name": "QUATTRO FINANCIAL ADVISORS LLC"
+ },
  "1706028": {
   "shares": 13702,
   "value": 4629089,
@@ -5583,6 +5583,11 @@
   "shares": 1475,
   "value": 498321,
   "name": "WealthShield Partners, LLC"
+ },
+ "1729304": {
+  "shares": 1118,
+  "value": 377706,
+  "name": "Holistic Financial Partners"
  },
  "1729347": {
   "shares": 900,
@@ -7269,11 +7274,6 @@
   "value": 286856,
   "name": "TABR Capital Management, LLC"
  },
- "1806027": {
-  "shares": 1029,
-  "value": 347794,
-  "name": "Aspen Grove Capital, LLC"
- },
  "1806425": {
   "shares": 13888,
   "value": 4691922,
@@ -8169,11 +8169,6 @@
   "value": 3261462,
   "name": "Naviter Wealth, LLC"
  },
- "1855713": {
-  "shares": 28038,
-  "value": 9472399,
-  "name": "WCG Wealth Advisors LLC"
- },
  "1856022": {
   "shares": 12716,
   "value": 4295973,
@@ -8974,11 +8969,6 @@
   "value": 2007209,
   "name": "KRS Capital Management, LLC"
  },
- "1910971": {
-  "shares": 11025,
-  "value": 3724770,
-  "name": "Benchmark Investment Advisors LLC"
- },
  "1911056": {
   "shares": 13047,
   "value": 4407610,
@@ -9273,6 +9263,11 @@
   "shares": 606,
   "value": 204731,
   "name": "Quantum Private Wealth, LLC"
+ },
+ "1929986": {
+  "shares": 12361,
+  "value": 4176040,
+  "name": "WealthPlan Investment Management, LLC"
  },
  "1930301": {
   "shares": 1361,
@@ -9803,6 +9798,11 @@
   "shares": 4486,
   "value": 1518605,
   "name": "Garden State Investment Advisory Services LLC"
+ },
+ "1965401": {
+  "shares": 1035,
+  "value": 349664,
+  "name": "VIAWEALTH, LLC"
  },
  "1965552": {
   "shares": 11469,
@@ -11724,6 +11724,11 @@
   "value": 12737192,
   "name": "VestGen Advisors, LLC"
  },
+ "2050660": {
+  "shares": 709,
+  "value": 239538,
+  "name": "VSM Wealth Advisory, LLC"
+ },
  "2050972": {
   "shares": 11457,
   "value": 3871049,
@@ -12703,6 +12708,11 @@
   "shares": 152764,
   "value": 51611347,
   "name": "Pinnacle Financial Partners, Inc.  (PNFP, PNFP-PA, PNFP-PB, PNFP-PC)"
+ },
+ "2083087": {
+  "shares": 2015,
+  "value": 575101,
+  "name": "Wealth Science Advisors LLC"
  },
  "2083456": {
   "shares": 792,
@@ -14708,11 +14718,6 @@
   "shares": 28573,
   "value": 9653102,
   "name": "ALERUS FINANCIAL NA"
- },
- "919530": {
-  "shares": 2860,
-  "value": 966222,
-  "name": "JOHN G ULLMAN & ASSOCIATES INC"
  },
  "919859": {
   "shares": 480409,

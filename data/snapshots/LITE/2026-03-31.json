@@ -3769,6 +3769,11 @@
   "value": 277590,
   "name": "Trivant Custom Portfolio Group, LLC"
  },
+ "1978011": {
+  "shares": 457,
+  "value": 321161,
+  "name": "Abacus Wealth Partners, LLC"
+ },
  "1978879": {
   "shares": 3154,
   "value": 2216505,
@@ -3898,11 +3903,6 @@
   "shares": 4218,
   "value": 2964242,
   "name": "Concurrent Investment Advisors, LLC"
- },
- "2001019": {
-  "shares": 10290,
-  "value": 7231400,
-  "name": "NEOS Investment Management LLC"
  },
  "2001039": {
   "shares": 341,

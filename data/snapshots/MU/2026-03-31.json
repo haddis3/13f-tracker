@@ -549,6 +549,11 @@
   "value": 7263560,
   "name": "GABELLI FUNDS LLC"
  },
+ "1082339": {
+  "shares": 23457,
+  "value": 7925053,
+  "name": "COLDSTREAM CAPITAL MANAGEMENT INC"
+ },
  "1082509": {
   "shares": 1291,
   "value": 435983,
@@ -1293,11 +1298,6 @@
   "shares": 64483,
   "value": 21784937,
   "name": "Advisors Asset Management, Inc."
- },
- "1299910": {
-  "shares": 300,
-  "value": 101352,
-  "name": "Skylands Capital, LLC"
  },
  "1301540": {
   "shares": 3292,
@@ -2064,11 +2064,6 @@
   "value": 127891290,
   "name": "CIBC WORLD MARKET INC."
  },
- "1422508": {
-  "shares": 5502,
-  "value": 1858795,
-  "name": "Montecito Bank & Trust"
- },
  "1422848": {
   "shares": 4156259,
   "value": 1404036123,
@@ -2748,6 +2743,11 @@
   "shares": 70949,
   "value": 23969410,
   "name": "Parallax Volatility Advisers, L.P."
+ },
+ "1522877": {
+  "shares": 95579,
+  "value": 32290409,
+  "name": "AIA Group Ltd"
  },
  "1527641": {
   "shares": 8484,
@@ -4499,11 +4499,6 @@
   "value": 751357,
   "name": "BEACON INVESTMENT ADVISORY SERVICES, INC."
  },
- "1654847": {
-  "shares": 18144,
-  "value": 6130,
-  "name": "Community Bank & Trust, Waco, Texas"
- },
  "1655006": {
   "shares": 11591,
   "value": 3915790,
@@ -5383,11 +5378,6 @@
   "shares": 1589,
   "value": 536827,
   "name": "Diametric Capital, LP"
- },
- "1719305": {
-  "shares": 60128,
-  "value": 20313766,
-  "name": "Verdence Capital Advisors LLC"
  },
  "1720777": {
   "shares": 1487,
@@ -6544,11 +6534,6 @@
   "value": 42924937,
   "name": "Y-Intercept (Hong Kong) Ltd"
  },
- "1773368": {
-  "shares": 59630,
-  "value": 20145,
-  "name": "Wesleyan Assurance Society"
- },
  "1774086": {
   "shares": 7963,
   "value": 2690351,
@@ -6793,11 +6778,6 @@
   "shares": 1214,
   "value": 410110,
   "name": "Beck Bode, LLC"
- },
- "1791002": {
-  "shares": 1772,
-  "value": 598652,
-  "name": "Xcel Wealth Management, LLC"
  },
  "1791126": {
   "shares": 728,
@@ -7274,6 +7254,11 @@
   "value": 286856,
   "name": "TABR Capital Management, LLC"
  },
+ "1806027": {
+  "shares": 1029,
+  "value": 347794,
+  "name": "Aspen Grove Capital, LLC"
+ },
  "1806425": {
   "shares": 13888,
   "value": 4691922,
@@ -7303,11 +7288,6 @@
   "shares": 3242,
   "value": 1095278,
   "name": "waypoint wealth counsel"
- },
- "1808179": {
-  "shares": 2866,
-  "value": 968249,
-  "name": "COLUMBIA ADVISORY PARTNERS LLC"
  },
  "1808915": {
   "shares": 15544,
@@ -7944,11 +7924,6 @@
   "value": 458111,
   "name": "COLLECTIVE FAMILY OFFICE LLC"
  },
- "1845109": {
-  "shares": 805,
-  "value": 271961,
-  "name": "Oder Investment Management, LLC"
- },
  "1845199": {
   "shares": 110,
   "value": 37162,
@@ -8169,6 +8144,11 @@
   "value": 3261462,
   "name": "Naviter Wealth, LLC"
  },
+ "1855713": {
+  "shares": 28038,
+  "value": 9472399,
+  "name": "WCG Wealth Advisors LLC"
+ },
  "1856022": {
   "shares": 12716,
   "value": 4295973,
@@ -8228,11 +8208,6 @@
   "shares": 690,
   "value": 280644,
   "name": "Lauer Wealth, LLC"
- },
- "1861026": {
-  "shares": 134816,
-  "value": 45564282,
-  "name": "Marathon Asset Management Ltd"
  },
  "1861642": {
   "shares": 26832,
@@ -8969,6 +8944,11 @@
   "value": 2007209,
   "name": "KRS Capital Management, LLC"
  },
+ "1910971": {
+  "shares": 11025,
+  "value": 3724770,
+  "name": "Benchmark Investment Advisors LLC"
+ },
  "1911056": {
   "shares": 13047,
   "value": 4407610,
@@ -9038,11 +9018,6 @@
   "shares": 3206,
   "value": 1083093,
   "name": "Forum Financial Management, LP"
- },
- "1912202": {
-  "shares": 4028,
-  "value": 1360907,
-  "name": "Leo Wealth, LLC"
  },
  "1912338": {
   "shares": 4805,
@@ -9193,11 +9168,6 @@
   "shares": 5305,
   "value": 1792241,
   "name": "FIDUCIARY FINANCIAL GROUP, LLC"
- },
- "1925853": {
-  "shares": 1214,
-  "value": 410169,
-  "name": "Sterling Investment Counsel, LLC"
  },
  "1926596": {
   "shares": 3800,
@@ -12779,11 +12749,6 @@
   "value": 1689,
   "name": "Align Financial, LLC"
  },
- "2089528": {
-  "shares": 1960,
-  "value": 662278,
-  "name": "STEINBERGANNA WEALTH MANAGEMENT"
- },
  "2090040": {
   "shares": 133,
   "value": 45000,
@@ -13008,11 +12973,6 @@
   "shares": 1238,
   "value": 418121,
   "name": "FOCUSED ALPHA, LLC"
- },
- "2105395": {
-  "shares": 64057,
-  "value": 21641017,
-  "name": "Arbejdsmarkedets Tillaegspension"
  },
  "2105684": {
   "shares": 3105,
@@ -14718,6 +14678,11 @@
   "shares": 28573,
   "value": 9653102,
   "name": "ALERUS FINANCIAL NA"
+ },
+ "919530": {
+  "shares": 2860,
+  "value": 966222,
+  "name": "JOHN G ULLMAN & ASSOCIATES INC"
  },
  "919859": {
   "shares": 480409,

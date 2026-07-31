@@ -2874,11 +2874,6 @@
   "value": 338830,
   "name": "Apella Capital, LLC"
  },
- "1801523": {
-  "shares": 779,
-  "value": 547450,
-  "name": "Perennial Investment Advisors, LLC"
- },
  "1801547": {
   "shares": 212056,
   "value": 149024475,
@@ -3903,6 +3898,11 @@
   "shares": 4218,
   "value": 2964242,
   "name": "Concurrent Investment Advisors, LLC"
+ },
+ "2001019": {
+  "shares": 10290,
+  "value": 7231400,
+  "name": "NEOS Investment Management LLC"
  },
  "2001039": {
   "shares": 341,

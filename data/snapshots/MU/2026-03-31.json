@@ -374,11 +374,6 @@
   "value": 158265879,
   "name": "FEDERATED HERMES, INC.  (FHI)"
  },
- "1056516": {
-  "shares": 9528,
-  "value": 3218940,
-  "name": "Palouse Capital Management, Inc."
- },
  "1056581": {
   "shares": 140000,
   "value": 47297600,
@@ -1299,6 +1294,11 @@
   "value": 21784937,
   "name": "Advisors Asset Management, Inc."
  },
+ "1299910": {
+  "shares": 300,
+  "value": 101352,
+  "name": "Skylands Capital, LLC"
+ },
  "1301540": {
   "shares": 3292,
   "value": 1112169,
@@ -2063,6 +2063,11 @@
   "shares": 378556,
   "value": 127891290,
   "name": "CIBC WORLD MARKET INC."
+ },
+ "1422508": {
+  "shares": 5502,
+  "value": 1858795,
+  "name": "Montecito Bank & Trust"
  },
  "1422848": {
   "shares": 4156259,
@@ -4499,6 +4504,11 @@
   "value": 751357,
   "name": "BEACON INVESTMENT ADVISORY SERVICES, INC."
  },
+ "1654847": {
+  "shares": 18144,
+  "value": 6130,
+  "name": "Community Bank & Trust, Waco, Texas"
+ },
  "1655006": {
   "shares": 11591,
   "value": 3915790,
@@ -4753,11 +4763,6 @@
   "shares": 9045,
   "value": 3055764,
   "name": "Simmons Bank"
- },
- "1674836": {
-  "shares": 11125,
-  "value": 3758470,
-  "name": "LEE JOHNSON CAPITAL MANAGEMENT, LLC"
  },
  "1676603": {
   "shares": 2700,
@@ -5213,11 +5218,6 @@
   "shares": 31364,
   "value": 10596014,
   "name": "Morse Asset Management, Inc"
- },
- "1705929": {
-  "shares": 1907,
-  "value": 644261,
-  "name": "QUATTRO FINANCIAL ADVISORS LLC"
  },
  "1706028": {
   "shares": 13702,
@@ -5959,6 +5959,11 @@
   "value": 16,
   "name": "FNY Investment Advisers, LLC"
  },
+ "1743404": {
+  "shares": 13427,
+  "value": 4536238,
+  "name": "FOUNDATIONS INVESTMENT ADVISORS, LLC"
+ },
  "1743413": {
   "shares": 1327,
   "value": 448163,
@@ -6534,6 +6539,11 @@
   "value": 42924937,
   "name": "Y-Intercept (Hong Kong) Ltd"
  },
+ "1773368": {
+  "shares": 59630,
+  "value": 20145,
+  "name": "Wesleyan Assurance Society"
+ },
  "1774086": {
   "shares": 7963,
   "value": 2690351,
@@ -6778,6 +6788,11 @@
   "shares": 1214,
   "value": 410110,
   "name": "Beck Bode, LLC"
+ },
+ "1791002": {
+  "shares": 1772,
+  "value": 598652,
+  "name": "Xcel Wealth Management, LLC"
  },
  "1791126": {
   "shares": 728,
@@ -7254,11 +7269,6 @@
   "value": 286856,
   "name": "TABR Capital Management, LLC"
  },
- "1806027": {
-  "shares": 1029,
-  "value": 347794,
-  "name": "Aspen Grove Capital, LLC"
- },
  "1806425": {
   "shares": 13888,
   "value": 4691922,
@@ -7288,6 +7298,11 @@
   "shares": 3242,
   "value": 1095278,
   "name": "waypoint wealth counsel"
+ },
+ "1808179": {
+  "shares": 2866,
+  "value": 968249,
+  "name": "COLUMBIA ADVISORY PARTNERS LLC"
  },
  "1808915": {
   "shares": 15544,
@@ -7924,6 +7939,11 @@
   "value": 458111,
   "name": "COLLECTIVE FAMILY OFFICE LLC"
  },
+ "1845109": {
+  "shares": 805,
+  "value": 271961,
+  "name": "Oder Investment Management, LLC"
+ },
  "1845199": {
   "shares": 110,
   "value": 37162,
@@ -8208,6 +8228,11 @@
   "shares": 690,
   "value": 280644,
   "name": "Lauer Wealth, LLC"
+ },
+ "1861026": {
+  "shares": 134816,
+  "value": 45564282,
+  "name": "Marathon Asset Management Ltd"
  },
  "1861642": {
   "shares": 26832,
@@ -9019,6 +9044,11 @@
   "value": 1083093,
   "name": "Forum Financial Management, LP"
  },
+ "1912202": {
+  "shares": 4028,
+  "value": 1360907,
+  "name": "Leo Wealth, LLC"
+ },
  "1912338": {
   "shares": 4805,
   "value": 1623299,
@@ -9168,6 +9198,11 @@
   "shares": 5305,
   "value": 1792241,
   "name": "FIDUCIARY FINANCIAL GROUP, LLC"
+ },
+ "1925853": {
+  "shares": 1214,
+  "value": 410169,
+  "name": "Sterling Investment Counsel, LLC"
  },
  "1926596": {
   "shares": 3800,
@@ -12144,11 +12179,6 @@
   "value": 165204,
   "name": "Dogwood Wealth Management LLC"
  },
- "2056976": {
-  "shares": 5000,
-  "value": 1689200,
-  "name": "Pacific Point Advisors, LLC"
- },
  "2057004": {
   "shares": 607,
   "value": 205214,
@@ -12749,6 +12779,11 @@
   "value": 1689,
   "name": "Align Financial, LLC"
  },
+ "2089528": {
+  "shares": 1960,
+  "value": 662278,
+  "name": "STEINBERGANNA WEALTH MANAGEMENT"
+ },
  "2090040": {
   "shares": 133,
   "value": 45000,
@@ -12973,6 +13008,11 @@
   "shares": 1238,
   "value": 418121,
   "name": "FOCUSED ALPHA, LLC"
+ },
+ "2105395": {
+  "shares": 64057,
+  "value": 21641017,
+  "name": "Arbejdsmarkedets Tillaegspension"
  },
  "2105684": {
   "shares": 3105,

@@ -59,11 +59,6 @@
   "value": 220463,
   "name": "WEDGE CAPITAL MANAGEMENT L L P/NC"
  },
- "1017284": {
-  "shares": 545,
-  "value": 346260,
-  "name": "THOMPSON DAVIS & CO., INC."
- },
  "1018331": {
   "shares": 39944,
   "value": 25378,
@@ -418,6 +413,11 @@
   "shares": 562,
   "value": 357061,
   "name": "BLUEFIN CAPITAL MANAGEMENT, LLC"
+ },
+ "1161722": {
+  "shares": 2420,
+  "value": 1537523,
+  "name": "HOLLENCREST CAPITAL MANAGEMENT"
  },
  "1162170": {
   "shares": 1922,
@@ -1453,6 +1453,11 @@
   "shares": 2,
   "value": 1271,
   "name": "Westside Investment Management, Inc."
+ },
+ "1538449": {
+  "shares": 30538,
+  "value": 19402013,
+  "name": "Mawer Investment Management Ltd."
  },
  "1538853": {
   "shares": 3565,
@@ -4708,6 +4713,11 @@
   "shares": 5,
   "value": 3177,
   "name": "Hughes Financial Services, LLC"
+ },
+ "2054543": {
+  "shares": 431,
+  "value": 273832,
+  "name": "POINCIANA ADVISORS GROUP, LLC"
  },
  "2054825": {
   "shares": 353,

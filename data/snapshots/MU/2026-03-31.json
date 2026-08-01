@@ -374,6 +374,11 @@
   "value": 158265879,
   "name": "FEDERATED HERMES, INC.  (FHI)"
  },
+ "1056516": {
+  "shares": 9528,
+  "value": 3218940,
+  "name": "Palouse Capital Management, Inc."
+ },
  "1056581": {
   "shares": 140000,
   "value": 47297600,
@@ -1514,11 +1519,6 @@
   "value": 13749818,
   "name": "Equitable Holdings, Inc.  (EQH, EQH-PA, EQH-PC)"
  },
- "1335325": {
-  "shares": 3800,
-  "value": 1283792,
-  "name": "HighVista Strategies LLC"
- },
  "1335644": {
   "shares": 85338,
   "value": 28830704,
@@ -1758,11 +1758,6 @@
   "shares": 522169,
   "value": 176385837,
   "name": "Mariner, LLC"
- },
- "1374384": {
-  "shares": 56480,
-  "value": 18163845,
-  "name": "Intesa Sanpaolo S.p.A."
  },
  "1374889": {
   "shares": 61961,
@@ -4764,6 +4759,11 @@
   "value": 3055764,
   "name": "Simmons Bank"
  },
+ "1674836": {
+  "shares": 11125,
+  "value": 3758470,
+  "name": "LEE JOHNSON CAPITAL MANAGEMENT, LLC"
+ },
  "1676603": {
   "shares": 2700,
   "value": 912168,
@@ -5109,11 +5109,6 @@
   "value": 644937,
   "name": "CAMDEN NATIONAL BANK"
  },
- "1697882": {
-  "shares": 2289,
-  "value": 773455,
-  "name": "Flaharty Asset Management, LLC"
- },
  "1697953": {
   "shares": 22803,
   "value": 7704,
@@ -5218,6 +5213,11 @@
   "shares": 31364,
   "value": 10596014,
   "name": "Morse Asset Management, Inc"
+ },
+ "1705929": {
+  "shares": 1907,
+  "value": 644261,
+  "name": "QUATTRO FINANCIAL ADVISORS LLC"
  },
  "1706028": {
   "shares": 13702,
@@ -5378,6 +5378,11 @@
   "shares": 1589,
   "value": 536827,
   "name": "Diametric Capital, LP"
+ },
+ "1719305": {
+  "shares": 60128,
+  "value": 20313766,
+  "name": "Verdence Capital Advisors LLC"
  },
  "1720777": {
   "shares": 1487,
@@ -6919,11 +6924,6 @@
   "value": 1505077,
   "name": "LRT Capital Management, LLC"
  },
- "1798924": {
-  "shares": 631,
-  "value": 213177,
-  "name": "Bay Rivers Group"
- },
  "1798986": {
   "shares": 56,
   "value": 19007,
@@ -7224,11 +7224,6 @@
   "value": 1114872,
   "name": "MAGNOLIA CAPITAL ADVISORS LLC"
  },
- "1803675": {
-  "shares": 2713,
-  "value": 916967,
-  "name": "Keebeck Wealth Management"
- },
  "1803804": {
   "shares": 1647,
   "value": 556422,
@@ -7268,6 +7263,11 @@
   "shares": 849,
   "value": 286856,
   "name": "TABR Capital Management, LLC"
+ },
+ "1806027": {
+  "shares": 1029,
+  "value": 347794,
+  "name": "Aspen Grove Capital, LLC"
  },
  "1806425": {
   "shares": 13888,
@@ -7523,11 +7523,6 @@
   "shares": 1868,
   "value": 631085,
   "name": "BNC WEALTH MANAGEMENT, LLC"
- },
- "1821561": {
-  "shares": 4332,
-  "value": 1463523,
-  "name": "INCEPTIONR LLC"
  },
  "1821626": {
   "shares": 991,
@@ -8343,11 +8338,6 @@
   "shares": 3039,
   "value": 1026837,
   "name": "Strategic Financial Concepts, LLC"
- },
- "1870761": {
-  "shares": 6634,
-  "value": 2241231,
-  "name": "Bank of New Hampshire"
  },
  "1871926": {
   "shares": 3265420,
@@ -10809,11 +10799,6 @@
   "value": 44236,
   "name": "Wiser Advisor Group LLC"
  },
- "2011587": {
-  "shares": 1333,
-  "value": 450341,
-  "name": "NorthStar Asset Management LLC /NJ/"
- },
  "2011612": {
   "shares": 154811,
   "value": 52304990,
@@ -12178,6 +12163,11 @@
   "shares": 489,
   "value": 165204,
   "name": "Dogwood Wealth Management LLC"
+ },
+ "2056976": {
+  "shares": 5000,
+  "value": 1689200,
+  "name": "Pacific Point Advisors, LLC"
  },
  "2057004": {
   "shares": 607,
@@ -13713,11 +13703,6 @@
   "shares": 85275,
   "value": 28809342,
   "name": "INDEPENDENT FINANCIAL GROUP, LLC"
- },
- "310051": {
-  "shares": 6526,
-  "value": 2204744,
-  "name": "KING LUTHER CAPITAL MANAGEMENT CORP"
  },
  "312069": {
   "shares": 7774892,

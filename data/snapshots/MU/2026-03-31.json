@@ -1299,11 +1299,6 @@
   "value": 21784937,
   "name": "Advisors Asset Management, Inc."
  },
- "1299910": {
-  "shares": 300,
-  "value": 101352,
-  "name": "Skylands Capital, LLC"
- },
  "1301540": {
   "shares": 3292,
   "value": 1112169,
@@ -1518,6 +1513,11 @@
   "shares": 47836,
   "value": 13749818,
   "name": "Equitable Holdings, Inc.  (EQH, EQH-PA, EQH-PC)"
+ },
+ "1335325": {
+  "shares": 3800,
+  "value": 1283792,
+  "name": "HighVista Strategies LLC"
  },
  "1335644": {
   "shares": 85338,
@@ -1758,6 +1758,11 @@
   "shares": 522169,
   "value": 176385837,
   "name": "Mariner, LLC"
+ },
+ "1374384": {
+  "shares": 56480,
+  "value": 18163845,
+  "name": "Intesa Sanpaolo S.p.A."
  },
  "1374889": {
   "shares": 61961,
@@ -2058,11 +2063,6 @@
   "shares": 378556,
   "value": 127891290,
   "name": "CIBC WORLD MARKET INC."
- },
- "1422508": {
-  "shares": 5502,
-  "value": 1858795,
-  "name": "Montecito Bank & Trust"
  },
  "1422848": {
   "shares": 4156259,
@@ -4044,6 +4044,11 @@
   "value": 31924,
   "name": "Pacer Advisors, Inc."
  },
+ "1619124": {
+  "shares": 336884,
+  "value": 113812,
+  "name": "Cardano Risk Management B.V."
+ },
  "1619532": {
   "shares": 1313,
   "value": 443442,
@@ -4759,11 +4764,6 @@
   "value": 3055764,
   "name": "Simmons Bank"
  },
- "1674836": {
-  "shares": 11125,
-  "value": 3758470,
-  "name": "LEE JOHNSON CAPITAL MANAGEMENT, LLC"
- },
  "1676603": {
   "shares": 2700,
   "value": 912168,
@@ -5108,6 +5108,11 @@
   "shares": 1909,
   "value": 644937,
   "name": "CAMDEN NATIONAL BANK"
+ },
+ "1697882": {
+  "shares": 2289,
+  "value": 773455,
+  "name": "Flaharty Asset Management, LLC"
  },
  "1697953": {
   "shares": 22803,
@@ -6794,11 +6799,6 @@
   "value": 410110,
   "name": "Beck Bode, LLC"
  },
- "1791002": {
-  "shares": 1772,
-  "value": 598652,
-  "name": "Xcel Wealth Management, LLC"
- },
  "1791126": {
   "shares": 728,
   "value": 272808,
@@ -7223,6 +7223,11 @@
   "shares": 3300,
   "value": 1114872,
   "name": "MAGNOLIA CAPITAL ADVISORS LLC"
+ },
+ "1803675": {
+  "shares": 2713,
+  "value": 916967,
+  "name": "Keebeck Wealth Management"
  },
  "1803804": {
   "shares": 1647,
@@ -8338,6 +8343,11 @@
   "shares": 3039,
   "value": 1026837,
   "name": "Strategic Financial Concepts, LLC"
+ },
+ "1870761": {
+  "shares": 6634,
+  "value": 2241231,
+  "name": "Bank of New Hampshire"
  },
  "1871926": {
   "shares": 3265420,
@@ -12204,11 +12214,6 @@
   "value": 317570,
   "name": "Lighthouse Financial LLC"
  },
- "2057602": {
-  "shares": 759,
-  "value": 256293,
-  "name": "Challenger Wealth Management"
- },
  "2057637": {
   "shares": 1301,
   "value": 439593,
@@ -12768,11 +12773,6 @@
   "shares": 5,
   "value": 1689,
   "name": "Align Financial, LLC"
- },
- "2089528": {
-  "shares": 1960,
-  "value": 662278,
-  "name": "STEINBERGANNA WEALTH MANAGEMENT"
  },
  "2090040": {
   "shares": 133,
@@ -13523,11 +13523,6 @@
   "shares": 1312,
   "value": 443246,
   "name": "Merited Wealth, LLC"
- },
- "2124354": {
-  "shares": 551,
-  "value": 226231,
-  "name": "Elevation Advisory Partners LLC"
  },
  "2124777": {
   "shares": 2700,

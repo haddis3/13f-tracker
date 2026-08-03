@@ -1299,6 +1299,11 @@
   "value": 21784937,
   "name": "Advisors Asset Management, Inc."
  },
+ "1299910": {
+  "shares": 300,
+  "value": 101352,
+  "name": "Skylands Capital, LLC"
+ },
  "1301540": {
   "shares": 3292,
   "value": 1112169,
@@ -1373,11 +1378,6 @@
   "shares": 43863,
   "value": 14818567,
   "name": "Scott & Selber, Inc."
- },
- "1315421": {
-  "shares": 64873,
-  "value": 21916694,
-  "name": "Graham Capital Management, L.P."
  },
  "1315785": {
   "shares": 2200,
@@ -2063,6 +2063,11 @@
   "shares": 378556,
   "value": 127891290,
   "name": "CIBC WORLD MARKET INC."
+ },
+ "1422508": {
+  "shares": 5502,
+  "value": 1858795,
+  "name": "Montecito Bank & Trust"
  },
  "1422848": {
   "shares": 4156259,
@@ -3153,11 +3158,6 @@
   "shares": 3762,
   "value": 1270954,
   "name": "Mitsubishi UFJ Morgan Stanley Securities Co., Ltd."
- },
- "1546007": {
-  "shares": 44244,
-  "value": 14947393,
-  "name": "Assenagon Asset Management S.A."
  },
  "1546967": {
   "shares": 4361,
@@ -4764,6 +4764,11 @@
   "value": 3055764,
   "name": "Simmons Bank"
  },
+ "1674836": {
+  "shares": 11125,
+  "value": 3758470,
+  "name": "LEE JOHNSON CAPITAL MANAGEMENT, LLC"
+ },
  "1676603": {
   "shares": 2700,
   "value": 912168,
@@ -5314,11 +5319,6 @@
   "value": 439192,
   "name": "Abbot Financial Management, Inc."
  },
- "1714590": {
-  "shares": 3101,
-  "value": 1047642,
-  "name": "GS Investments, Inc."
- },
  "1715228": {
   "shares": 1500,
   "value": 506760,
@@ -5693,11 +5693,6 @@
   "shares": 369,
   "value": 124663,
   "name": "Solstein Capital, LLC"
- },
- "1730774": {
-  "shares": 905,
-  "value": 305745,
-  "name": "Rinkey Investments"
  },
  "1730810": {
   "shares": 9394,
@@ -6909,11 +6904,6 @@
   "value": 2495286,
   "name": "Americana Partners, LLC"
  },
- "1797873": {
-  "shares": 1059,
-  "value": 357620,
-  "name": "Lineweaver Wealth Advisors, LLC"
- },
  "1798150": {
   "shares": 25,
   "value": 8446,
@@ -6923,6 +6913,11 @@
   "shares": 4455,
   "value": 1505077,
   "name": "LRT Capital Management, LLC"
+ },
+ "1798924": {
+  "shares": 631,
+  "value": 213177,
+  "name": "Bay Rivers Group"
  },
  "1798986": {
   "shares": 56,
@@ -7528,6 +7523,11 @@
   "shares": 1868,
   "value": 631085,
   "name": "BNC WEALTH MANAGEMENT, LLC"
+ },
+ "1821561": {
+  "shares": 4332,
+  "value": 1463523,
+  "name": "INCEPTIONR LLC"
  },
  "1821626": {
   "shares": 991,
@@ -8793,11 +8793,6 @@
   "shares": 1335,
   "value": 451016,
   "name": "Laraway Financial Advisors Inc"
- },
- "1908378": {
-  "shares": 948,
-  "value": 318583,
-  "name": "EdgeRock Capital LLC"
  },
  "1908607": {
   "shares": 1914,
@@ -10809,6 +10804,11 @@
   "value": 44236,
   "name": "Wiser Advisor Group LLC"
  },
+ "2011587": {
+  "shares": 1333,
+  "value": 450341,
+  "name": "NorthStar Asset Management LLC /NJ/"
+ },
  "2011612": {
   "shares": 154811,
   "value": 52304990,
@@ -12209,11 +12209,6 @@
   "value": 1020818,
   "name": "Sunbeam Capital Management, LLC"
  },
- "2057556": {
-  "shares": 940,
-  "value": 317570,
-  "name": "Lighthouse Financial LLC"
- },
  "2057637": {
   "shares": 1301,
   "value": 439593,
@@ -12773,6 +12768,11 @@
   "shares": 5,
   "value": 1689,
   "name": "Align Financial, LLC"
+ },
+ "2089528": {
+  "shares": 1960,
+  "value": 662278,
+  "name": "STEINBERGANNA WEALTH MANAGEMENT"
  },
  "2090040": {
   "shares": 133,
@@ -13409,11 +13409,6 @@
   "value": 514422,
   "name": "JMN Financial LLC"
  },
- "2113282": {
-  "shares": 1145,
-  "value": 386837,
-  "name": "AMG Asset Management Group, Inc."
- },
  "2113408": {
   "shares": 8946,
   "value": 3022086,
@@ -13523,6 +13518,11 @@
   "shares": 1312,
   "value": 443246,
   "name": "Merited Wealth, LLC"
+ },
+ "2124354": {
+  "shares": 551,
+  "value": 226231,
+  "name": "Elevation Advisory Partners LLC"
  },
  "2124777": {
   "shares": 2700,
@@ -13698,6 +13698,11 @@
   "shares": 85275,
   "value": 28809342,
   "name": "INDEPENDENT FINANCIAL GROUP, LLC"
+ },
+ "310051": {
+  "shares": 6526,
+  "value": 2204744,
+  "name": "KING LUTHER CAPITAL MANAGEMENT CORP"
  },
  "312069": {
   "shares": 7774892,
@@ -14898,11 +14903,6 @@
   "shares": 4118,
   "value": 1391225,
   "name": "BERKSHIRE ASSET MANAGEMENT LLC/PA"
- },
- "96223": {
-  "shares": 40249,
-  "value": 13597722,
-  "name": "Jefferies Financial Group Inc.  (JEF)"
  },
  "9631": {
   "shares": 1237399,

@@ -59,6 +59,11 @@
   "value": 220463,
   "name": "WEDGE CAPITAL MANAGEMENT L L P/NC"
  },
+ "1017284": {
+  "shares": 545,
+  "value": 346260,
+  "name": "THOMPSON DAVIS & CO., INC."
+ },
  "1018331": {
   "shares": 39944,
   "value": 25378,
@@ -5273,6 +5278,11 @@
   "shares": 9695,
   "value": 6159620,
   "name": "US BANCORP \\DE\\  (USB, USB-PA, USB-PH, USB-PP, USB-PQ, USB-PR, USB-PS)"
+ },
+ "36270": {
+  "shares": 9486,
+  "value": 6026835,
+  "name": "M&T BANK CORP  (MTB, MTB-PH, MTB-PJ, MTB-PK)"
  },
  "36966": {
   "shares": 5,

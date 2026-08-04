@@ -374,11 +374,6 @@
   "value": 158265879,
   "name": "FEDERATED HERMES, INC.  (FHI)"
  },
- "1056516": {
-  "shares": 9528,
-  "value": 3218940,
-  "name": "Palouse Capital Management, Inc."
- },
  "1056581": {
   "shares": 140000,
   "value": 47297600,
@@ -548,11 +543,6 @@
   "shares": 21500,
   "value": 7263560,
   "name": "GABELLI FUNDS LLC"
- },
- "1082339": {
-  "shares": 23457,
-  "value": 7925053,
-  "name": "COLDSTREAM CAPITAL MANAGEMENT INC"
  },
  "1082509": {
   "shares": 1291,
@@ -5319,6 +5309,11 @@
   "value": 439192,
   "name": "Abbot Financial Management, Inc."
  },
+ "1714590": {
+  "shares": 3101,
+  "value": 1047642,
+  "name": "GS Investments, Inc."
+ },
  "1715228": {
   "shares": 1500,
   "value": 506760,
@@ -5383,11 +5378,6 @@
   "shares": 1589,
   "value": 536827,
   "name": "Diametric Capital, LP"
- },
- "1719305": {
-  "shares": 60128,
-  "value": 20313766,
-  "name": "Verdence Capital Advisors LLC"
  },
  "1720777": {
   "shares": 1487,
@@ -5473,11 +5463,6 @@
   "shares": 1798,
   "value": 607507,
   "name": "Legacy Financial Strategies, LLC"
- },
- "1725297": {
-  "shares": 3491,
-  "value": 1179399,
-  "name": "One Wealth Advisors, LLC"
  },
  "1725690": {
   "shares": 8485,
@@ -5693,6 +5678,11 @@
   "shares": 369,
   "value": 124663,
   "name": "Solstein Capital, LLC"
+ },
+ "1730774": {
+  "shares": 905,
+  "value": 305745,
+  "name": "Rinkey Investments"
  },
  "1730810": {
   "shares": 9394,
@@ -6794,6 +6784,11 @@
   "value": 410110,
   "name": "Beck Bode, LLC"
  },
+ "1791002": {
+  "shares": 1772,
+  "value": 598652,
+  "name": "Xcel Wealth Management, LLC"
+ },
  "1791126": {
   "shares": 728,
   "value": 272808,
@@ -6903,6 +6898,11 @@
   "shares": 7386,
   "value": 2495286,
   "name": "Americana Partners, LLC"
+ },
+ "1797873": {
+  "shares": 1059,
+  "value": 357620,
+  "name": "Lineweaver Wealth Advisors, LLC"
  },
  "1798150": {
   "shares": 25,
@@ -8793,6 +8793,11 @@
   "shares": 1335,
   "value": 451016,
   "name": "Laraway Financial Advisors Inc"
+ },
+ "1908378": {
+  "shares": 948,
+  "value": 318583,
+  "name": "EdgeRock Capital LLC"
  },
  "1908607": {
   "shares": 1914,
@@ -12174,11 +12179,6 @@
   "value": 165204,
   "name": "Dogwood Wealth Management LLC"
  },
- "2056976": {
-  "shares": 5000,
-  "value": 1689200,
-  "name": "Pacific Point Advisors, LLC"
- },
  "2057004": {
   "shares": 607,
   "value": 205214,
@@ -12208,6 +12208,11 @@
   "shares": 3022,
   "value": 1020818,
   "name": "Sunbeam Capital Management, LLC"
+ },
+ "2057556": {
+  "shares": 940,
+  "value": 317570,
+  "name": "Lighthouse Financial LLC"
  },
  "2057637": {
   "shares": 1301,
@@ -13408,6 +13413,11 @@
   "shares": 1522,
   "value": 514422,
   "name": "JMN Financial LLC"
+ },
+ "2113282": {
+  "shares": 1145,
+  "value": 386837,
+  "name": "AMG Asset Management Group, Inc."
  },
  "2113408": {
   "shares": 8946,
@@ -14903,6 +14913,11 @@
   "shares": 4118,
   "value": 1391225,
   "name": "BERKSHIRE ASSET MANAGEMENT LLC/PA"
+ },
+ "96223": {
+  "shares": 40249,
+  "value": 13597722,
+  "name": "Jefferies Financial Group Inc.  (JEF)"
  },
  "9631": {
   "shares": 1237399,

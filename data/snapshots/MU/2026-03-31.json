@@ -544,6 +544,11 @@
   "value": 7263560,
   "name": "GABELLI FUNDS LLC"
  },
+ "1082339": {
+  "shares": 23457,
+  "value": 7925053,
+  "name": "COLDSTREAM CAPITAL MANAGEMENT INC"
+ },
  "1082509": {
   "shares": 1291,
   "value": 435983,
@@ -1503,11 +1508,6 @@
   "shares": 47836,
   "value": 13749818,
   "name": "Equitable Holdings, Inc.  (EQH, EQH-PA, EQH-PC)"
- },
- "1335325": {
-  "shares": 3800,
-  "value": 1283792,
-  "name": "HighVista Strategies LLC"
  },
  "1335644": {
   "shares": 85338,
@@ -5104,11 +5104,6 @@
   "value": 644937,
   "name": "CAMDEN NATIONAL BANK"
  },
- "1697882": {
-  "shares": 2289,
-  "value": 773455,
-  "name": "Flaharty Asset Management, LLC"
- },
  "1697953": {
   "shares": 22803,
   "value": 7704,
@@ -5379,6 +5374,11 @@
   "value": 536827,
   "name": "Diametric Capital, LP"
  },
+ "1719305": {
+  "shares": 60128,
+  "value": 20313766,
+  "name": "Verdence Capital Advisors LLC"
+ },
  "1720777": {
   "shares": 1487,
   "value": 502375,
@@ -5463,6 +5463,11 @@
   "shares": 1798,
   "value": 607507,
   "name": "Legacy Financial Strategies, LLC"
+ },
+ "1725297": {
+  "shares": 3491,
+  "value": 1179399,
+  "name": "One Wealth Advisors, LLC"
  },
  "1725690": {
   "shares": 8485,
@@ -5843,11 +5848,6 @@
   "shares": 27,
   "value": 9122,
   "name": "Sherman Asset Management, Inc."
- },
- "1736736": {
-  "shares": 50508,
-  "value": 17063624,
-  "name": "Rice Partnership, LLC"
  },
  "1736982": {
   "shares": 29477,
@@ -6508,11 +6508,6 @@
   "shares": 78754,
   "value": 26606252,
   "name": "Quilter Plc"
- },
- "1770994": {
-  "shares": 6587,
-  "value": 2225429,
-  "name": "Occidental Asset Management, LLC"
  },
  "1771605": {
   "shares": 1337,
@@ -7218,11 +7213,6 @@
   "shares": 3300,
   "value": 1114872,
   "name": "MAGNOLIA CAPITAL ADVISORS LLC"
- },
- "1803675": {
-  "shares": 2713,
-  "value": 916967,
-  "name": "Keebeck Wealth Management"
  },
  "1803804": {
   "shares": 1647,
@@ -9198,11 +9188,6 @@
   "shares": 5305,
   "value": 1792241,
   "name": "FIDUCIARY FINANCIAL GROUP, LLC"
- },
- "1925853": {
-  "shares": 1214,
-  "value": 410169,
-  "name": "Sterling Investment Counsel, LLC"
  },
  "1926596": {
   "shares": 3800,
@@ -12213,6 +12198,11 @@
   "shares": 940,
   "value": 317570,
   "name": "Lighthouse Financial LLC"
+ },
+ "2057602": {
+  "shares": 759,
+  "value": 256293,
+  "name": "Challenger Wealth Management"
  },
  "2057637": {
   "shares": 1301,

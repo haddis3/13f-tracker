@@ -1999,11 +1999,6 @@
   "value": 409710,
   "name": "World Investment Advisors"
  },
- "1653169": {
-  "shares": 3300,
-  "value": 2319108,
-  "name": "Sciencast Management LP"
- },
  "1654599": {
   "shares": 5,
   "value": 3514,
@@ -2873,11 +2868,6 @@
   "shares": 379,
   "value": 338830,
   "name": "Apella Capital, LLC"
- },
- "1801523": {
-  "shares": 779,
-  "value": 547450,
-  "name": "Perennial Investment Advisors, LLC"
  },
  "1801547": {
   "shares": 212056,
@@ -3903,6 +3893,11 @@
   "shares": 4218,
   "value": 2964242,
   "name": "Concurrent Investment Advisors, LLC"
+ },
+ "2001019": {
+  "shares": 10290,
+  "value": 7231400,
+  "name": "NEOS Investment Management LLC"
  },
  "2001039": {
   "shares": 341,

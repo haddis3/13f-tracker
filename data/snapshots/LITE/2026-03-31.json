@@ -694,11 +694,6 @@
   "value": 522665,
   "name": "Curi Capital, LLC"
  },
- "1333986": {
-  "shares": 604,
-  "value": 424467,
-  "name": "Equitable Holdings, Inc.  (EQH, EQH-PA, EQH-PC)"
- },
  "1335325": {
   "shares": 3117,
   "value": 2190503,
@@ -2873,6 +2868,11 @@
   "shares": 379,
   "value": 338830,
   "name": "Apella Capital, LLC"
+ },
+ "1801523": {
+  "shares": 779,
+  "value": 547450,
+  "name": "Perennial Investment Advisors, LLC"
  },
  "1801547": {
   "shares": 212056,

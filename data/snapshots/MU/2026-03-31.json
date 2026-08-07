@@ -314,6 +314,11 @@
   "value": 3999,
   "name": "PEAPACK GLADSTONE FINANCIAL CORP  (PGC)"
  },
+ "1053321": {
+  "shares": 85236,
+  "value": 28796130,
+  "name": "OMERS ADMINISTRATION Corp"
+ },
  "1053994": {
   "shares": 1250,
   "value": 422300,
@@ -543,6 +548,11 @@
   "shares": 21500,
   "value": 7263560,
   "name": "GABELLI FUNDS LLC"
+ },
+ "1082339": {
+  "shares": 23457,
+  "value": 7925053,
+  "name": "COLDSTREAM CAPITAL MANAGEMENT INC"
  },
  "1082509": {
   "shares": 1291,
@@ -1083,6 +1093,11 @@
   "shares": 29,
   "value": 9797,
   "name": "COUNTRY TRUST BANK"
+ },
+ "1213206": {
+  "shares": 4925,
+  "value": 1663862,
+  "name": "MARATHON CAPITAL MANAGEMENT"
  },
  "1214183": {
   "shares": 260,
@@ -2133,11 +2148,6 @@
   "shares": 230,
   "value": 77703,
   "name": "Cheviot Value Management, LLC"
- },
- "1427202": {
-  "shares": 25940,
-  "value": 8763569,
-  "name": "Busey Bank"
  },
  "1427263": {
   "shares": 5520,
@@ -6264,11 +6274,6 @@
   "value": 573335,
   "name": "ELEMENT POINTE ADVISORS, LLC"
  },
- "1764386": {
-  "shares": 1275,
-  "value": 430877,
-  "name": "Claro Advisors Inc."
- },
  "1764387": {
   "shares": 33757,
   "value": 11404516,
@@ -6548,11 +6553,6 @@
   "shares": 127057,
   "value": 42924937,
   "name": "Y-Intercept (Hong Kong) Ltd"
- },
- "1773368": {
-  "shares": 59630,
-  "value": 20145,
-  "name": "Wesleyan Assurance Society"
  },
  "1774086": {
   "shares": 7963,
@@ -7234,6 +7234,11 @@
   "value": 1114872,
   "name": "MAGNOLIA CAPITAL ADVISORS LLC"
  },
+ "1803675": {
+  "shares": 2713,
+  "value": 916967,
+  "name": "Keebeck Wealth Management"
+ },
  "1803804": {
   "shares": 1647,
   "value": 556422,
@@ -7323,6 +7328,11 @@
   "shares": 4296,
   "value": 1451373,
   "name": "Revolve Wealth Partners, LLC"
+ },
+ "1809236": {
+  "shares": 900,
+  "value": 304056,
+  "name": "Salvus Wealth Management, LLC"
  },
  "1810089": {
   "shares": 255,
@@ -8666,7 +8676,7 @@
  },
  "1903058": {
   "shares": 1487,
-  "value": 502369,
+  "value": 334331,
   "name": "MWA Asset Management"
  },
  "1903059": {
@@ -9263,11 +9273,6 @@
   "shares": 2520,
   "value": 851503,
   "name": "Quantum Financial Advisors, LLC"
- },
- "1929170": {
-  "shares": 7346,
-  "value": 2482770,
-  "name": "ANGELES WEALTH MANAGEMENT, LLC"
  },
  "1929662": {
   "shares": 606,
@@ -14049,6 +14054,11 @@
   "value": 1248656,
   "name": "STOCK YARDS BANK & TRUST CO"
  },
+ "743127": {
+  "shares": 262297,
+  "value": 88614380,
+  "name": "PINNACLE ASSOCIATES LTD"
+ },
  "748054": {
   "shares": 1639439,
   "value": 553868252,
@@ -14393,11 +14403,6 @@
   "shares": 6877,
   "value": 2323326,
   "name": "TOTH FINANCIAL ADVISORY CORP"
- },
- "867626": {
-  "shares": 31137,
-  "value": 10519324,
-  "name": "MUFG SECURITIES AMERICAS INC."
  },
  "867926": {
   "shares": 1655,

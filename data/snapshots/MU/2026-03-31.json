@@ -314,11 +314,6 @@
   "value": 3999,
   "name": "PEAPACK GLADSTONE FINANCIAL CORP  (PGC)"
  },
- "1053321": {
-  "shares": 85236,
-  "value": 28796130,
-  "name": "OMERS ADMINISTRATION Corp"
- },
  "1053994": {
   "shares": 1250,
   "value": 422300,
@@ -373,6 +368,11 @@
   "shares": 468464,
   "value": 158265879,
   "name": "FEDERATED HERMES, INC.  (FHI)"
+ },
+ "1056516": {
+  "shares": 9528,
+  "value": 3218940,
+  "name": "Palouse Capital Management, Inc."
  },
  "1056581": {
   "shares": 140000,
@@ -543,11 +543,6 @@
   "shares": 21500,
   "value": 7263560,
   "name": "GABELLI FUNDS LLC"
- },
- "1082339": {
-  "shares": 23457,
-  "value": 7925053,
-  "name": "COLDSTREAM CAPITAL MANAGEMENT INC"
  },
  "1082509": {
   "shares": 1291,
@@ -1089,11 +1084,6 @@
   "value": 9797,
   "name": "COUNTRY TRUST BANK"
  },
- "1213206": {
-  "shares": 4925,
-  "value": 1663862,
-  "name": "MARATHON CAPITAL MANAGEMENT"
- },
  "1214183": {
   "shares": 260,
   "value": 87838,
@@ -1374,6 +1364,11 @@
   "value": 14818567,
   "name": "Scott & Selber, Inc."
  },
+ "1315421": {
+  "shares": 64873,
+  "value": 21916694,
+  "name": "Graham Capital Management, L.P."
+ },
  "1315785": {
   "shares": 2200,
   "value": 743319,
@@ -1508,6 +1503,11 @@
   "shares": 47836,
   "value": 13749818,
   "name": "Equitable Holdings, Inc.  (EQH, EQH-PA, EQH-PC)"
+ },
+ "1335325": {
+  "shares": 3800,
+  "value": 1283792,
+  "name": "HighVista Strategies LLC"
  },
  "1335644": {
   "shares": 85338,
@@ -3148,6 +3148,11 @@
   "shares": 3762,
   "value": 1270954,
   "name": "Mitsubishi UFJ Morgan Stanley Securities Co., Ltd."
+ },
+ "1546007": {
+  "shares": 44244,
+  "value": 14947393,
+  "name": "Assenagon Asset Management S.A."
  },
  "1546967": {
   "shares": 4361,
@@ -5104,6 +5109,11 @@
   "value": 644937,
   "name": "CAMDEN NATIONAL BANK"
  },
+ "1697882": {
+  "shares": 2289,
+  "value": 773455,
+  "name": "Flaharty Asset Management, LLC"
+ },
  "1697953": {
   "shares": 22803,
   "value": 7704,
@@ -5849,6 +5859,11 @@
   "value": 9122,
   "name": "Sherman Asset Management, Inc."
  },
+ "1736736": {
+  "shares": 50508,
+  "value": 17063624,
+  "name": "Rice Partnership, LLC"
+ },
  "1736982": {
   "shares": 29477,
   "value": 9959003,
@@ -6508,6 +6523,11 @@
   "shares": 78754,
   "value": 26606252,
   "name": "Quilter Plc"
+ },
+ "1770994": {
+  "shares": 6587,
+  "value": 2225429,
+  "name": "Occidental Asset Management, LLC"
  },
  "1771605": {
   "shares": 1337,
@@ -7303,11 +7323,6 @@
   "shares": 4296,
   "value": 1451373,
   "name": "Revolve Wealth Partners, LLC"
- },
- "1809236": {
-  "shares": 900,
-  "value": 304056,
-  "name": "Salvus Wealth Management, LLC"
  },
  "1810089": {
   "shares": 255,
@@ -9189,6 +9204,11 @@
   "value": 1792241,
   "name": "FIDUCIARY FINANCIAL GROUP, LLC"
  },
+ "1925853": {
+  "shares": 1214,
+  "value": 410169,
+  "name": "Sterling Investment Counsel, LLC"
+ },
  "1926596": {
   "shares": 3800,
   "value": 1283925,
@@ -9934,11 +9954,6 @@
   "value": 54095279,
   "name": "LBP AM SA"
  },
- "1970465": {
-  "shares": 28273,
-  "value": 9551750,
-  "name": "Polymer Capital Management (HK) LTD"
- },
  "1971029": {
   "shares": 706,
   "value": 238573,
@@ -10428,11 +10443,6 @@
   "shares": 2475,
   "value": 836154,
   "name": "Tactive Advisors, LLC"
- },
- "2002628": {
-  "shares": 647,
-  "value": 218623,
-  "name": "Morton Capital Management LLC/CA"
  },
  "2002630": {
   "shares": 3602,
@@ -12164,6 +12174,11 @@
   "value": 165204,
   "name": "Dogwood Wealth Management LLC"
  },
+ "2056976": {
+  "shares": 5000,
+  "value": 1689200,
+  "name": "Pacific Point Advisors, LLC"
+ },
  "2057004": {
   "shares": 607,
   "value": 205214,
@@ -12993,11 +13008,6 @@
   "shares": 1238,
   "value": 418121,
   "name": "FOCUSED ALPHA, LLC"
- },
- "2105395": {
-  "shares": 64057,
-  "value": 21641017,
-  "name": "Arbejdsmarkedets Tillaegspension"
  },
  "2105684": {
   "shares": 3105,
@@ -14038,11 +14048,6 @@
   "shares": 3696,
   "value": 1248656,
   "name": "STOCK YARDS BANK & TRUST CO"
- },
- "743127": {
-  "shares": 262297,
-  "value": 88614380,
-  "name": "PINNACLE ASSOCIATES LTD"
  },
  "748054": {
   "shares": 1639439,

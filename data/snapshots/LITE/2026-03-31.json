@@ -694,6 +694,11 @@
   "value": 522665,
   "name": "Curi Capital, LLC"
  },
+ "1333986": {
+  "shares": 604,
+  "value": 424467,
+  "name": "Equitable Holdings, Inc.  (EQH, EQH-PA, EQH-PC)"
+ },
  "1335325": {
   "shares": 3117,
   "value": 2190503,
@@ -3898,11 +3903,6 @@
   "shares": 4218,
   "value": 2964242,
   "name": "Concurrent Investment Advisors, LLC"
- },
- "2001019": {
-  "shares": 10290,
-  "value": 7231400,
-  "name": "NEOS Investment Management LLC"
  },
  "2001039": {
   "shares": 341,

@@ -2149,6 +2149,11 @@
   "value": 77703,
   "name": "Cheviot Value Management, LLC"
  },
+ "1427202": {
+  "shares": 25940,
+  "value": 8763569,
+  "name": "Busey Bank"
+ },
  "1427263": {
   "shares": 5520,
   "value": 1864877,
@@ -6554,6 +6559,11 @@
   "value": 42924937,
   "name": "Y-Intercept (Hong Kong) Ltd"
  },
+ "1773368": {
+  "shares": 59630,
+  "value": 20145,
+  "name": "Wesleyan Assurance Society"
+ },
  "1774086": {
   "shares": 7963,
   "value": 2690351,
@@ -8676,7 +8686,7 @@
  },
  "1903058": {
   "shares": 1487,
-  "value": 334331,
+  "value": 502369,
   "name": "MWA Asset Management"
  },
  "1903059": {
@@ -9959,6 +9969,11 @@
   "value": 54095279,
   "name": "LBP AM SA"
  },
+ "1970465": {
+  "shares": 28273,
+  "value": 9551750,
+  "name": "Polymer Capital Management (HK) LTD"
+ },
  "1971029": {
   "shares": 706,
   "value": 238573,
@@ -10448,6 +10463,11 @@
   "shares": 2475,
   "value": 836154,
   "name": "Tactive Advisors, LLC"
+ },
+ "2002628": {
+  "shares": 647,
+  "value": 218623,
+  "name": "Morton Capital Management LLC/CA"
  },
  "2002630": {
   "shares": 3602,
@@ -13014,6 +13034,11 @@
   "value": 418121,
   "name": "FOCUSED ALPHA, LLC"
  },
+ "2105395": {
+  "shares": 64057,
+  "value": 21641017,
+  "name": "Arbejdsmarkedets Tillaegspension"
+ },
  "2105684": {
   "shares": 3105,
   "value": 1049430,
@@ -13108,11 +13133,6 @@
   "shares": 34,
   "value": 11,
   "name": "Merrithew & Thorsten Inc"
- },
- "2107657": {
-  "shares": 65,
-  "value": 21970,
-  "name": "Clark Wealth Partners"
  },
  "2107740": {
   "shares": 1265,

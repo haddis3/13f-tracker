@@ -314,11 +314,6 @@
   "value": 3999,
   "name": "PEAPACK GLADSTONE FINANCIAL CORP  (PGC)"
  },
- "1053321": {
-  "shares": 85236,
-  "value": 28796130,
-  "name": "OMERS ADMINISTRATION Corp"
- },
  "1053994": {
   "shares": 1250,
   "value": 422300,
@@ -548,11 +543,6 @@
   "shares": 21500,
   "value": 7263560,
   "name": "GABELLI FUNDS LLC"
- },
- "1082339": {
-  "shares": 23457,
-  "value": 7925053,
-  "name": "COLDSTREAM CAPITAL MANAGEMENT INC"
  },
  "1082509": {
   "shares": 1291,
@@ -6279,6 +6269,11 @@
   "value": 573335,
   "name": "ELEMENT POINTE ADVISORS, LLC"
  },
+ "1764386": {
+  "shares": 1275,
+  "value": 430877,
+  "name": "Claro Advisors Inc."
+ },
  "1764387": {
   "shares": 33757,
   "value": 11404516,
@@ -9284,6 +9279,11 @@
   "value": 851503,
   "name": "Quantum Financial Advisors, LLC"
  },
+ "1929170": {
+  "shares": 7346,
+  "value": 2482770,
+  "name": "ANGELES WEALTH MANAGEMENT, LLC"
+ },
  "1929662": {
   "shares": 606,
   "value": 204731,
@@ -12239,11 +12239,6 @@
   "value": 317570,
   "name": "Lighthouse Financial LLC"
  },
- "2057602": {
-  "shares": 759,
-  "value": 256293,
-  "name": "Challenger Wealth Management"
- },
  "2057637": {
   "shares": 1301,
   "value": 439593,
@@ -13133,6 +13128,11 @@
   "shares": 34,
   "value": 11,
   "name": "Merrithew & Thorsten Inc"
+ },
+ "2107657": {
+  "shares": 65,
+  "value": 21970,
+  "name": "Clark Wealth Partners"
  },
  "2107740": {
   "shares": 1265,
@@ -14423,6 +14423,11 @@
   "shares": 6877,
   "value": 2323326,
   "name": "TOTH FINANCIAL ADVISORY CORP"
+ },
+ "867626": {
+  "shares": 31137,
+  "value": 10519324,
+  "name": "MUFG SECURITIES AMERICAS INC."
  },
  "867926": {
   "shares": 1655,

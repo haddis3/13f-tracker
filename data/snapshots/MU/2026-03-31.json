@@ -314,6 +314,11 @@
   "value": 3999,
   "name": "PEAPACK GLADSTONE FINANCIAL CORP  (PGC)"
  },
+ "1053321": {
+  "shares": 85236,
+  "value": 28796130,
+  "name": "OMERS ADMINISTRATION Corp"
+ },
  "1053994": {
   "shares": 1250,
   "value": 422300,
@@ -543,6 +548,11 @@
   "shares": 21500,
   "value": 7263560,
   "name": "GABELLI FUNDS LLC"
+ },
+ "1082339": {
+  "shares": 23457,
+  "value": 7925053,
+  "name": "COLDSTREAM CAPITAL MANAGEMENT INC"
  },
  "1082509": {
   "shares": 1291,
@@ -2138,11 +2148,6 @@
   "shares": 230,
   "value": 77703,
   "name": "Cheviot Value Management, LLC"
- },
- "1427202": {
-  "shares": 25940,
-  "value": 8763569,
-  "name": "Busey Bank"
  },
  "1427263": {
   "shares": 5520,
@@ -4764,11 +4769,6 @@
   "value": 3055764,
   "name": "Simmons Bank"
  },
- "1674836": {
-  "shares": 11125,
-  "value": 3758470,
-  "name": "LEE JOHNSON CAPITAL MANAGEMENT, LLC"
- },
  "1676603": {
   "shares": 2700,
   "value": 912168,
@@ -6529,11 +6529,6 @@
   "value": 26606252,
   "name": "Quilter Plc"
  },
- "1770994": {
-  "shares": 6587,
-  "value": 2225429,
-  "name": "Occidental Asset Management, LLC"
- },
  "1771605": {
   "shares": 1337,
   "value": 451692,
@@ -8183,11 +8178,6 @@
   "shares": 9650,
   "value": 3261462,
   "name": "Naviter Wealth, LLC"
- },
- "1855713": {
-  "shares": 28038,
-  "value": 9472399,
-  "name": "WCG Wealth Advisors LLC"
  },
  "1856022": {
   "shares": 12716,

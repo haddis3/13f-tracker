@@ -1549,6 +1549,11 @@
   "value": 25304322,
   "name": "Vanguard Investments Australia, Ltd."
  },
+ "1551017": {
+  "shares": 207,
+  "value": 131515,
+  "name": "TD PRIVATE CLIENT WEALTH LLC"
+ },
  "1555170": {
   "shares": 3864,
   "value": 2454783,
@@ -4174,6 +4179,11 @@
   "value": 41063295,
   "name": "SIH Partners, LLLP"
  },
+ "1996454": {
+  "shares": 11411,
+  "value": 7249761,
+  "name": "QRG CAPITAL MANAGEMENT, INC."
+ },
  "1997464": {
   "shares": 554438,
   "value": 352256639,
@@ -4433,6 +4443,11 @@
   "shares": 14,
   "value": 8895,
   "name": "WealthCollab, LLC"
+ },
+ "2018007": {
+  "shares": 5,
+  "value": 3177,
+  "name": "American Capital Advisory, LLC"
  },
  "2018090": {
   "shares": 387,

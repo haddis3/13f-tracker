@@ -1444,11 +1444,6 @@
   "value": 2364880,
   "name": "Coastline Trust Co"
  },
- "1324290": {
-  "shares": 50,
-  "value": 16892,
-  "name": "Altshuler Shaham Ltd"
- },
  "1326234": {
   "shares": 64208,
   "value": 21692031,
@@ -2148,6 +2143,11 @@
   "shares": 230,
   "value": 77703,
   "name": "Cheviot Value Management, LLC"
+ },
+ "1427202": {
+  "shares": 25940,
+  "value": 8763569,
+  "name": "Busey Bank"
  },
  "1427263": {
   "shares": 5520,
@@ -3403,11 +3403,6 @@
   "shares": 15000,
   "value": 5067600,
   "name": "Carmignac Gestion"
- },
- "1570271": {
-  "shares": 102679,
-  "value": 34689073,
-  "name": "Headlands Technologies LLC"
  },
  "1571556": {
   "shares": 6885,
@@ -4768,6 +4763,11 @@
   "shares": 9045,
   "value": 3055764,
   "name": "Simmons Bank"
+ },
+ "1674836": {
+  "shares": 11125,
+  "value": 3758470,
+  "name": "LEE JOHNSON CAPITAL MANAGEMENT, LLC"
  },
  "1676603": {
   "shares": 2700,
@@ -7539,11 +7539,6 @@
   "value": 631085,
   "name": "BNC WEALTH MANAGEMENT, LLC"
  },
- "1821561": {
-  "shares": 4332,
-  "value": 1463523,
-  "name": "INCEPTIONR LLC"
- },
  "1821626": {
   "shares": 991,
   "value": 334799,
@@ -8179,6 +8174,11 @@
   "value": 3261462,
   "name": "Naviter Wealth, LLC"
  },
+ "1855713": {
+  "shares": 28038,
+  "value": 9472399,
+  "name": "WCG Wealth Advisors LLC"
+ },
  "1856022": {
   "shares": 12716,
   "value": 4295973,
@@ -8353,11 +8353,6 @@
   "shares": 3039,
   "value": 1026837,
   "name": "Strategic Financial Concepts, LLC"
- },
- "1870761": {
-  "shares": 6634,
-  "value": 2241231,
-  "name": "Bank of New Hampshire"
  },
  "1871926": {
   "shares": 3265420,
@@ -9959,11 +9954,6 @@
   "value": 54095279,
   "name": "LBP AM SA"
  },
- "1970465": {
-  "shares": 28273,
-  "value": 9551750,
-  "name": "Polymer Capital Management (HK) LTD"
- },
  "1971029": {
   "shares": 706,
   "value": 238573,
@@ -10453,11 +10443,6 @@
   "shares": 2475,
   "value": 836154,
   "name": "Tactive Advisors, LLC"
- },
- "2002628": {
-  "shares": 647,
-  "value": 218623,
-  "name": "Morton Capital Management LLC/CA"
  },
  "2002630": {
   "shares": 3602,
@@ -11104,11 +11089,6 @@
   "value": 381851,
   "name": "Embree Financial Group"
  },
- "2021047": {
-  "shares": 1879,
-  "value": 874974,
-  "name": "SEEDS INVESTOR LLC"
- },
  "2021208": {
   "shares": 1117,
   "value": 377238,
@@ -11663,11 +11643,6 @@
   "shares": 5492,
   "value": 1855417,
   "name": "BLUE JEAN FINANCIAL LLC"
- },
- "2047270": {
-  "shares": 599,
-  "value": 202366,
-  "name": "BankPlus Trust Department"
  },
  "2047271": {
   "shares": 2646,
@@ -12228,6 +12203,11 @@
   "shares": 940,
   "value": 317570,
   "name": "Lighthouse Financial LLC"
+ },
+ "2057602": {
+  "shares": 759,
+  "value": 256293,
+  "name": "Challenger Wealth Management"
  },
  "2057637": {
   "shares": 1301,
@@ -12904,11 +12884,6 @@
   "value": 260475,
   "name": "Englebert Financial Advisers, LLC"
  },
- "2097516": {
-  "shares": 108,
-  "value": 36602,
-  "name": "Portus Wealth Advisors, LLC"
- },
  "2097528": {
   "shares": 1660,
   "value": 560814,
@@ -13018,11 +12993,6 @@
   "shares": 1238,
   "value": 418121,
   "name": "FOCUSED ALPHA, LLC"
- },
- "2105395": {
-  "shares": 64057,
-  "value": 21641017,
-  "name": "Arbejdsmarkedets Tillaegspension"
  },
  "2105684": {
   "shares": 3105,
@@ -13723,11 +13693,6 @@
   "shares": 85275,
   "value": 28809342,
   "name": "INDEPENDENT FINANCIAL GROUP, LLC"
- },
- "310051": {
-  "shares": 6526,
-  "value": 2204744,
-  "name": "KING LUTHER CAPITAL MANAGEMENT CORP"
  },
  "312069": {
   "shares": 7774892,

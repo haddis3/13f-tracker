@@ -314,11 +314,6 @@
   "value": 3999,
   "name": "PEAPACK GLADSTONE FINANCIAL CORP  (PGC)"
  },
- "1053321": {
-  "shares": 85236,
-  "value": 28796130,
-  "name": "OMERS ADMINISTRATION Corp"
- },
  "1053994": {
   "shares": 1250,
   "value": 422300,
@@ -1443,6 +1438,11 @@
   "shares": 7000,
   "value": 2364880,
   "name": "Coastline Trust Co"
+ },
+ "1324290": {
+  "shares": 50,
+  "value": 16892,
+  "name": "Altshuler Shaham Ltd"
  },
  "1326234": {
   "shares": 64208,
@@ -3404,6 +3404,11 @@
   "value": 5067600,
   "name": "Carmignac Gestion"
  },
+ "1570271": {
+  "shares": 102679,
+  "value": 34689073,
+  "name": "Headlands Technologies LLC"
+ },
  "1571556": {
   "shares": 6885,
   "value": 2326092,
@@ -3943,11 +3948,6 @@
   "shares": 1754,
   "value": 592571,
   "name": "One Capital Management, LLC"
- },
- "1606609": {
-  "shares": 13054,
-  "value": 4410163,
-  "name": "Archford Capital Strategies, LLC"
  },
  "1606666": {
   "shares": 4333,
@@ -4809,11 +4809,6 @@
   "value": 814071,
   "name": "Vivaldi Capital Management LP"
  },
- "1682057": {
-  "shares": 2492,
-  "value": 841897,
-  "name": "Syverson Strege & Co"
- },
  "1682576": {
   "shares": 16978,
   "value": 5735896,
@@ -5619,11 +5614,6 @@
   "value": 1780799,
   "name": "Global Trust Asset Management, LLC"
  },
- "1729755": {
-  "shares": 603,
-  "value": 203718,
-  "name": "Strategic Family Wealth Counselors, L.L.C."
- },
  "1729829": {
   "shares": 2196864,
   "value": 741928236,
@@ -5863,11 +5853,6 @@
   "shares": 27,
   "value": 9122,
   "name": "Sherman Asset Management, Inc."
- },
- "1736736": {
-  "shares": 50508,
-  "value": 17063624,
-  "name": "Rice Partnership, LLC"
  },
  "1736982": {
   "shares": 29477,
@@ -6529,6 +6514,11 @@
   "value": 26606252,
   "name": "Quilter Plc"
  },
+ "1770994": {
+  "shares": 6587,
+  "value": 2225429,
+  "name": "Occidental Asset Management, LLC"
+ },
  "1771605": {
   "shares": 1337,
   "value": 451692,
@@ -6913,11 +6903,6 @@
   "shares": 7386,
   "value": 2495286,
   "name": "Americana Partners, LLC"
- },
- "1797873": {
-  "shares": 1059,
-  "value": 357620,
-  "name": "Lineweaver Wealth Advisors, LLC"
  },
  "1798150": {
   "shares": 25,
@@ -7489,11 +7474,6 @@
   "value": 696228,
   "name": "Horst & Graben Wealth Management LLC"
  },
- "1818391": {
-  "shares": 2127,
-  "value": 718586,
-  "name": "Independent Solutions Wealth Management, LLC"
- },
  "1818604": {
   "shares": 246473,
   "value": 4470300,
@@ -7538,6 +7518,11 @@
   "shares": 1868,
   "value": 631085,
   "name": "BNC WEALTH MANAGEMENT, LLC"
+ },
+ "1821561": {
+  "shares": 4332,
+  "value": 1463523,
+  "name": "INCEPTIONR LLC"
  },
  "1821626": {
   "shares": 991,
@@ -8354,6 +8339,11 @@
   "value": 1026837,
   "name": "Strategic Financial Concepts, LLC"
  },
+ "1870761": {
+  "shares": 6634,
+  "value": 2241231,
+  "name": "Bank of New Hampshire"
+ },
  "1871926": {
   "shares": 3265420,
   "value": 1103189493,
@@ -9049,11 +9039,6 @@
   "value": 1083093,
   "name": "Forum Financial Management, LP"
  },
- "1912202": {
-  "shares": 4028,
-  "value": 1360907,
-  "name": "Leo Wealth, LLC"
- },
  "1912338": {
   "shares": 4805,
   "value": 1623299,
@@ -9203,11 +9188,6 @@
   "shares": 5305,
   "value": 1792241,
   "name": "FIDUCIARY FINANCIAL GROUP, LLC"
- },
- "1925853": {
-  "shares": 1214,
-  "value": 410169,
-  "name": "Sterling Investment Counsel, LLC"
  },
  "1926596": {
   "shares": 3800,
@@ -11089,6 +11069,11 @@
   "value": 381851,
   "name": "Embree Financial Group"
  },
+ "2021047": {
+  "shares": 1879,
+  "value": 874974,
+  "name": "SEEDS INVESTOR LLC"
+ },
  "2021208": {
   "shares": 1117,
   "value": 377238,
@@ -11644,6 +11629,11 @@
   "value": 1855417,
   "name": "BLUE JEAN FINANCIAL LLC"
  },
+ "2047270": {
+  "shares": 599,
+  "value": 202366,
+  "name": "BankPlus Trust Department"
+ },
  "2047271": {
   "shares": 2646,
   "value": 893915,
@@ -11688,11 +11678,6 @@
   "shares": 832,
   "value": 281015,
   "name": "Vantage Point Financial LLC"
- },
- "2049064": {
-  "shares": 1252,
-  "value": 422862,
-  "name": "Manuka Financial, LLC"
  },
  "2049201": {
   "shares": 408,
@@ -12884,6 +12869,11 @@
   "value": 260475,
   "name": "Englebert Financial Advisers, LLC"
  },
+ "2097516": {
+  "shares": 108,
+  "value": 36602,
+  "name": "Portus Wealth Advisors, LLC"
+ },
  "2097528": {
   "shares": 1660,
   "value": 560814,
@@ -12993,6 +12983,11 @@
   "shares": 1238,
   "value": 418121,
   "name": "FOCUSED ALPHA, LLC"
+ },
+ "2105395": {
+  "shares": 64057,
+  "value": 21641017,
+  "name": "Arbejdsmarkedets Tillaegspension"
  },
  "2105684": {
   "shares": 3105,
@@ -13449,11 +13444,6 @@
   "value": 295246,
   "name": "Oakmont Advisory Group, LLC"
  },
- "2115416": {
-  "shares": 100,
-  "value": 33784,
-  "name": "Midway Capital Research & Management"
- },
  "2115523": {
   "shares": 989,
   "value": 334177,
@@ -13693,6 +13683,11 @@
   "shares": 85275,
   "value": 28809342,
   "name": "INDEPENDENT FINANCIAL GROUP, LLC"
+ },
+ "310051": {
+  "shares": 6526,
+  "value": 2204744,
+  "name": "KING LUTHER CAPITAL MANAGEMENT CORP"
  },
  "312069": {
   "shares": 7774892,
@@ -13963,11 +13958,6 @@
   "shares": 2524,
   "value": 852619,
   "name": "MONEY CONCEPTS CAPITAL CORP"
- },
- "719245": {
-  "shares": 14957,
-  "value": 5053073,
-  "name": "WESTPAC BANKING CORP  (WBKCY, WEBNF)"
  },
  "720005": {
   "shares": 1357411,
@@ -14693,11 +14683,6 @@
   "shares": 28573,
   "value": 9653102,
   "name": "ALERUS FINANCIAL NA"
- },
- "919530": {
-  "shares": 2860,
-  "value": 966222,
-  "name": "JOHN G ULLMAN & ASSOCIATES INC"
  },
  "919859": {
   "shares": 480409,

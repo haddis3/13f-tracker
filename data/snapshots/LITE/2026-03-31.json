@@ -1369,6 +1369,11 @@
   "value": 300781,
   "name": "Westside Investment Management, Inc."
  },
+ "1538449": {
+  "shares": 8883,
+  "value": 6242617,
+  "name": "Mawer Investment Management Ltd."
+ },
  "1539041": {
   "shares": 5020832,
   "value": 65064096,
@@ -3383,11 +3388,6 @@
   "shares": 336,
   "value": 301493,
   "name": "JACKSON THORNTON WEALTH MANAGEMENT, LLC"
- },
- "1904274": {
-  "shares": 1365,
-  "value": 1223067,
-  "name": "Wedmont Private Capital"
  },
  "1904897": {
   "shares": 140000,

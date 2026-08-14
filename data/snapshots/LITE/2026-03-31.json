@@ -754,11 +754,6 @@
   "value": 70276,
   "name": "Gladstone Capital Management LLP"
  },
- "1357955": {
-  "shares": 13102,
-  "value": 9207562,
-  "name": "ProShare Advisors LLC"
- },
  "1360533": {
   "shares": 11062,
   "value": 7773931,
@@ -3388,6 +3383,11 @@
   "shares": 336,
   "value": 301493,
   "name": "JACKSON THORNTON WEALTH MANAGEMENT, LLC"
+ },
+ "1904274": {
+  "shares": 1365,
+  "value": 1223067,
+  "name": "Wedmont Private Capital"
  },
  "1904897": {
   "shares": 140000,

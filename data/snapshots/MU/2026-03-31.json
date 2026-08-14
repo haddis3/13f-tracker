@@ -314,6 +314,11 @@
   "value": 3999,
   "name": "PEAPACK GLADSTONE FINANCIAL CORP  (PGC)"
  },
+ "1053321": {
+  "shares": 85236,
+  "value": 28796130,
+  "name": "OMERS ADMINISTRATION Corp"
+ },
  "1053994": {
   "shares": 1250,
   "value": 422300,
@@ -368,6 +373,11 @@
   "shares": 468464,
   "value": 158265879,
   "name": "FEDERATED HERMES, INC.  (FHI)"
+ },
+ "1056516": {
+  "shares": 9528,
+  "value": 3218940,
+  "name": "Palouse Capital Management, Inc."
  },
  "1056581": {
   "shares": 140000,
@@ -538,6 +548,11 @@
   "shares": 21500,
   "value": 7263560,
   "name": "GABELLI FUNDS LLC"
+ },
+ "1082339": {
+  "shares": 23457,
+  "value": 7925053,
+  "name": "COLDSTREAM CAPITAL MANAGEMENT INC"
  },
  "1082509": {
   "shares": 1291,
@@ -853,6 +868,11 @@
   "shares": 11158,
   "value": 3769624,
   "name": "DE BURLO GROUP INC"
+ },
+ "1134813": {
+  "shares": 3420,
+  "value": 1155,
+  "name": "STEVENS CAPITAL MANAGEMENT LP"
  },
  "1135439": {
   "shares": 1875,
@@ -1359,11 +1379,6 @@
   "value": 14818567,
   "name": "Scott & Selber, Inc."
  },
- "1315421": {
-  "shares": 64873,
-  "value": 21916694,
-  "name": "Graham Capital Management, L.P."
- },
  "1315785": {
   "shares": 2200,
   "value": 743319,
@@ -1423,6 +1438,11 @@
   "shares": 7000,
   "value": 2364880,
   "name": "Coastline Trust Co"
+ },
+ "1324290": {
+  "shares": 50,
+  "value": 16892,
+  "name": "Altshuler Shaham Ltd"
  },
  "1326234": {
   "shares": 64208,
@@ -2124,6 +2144,11 @@
   "value": 77703,
   "name": "Cheviot Value Management, LLC"
  },
+ "1427202": {
+  "shares": 25940,
+  "value": 8763569,
+  "name": "Busey Bank"
+ },
  "1427263": {
   "shares": 5520,
   "value": 1864877,
@@ -2653,11 +2678,6 @@
   "shares": 146000,
   "value": 49324639,
   "name": "MAPLELANE CAPITAL, LLC"
- },
- "1512601": {
-  "shares": 3163,
-  "value": 1068498,
-  "name": "BSW Wealth Partners"
  },
  "1512857": {
   "shares": 222516,
@@ -3408,6 +3428,11 @@
   "shares": 72023,
   "value": 24332228,
   "name": "Advisory Services Network, LLC"
+ },
+ "1575151": {
+  "shares": 1588,
+  "value": 536490,
+  "name": "TIEMANN INVESTMENT ADVISORS, LLC"
  },
  "1575239": {
   "shares": 31855,
@@ -5389,6 +5414,11 @@
   "value": 9465620,
   "name": "Truxt Investmentos Ltda."
  },
+ "1721242": {
+  "shares": 19284,
+  "value": 6515272,
+  "name": "Belpointe Asset Management LLC"
+ },
  "1721527": {
   "shares": 2357,
   "value": 796437,
@@ -5558,11 +5588,6 @@
   "shares": 1475,
   "value": 498321,
   "name": "WealthShield Partners, LLC"
- },
- "1729304": {
-  "shares": 1118,
-  "value": 377706,
-  "name": "Holistic Financial Partners"
  },
  "1729347": {
   "shares": 900,
@@ -6239,11 +6264,6 @@
   "value": 573335,
   "name": "ELEMENT POINTE ADVISORS, LLC"
  },
- "1764386": {
-  "shares": 1275,
-  "value": 430877,
-  "name": "Claro Advisors Inc."
- },
  "1764387": {
   "shares": 33757,
   "value": 11404516,
@@ -6403,11 +6423,6 @@
   "shares": 21,
   "value": 7095,
   "name": "Princeton Global Asset Management LLC"
- },
- "1767474": {
-  "shares": 2724,
-  "value": 920276,
-  "name": "MA Private Wealth"
  },
  "1767513": {
   "shares": 1239,
@@ -7209,6 +7224,11 @@
   "value": 1114872,
   "name": "MAGNOLIA CAPITAL ADVISORS LLC"
  },
+ "1803675": {
+  "shares": 2713,
+  "value": 916967,
+  "name": "Keebeck Wealth Management"
+ },
  "1803804": {
   "shares": 1647,
   "value": 556422,
@@ -7248,6 +7268,11 @@
   "shares": 849,
   "value": 286856,
   "name": "TABR Capital Management, LLC"
+ },
+ "1806027": {
+  "shares": 1029,
+  "value": 347794,
+  "name": "Aspen Grove Capital, LLC"
  },
  "1806425": {
   "shares": 13888,
@@ -7323,6 +7348,11 @@
   "shares": 3780,
   "value": 1276874,
   "name": "Veracity Capital LLC"
+ },
+ "1811240": {
+  "shares": 2882,
+  "value": 973584,
+  "name": "Souders Financial Advisors"
  },
  "1811242": {
   "shares": 2471117,
@@ -9234,11 +9264,6 @@
   "value": 851503,
   "name": "Quantum Financial Advisors, LLC"
  },
- "1929170": {
-  "shares": 7346,
-  "value": 2482770,
-  "name": "ANGELES WEALTH MANAGEMENT, LLC"
- },
  "1929662": {
   "shares": 606,
   "value": 204731,
@@ -9589,6 +9614,11 @@
   "value": 253380,
   "name": "Compound Global Advisors, LLC"
  },
+ "1962457": {
+  "shares": 3510,
+  "value": 1185818,
+  "name": "Northern Financial Advisors Inc"
+ },
  "1962465": {
   "shares": 802,
   "value": 270948,
@@ -9748,11 +9778,6 @@
   "shares": 21485,
   "value": 7258493,
   "name": "INSIGNEO ADVISORY SERVICES, LLC"
- },
- "1965201": {
-  "shares": 1471,
-  "value": 496963,
-  "name": "TFB Advisors LLC"
  },
  "1965207": {
   "shares": 2152,
@@ -9918,6 +9943,11 @@
   "shares": 160121,
   "value": 54095279,
   "name": "LBP AM SA"
+ },
+ "1970465": {
+  "shares": 28273,
+  "value": 9551750,
+  "name": "Polymer Capital Management (HK) LTD"
  },
  "1971029": {
   "shares": 706,
@@ -10408,6 +10438,11 @@
   "shares": 2475,
   "value": 836154,
   "name": "Tactive Advisors, LLC"
+ },
+ "2002628": {
+  "shares": 647,
+  "value": 218623,
+  "name": "Morton Capital Management LLC/CA"
  },
  "2002630": {
   "shares": 3602,
@@ -11054,11 +11089,6 @@
   "value": 381851,
   "name": "Embree Financial Group"
  },
- "2021047": {
-  "shares": 1879,
-  "value": 874974,
-  "name": "SEEDS INVESTOR LLC"
- },
  "2021208": {
   "shares": 1117,
   "value": 377238,
@@ -11613,6 +11643,11 @@
   "shares": 5492,
   "value": 1855417,
   "name": "BLUE JEAN FINANCIAL LLC"
+ },
+ "2047270": {
+  "shares": 599,
+  "value": 202366,
+  "name": "BankPlus Trust Department"
  },
  "2047271": {
   "shares": 2646,
@@ -13774,6 +13809,11 @@
   "value": 329394,
   "name": "1ST SOURCE BANK"
  },
+ "36029": {
+  "shares": 144957,
+  "value": 48972272,
+  "name": "FIRST FINANCIAL BANKSHARES INC  (FFIN)"
+ },
  "36066": {
   "shares": 2544,
   "value": 859629,
@@ -13943,6 +13983,11 @@
   "shares": 2524,
   "value": 852619,
   "name": "MONEY CONCEPTS CAPITAL CORP"
+ },
+ "719245": {
+  "shares": 14957,
+  "value": 5053073,
+  "name": "WESTPAC BANKING CORP  (WBKCY, WEBNF)"
  },
  "720005": {
   "shares": 1357411,
@@ -14408,6 +14453,11 @@
   "shares": 119457,
   "value": 39577050,
   "name": "BNP PARIBAS"
+ },
+ "873630": {
+  "shares": 5273783,
+  "value": 1760829807,
+  "name": "HSBC HOLDINGS PLC"
  },
  "877134": {
   "shares": 24763,

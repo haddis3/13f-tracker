@@ -1,18 +1,18 @@
 {
- "generated": "2026-08-14T22:30:02.883013Z",
+ "generated": "2026-08-17T22:39:19.635236Z",
  "quarters": [
-  "2026-03-31"
+  "2026-06-30"
  ],
  "stocks": {
   "SNDK": {
    "name": "SANDISK CORP",
-   "sharesM": 113.3,
+   "sharesM": 111.3,
    "tl": [
     {
-     "q": "2026-03-31",
-     "holders": 1172,
-     "valueB": 68.94,
-     "neu": 1172,
+     "q": "2026-06-30",
+     "holders": 1795,
+     "valueB": 242.1,
+     "neu": 1795,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -22,142 +22,136 @@
     {
      "fund": "D. E. Shaw & Co., Inc.",
      "action": "NEW",
-     "shares": "1.2M",
-     "value": "$745.2M"
+     "shares": "561.9K",
+     "value": "$1.3B"
     },
     {
      "fund": "Renaissance Technologies LLC",
      "action": "NEW",
-     "shares": "799.6K",
-     "value": "$508.0M"
+     "shares": "5.0K",
+     "value": "$11.3M"
     },
     {
      "fund": "Millennium Management LLC",
      "action": "NEW",
-     "shares": "1.1M",
-     "value": "$725.7M"
+     "shares": "366.1K",
+     "value": "$832.5M"
     },
     {
      "fund": "Bridgewater Associates, LP",
      "action": "NEW",
-     "shares": "9.5K",
-     "value": "$6.0M"
+     "shares": "317",
+     "value": "$721K"
     },
     {
      "fund": "Citadel Advisors LLC",
      "action": "NEW",
-     "shares": "607.8K",
-     "value": "$386.2M"
-    },
-    {
-     "fund": "Appaloosa LP",
-     "action": "NEW",
-     "shares": "281.2K",
-     "value": "$178.7M"
+     "shares": "67.4K",
+     "value": "$153.3M"
     }
    ],
    "holders": [
     {
-     "fund": "FMR LLC",
-     "shares": "13.4M",
-     "value": "$8.5B",
-     "chg": "NEW"
-    },
-    {
      "fund": "BlackRock, Inc.  (BLK)",
-     "shares": "10.4M",
-     "value": "$6.6B",
+     "shares": "10.3M",
+     "value": "$23.4B",
      "chg": "NEW"
     },
     {
      "fund": "VANGUARD CAPITAL MANAGEMENT LLC",
-     "shares": "9.5M",
-     "value": "$6.1B",
+     "shares": "9.7M",
+     "value": "$22.0B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "FMR LLC",
+     "shares": "7.9M",
+     "value": "$17.9B",
      "chg": "NEW"
     },
     {
      "fund": "STATE STREET CORP  (STT, STT-PG)",
+     "shares": "5.9M",
+     "value": "$13.5B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "Invesco Ltd.  (IVZ)",
      "shares": "5.6M",
-     "value": "$3.5B",
+     "value": "$12.8B",
      "chg": "NEW"
     },
     {
      "fund": "GEODE CAPITAL MANAGEMENT, LLC",
-     "shares": "4.2M",
-     "value": "$2.7B",
+     "shares": "3.6M",
+     "value": "$8.2B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "JPMORGAN CHASE & CO  (JPM, AMJB, VYLD, JPM-PC, JPM-PD, JPM-PJ, JPM-PK, JPM-PL, JPM-PM)",
+     "shares": "3.9M",
+     "value": "$8.1B",
      "chg": "NEW"
     },
     {
      "fund": "VANGUARD PORTFOLIO MANAGEMENT LLC",
-     "shares": "3.6M",
-     "value": "$2.3B",
+     "shares": "3.5M",
+     "value": "$8.0B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "Clear Street Group Inc.",
+     "shares": "3.0M",
+     "value": "$6.8B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "Situational Awareness LP",
+     "shares": "2.5M",
+     "value": "$5.7B",
      "chg": "NEW"
     },
     {
      "fund": "MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ)",
-     "shares": "2.8M",
-     "value": "$1.8B",
+     "shares": "2.4M",
+     "value": "$5.5B",
      "chg": "NEW"
     },
     {
      "fund": "ARROWSTREET CAPITAL, LIMITED PARTNERSHIP",
-     "shares": "2.8M",
-     "value": "$1.8B",
+     "shares": "2.2M",
+     "value": "$4.9B",
      "chg": "NEW"
     },
     {
-     "fund": "GOLDMAN SACHS GROUP INC  (GS, GSCE, GS-PA, GS-PC, GS-PD)",
-     "shares": "2.0M",
-     "value": "$1.3B",
+     "fund": "NORGES BANK",
+     "shares": "2.1M",
+     "value": "$4.7B",
      "chg": "NEW"
     },
     {
-     "fund": "JANE STREET GROUP, LLC",
-     "shares": "1.8M",
-     "value": "$1.1B",
+     "fund": "Sixth Street Partners Management Company, L.P.",
+     "shares": "1.7M",
+     "value": "$4.0B",
      "chg": "NEW"
     },
     {
      "fund": "CHARLES SCHWAB INVESTMENT MANAGEMENT INC",
      "shares": "1.7M",
-     "value": "$1.1B",
-     "chg": "NEW"
-    },
-    {
-     "fund": "JPMORGAN CHASE & CO  (JPM, AMJB, VYLD, JPM-PC, JPM-PD, JPM-PJ, JPM-PK, JPM-PL, JPM-PM)",
-     "shares": "1.4M",
-     "value": "$818.0M",
-     "chg": "NEW"
-    },
-    {
-     "fund": "BNP PARIBAS FINANCIAL MARKETS",
-     "shares": "1.3M",
-     "value": "$794.9M",
-     "chg": "NEW"
-    },
-    {
-     "fund": "NORTHERN TRUST CORP  (NTRS, NTRSO)",
-     "shares": "1.2M",
-     "value": "$784.4M",
-     "chg": "NEW"
-    },
-    {
-     "fund": "Clear Street Group Inc.",
-     "shares": "1.2M",
-     "value": "$778.0M",
+     "value": "$4.0B",
      "chg": "NEW"
     }
    ]
   },
   "MU": {
    "name": "MICRON TECHNOLOGY",
-   "sharesM": 844.2,
+   "sharesM": 883.4,
    "tl": [
     {
-     "q": "2026-03-31",
-     "holders": 2985,
-     "valueB": 271.91,
-     "neu": 2985,
+     "q": "2026-06-30",
+     "holders": 3841,
+     "valueB": 975.53,
+     "neu": 3841,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -167,142 +161,142 @@
     {
      "fund": "D. E. Shaw & Co., Inc.",
      "action": "NEW",
-     "shares": "3.7M",
-     "value": "$1.2B"
+     "shares": "768.8K",
+     "value": "$887.4M"
     },
     {
      "fund": "Renaissance Technologies LLC",
      "action": "NEW",
-     "shares": "2.2M",
-     "value": "$730.7M"
+     "shares": "211.6K",
+     "value": "$244.2M"
     },
     {
      "fund": "Millennium Management LLC",
      "action": "NEW",
-     "shares": "1.6M",
-     "value": "$542.3M"
+     "shares": "517.1K",
+     "value": "$596.9M"
     },
     {
      "fund": "Bridgewater Associates, LP",
      "action": "NEW",
-     "shares": "1.5M",
-     "value": "$498.6M"
+     "shares": "116.7K",
+     "value": "$134.7M"
     },
     {
      "fund": "Citadel Advisors LLC",
      "action": "NEW",
-     "shares": "4.6M",
-     "value": "$1.6B"
+     "shares": "600.5K",
+     "value": "$693.2M"
     },
     {
      "fund": "Appaloosa LP",
      "action": "NEW",
-     "shares": "1.7M",
-     "value": "$562.5M"
+     "shares": "975.0K",
+     "value": "$1.1B"
     }
    ],
    "holders": [
     {
      "fund": "BlackRock, Inc.  (BLK)",
-     "shares": "103.1M",
-     "value": "$34.8B",
+     "shares": "104.8M",
+     "value": "$121.0B",
      "chg": "NEW"
     },
     {
      "fund": "VANGUARD CAPITAL MANAGEMENT LLC",
-     "shares": "73.1M",
-     "value": "$24.7B",
+     "shares": "73.7M",
+     "value": "$85.0B",
      "chg": "NEW"
     },
     {
      "fund": "STATE STREET CORP  (STT, STT-PG)",
-     "shares": "52.2M",
-     "value": "$17.7B",
-     "chg": "NEW"
-    },
-    {
-     "fund": "Capital World Investors",
-     "shares": "42.1M",
-     "value": "$14.2B",
-     "chg": "NEW"
-    },
-    {
-     "fund": "FMR LLC",
-     "shares": "32.1M",
-     "value": "$10.8B",
-     "chg": "NEW"
-    },
-    {
-     "fund": "GEODE CAPITAL MANAGEMENT, LLC",
-     "shares": "27.4M",
-     "value": "$9.2B",
-     "chg": "NEW"
-    },
-    {
-     "fund": "VANGUARD PORTFOLIO MANAGEMENT LLC",
-     "shares": "23.0M",
-     "value": "$7.8B",
-     "chg": "NEW"
-    },
-    {
-     "fund": "PRIMECAP MANAGEMENT CO/CA/",
-     "shares": "21.9M",
-     "value": "$7.4B",
-     "chg": "NEW"
-    },
-    {
-     "fund": "MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ)",
-     "shares": "16.8M",
-     "value": "$5.7B",
-     "chg": "NEW"
-    },
-    {
-     "fund": "JPMORGAN CHASE & CO  (JPM, AMJB, VYLD, JPM-PC, JPM-PD, JPM-PJ, JPM-PK, JPM-PL, JPM-PM)",
-     "shares": "15.8M",
-     "value": "$5.1B",
-     "chg": "NEW"
-    },
-    {
-     "fund": "GOLDMAN SACHS GROUP INC  (GS, GSCE, GS-PA, GS-PC, GS-PD)",
-     "shares": "12.6M",
-     "value": "$4.2B",
+     "shares": "50.1M",
+     "value": "$57.8B",
      "chg": "NEW"
     },
     {
      "fund": "Invesco Ltd.  (IVZ)",
-     "shares": "12.1M",
-     "value": "$4.1B",
+     "shares": "36.3M",
+     "value": "$41.9B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "Capital World Investors",
+     "shares": "29.5M",
+     "value": "$34.0B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "GEODE CAPITAL MANAGEMENT, LLC",
+     "shares": "27.7M",
+     "value": "$31.9B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "FMR LLC",
+     "shares": "26.7M",
+     "value": "$30.8B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "JPMORGAN CHASE & CO  (JPM, AMJB, VYLD, JPM-PC, JPM-PD, JPM-PJ, JPM-PK, JPM-PL, JPM-PM)",
+     "shares": "25.8M",
+     "value": "$29.6B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "VANGUARD PORTFOLIO MANAGEMENT LLC",
+     "shares": "24.7M",
+     "value": "$28.5B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "PRIMECAP MANAGEMENT CO/CA/",
+     "shares": "19.2M",
+     "value": "$22.2B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ)",
+     "shares": "18.5M",
+     "value": "$21.3B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "GOLDMAN SACHS GROUP INC  (GS, GSCE, GS-PA, GS-PC, GS-PD)",
+     "shares": "18.1M",
+     "value": "$20.9B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "NORGES BANK",
+     "shares": "15.2M",
+     "value": "$17.5B",
      "chg": "NEW"
     },
     {
      "fund": "NORTHERN TRUST CORP  (NTRS, NTRSO)",
-     "shares": "10.4M",
-     "value": "$3.5B",
-     "chg": "NEW"
-    },
-    {
-     "fund": "UBS AM, a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC",
-     "shares": "9.6M",
-     "value": "$3.2B",
+     "shares": "10.8M",
+     "value": "$12.5B",
      "chg": "NEW"
     },
     {
      "fund": "Capital International Investors",
-     "shares": "8.9M",
-     "value": "$3.0B",
+     "shares": "10.4M",
+     "value": "$12.0B",
      "chg": "NEW"
     }
    ]
   },
   "LITE": {
    "name": "LUMENTUM HLDGS INC",
-   "sharesM": 86.6,
+   "sharesM": 83.6,
    "tl": [
     {
-     "q": "2026-03-31",
-     "holders": 1081,
-     "valueB": 52.26,
-     "neu": 1081,
+     "q": "2026-06-30",
+     "holders": 1306,
+     "valueB": 68.63,
+     "neu": 1306,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -312,123 +306,123 @@
     {
      "fund": "D. E. Shaw & Co., Inc.",
      "action": "NEW",
-     "shares": "14.0K",
-     "value": "$9.8M"
+     "shares": "668.0K",
+     "value": "$573.2M"
     },
     {
      "fund": "Renaissance Technologies LLC",
      "action": "NEW",
-     "shares": "202.8K",
-     "value": "$142.5M"
+     "shares": "199.6K",
+     "value": "$171.3M"
     },
     {
      "fund": "Millennium Management LLC",
      "action": "NEW",
-     "shares": "122.0K",
-     "value": "$85.7M"
+     "shares": "64.2K",
+     "value": "$55.1M"
     },
     {
      "fund": "Bridgewater Associates, LP",
      "action": "NEW",
-     "shares": "5.8K",
-     "value": "$4.1M"
+     "shares": "18.6K",
+     "value": "$16.0M"
     },
     {
      "fund": "Citadel Advisors LLC",
      "action": "NEW",
-     "shares": "140.7K",
-     "value": "$98.9M"
+     "shares": "102.6K",
+     "value": "$88.0M"
     }
    ],
    "holders": [
     {
      "fund": "BlackRock, Inc.  (BLK)",
-     "shares": "7.8M",
-     "value": "$5.5B",
-     "chg": "NEW"
-    },
-    {
-     "fund": "FMR LLC",
-     "shares": "7.2M",
-     "value": "$5.0B",
+     "shares": "9.2M",
+     "value": "$7.9B",
      "chg": "NEW"
     },
     {
      "fund": "VANGUARD CAPITAL MANAGEMENT LLC",
-     "shares": "4.6M",
-     "value": "$3.3B",
+     "shares": "5.1M",
+     "value": "$4.4B",
      "chg": "NEW"
     },
     {
      "fund": "VANGUARD PORTFOLIO MANAGEMENT LLC",
-     "shares": "3.7M",
-     "value": "$2.6B",
-     "chg": "NEW"
-    },
-    {
-     "fund": "STATE STREET CORP  (STT, STT-PG)",
-     "shares": "3.0M",
-     "value": "$2.1B",
+     "shares": "4.1M",
+     "value": "$3.5B",
      "chg": "NEW"
     },
     {
      "fund": "JPMORGAN CHASE & CO  (JPM, AMJB, VYLD, JPM-PC, JPM-PD, JPM-PJ, JPM-PK, JPM-PL, JPM-PM)",
-     "shares": "2.9M",
-     "value": "$1.9B",
+     "shares": "4.1M",
+     "value": "$3.5B",
      "chg": "NEW"
     },
     {
-     "fund": "GEODE CAPITAL MANAGEMENT, LLC",
-     "shares": "2.1M",
-     "value": "$1.5B",
+     "fund": "FMR LLC",
+     "shares": "3.5M",
+     "value": "$3.0B",
      "chg": "NEW"
     },
     {
-     "fund": "UBS Group AG  (UBS)",
-     "shares": "1.4M",
-     "value": "$992.7M",
-     "chg": "NEW"
-    },
-    {
-     "fund": "WT Asset Management Ltd",
-     "shares": "1.4M",
-     "value": "$969.9M",
-     "chg": "NEW"
-    },
-    {
-     "fund": "Capital World Investors",
-     "shares": "1.3M",
-     "value": "$923.3M",
+     "fund": "STATE STREET CORP  (STT, STT-PG)",
+     "shares": "3.5M",
+     "value": "$3.0B",
      "chg": "NEW"
     },
     {
      "fund": "Invesco Ltd.  (IVZ)",
-     "shares": "1.2M",
-     "value": "$826.7M",
+     "shares": "3.2M",
+     "value": "$2.7B",
      "chg": "NEW"
     },
     {
-     "fund": "Value Aligned Research Advisors, LLC",
-     "shares": "1.1M",
-     "value": "$743.0M",
+     "fund": "GEODE CAPITAL MANAGEMENT, LLC",
+     "shares": "2.2M",
+     "value": "$1.9B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "Jupiter Topco LLC",
+     "shares": "1.9M",
+     "value": "$1.6B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "ARROWSTREET CAPITAL, LIMITED PARTNERSHIP",
+     "shares": "1.4M",
+     "value": "$1.2B",
      "chg": "NEW"
     },
     {
      "fund": "MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ)",
-     "shares": "1.0M",
-     "value": "$722.1M",
+     "shares": "1.3M",
+     "value": "$1.1B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "NORGES BANK",
+     "shares": "1.2M",
+     "value": "$1.0B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "GOLDMAN SACHS GROUP INC  (GS, GSCE, GS-PA, GS-PC, GS-PD)",
+     "shares": "1.1M",
+     "value": "$950.7M",
+     "chg": "NEW"
+    },
+    {
+     "fund": "Sixth Street Partners Management Company, L.P.",
+     "shares": "983.9K",
+     "value": "$844.3M",
      "chg": "NEW"
     },
     {
      "fund": "CHARLES SCHWAB INVESTMENT MANAGEMENT INC",
-     "shares": "974.0K",
-     "value": "$684.5M",
-     "chg": "NEW"
-    },
-    {
-     "fund": "JANE STREET GROUP, LLC",
-     "shares": "956.4K",
-     "value": "$672.1M",
+     "shares": "983.9K",
+     "value": "$844.3M",
      "chg": "NEW"
     }
    ]

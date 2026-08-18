@@ -879,6 +879,11 @@
   "value": 85806,
   "name": "Gladstone Capital Management LLP"
  },
+ "1353395": {
+  "shares": 1256,
+  "value": 1069358,
+  "name": "Fulcrum Asset Management LLP"
+ },
  "1357550": {
   "shares": 4905,
   "value": 4208784,
@@ -1669,6 +1674,11 @@
   "value": 333785,
   "name": "Baader Bank Aktiengesellschaft"
  },
+ "1544204": {
+  "shares": 4749,
+  "value": 4074927,
+  "name": "Liontrust Investment Partners LLP"
+ },
  "1544576": {
   "shares": 451,
   "value": 387054,
@@ -1693,6 +1703,11 @@
   "shares": 56930,
   "value": 48849356,
   "name": "Broad Peak Investment Advisers Pte Ltd"
+ },
+ "1547926": {
+  "shares": 500,
+  "value": 428765,
+  "name": "Livforsakringsbolaget Skandia, Omsesidigt"
  },
  "1548392": {
   "shares": 10788,
@@ -2104,6 +2119,11 @@
   "value": 2653123,
   "name": "Dakota Wealth Management"
  },
+ "1631773": {
+  "shares": 271,
+  "value": 232534,
+  "name": "Concorde Asset Management, LLC"
+ },
  "1631864": {
   "shares": 4487,
   "value": 3850115,
@@ -2298,6 +2318,11 @@
   "shares": 1946,
   "value": 1669784,
   "name": "NS Partners Ltd"
+ },
+ "1657980": {
+  "shares": 1392,
+  "value": 1289187,
+  "name": "Denver PWM, LLC"
  },
  "1659047": {
   "shares": 1474,
@@ -2908,6 +2933,11 @@
   "shares": 697,
   "value": 597708,
   "name": "FOUNDATIONS INVESTMENT ADVISORS, LLC"
+ },
+ "1744317": {
+  "shares": 1826,
+  "value": 1566569,
+  "name": "Beacon Pointe Advisors, LLC"
  },
  "1744347": {
   "shares": 5710,
@@ -5249,6 +5279,11 @@
   "value": 772254,
   "name": "Seek First Inc."
  },
+ "2062680": {
+  "shares": 18377,
+  "value": 15646177,
+  "name": "Rakuten Investment Management, Inc."
+ },
  "2063915": {
   "shares": 697,
   "value": 598068,
@@ -5853,11 +5888,6 @@
   "shares": 478858,
   "value": 410888697,
   "name": "FRANKLIN RESOURCES INC  (BEN)"
- },
- "39263": {
-  "shares": 11101,
-  "value": 9525324,
-  "name": "CULLEN/FROST BANKERS, INC.  (CFR, CFR-PB)"
  },
  "44365": {
   "shares": 8,

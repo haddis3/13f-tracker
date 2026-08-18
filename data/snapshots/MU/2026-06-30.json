@@ -464,6 +464,11 @@
   "value": 3616391,
   "name": "Palouse Capital Management, Inc."
  },
+ "1056559": {
+  "shares": 358,
+  "value": 412797,
+  "name": "NORTH STAR ASSET MANAGEMENT INC"
+ },
  "1056581": {
   "shares": 130000,
   "value": 150057700,
@@ -775,8 +780,8 @@
   "name": "CHESAPEAKE CAPITAL CORP /IL/"
  },
  "1094584": {
-  "shares": 242,
-  "value": 82,
+  "shares": 391,
+  "value": 451,
   "name": "PIN OAK INVESTMENT ADVISORS INC"
  },
  "1096783": {
@@ -953,11 +958,6 @@
   "shares": 679,
   "value": 783763,
   "name": "GAGNON SECURITIES LLC"
- },
- "1125727": {
-  "shares": 500,
-  "value": 577145,
-  "name": "FIRST INTERSTATE BANK"
  },
  "1125816": {
   "shares": 1148631,
@@ -1983,6 +1983,11 @@
   "shares": 7159,
   "value": 8263562,
   "name": "Progressive Investment Management Corp"
+ },
+ "1353395": {
+  "shares": 20696,
+  "value": 23702715,
+  "name": "Fulcrum Asset Management LLP"
  },
  "1354821": {
   "shares": 1623,
@@ -3619,6 +3624,11 @@
   "value": 788380,
   "name": "Connective Capital Management, LLC"
  },
+ "1544204": {
+  "shares": 24478,
+  "value": 28254711,
+  "name": "Liontrust Investment Partners LLP"
+ },
  "1544366": {
   "shares": 638,
   "value": 736236,
@@ -3668,6 +3678,11 @@
   "shares": 1295,
   "value": 1494810,
   "name": "NewSquare Capital LLC"
+ },
+ "1547926": {
+  "shares": 100262,
+  "value": 115377499,
+  "name": "Livforsakringsbolaget Skandia, Omsesidigt"
  },
  "1548392": {
   "shares": 171152,
@@ -3784,11 +3799,6 @@
   "value": 2829218,
   "name": "Regal Investment Advisors LLC"
  },
- "1559832": {
-  "shares": 2048,
-  "value": 2363986,
-  "name": "Estate Counselors, LLC"
- },
  "1560717": {
   "shares": 103928,
   "value": 119944344,
@@ -3868,6 +3878,11 @@
   "shares": 31122,
   "value": 35923862,
   "name": "Capital Wealth Planning, LLC"
+ },
+ "1566887": {
+  "shares": 13000,
+  "value": 15005770,
+  "name": "Ratan Capital Management LP"
  },
  "1567013": {
   "shares": 355,
@@ -4834,6 +4849,11 @@
   "value": 409759,
   "name": "Barry Investment Advisors, LLC"
  },
+ "1631773": {
+  "shares": 308,
+  "value": 355521,
+  "name": "Concorde Asset Management, LLC"
+ },
  "1631864": {
   "shares": 7989,
   "value": 9221978,
@@ -5259,6 +5279,11 @@
   "value": 50433238,
   "name": "NS Partners Ltd"
  },
+ "1657980": {
+  "shares": 395,
+  "value": 383740,
+  "name": "Denver PWM, LLC"
+ },
  "1658652": {
   "shares": 5072,
   "value": 5854559,
@@ -5594,11 +5619,6 @@
   "value": 73533872,
   "name": "IBEX WEALTH ADVISORS"
  },
- "1686444": {
-  "shares": 2880,
-  "value": 3324355,
-  "name": "LYELL WEALTH MANAGEMENT, LP"
- },
  "1686988": {
   "shares": 6705,
   "value": 7739248,
@@ -5675,8 +5695,8 @@
   "name": "FLAGSHIP HARBOR ADVISORS, LLC"
  },
  "1691827": {
-  "shares": 1152,
-  "value": 389191,
+  "shares": 1325,
+  "value": 1529434,
   "name": "Glenview Trust Co"
  },
  "1691919": {
@@ -5778,6 +5798,11 @@
   "shares": 2269,
   "value": 2618657,
   "name": "McAdam, LLC"
+ },
+ "1695582": {
+  "shares": 186,
+  "value": 214214,
+  "name": "RB Capital Management, LLC"
  },
  "1695664": {
   "shares": 15,
@@ -5983,11 +6008,6 @@
   "shares": 369,
   "value": 425933,
   "name": "Pinnacle Bancorp, Inc."
- },
- "1703496": {
-  "shares": 576,
-  "value": 664871,
-  "name": "Warren Street Wealth Advisors, LLC"
  },
  "1704107": {
   "shares": 846,
@@ -6804,6 +6824,11 @@
   "value": 116583,
   "name": "CNB Bank"
  },
+ "1732541": {
+  "shares": 79599,
+  "value": 82168456,
+  "name": "Defiance ETFs, LLC"
+ },
  "1733082": {
   "shares": 1875,
   "value": 2164036,
@@ -7003,6 +7028,11 @@
   "shares": 1075,
   "value": 1241005,
   "name": "Elm Partners Management LLC"
+ },
+ "1744317": {
+  "shares": 26696,
+  "value": 30696630,
+  "name": "Beacon Pointe Advisors, LLC"
  },
  "1744318": {
   "shares": 1076,
@@ -7418,6 +7448,11 @@
   "shares": 541,
   "value": 558463,
   "name": "Salomon & Ludwin, LLC"
+ },
+ "1766157": {
+  "shares": 4536,
+  "value": 5235868,
+  "name": "Sargent Investment Group, LLC"
  },
  "1766228": {
   "shares": 1962,
@@ -9734,6 +9769,11 @@
   "value": 4514451,
   "name": "Safeguard Investment Advisory Group, LLC"
  },
+ "1846758": {
+  "shares": 1125,
+  "value": 1298576,
+  "name": "Orion Capital Management LLC"
+ },
  "1846991": {
   "shares": 2909,
   "value": 3357830,
@@ -9913,6 +9953,11 @@
   "shares": 117948,
   "value": 136146294,
   "name": "YOUSIF CAPITAL MANAGEMENT, LLC"
+ },
+ "1859259": {
+  "shares": 1720,
+  "value": 1985486,
+  "name": "Fermata Advisors, LLC"
  },
  "1859606": {
   "shares": 696131,
@@ -10899,6 +10944,11 @@
   "value": 4815698,
   "name": "Chemistry Wealth Management LLC"
  },
+ "1910210": {
+  "shares": 230,
+  "value": 265432,
+  "name": "TILIA FIDUCIARY PARTNERS, INC."
+ },
  "1910273": {
   "shares": 1309,
   "value": 1511321,
@@ -11054,11 +11104,6 @@
   "value": 5864676,
   "name": "Nicholas Wealth, LLC."
  },
- "1911407": {
-  "shares": 21268,
-  "value": 24549440,
-  "name": "EAGLE ROCK INVESTMENT COMPANY, LLC"
- },
  "1911470": {
   "shares": 785,
   "value": 906253,
@@ -11098,6 +11143,11 @@
   "shares": 3664,
   "value": 4229411,
   "name": "Forum Financial Management, LP"
+ },
+ "1911938": {
+  "shares": 389,
+  "value": 448812,
+  "name": "Capasso Planning Partners LLC"
  },
  "1912128": {
   "shares": 283,
@@ -11233,6 +11283,11 @@
   "shares": 179,
   "value": 206618,
   "name": "Hutchens & Kramer Investment Management Group, LLC"
+ },
+ "1920405": {
+  "shares": 52,
+  "value": 60069,
+  "name": "Leo H. Evart, Inc."
  },
  "1921196": {
   "shares": 368,
@@ -11809,6 +11864,11 @@
   "value": 1531999,
   "name": "Strategic Investment Solutions, Inc. /IL"
  },
+ "1960212": {
+  "shares": 25,
+  "value": 28857,
+  "name": "JDM Financial Group LLC"
+ },
  "1960749": {
   "shares": 1120,
   "value": 1292850,
@@ -12239,6 +12299,11 @@
   "value": 4841024,
   "name": "LaSalle St. Investment Advisors, LLC"
  },
+ "1966210": {
+  "shares": 712,
+  "value": 821854,
+  "name": "Strait & Sound Wealth Management LLC"
+ },
  "1966219": {
   "shares": 488,
   "value": 563644,
@@ -12608,11 +12673,6 @@
   "shares": 5297,
   "value": 6114281,
   "name": "Dupree Financial Group, LLC"
- },
- "1989341": {
-  "shares": 1902,
-  "value": 2195460,
-  "name": "INVENIO WEALTH PARTNERS LLC"
  },
  "1989349": {
   "shares": 1945,
@@ -14329,11 +14389,6 @@
   "value": 498654,
   "name": "High Probability Advisors, LLC"
  },
- "2039659": {
-  "shares": 39,
-  "value": 45018,
-  "name": "Seneschal Advisors, LLC"
- },
  "2039698": {
   "shares": 210,
   "value": 242406,
@@ -15544,6 +15599,11 @@
   "value": 4047087,
   "name": "WEALTHEDGE INVESTMENT ADVISORS, LLC"
  },
+ "2058771": {
+  "shares": 14,
+  "value": 16201,
+  "name": "Copia Wealth Management"
+ },
  "2058786": {
   "shares": 8505,
   "value": 9817236,
@@ -15663,6 +15723,11 @@
   "shares": 284,
   "value": 328016,
   "name": "Innovative Wealth Building LLC"
+ },
+ "2062680": {
+  "shares": 299691,
+  "value": 343230108,
+  "name": "Rakuten Investment Management, Inc."
  },
  "2063074": {
   "shares": 536,
@@ -17064,11 +17129,6 @@
   "value": 3182388,
   "name": "BNB Wealth Management, LLC"
  },
- "2111343": {
-  "shares": 212,
-  "value": 244709,
-  "name": "SBE LLC DBA CEDAR COVE WEALTH PARTNERS"
- },
  "2111345": {
   "shares": 12595,
   "value": 14538655,
@@ -17243,6 +17303,11 @@
   "shares": 11488,
   "value": 13263317,
   "name": "Dedeker Financial LLC"
+ },
+ "2113426": {
+  "shares": 94,
+  "value": 87879,
+  "name": "Sankala Group LLC"
  },
  "2113492": {
   "shares": 1304,
@@ -17488,11 +17553,6 @@
   "shares": 4840,
   "value": 5586764,
   "name": "E20 Capital Ltd"
- },
- "2127798": {
-  "shares": 369,
-  "value": 425933,
-  "name": "Northern Lights Advisors, Inc."
  },
  "2127823": {
   "shares": 7369,
@@ -18413,11 +18473,6 @@
   "shares": 2913,
   "value": 3362447,
   "name": "PVG ASSET MANAGEMENT CORP"
- },
- "820478": {
-  "shares": 398561,
-  "value": 460054977,
-  "name": "STRS OHIO"
  },
  "821197": {
   "shares": 10459,

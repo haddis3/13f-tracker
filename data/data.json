@@ -1,18 +1,18 @@
 {
- "generated": "2026-08-17T22:39:19.635236Z",
+ "generated": "2026-08-18T22:31:38.435416Z",
  "quarters": [
   "2026-06-30"
  ],
  "stocks": {
   "SNDK": {
    "name": "SANDISK CORP",
-   "sharesM": 111.3,
+   "sharesM": 111.6,
    "tl": [
     {
      "q": "2026-06-30",
-     "holders": 1795,
-     "valueB": 242.1,
-     "neu": 1795,
+     "holders": 1806,
+     "valueB": 242.2,
+     "neu": 1806,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -145,13 +145,13 @@
   },
   "MU": {
    "name": "MICRON TECHNOLOGY",
-   "sharesM": 883.4,
+   "sharesM": 883.6,
    "tl": [
     {
      "q": "2026-06-30",
-     "holders": 3841,
-     "valueB": 975.53,
-     "neu": 3841,
+     "holders": 3852,
+     "valueB": 975.69,
+     "neu": 3852,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -290,13 +290,13 @@
   },
   "LITE": {
    "name": "LUMENTUM HLDGS INC",
-   "sharesM": 83.6,
+   "sharesM": 83.7,
    "tl": [
     {
      "q": "2026-06-30",
-     "holders": 1306,
-     "valueB": 68.63,
-     "neu": 1306,
+     "holders": 1312,
+     "valueB": 68.64,
+     "neu": 1312,
      "inc": 0,
      "dec": 0,
      "sold": 0

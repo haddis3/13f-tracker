@@ -119,6 +119,11 @@
   "value": 1291480,
   "name": "UHLMANN PRICE SECURITIES, LLC"
  },
+ "1035350": {
+  "shares": 3919,
+  "value": 5309540,
+  "name": "SECURIAN ASSET MANAGEMENT, INC"
+ },
  "1037389": {
   "shares": 4980,
   "value": 11323175,
@@ -343,6 +348,11 @@
   "shares": 1457,
   "value": 3312825,
   "name": "ZIONS BANCORPORATION, NATIONAL ASSOCIATION /UT/  (ZION, ZIONP)"
+ },
+ "1094584": {
+  "shares": 36,
+  "value": 82,
+  "name": "PIN OAK INVESTMENT ADVISORS INC"
  },
  "1097278": {
   "shares": 1500,
@@ -943,6 +953,11 @@
   "shares": 19900,
   "value": 45247227,
   "name": "Gladstone Capital Management LLP"
+ },
+ "1353395": {
+  "shares": 2012,
+  "value": 4125385,
+  "name": "Fulcrum Asset Management LLP"
  },
  "1356407": {
   "shares": 275,
@@ -1884,6 +1899,11 @@
   "value": 513863,
   "name": "Hudock, Inc."
  },
+ "1544204": {
+  "shares": 2133,
+  "value": 4849866,
+  "name": "Liontrust Investment Partners LLP"
+ },
  "1544576": {
   "shares": 180,
   "value": 408794,
@@ -1908,6 +1928,11 @@
   "shares": 174,
   "value": 395629,
   "name": "NewSquare Capital LLC"
+ },
+ "1547926": {
+  "shares": 232205,
+  "value": 22302499,
+  "name": "Livforsakringsbolaget Skandia, Omsesidigt"
  },
  "1548392": {
   "shares": 22096,
@@ -2023,6 +2048,11 @@
   "shares": 3806,
   "value": 8653817,
   "name": "Capital Wealth Planning, LLC"
+ },
+ "1566887": {
+  "shares": 1740,
+  "value": 3956290,
+  "name": "Ratan Capital Management LP"
  },
  "1567755": {
   "shares": 4231,
@@ -3174,6 +3204,11 @@
   "value": 286490,
   "name": "Financial Advisors Network, Inc."
  },
+ "1697953": {
+  "shares": 321,
+  "value": 730,
+  "name": "Summit Global Investments"
+ },
  "1698218": {
   "shares": 5341,
   "value": 12144192,
@@ -3678,6 +3713,11 @@
   "shares": 162,
   "value": 368344,
   "name": "Peachtree Investment Partners, LLC"
+ },
+ "1744317": {
+  "shares": 3871,
+  "value": 8779772,
+  "name": "Beacon Pointe Advisors, LLC"
  },
  "1744347": {
   "shares": 30146,
@@ -5429,6 +5469,11 @@
   "value": 432009,
   "name": "ENDEAVOR PRIVATE WEALTH, INC."
  },
+ "1906322": {
+  "shares": 10,
+  "value": 22737,
+  "name": "POM Investment Strategies, LLC"
+ },
  "1906594": {
   "shares": 10108,
   "value": 22982863,
@@ -5793,11 +5838,6 @@
   "shares": 545,
   "value": 1239183,
   "name": "Left Brain Wealth Management, LLC"
- },
- "1957394": {
-  "shares": 150,
-  "value": 341060,
-  "name": "Beaumont Financial Advisors, LLC"
  },
  "1958384": {
   "shares": 182,
@@ -7344,6 +7384,11 @@
   "value": 1189161,
   "name": "Clark Asset Management, LLC"
  },
+ "2062680": {
+  "shares": 27159,
+  "value": 55686542,
+  "name": "Rakuten Investment Management, Inc."
+ },
  "2063003": {
   "shares": 73,
   "value": 165982,
@@ -7533,6 +7578,11 @@
   "shares": 410,
   "value": 932229,
   "name": "ABN AMRO INVESTMENT SOLUTIONS"
+ },
+ "2081278": {
+  "shares": 144,
+  "value": 327963,
+  "name": "SUMMIT WEALTH GROUP LLC / CO"
  },
  "2081584": {
   "shares": 1,
@@ -7858,6 +7908,11 @@
   "shares": 103,
   "value": 235331,
   "name": "JMN Financial LLC"
+ },
+ "2113426": {
+  "shares": 23,
+  "value": 37076,
+  "name": "Sankala Group LLC"
  },
  "2113615": {
   "shares": 101,

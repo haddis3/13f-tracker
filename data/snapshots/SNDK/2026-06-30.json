@@ -804,11 +804,6 @@
   "value": 77775208,
   "name": "Calamos Advisors LLC"
  },
- "1317348": {
-  "shares": 5,
-  "value": 11369,
-  "name": "BOK Financial Private Wealth, Inc."
- },
  "1318601": {
   "shares": 190,
   "value": 432009,
@@ -1508,11 +1503,6 @@
   "shares": 2222,
   "value": 5052227,
   "name": "Diversified Trust Co"
- },
- "1479847": {
-  "shares": 29114,
-  "value": 66197375,
-  "name": "Voleon Capital Management LP"
  },
  "1481045": {
   "shares": 146908,
@@ -4244,6 +4234,11 @@
   "value": 202080,
   "name": "Triton Wealth Management, PLLC"
  },
+ "1791965": {
+  "shares": 1691,
+  "value": 3844877,
+  "name": "Kingsview Wealth Management, LLC"
+ },
  "1791998": {
   "shares": 130,
   "value": 295191,
@@ -4498,6 +4493,11 @@
   "shares": 157,
   "value": 356976,
   "name": "MAGNOLIA CAPITAL ADVISORS LLC"
+ },
+ "1803804": {
+  "shares": 200,
+  "value": 454746,
+  "name": "Archer Investment Corp"
  },
  "1803848": {
   "shares": 112,
@@ -5839,6 +5839,11 @@
   "value": 1239183,
   "name": "Left Brain Wealth Management, LLC"
  },
+ "1957394": {
+  "shares": 150,
+  "value": 341060,
+  "name": "Beaumont Financial Advisors, LLC"
+ },
  "1958384": {
   "shares": 182,
   "value": 413533,
@@ -6874,11 +6879,6 @@
   "value": 377439,
   "name": "Ariadne Wealth Management, LP"
  },
- "2035215": {
-  "shares": 7,
-  "value": 15916,
-  "name": "Quest 10 Wealth Builders, Inc."
- },
  "2035325": {
   "shares": 813,
   "value": 1848543,
@@ -7443,6 +7443,11 @@
   "shares": 15,
   "value": 34106,
   "name": "WPG Advisers, LLC"
+ },
+ "2067581": {
+  "shares": 277,
+  "value": 562925,
+  "name": "Bullock Wealth Management Group"
  },
  "2067591": {
   "shares": 1,
@@ -8565,8 +8570,8 @@
   "name": "ROTHSCHILD INVESTMENT LLC"
  },
  "853758": {
-  "shares": 15874,
-  "value": 36093672,
+  "shares": 15971,
+  "value": 36314224,
   "name": "MERCER GLOBAL ADVISORS INC /ADV"
  },
  "854157": {

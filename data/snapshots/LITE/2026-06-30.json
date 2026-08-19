@@ -3259,6 +3259,11 @@
   "value": 244547,
   "name": "RIVERSEDGE ADVISORS, LLC"
  },
+ "1791965": {
+  "shares": 690,
+  "value": 592061,
+  "name": "Kingsview Wealth Management, LLC"
+ },
  "1791998": {
   "shares": 2445,
   "value": 2097680,
@@ -4478,11 +4483,6 @@
   "shares": 242,
   "value": 207651,
   "name": "PREVAIL INNOVATIVE WEALTH ADVISORS, LLC"
- },
- "1990699": {
-  "shares": 807,
-  "value": 692452,
-  "name": "NORDEN GROUP LLC"
  },
  "1991518": {
   "shares": 2970,
@@ -5889,6 +5889,11 @@
   "value": 410888697,
   "name": "FRANKLIN RESOURCES INC  (BEN)"
  },
+ "39263": {
+  "shares": 11101,
+  "value": 9525324,
+  "name": "CULLEN/FROST BANKERS, INC.  (CFR, CFR-PB)"
+ },
  "44365": {
   "shares": 8,
   "value": 6865,
@@ -6180,8 +6185,8 @@
   "name": "ROTHSCHILD INVESTMENT LLC"
  },
  "853758": {
-  "shares": 26084,
-  "value": 22381217,
+  "shares": 26138,
+  "value": 22427552,
   "name": "MERCER GLOBAL ADVISORS INC /ADV"
  },
  "854157": {

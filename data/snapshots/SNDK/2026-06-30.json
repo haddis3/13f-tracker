@@ -29,6 +29,11 @@
   "value": 2397,
   "name": "THOMPSON SIEGEL & WALMSLEY LLC"
  },
+ "1008894": {
+  "shares": 29862,
+  "value": 67898125,
+  "name": "DEPRINCE RACE & ZOLLO INC"
+ },
  "1008937": {
   "shares": 22,
   "value": 50022,
@@ -804,6 +809,11 @@
   "value": 77775208,
   "name": "Calamos Advisors LLC"
  },
+ "1317348": {
+  "shares": 5,
+  "value": 11369,
+  "name": "BOK Financial Private Wealth, Inc."
+ },
  "1318601": {
   "shares": 190,
   "value": 432009,
@@ -1499,10 +1509,10 @@
   "value": 13643,
   "name": "Johnson Financial Group, Inc."
  },
- "1479844": {
-  "shares": 2222,
-  "value": 5052227,
-  "name": "Diversified Trust Co"
+ "1479847": {
+  "shares": 29114,
+  "value": 66197375,
+  "name": "Voleon Capital Management LP"
  },
  "1481045": {
   "shares": 146908,
@@ -2579,6 +2589,11 @@
   "value": 158705444,
   "name": "WEALTH ENHANCEMENT ADVISORY SERVICES, LLC"
  },
+ "1633037": {
+  "shares": 93,
+  "value": 209183,
+  "name": "Rehmann Capital Advisory Group"
+ },
  "1633207": {
   "shares": 511,
   "value": 1161876,
@@ -3078,6 +3093,11 @@
   "shares": 1612,
   "value": 3664175,
   "name": "Mutual Advisors, LLC"
+ },
+ "1694126": {
+  "shares": 11348,
+  "value": 25764,
+  "name": "Harvest Fund Management Co., Ltd"
  },
  "1694164": {
   "shares": 210902,
@@ -6878,6 +6898,11 @@
   "shares": 166,
   "value": 377439,
   "name": "Ariadne Wealth Management, LP"
+ },
+ "2035215": {
+  "shares": 7,
+  "value": 15916,
+  "name": "Quest 10 Wealth Builders, Inc."
  },
  "2035325": {
   "shares": 813,

@@ -2519,6 +2519,11 @@
   "value": 1427955,
   "name": "Mutual Advisors, LLC"
  },
+ "1694126": {
+  "shares": 30265,
+  "value": 25953,
+  "name": "Harvest Fund Management Co., Ltd"
+ },
  "1694164": {
   "shares": 128520,
   "value": 110277871,
@@ -4244,11 +4249,6 @@
   "value": 200880,
   "name": "Fiduciary Alliance LLC"
  },
- "1956790": {
-  "shares": 355,
-  "value": 304611,
-  "name": "FourThought Financial Partners, LLC"
- },
  "1956824": {
   "shares": 482,
   "value": 413585,
@@ -4483,6 +4483,11 @@
   "shares": 242,
   "value": 207651,
   "name": "PREVAIL INNOVATIVE WEALTH ADVISORS, LLC"
+ },
+ "1990699": {
+  "shares": 807,
+  "value": 692452,
+  "name": "NORDEN GROUP LLC"
  },
  "1991518": {
   "shares": 2970,
@@ -4878,11 +4883,6 @@
   "shares": 240,
   "value": 205934,
   "name": "Income Insurance Ltd"
- },
- "2023168": {
-  "shares": 5649,
-  "value": 4847181,
-  "name": "Atlatl Advisers LLC"
  },
  "2023325": {
   "shares": 517,

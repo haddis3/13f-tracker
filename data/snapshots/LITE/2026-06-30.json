@@ -3724,11 +3724,6 @@
   "value": 3432,
   "name": "Continuum Advisory, LLC"
  },
- "1847328": {
-  "shares": 84127,
-  "value": 72186014,
-  "name": "Nykredit A/S"
- },
  "1847838": {
   "shares": 2502,
   "value": 2146866,
@@ -4010,8 +4005,8 @@
   "name": "Covestor Ltd"
  },
  "1909879": {
-  "shares": 1133,
-  "value": 796227,
+  "shares": 4843,
+  "value": 4155585,
   "name": "WEST MICHIGAN ADVISORS, LLC"
  },
  "1910312": {
@@ -4248,6 +4243,11 @@
   "shares": 234,
   "value": 200880,
   "name": "Fiduciary Alliance LLC"
+ },
+ "1956790": {
+  "shares": 355,
+  "value": 304611,
+  "name": "FourThought Financial Partners, LLC"
  },
  "1956824": {
   "shares": 482,
@@ -4883,6 +4883,11 @@
   "shares": 240,
   "value": 205934,
   "name": "Income Insurance Ltd"
+ },
+ "2023168": {
+  "shares": 5649,
+  "value": 4847181,
+  "name": "Atlatl Advisers LLC"
  },
  "2023325": {
   "shares": 517,

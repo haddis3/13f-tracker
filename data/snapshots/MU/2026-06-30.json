@@ -1209,6 +1209,11 @@
   "value": 3932806854,
   "name": "NOMURA HOLDINGS INC  (NMR, NRSCF)"
  },
+ "1163902": {
+  "shares": 185,
+  "value": 214,
+  "name": "FOSTER & MOTLEY INC"
+ },
  "1164478": {
   "shares": 642,
   "value": 741445,
@@ -2999,10 +3004,20 @@
   "value": 13252,
   "name": "HALBERT HARGROVE GLOBAL ADVISORS, LLC"
  },
+ "1484429": {
+  "shares": 181120,
+  "value": 208425651,
+  "name": "Alecta Tjanstepension Omsesidigt"
+ },
  "1484540": {
   "shares": 3304,
   "value": 3813774,
   "name": "WESPAC Advisors, LLC"
+ },
+ "1486083": {
+  "shares": 1038,
+  "value": 1198153,
+  "name": "Corundum Group, Inc."
  },
  "1486946": {
   "shares": 2251,
@@ -3888,6 +3903,11 @@
   "shares": 355,
   "value": 409773,
   "name": "Bolthouse Investments, LLC"
+ },
+ "1567247": {
+  "shares": 176,
+  "value": 203155,
+  "name": "Commerce Advisors, LLC"
  },
  "1567755": {
   "shares": 78484,
@@ -8074,11 +8094,6 @@
   "value": 423624,
   "name": "DELTA FINANCIAL ADVISORS LLC"
  },
- "1790525": {
-  "shares": 1966,
-  "value": 2269267,
-  "name": "HBW ADVISORY SERVICES LLC"
- },
  "1790548": {
   "shares": 717,
   "value": 827254,
@@ -8193,6 +8208,11 @@
   "shares": 93155,
   "value": 107528095,
   "name": "VERUS CAPITAL PARTNERS, LLC"
+ },
+ "1797135": {
+  "shares": 183,
+  "value": 211236,
+  "name": "ARBOR TRUST WEALTH ADVISORS, LLC"
  },
  "1797678": {
   "shares": 7227,
@@ -9573,11 +9593,6 @@
   "shares": 1785,
   "value": 2060408,
   "name": "Evolutionary Tree Capital Management, LLC"
- },
- "1844375": {
-  "shares": 509,
-  "value": 587534,
-  "name": "Veery Capital, LLC"
  },
  "1844424": {
   "shares": 2086,
@@ -11564,6 +11579,11 @@
   "value": 7738361,
   "name": "Cercano Management LLC"
  },
+ "1936603": {
+  "shares": 179,
+  "value": 206618,
+  "name": "Ritter Daniher Financial Advisory LLC / DE"
+ },
  "1936845": {
   "shares": 389,
   "value": 449019,
@@ -11633,6 +11653,11 @@
   "shares": 8140,
   "value": 9395948,
   "name": "First National Advisers, LLC"
+ },
+ "1942548": {
+  "shares": 2644,
+  "value": 3051909,
+  "name": "FSM Wealth Advisors, LLC"
  },
  "1942932": {
   "shares": 4159,
@@ -11743,6 +11768,11 @@
   "shares": 301,
   "value": 347441,
   "name": "Axim Planning & Wealth"
+ },
+ "1950637": {
+  "shares": 190,
+  "value": 219316,
+  "name": "Hibernia Wealth Partners, LLC"
  },
  "1950841": {
   "shares": 2188,
@@ -13569,6 +13599,11 @@
   "value": 1601314,
   "name": "Mosley Wealth Management"
  },
+ "2011850": {
+  "shares": 1148,
+  "value": 1325125,
+  "name": "Optimist Retirement Group LLC"
+ },
  "2011856": {
   "shares": 200,
   "value": 230858,
@@ -13778,6 +13813,11 @@
   "shares": 300,
   "value": 346287,
   "name": "BlueChip Wealth Advisors LLC"
+ },
+ "2016110": {
+  "shares": 7875,
+  "value": 9090298,
+  "name": "Fox Hill Wealth Management"
  },
  "2016217": {
   "shares": 860,
@@ -15138,11 +15178,6 @@
   "shares": 1685,
   "value": 1481665,
   "name": "Atlas Legacy Advisors, LLC"
- },
- "2054149": {
-  "shares": 334,
-  "value": 385707,
-  "name": "Roxbury Financial LLC"
  },
  "2054278": {
   "shares": 10180,
@@ -17398,11 +17433,6 @@
   "shares": 375,
   "value": 432705,
   "name": "Tulsa Wealth Advisors, INC"
- },
- "2114448": {
-  "shares": 1114,
-  "value": 1286238,
-  "name": "Cedarwood Wealth LLC"
  },
  "2114679": {
   "shares": 479,

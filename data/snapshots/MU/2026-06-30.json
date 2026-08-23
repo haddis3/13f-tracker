@@ -144,11 +144,6 @@
   "value": 1962293,
   "name": "COURIER CAPITAL LLC"
  },
- "1015308": {
-  "shares": 1709,
-  "value": 1972682,
-  "name": "WEDGE CAPITAL MANAGEMENT L L P/NC"
- },
  "1015877": {
   "shares": 3570,
   "value": 4120815,
@@ -8094,6 +8089,11 @@
   "value": 423624,
   "name": "DELTA FINANCIAL ADVISORS LLC"
  },
+ "1790525": {
+  "shares": 1966,
+  "value": 2269267,
+  "name": "HBW ADVISORY SERVICES LLC"
+ },
  "1790548": {
   "shares": 717,
   "value": 827254,
@@ -8209,11 +8209,6 @@
   "value": 107528095,
   "name": "VERUS CAPITAL PARTNERS, LLC"
  },
- "1797135": {
-  "shares": 183,
-  "value": 211236,
-  "name": "ARBOR TRUST WEALTH ADVISORS, LLC"
- },
  "1797678": {
   "shares": 7227,
   "value": 8342316,
@@ -8308,11 +8303,6 @@
   "shares": 2254,
   "value": 2601250,
   "name": "XML Financial, LLC"
- },
- "1800502": {
-  "shares": 2222,
-  "value": 2564934,
-  "name": "Beacon Financial Advisory LLC"
  },
  "1800508": {
   "shares": 202,
@@ -9593,6 +9583,11 @@
   "shares": 1785,
   "value": 2060408,
   "name": "Evolutionary Tree Capital Management, LLC"
+ },
+ "1844375": {
+  "shares": 509,
+  "value": 587534,
+  "name": "Veery Capital, LLC"
  },
  "1844424": {
   "shares": 2086,
@@ -11254,11 +11249,6 @@
   "value": 208926,
   "name": "NORTHEAST PLANNING ASSOCIATES, INC. / NH /"
  },
- "1914558": {
-  "shares": 4362,
-  "value": 5035930,
-  "name": "SageView Advisory Group, LLC"
- },
  "1914606": {
   "shares": 4336,
   "value": 5005381,
@@ -11768,11 +11758,6 @@
   "shares": 301,
   "value": 347441,
   "name": "Axim Planning & Wealth"
- },
- "1950637": {
-  "shares": 190,
-  "value": 219316,
-  "name": "Hibernia Wealth Partners, LLC"
  },
  "1950841": {
   "shares": 2188,
@@ -12763,11 +12748,6 @@
   "shares": 2559,
   "value": 2953790,
   "name": "New Republic Capital, LLC"
- },
- "1990080": {
-  "shares": 193,
-  "value": 222778,
-  "name": "Kenora Financial, LLC"
  },
  "1990099": {
   "shares": 1337,
@@ -15119,11 +15099,6 @@
   "value": 1373605,
   "name": "Atala Financial Inc"
  },
- "2053783": {
-  "shares": 470,
-  "value": 542516,
-  "name": "BostonPremier Wealth LLC"
- },
  "2053786": {
   "shares": 618,
   "value": 611237,
@@ -15178,6 +15153,11 @@
   "shares": 1685,
   "value": 1481665,
   "name": "Atlas Legacy Advisors, LLC"
+ },
+ "2054149": {
+  "shares": 334,
+  "value": 385707,
+  "name": "Roxbury Financial LLC"
  },
  "2054278": {
   "shares": 10180,
@@ -17039,11 +17019,6 @@
   "value": 20778,
   "name": "ENTRUST FINANCIAL LLC"
  },
- "2109863": {
-  "shares": 21,
-  "value": 24240,
-  "name": "Benson Wealth Management INC"
- },
  "2109868": {
   "shares": 9937,
   "value": 11457062,
@@ -17433,6 +17408,11 @@
   "shares": 375,
   "value": 432705,
   "name": "Tulsa Wealth Advisors, INC"
+ },
+ "2114448": {
+  "shares": 1114,
+  "value": 1286238,
+  "name": "Cedarwood Wealth LLC"
  },
  "2114679": {
   "shares": 479,
@@ -18438,11 +18418,6 @@
   "shares": 9150,
   "value": 10562204,
   "name": "WOODARD & CO ASSET MANAGEMENT GROUP INC /ADV"
- },
- "771572": {
-  "shares": 3112,
-  "value": 3467487,
-  "name": "ASHTON THOMAS SECURITIES, LLC"
  },
  "773411": {
   "shares": 755,

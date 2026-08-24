@@ -289,6 +289,11 @@
   "value": 582240,
   "name": "SILVER OAK SECURITIES, INCORPORATED"
  },
+ "1081019": {
+  "shares": 380392755,
+  "value": 167299,
+  "name": "CALIFORNIA STATE TEACHERS RETIREMENT SYSTEM"
+ },
  "1082215": {
   "shares": 90,
   "value": 204636,
@@ -728,11 +733,6 @@
   "shares": 3,
   "value": 6822,
   "name": "CHELSEA COUNSEL CO"
- },
- "1277557": {
-  "shares": 92,
-  "value": 208426,
-  "name": "PRIVATE TRUST CO NA"
  },
  "1278573": {
   "shares": 860,
@@ -1398,11 +1398,6 @@
   "shares": 11227,
   "value": 25527167,
   "name": "DnB Asset Management AS"
- },
- "1457005": {
-  "shares": 90,
-  "value": 204636,
-  "name": "PRIVATE CLIENT SERVICES, LLC"
  },
  "1457320": {
   "shares": 610115,
@@ -2179,11 +2174,6 @@
   "value": 21186616,
   "name": "Central Asset Investments & Management Holdings (HK) Ltd"
  },
- "1583751": {
-  "shares": 132,
-  "value": 300133,
-  "name": "TCI Wealth Advisors, Inc."
- },
  "1585859": {
   "shares": 10558,
   "value": 24006007,
@@ -2558,11 +2548,6 @@
   "shares": 7,
   "value": 15916,
   "name": "Community Bank, N.A."
- },
- "1632341": {
-  "shares": 54196,
-  "value": 123227071,
-  "name": "Belvedere Trading LLC"
  },
  "1632551": {
   "shares": 497,
@@ -3104,11 +3089,6 @@
   "value": 25764,
   "name": "Harvest Fund Management Co., Ltd"
  },
- "1694164": {
-  "shares": 210902,
-  "value": 479534204,
-  "name": "AustralianSuper Pty Ltd"
- },
  "1694217": {
   "shares": 903,
   "value": 2053177,
@@ -3188,11 +3168,6 @@
   "shares": 195,
   "value": 443377,
   "name": "Symmetry Partners, LLC"
- },
- "1697715": {
-  "shares": 626,
-  "value": 1423354,
-  "name": "HCR Wealth Advisors"
  },
  "1697723": {
   "shares": 2017,
@@ -3303,11 +3278,6 @@
   "shares": 118,
   "value": 268300,
   "name": "Johnson Financial Group, LLC"
- },
- "1706351": {
-  "shares": 137,
-  "value": 311501,
-  "name": "CFO4Life Group, LLC"
  },
  "1706766": {
   "shares": 17100,
@@ -4664,6 +4634,11 @@
   "value": 1143686,
   "name": "HIMENSION CAPITAL (SINGAPORE) PTE. LTD."
  },
+ "1818014": {
+  "shares": 404,
+  "value": 918587,
+  "name": "CYBER HORNET ETFs LLC"
+ },
  "1818207": {
   "shares": 259,
   "value": 526345,
@@ -4803,11 +4778,6 @@
   "shares": 252,
   "value": 572980,
   "name": "MITCHELL & PAHL PRIVATE WEALTH, LLC"
- },
- "1837309": {
-  "shares": 492817,
-  "value": 1120532797,
-  "name": "Polar Capital Holdings Plc"
  },
  "1838615": {
   "shares": 199,
@@ -5550,8 +5520,8 @@
   "name": "Morton Brown Family Wealth, LLC"
  },
  "1909879": {
-  "shares": 2462,
-  "value": 5597923,
+  "shares": 1287,
+  "value": 817683,
   "name": "WEST MICHIGAN ADVISORS, LLC"
  },
  "1910398": {
@@ -6158,11 +6128,6 @@
   "shares": 181,
   "value": 411545,
   "name": "Quintet Private Bank (Europe) S.A."
- },
- "1977500": {
-  "shares": 108,
-  "value": 245563,
-  "name": "ABLE Financial Group, LLC"
  },
  "1977560": {
   "shares": 1885,
@@ -6939,11 +6904,6 @@
   "value": 2274,
   "name": "Seneschal Advisors, LLC"
  },
- "2040021": {
-  "shares": 104,
-  "value": 236468,
-  "name": "Goldstone Financial Group, LLC"
- },
  "2040353": {
   "shares": 291,
   "value": 661655,
@@ -7333,11 +7293,6 @@
   "shares": 1000,
   "value": 2273730,
   "name": "Pacific Point Advisors, LLC"
- },
- "2057056": {
-  "shares": 200,
-  "value": 454746,
-  "name": "SCHNIEDERS CAPITAL MANAGEMENT, LLC."
  },
  "2057060": {
   "shares": 325682,

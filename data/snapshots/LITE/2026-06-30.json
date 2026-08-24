@@ -229,6 +229,11 @@
   "value": 6150574,
   "name": "MITCHELL CAPITAL MANAGEMENT CO"
  },
+ "1081019": {
+  "shares": 107495,
+  "value": 92237160,
+  "name": "CALIFORNIA STATE TEACHERS RETIREMENT SYSTEM"
+ },
  "1082327": {
   "shares": 541679,
   "value": 464792836,
@@ -3529,6 +3534,11 @@
   "value": 14928528,
   "name": "HIMENSION CAPITAL (SINGAPORE) PTE. LTD."
  },
+ "1818014": {
+  "shares": 209,
+  "value": 179335,
+  "name": "CYBER HORNET ETFs LLC"
+ },
  "1818391": {
   "shares": 400,
   "value": 343224,
@@ -3723,6 +3733,11 @@
   "shares": 4,
   "value": 3432,
   "name": "Continuum Advisory, LLC"
+ },
+ "1847328": {
+  "shares": 84127,
+  "value": 72186014,
+  "name": "Nykredit A/S"
  },
  "1847838": {
   "shares": 2502,

@@ -34,6 +34,11 @@
   "value": 470950,
   "name": "RHODES INVESTMENT ADVISORS INC /ADV"
  },
+ "1005354": {
+  "shares": 268589,
+  "value": 310029597,
+  "name": "VIRGINIA RETIREMENT SYSTEMS ET Al"
+ },
  "1005441": {
   "shares": 1525,
   "value": 1760317,
@@ -1514,11 +1519,6 @@
   "value": 67443,
   "name": "DEROY & DEVEREAUX PRIVATE INVESTMENT COUNSEL INC"
  },
- "1280043": {
-  "shares": 3640,
-  "value": 4201697,
-  "name": "SUMMITRY LLC"
- },
  "1280487": {
   "shares": 45681,
   "value": 52729122,
@@ -1533,6 +1533,11 @@
   "shares": 39445,
   "value": 45530969,
   "name": "REGIONS FINANCIAL CORP  (RF, RF-PC, RF-PE, RF-PF)"
+ },
+ "1282189": {
+  "shares": 25667,
+  "value": 29627352,
+  "name": "VALUEWORKS LLC"
  },
  "1283072": {
   "shares": 460384,
@@ -2429,6 +2434,11 @@
   "value": 3684,
   "name": "Seascape Capital Management"
  },
+ "1418359": {
+  "shares": 200,
+  "value": 230858,
+  "name": "K.J. Harrison & Partners Inc"
+ },
  "1418421": {
   "shares": 5020,
   "value": 5794536,
@@ -2998,6 +3008,11 @@
   "shares": 11,
   "value": 13252,
   "name": "HALBERT HARGROVE GLOBAL ADVISORS, LLC"
+ },
+ "1484429": {
+  "shares": 181120,
+  "value": 208425651,
+  "name": "Alecta Tjanstepension Omsesidigt"
  },
  "1484540": {
   "shares": 3304,
@@ -3883,6 +3898,11 @@
   "shares": 31122,
   "value": 35923862,
   "name": "Capital Wealth Planning, LLC"
+ },
+ "1566887": {
+  "shares": 13000,
+  "value": 15005770,
+  "name": "Ratan Capital Management LP"
  },
  "1567013": {
   "shares": 355,
@@ -5088,6 +5108,11 @@
   "shares": 16479,
   "value": 19021545,
   "name": "IFP Advisors, Inc"
+ },
+ "1642058": {
+  "shares": 257,
+  "value": 296653,
+  "name": "Financial Insights, Inc."
  },
  "1642305": {
   "shares": 299,
@@ -6814,11 +6839,6 @@
   "value": 3733067,
   "name": "G&S Capital LLC"
  },
- "1731601": {
-  "shares": 188,
-  "value": 217007,
-  "name": "Alaska Wealth Advisors, LLC"
- },
  "1731671": {
   "shares": 2637,
   "value": 3043863,
@@ -7314,11 +7334,6 @@
   "value": 1089466,
   "name": "Pasadena Private Wealth, LLC"
  },
- "1761013": {
-  "shares": 53048,
-  "value": 61232847,
-  "name": "Cresset Asset Management, LLC"
- },
  "1761054": {
   "shares": 584404,
   "value": 674572,
@@ -7384,11 +7399,6 @@
   "value": 212235790,
   "name": "Wealthfront Advisers LLC"
  },
- "1764386": {
-  "shares": 1439,
-  "value": 1661487,
-  "name": "Claro Advisors Inc."
- },
  "1764387": {
   "shares": 35144,
   "value": 40566852,
@@ -7443,11 +7453,6 @@
   "shares": 3829,
   "value": 4420788,
   "name": "Ellis Investment Partners, LLC"
- },
- "1765594": {
-  "shares": 1513,
-  "value": 1746475,
-  "name": "CRA Financial Services, LLC"
  },
  "1765595": {
   "shares": 640,
@@ -7829,11 +7834,6 @@
   "value": 370980,
   "name": "MBE Wealth Management, LLC"
  },
- "1776023": {
-  "shares": 26667,
-  "value": 30781451,
-  "name": "Stony Point Capital LLC"
- },
  "1776033": {
   "shares": 4166,
   "value": 4808313,
@@ -7843,11 +7843,6 @@
   "shares": 9822,
   "value": 11337405,
   "name": "TRANSCEND CAPITAL ADVISORS, LLC"
- },
- "1776290": {
-  "shares": 26652,
-  "value": 30764497,
-  "name": "Zhang Financial LLC"
  },
  "1776757": {
   "shares": 7131,
@@ -7863,11 +7858,6 @@
   "shares": 174,
   "value": 200860,
   "name": "Spectrum Wealth Advisory Group, LLC"
- },
- "1776878": {
-  "shares": 1392,
-  "value": 1606772,
-  "name": "Core Alternative Capital"
  },
  "1777271": {
   "shares": 90864,
@@ -9409,11 +9399,6 @@
   "value": 13858812,
   "name": "Octavia Wealth Advisors, LLC"
  },
- "1841496": {
-  "shares": 788,
-  "value": 909581,
-  "name": "Marshall Financial Group, LLC"
- },
  "1841506": {
   "shares": 187,
   "value": 215852,
@@ -9593,11 +9578,6 @@
   "shares": 1785,
   "value": 2060408,
   "name": "Evolutionary Tree Capital Management, LLC"
- },
- "1844375": {
-  "shares": 509,
-  "value": 587534,
-  "name": "Veery Capital, LLC"
  },
  "1844424": {
   "shares": 2086,
@@ -9798,6 +9778,11 @@
   "shares": 8265,
   "value": 9540207,
   "name": "RWQ Financial Management Services, Inc."
+ },
+ "1846639": {
+  "shares": 163980,
+  "value": 189280474,
+  "name": "Valliance Asset Management Ltd"
  },
  "1846711": {
   "shares": 3912,
@@ -10639,6 +10624,11 @@
   "value": 2517506,
   "name": "Wick Capital Partners, LLC"
  },
+ "1904423": {
+  "shares": 457,
+  "value": 527407,
+  "name": "Custos Family Office, LLC"
+ },
  "1904431": {
   "shares": 4285,
   "value": 4946509,
@@ -11444,6 +11434,11 @@
   "value": 3807043,
   "name": "Worth Asset Management, LLC"
  },
+ "1927315": {
+  "shares": 490,
+  "value": 565653,
+  "name": "Kingsbury Capital Investment Advisors LLC"
+ },
  "1927537": {
   "shares": 7662,
   "value": 8844170,
@@ -12108,11 +12103,6 @@
   "shares": 1545,
   "value": 1783378,
   "name": "Breakwater Capital Group"
- },
- "1964358": {
-  "shares": 446,
-  "value": 515260,
-  "name": "Worth Financial Advisory Group, LLC"
  },
  "1964394": {
   "shares": 607,
@@ -12969,11 +12959,6 @@
   "value": 131547025,
   "name": "TD Waterhouse Canada Inc."
  },
- "1999925": {
-  "shares": 6593,
-  "value": 7609667,
-  "name": "Premier Path Wealth Partners, LLC"
- },
  "2000314": {
   "shares": 1279,
   "value": 1476337,
@@ -13523,6 +13508,11 @@
   "shares": 57,
   "value": 65795,
   "name": "Private Wealth Management Group, LLC"
+ },
+ "2011352": {
+  "shares": 443,
+  "value": 511755,
+  "name": "Keyes, Stange & Wooten Wealth Management, LLC"
  },
  "2011427": {
   "shares": 630,
@@ -14114,6 +14104,11 @@
   "value": 5152751,
   "name": "KEYNOTE FINANCIAL SERVICES LLC"
  },
+ "2026286": {
+  "shares": 8630,
+  "value": 9961523,
+  "name": "Explore Capital Management, LLC"
+ },
  "2026480": {
   "shares": 389,
   "value": 449019,
@@ -14414,11 +14409,6 @@
   "value": 5263842,
   "name": "Diversified Enterprises, LLC"
  },
- "2037426": {
-  "shares": 3177,
-  "value": 3667180,
-  "name": "Pines Wealth Management, LLC"
- },
  "2038506": {
   "shares": 264,
   "value": 304733,
@@ -14598,6 +14588,11 @@
   "shares": 416,
   "value": 480211,
   "name": "Cannon Wealth Management Services, LLC"
+ },
+ "2043756": {
+  "shares": 3482,
+  "value": 4019238,
+  "name": "Arohi Asset Management PTE Ltd."
  },
  "2043765": {
   "shares": 12934,
@@ -15344,6 +15339,11 @@
   "value": 1423342,
   "name": "OneAscent Family Office, LLC"
  },
+ "2055875": {
+  "shares": 145000,
+  "value": 167372050,
+  "name": "PKO BP BANKOWY Universal Pension Society JSC"
+ },
  "2055882": {
   "shares": 27560,
   "value": 31812232,
@@ -15368,6 +15368,11 @@
   "shares": 2053,
   "value": 2369757,
   "name": "Persistent Asset Partners Ltd"
+ },
+ "2056088": {
+  "shares": 91842,
+  "value": 104414608,
+  "name": "Groupe la Francaise"
  },
  "2056095": {
   "shares": 70284,
@@ -16609,11 +16614,6 @@
   "value": 24240,
   "name": "Networth Advisors, LLC"
  },
- "2099097": {
-  "shares": 5,
-  "value": 5771,
-  "name": "Miller Global Investments, LLC"
- },
  "2099154": {
   "shares": 265,
   "value": 305887,
@@ -16738,11 +16738,6 @@
   "shares": 187,
   "value": 216277,
   "name": "Legacy Edge Advisors, LLC"
- },
- "2105684": {
-  "shares": 3677,
-  "value": 4244217,
-  "name": "CAMBIENT FAMILY OFFICE, LLC"
  },
  "2105817": {
   "shares": 425,
@@ -17134,11 +17129,6 @@
   "value": 777918,
   "name": "E6 Portfolios, LLC"
  },
- "2110834": {
-  "shares": 197,
-  "value": 227410,
-  "name": "Tannin Capital LLC"
- },
  "2110835": {
   "shares": 815,
   "value": 940746,
@@ -17414,11 +17404,6 @@
   "value": 432705,
   "name": "Tulsa Wealth Advisors, INC"
  },
- "2114448": {
-  "shares": 1114,
-  "value": 1286238,
-  "name": "Cedarwood Wealth LLC"
- },
  "2114679": {
   "shares": 479,
   "value": 552903,
@@ -17463,6 +17448,11 @@
   "shares": 948,
   "value": 1094536,
   "name": "ADVISORTRUST PARTNERS, LLC"
+ },
+ "2115631": {
+  "shares": 7348,
+  "value": 6696159,
+  "name": "Henson-Edgewater Management, LLC"
  },
  "2116061": {
   "shares": 534,
@@ -17638,6 +17628,11 @@
   "shares": 572,
   "value": 660436,
   "name": "Madson Wealth Advisors Inc"
+ },
+ "2129940": {
+  "shares": 307,
+  "value": 354367,
+  "name": "E-Wealth Partners, LLC"
  },
  "2130067": {
   "shares": 4009,
@@ -17864,6 +17859,11 @@
   "value": 31166,
   "name": "Kroeger Financial Partners"
  },
+ "2146922": {
+  "shares": 2324,
+  "value": 2682570,
+  "name": "N10 ASSETS, LLC"
+ },
  "2146944": {
   "shares": 6228,
   "value": 7188920,
@@ -17958,6 +17958,11 @@
   "shares": 2605,
   "value": 3007075,
   "name": "Thompson David Blair"
+ },
+ "2150676": {
+  "shares": 2513,
+  "value": 2900285,
+  "name": "Advus Financial Partners, LLC"
  },
  "2230": {
   "shares": 49800,
@@ -18143,6 +18148,11 @@
   "shares": 1336,
   "value": 1542288,
   "name": "RNC CAPITAL MANAGEMENT LLC"
+ },
+ "51812": {
+  "shares": 1517,
+  "value": 1751075,
+  "name": "STONEBRIDGE CAPITAL MANAGEMENT INC"
  },
  "53417": {
   "shares": 529195,
@@ -18474,6 +18484,11 @@
   "value": 16351494,
   "name": "PRICE T ROWE ASSOCIATES INC /MD/"
  },
+ "803016": {
+  "shares": 71628,
+  "value": 82679484,
+  "name": "CALIFORNIA FIRST LEASING CORP  (CFNB)"
+ },
  "805676": {
   "shares": 2947,
   "value": 3401693,
@@ -18693,11 +18708,6 @@
   "shares": 942,
   "value": 1087697,
   "name": "CAPITAL ADVISORS INC/OK"
- },
- "860857": {
-  "shares": 25,
-  "value": 28857,
-  "name": "DELTA ASSET MANAGEMENT LLC/TN"
  },
  "861176": {
   "shares": 2661,

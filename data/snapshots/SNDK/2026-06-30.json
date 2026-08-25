@@ -734,6 +734,11 @@
   "value": 6822,
   "name": "CHELSEA COUNSEL CO"
  },
+ "1277557": {
+  "shares": 92,
+  "value": 208426,
+  "name": "PRIVATE TRUST CO NA"
+ },
  "1278573": {
   "shares": 860,
   "value": 1955408,
@@ -1399,6 +1404,11 @@
   "value": 25527167,
   "name": "DnB Asset Management AS"
  },
+ "1457005": {
+  "shares": 90,
+  "value": 204636,
+  "name": "PRIVATE CLIENT SERVICES, LLC"
+ },
  "1457320": {
   "shares": 610115,
   "value": 1387236779,
@@ -1824,11 +1834,6 @@
   "value": 172348734,
   "name": "SCGE MANAGEMENT, L.P."
  },
- "1537621": {
-  "shares": 83,
-  "value": 188720,
-  "name": "DT Investment Partners, LLC"
- },
  "1538383": {
   "shares": 2,
   "value": 4547,
@@ -2173,6 +2178,11 @@
   "shares": 9318,
   "value": 21186616,
   "name": "Central Asset Investments & Management Holdings (HK) Ltd"
+ },
+ "1583751": {
+  "shares": 132,
+  "value": 300133,
+  "name": "TCI Wealth Advisors, Inc."
  },
  "1585859": {
   "shares": 10558,
@@ -2548,6 +2558,11 @@
   "shares": 7,
   "value": 15916,
   "name": "Community Bank, N.A."
+ },
+ "1632341": {
+  "shares": 54196,
+  "value": 123227071,
+  "name": "Belvedere Trading LLC"
  },
  "1632551": {
   "shares": 497,
@@ -3089,6 +3104,11 @@
   "value": 25764,
   "name": "Harvest Fund Management Co., Ltd"
  },
+ "1694164": {
+  "shares": 210902,
+  "value": 479534204,
+  "name": "AustralianSuper Pty Ltd"
+ },
  "1694217": {
   "shares": 903,
   "value": 2053177,
@@ -3168,6 +3188,11 @@
   "shares": 195,
   "value": 443377,
   "name": "Symmetry Partners, LLC"
+ },
+ "1697715": {
+  "shares": 626,
+  "value": 1423354,
+  "name": "HCR Wealth Advisors"
  },
  "1697723": {
   "shares": 2017,
@@ -3259,11 +3284,6 @@
   "value": 434282,
   "name": "Founders Capital Management"
  },
- "1704404": {
-  "shares": 1263,
-  "value": 2871721,
-  "name": "Avestar Capital, LLC"
- },
  "1705339": {
   "shares": 83210,
   "value": 189197073,
@@ -3278,6 +3298,11 @@
   "shares": 118,
   "value": 268300,
   "name": "Johnson Financial Group, LLC"
+ },
+ "1706351": {
+  "shares": 137,
+  "value": 311501,
+  "name": "CFO4Life Group, LLC"
  },
  "1706766": {
   "shares": 17100,
@@ -3894,11 +3919,6 @@
   "value": 9977127,
   "name": "New Age Alpha Advisors, LLC"
  },
- "1764970": {
-  "shares": 6,
-  "value": 12193,
-  "name": "Kozak & Associates, Inc."
- },
  "1765216": {
   "shares": 122,
   "value": 277395,
@@ -4133,11 +4153,6 @@
   "shares": 10297,
   "value": 23413006,
   "name": "Sanctuary Advisors, LLC"
- },
- "1777469": {
-  "shares": 1624,
-  "value": 3692538,
-  "name": "E Fund Management (Hong Kong) Co., Ltd."
  },
  "1778131": {
   "shares": 5801,
@@ -4679,11 +4694,6 @@
   "value": 17052975,
   "name": "Hiddenite Capital Partners LP"
  },
- "1824694": {
-  "shares": 117,
-  "value": 266026,
-  "name": "Signature Wealth Management Partners, LLC"
- },
  "1824700": {
   "shares": 508,
   "value": 1155055,
@@ -4778,6 +4788,11 @@
   "shares": 252,
   "value": 572980,
   "name": "MITCHELL & PAHL PRIVATE WEALTH, LLC"
+ },
+ "1837309": {
+  "shares": 492817,
+  "value": 1120532797,
+  "name": "Polar Capital Holdings Plc"
  },
  "1838615": {
   "shares": 199,
@@ -5520,8 +5535,8 @@
   "name": "Morton Brown Family Wealth, LLC"
  },
  "1909879": {
-  "shares": 1287,
-  "value": 817683,
+  "shares": 2462,
+  "value": 5597923,
   "name": "WEST MICHIGAN ADVISORS, LLC"
  },
  "1910398": {
@@ -6094,11 +6109,6 @@
   "value": 582075,
   "name": "Resolute Wealth Strategies, LLC"
  },
- "1974438": {
-  "shares": 154,
-  "value": 350154,
-  "name": "OneAscent Investment Solutions LLC"
- },
  "1974457": {
   "shares": 784,
   "value": 1782604,
@@ -6128,6 +6138,11 @@
   "shares": 181,
   "value": 411545,
   "name": "Quintet Private Bank (Europe) S.A."
+ },
+ "1977500": {
+  "shares": 108,
+  "value": 245563,
+  "name": "ABLE Financial Group, LLC"
  },
  "1977560": {
   "shares": 1885,
@@ -6904,6 +6919,11 @@
   "value": 2274,
   "name": "Seneschal Advisors, LLC"
  },
+ "2040021": {
+  "shares": 104,
+  "value": 236468,
+  "name": "Goldstone Financial Group, LLC"
+ },
  "2040353": {
   "shares": 291,
   "value": 661655,
@@ -6978,11 +6998,6 @@
   "shares": 25841,
   "value": 58755457,
   "name": "Virtus Wealth Solutions LLC"
- },
- "2045972": {
-  "shares": 5111,
-  "value": 11622171,
-  "name": "FFG Partners, LLC"
  },
  "2046157": {
   "shares": 128,
@@ -7293,6 +7308,11 @@
   "shares": 1000,
   "value": 2273730,
   "name": "Pacific Point Advisors, LLC"
+ },
+ "2057056": {
+  "shares": 200,
+  "value": 454746,
+  "name": "SCHNIEDERS CAPITAL MANAGEMENT, LLC."
  },
  "2057060": {
   "shares": 325682,
@@ -8088,6 +8108,11 @@
   "shares": 4,
   "value": 9095,
   "name": "Highland Investment Advisors LLC"
+ },
+ "2150676": {
+  "shares": 121,
+  "value": 275121,
+  "name": "Advus Financial Partners, LLC"
  },
  "2230": {
   "shares": 9900,

@@ -14,6 +14,11 @@
   "value": 37591578,
   "name": "SHELTON CAPITAL MANAGEMENT"
  },
+ "1005354": {
+  "shares": 30760,
+  "value": 69939935,
+  "name": "VIRGINIA RETIREMENT SYSTEMS ET Al"
+ },
  "1005817": {
   "shares": 33,
   "value": 75033,
@@ -1539,11 +1544,6 @@
   "value": 335034,
   "name": "Smith Salley Wealth Management"
  },
- "1482880": {
-  "shares": 6879,
-  "value": 10049077,
-  "name": "Savant Capital, LLC"
- },
  "1483065": {
   "shares": 950,
   "value": 2160044,
@@ -1833,6 +1833,11 @@
   "shares": 75800,
   "value": 172348734,
   "name": "SCGE MANAGEMENT, L.P."
+ },
+ "1537621": {
+  "shares": 83,
+  "value": 188720,
+  "name": "DT Investment Partners, LLC"
  },
  "1538383": {
   "shares": 2,
@@ -3284,6 +3289,11 @@
   "value": 434282,
   "name": "Founders Capital Management"
  },
+ "1704404": {
+  "shares": 1263,
+  "value": 2871721,
+  "name": "Avestar Capital, LLC"
+ },
  "1705339": {
   "shares": 83210,
   "value": 189197073,
@@ -3919,6 +3929,11 @@
   "value": 9977127,
   "name": "New Age Alpha Advisors, LLC"
  },
+ "1764970": {
+  "shares": 6,
+  "value": 12193,
+  "name": "Kozak & Associates, Inc."
+ },
  "1765216": {
   "shares": 122,
   "value": 277395,
@@ -4153,6 +4168,11 @@
   "shares": 10297,
   "value": 23413006,
   "name": "Sanctuary Advisors, LLC"
+ },
+ "1777469": {
+  "shares": 1624,
+  "value": 3692538,
+  "name": "E Fund Management (Hong Kong) Co., Ltd."
  },
  "1778131": {
   "shares": 5801,
@@ -4694,6 +4714,11 @@
   "value": 17052975,
   "name": "Hiddenite Capital Partners LP"
  },
+ "1824694": {
+  "shares": 117,
+  "value": 266026,
+  "name": "Signature Wealth Management Partners, LLC"
+ },
  "1824700": {
   "shares": 508,
   "value": 1155055,
@@ -5058,6 +5083,11 @@
   "shares": 12324,
   "value": 28021611,
   "name": "WCG Wealth Advisors LLC"
+ },
+ "1855967": {
+  "shares": 1000,
+  "value": 2273730,
+  "name": "January Capital Advisors LLC"
  },
  "1856022": {
   "shares": 375,
@@ -6109,6 +6139,11 @@
   "value": 582075,
   "name": "Resolute Wealth Strategies, LLC"
  },
+ "1974438": {
+  "shares": 154,
+  "value": 350154,
+  "name": "OneAscent Investment Solutions LLC"
+ },
  "1974457": {
   "shares": 784,
   "value": 1782604,
@@ -6213,11 +6248,6 @@
   "shares": 6829,
   "value": 15527302,
   "name": "KINGSWOOD WEALTH ADVISORS, LLC"
- },
- "1987932": {
-  "shares": 220,
-  "value": 500221,
-  "name": "SEVEN MILE ADVISORY"
  },
  "1989400": {
   "shares": 21962,
@@ -6568,11 +6598,6 @@
   "shares": 177,
   "value": 402450,
   "name": "Apollon Financial, LLC"
- },
- "2011201": {
-  "shares": 171,
-  "value": 388808,
-  "name": "Elm3 Financial Group, LLC"
  },
  "2011221": {
   "shares": 446,
@@ -6939,6 +6964,11 @@
   "value": 932623,
   "name": "Aster Capital Management (DIFC) Ltd"
  },
+ "2041436": {
+  "shares": 10,
+  "value": 22737,
+  "name": "Principia Wealth Advisory, LLC"
+ },
  "2042502": {
   "shares": 109,
   "value": 247837,
@@ -6998,6 +7028,11 @@
   "shares": 25841,
   "value": 58755457,
   "name": "Virtus Wealth Solutions LLC"
+ },
+ "2045972": {
+  "shares": 5111,
+  "value": 11622171,
+  "name": "FFG Partners, LLC"
  },
  "2046157": {
   "shares": 128,
@@ -7268,11 +7303,6 @@
   "shares": 158,
   "value": 359249,
   "name": "LeClair Wealth Partners LLC"
- },
- "2056683": {
-  "shares": 147,
-  "value": 334238,
-  "name": "Everest Private Wealth"
  },
  "2056686": {
   "shares": 3920,
@@ -8938,11 +8968,6 @@
   "shares": 266,
   "value": 604812,
   "name": "GABELLI & Co INVESTMENT ADVISERS, INC."
- },
- "932929": {
-  "shares": 160,
-  "value": 363797,
-  "name": "WESTBOURNE INVESTMENTS, INC."
  },
  "933429": {
   "shares": 808,

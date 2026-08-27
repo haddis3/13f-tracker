@@ -1684,11 +1684,6 @@
   "value": 333785,
   "name": "Baader Bank Aktiengesellschaft"
  },
- "1544204": {
-  "shares": 4749,
-  "value": 4074927,
-  "name": "Liontrust Investment Partners LLP"
- },
  "1544576": {
   "shares": 451,
   "value": 387054,
@@ -5039,6 +5034,11 @@
   "value": 27663854,
   "name": "Talos Eurisko Asset Management LP"
  },
+ "2041436": {
+  "shares": 3,
+  "value": 2574,
+  "name": "Principia Wealth Advisory, LLC"
+ },
  "2041485": {
   "shares": 15695,
   "value": 13467251,
@@ -5424,11 +5424,6 @@
   "value": 271147,
   "name": "VARCOV Co."
  },
- "2079571": {
-  "shares": 2958,
-  "value": 2538142,
-  "name": "Investors Towarzystwo Funduszy Inwestycyjnych Spolka Akcyjna"
- },
  "2079812": {
   "shares": 18,
   "value": 13110,
@@ -5731,7 +5726,7 @@
  },
  "2134013": {
   "shares": 640,
-  "value": 449766,
+  "value": 549158,
   "name": "Wellington Grp LLC"
  },
  "2135047": {

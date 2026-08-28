@@ -1684,6 +1684,11 @@
   "value": 333785,
   "name": "Baader Bank Aktiengesellschaft"
  },
+ "1544204": {
+  "shares": 4749,
+  "value": 4074927,
+  "name": "Liontrust Investment Partners LLP"
+ },
  "1544576": {
   "shares": 451,
   "value": 387054,
@@ -1718,11 +1723,6 @@
   "shares": 10788,
   "value": 9256751,
   "name": "Utah Retirement Systems"
- },
- "1549230": {
-  "shares": 19290,
-  "value": 16551977,
-  "name": "BOOTHBAY FUND MANAGEMENT, LLC"
  },
  "1549275": {
   "shares": 16,
@@ -4215,8 +4215,8 @@
   "name": "Cape Investment Advisory, Inc."
  },
  "1948780": {
-  "shares": 8133,
-  "value": 6969618,
+  "shares": 10318,
+  "value": 8853270,
   "name": "Corient Private Wealth LP"
  },
  "1948899": {
@@ -4969,6 +4969,11 @@
   "value": 222238,
   "name": "Fairfield Financial Advisors, LTD"
  },
+ "2033266": {
+  "shares": 4790,
+  "value": 4110107,
+  "name": "OPTIMIZE FINANCIAL INC."
+ },
  "2033413": {
   "shares": 872,
   "value": 748228,
@@ -5423,6 +5428,11 @@
   "shares": 316,
   "value": 271147,
   "name": "VARCOV Co."
+ },
+ "2079571": {
+  "shares": 2958,
+  "value": 2538142,
+  "name": "Investors Towarzystwo Funduszy Inwestycyjnych Spolka Akcyjna"
  },
  "2079812": {
   "shares": 18,

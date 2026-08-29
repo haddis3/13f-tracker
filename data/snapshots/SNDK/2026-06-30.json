@@ -2414,11 +2414,6 @@
   "value": 13940239,
   "name": "Abacus FCF Advisors LLC"
  },
- "1606588": {
-  "shares": 2731,
-  "value": 1735113,
-  "name": "One Capital Management, LLC"
- },
  "1607239": {
   "shares": 3850,
   "value": 8753861,
@@ -2578,11 +2573,6 @@
   "shares": 497,
   "value": 1130044,
   "name": "Bayesian Capital Management, LP"
- },
- "1632554": {
-  "shares": 1,
-  "value": 2274,
-  "name": "Trust Co"
  },
  "1632812": {
   "shares": 2358,
@@ -2748,6 +2738,11 @@
   "shares": 11152,
   "value": 25356637,
   "name": "Baird Financial Group, Inc."
+ },
+ "1649451": {
+  "shares": 2840,
+  "value": 6457393,
+  "name": "KESTRA PRIVATE WEALTH SERVICES, LLC"
  },
  "1649647": {
   "shares": 225,
@@ -3584,6 +3579,11 @@
   "value": 1229092,
   "name": "Legacy Financial Advisors, Inc."
  },
+ "1730814": {
+  "shares": 1,
+  "value": 2461,
+  "name": "Providence Capital Advisors, LLC"
+ },
  "1730815": {
   "shares": 173,
   "value": 393355,
@@ -3858,6 +3858,11 @@
   "shares": 6058,
   "value": 13773966,
   "name": "Cresset Asset Management, LLC"
+ },
+ "1761054": {
+  "shares": 72631,
+  "value": 165143,
+  "name": "Treasurer of the State of North Carolina"
  },
  "1761755": {
   "shares": 135,
@@ -5738,6 +5743,11 @@
   "shares": 571,
   "value": 1298300,
   "name": "ANGELES WEALTH MANAGEMENT, LLC"
+ },
+ "1930301": {
+  "shares": 186,
+  "value": 422914,
+  "name": "SUTTON PLACE INVESTORS LLC"
  },
  "1931041": {
   "shares": 108,
@@ -7743,6 +7753,11 @@
   "shares": 3515937,
   "value": 7994291435,
   "name": "VANGUARD PORTFOLIO MANAGEMENT LLC"
+ },
+ "2100122": {
+  "shares": 1034,
+  "value": 2351037,
+  "name": "OPAL CAPITAL LLC"
  },
  "2103310": {
   "shares": 14122,

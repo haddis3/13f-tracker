@@ -214,11 +214,6 @@
   "value": 732974,
   "name": "Pekin Hardy Strauss, Inc."
  },
- "1020585": {
-  "shares": 211,
-  "value": 243555,
-  "name": "DUNCKER STREETT & CO INC"
- },
  "1021223": {
   "shares": 7584,
   "value": 8755166,
@@ -714,11 +709,6 @@
   "value": 136245465,
   "name": "INTECH INVESTMENT MANAGEMENT LLC"
  },
- "108634": {
-  "shares": 261,
-  "value": 301267,
-  "name": "WULFF, HANSEN & CO."
- },
  "1086483": {
   "shares": 84726,
   "value": 97800242,
@@ -833,11 +823,6 @@
   "shares": 4406,
   "value": 5085802,
   "name": "MassMutual Private Wealth & Trust, FSB"
- },
- "1103887": {
-  "shares": 134400,
-  "value": 155137,
-  "name": "NWI MANAGEMENT LP"
  },
  "1104329": {
   "shares": 136205,
@@ -1838,6 +1823,11 @@
   "shares": 1260,
   "value": 1454406,
   "name": "HighVista Strategies LLC"
+ },
+ "1335644": {
+  "shares": 87269,
+  "value": 100736394,
+  "name": "SCOTIA CAPITAL INC."
  },
  "1335851": {
   "shares": 1074,
@@ -3338,6 +3328,16 @@
   "shares": 7542,
   "value": 8705,
   "name": "Virtu Financial LLC"
+ },
+ "1534358": {
+  "shares": 1576,
+  "value": 1819161,
+  "name": "USA FINANCIAL FORMULAS"
+ },
+ "1534653": {
+  "shares": 806,
+  "value": 927714,
+  "name": "Skandinaviska Enskilda Banken AB (publ)"
  },
  "1535061": {
   "shares": 8785,
@@ -5329,11 +5329,6 @@
   "value": 1293959,
   "name": "Sender Co & Partners, Inc."
  },
- "1659978": {
-  "shares": 489,
-  "value": 564268,
-  "name": "Quartz Partners, LLC"
- },
  "1660177": {
   "shares": 5484,
   "value": 6330548,
@@ -5383,11 +5378,6 @@
   "shares": 162,
   "value": 188004,
   "name": "Darwin Wealth Management, LLC"
- },
- "1664193": {
-  "shares": 61064,
-  "value": 70485683,
-  "name": "Aptus Capital Advisors, LLC"
  },
  "1664324": {
   "shares": 3737,
@@ -5628,6 +5618,11 @@
   "shares": 2471,
   "value": 2852251,
   "name": "Syverson Strege & Co"
+ },
+ "1683059": {
+  "shares": 13250,
+  "value": 15294641,
+  "name": "Wealthcare Advisory Partners LLC"
  },
  "1685676": {
   "shares": 598496,
@@ -6839,11 +6834,6 @@
   "value": 3143132,
   "name": "D.B. Root & Company, LLC"
  },
- "1731731": {
-  "shares": 10444,
-  "value": 12055205,
-  "name": "SWS Partners"
- },
  "1731732": {
   "shares": 2948,
   "value": 3403197,
@@ -7633,11 +7623,6 @@
   "shares": 1244,
   "value": 1435937,
   "name": "Yarbrough Capital, LLC"
- },
- "1767710": {
-  "shares": 365,
-  "value": 421316,
-  "name": "Guidance Point Advisors, LLC"
  },
  "1767724": {
   "shares": 1593,
@@ -8789,6 +8774,11 @@
   "value": 5876490,
   "name": "Systematic Alpha Investments, LLC"
  },
+ "1806820": {
+  "shares": 210,
+  "value": 242446,
+  "name": "AWM CAPITAL, LLC"
+ },
  "1807060": {
   "shares": 3820,
   "value": 4409084,
@@ -9604,6 +9594,11 @@
   "value": 2060408,
   "name": "Evolutionary Tree Capital Management, LLC"
  },
+ "1844375": {
+  "shares": 509,
+  "value": 587534,
+  "name": "Veery Capital, LLC"
+ },
  "1844424": {
   "shares": 2086,
   "value": 2407461,
@@ -9674,11 +9669,6 @@
   "value": 8951519,
   "name": "Greystone Financial Group, LLC"
  },
- "1845521": {
-  "shares": 648,
-  "value": 747545,
-  "name": "Urban Wealth Management, LLC"
- },
  "1845536": {
   "shares": 319,
   "value": 368219,
@@ -9718,6 +9708,11 @@
   "shares": 3632,
   "value": 4192382,
   "name": "MBL Wealth, LLC"
+ },
+ "1845793": {
+  "shares": 1985,
+  "value": 2290880,
+  "name": "PGIM Custom Harvest LLC"
  },
  "1845838": {
   "shares": 1079,
@@ -10068,6 +10063,11 @@
   "shares": 9634,
   "value": 11120267,
   "name": "Pallas Capital Advisors LLC"
+ },
+ "1862428": {
+  "shares": 3525,
+  "value": 4068872,
+  "name": "Union Heritage Capital, LLC"
  },
  "1862443": {
   "shares": 178,
@@ -10599,6 +10599,11 @@
   "value": 1483263,
   "name": "INTEGRAL INVESTMENT ADVISORS, INC."
  },
+ "1903035": {
+  "shares": 916,
+  "value": 1057028,
+  "name": "KEB ASSET MANAGEMENT, LLC"
+ },
  "1903044": {
   "shares": 204,
   "value": 235766,
@@ -10658,11 +10663,6 @@
   "shares": 2096,
   "value": 1990618,
   "name": "KINTRA WEALTH, LLC"
- },
- "1904677": {
-  "shares": 657,
-  "value": 758369,
-  "name": "White Knight Strategic Wealth Advisors, LLC"
  },
  "1904770": {
   "shares": 578,
@@ -11623,6 +11623,11 @@
   "shares": 48762,
   "value": 56285019,
   "name": "Callan Family Office, LLC"
+ },
+ "1939202": {
+  "shares": 8831,
+  "value": 10193535,
+  "name": "Acumen Wealth Advisors, LLC"
  },
  "1939831": {
   "shares": 542,
@@ -12613,11 +12618,6 @@
   "shares": 4955,
   "value": 5719542,
   "name": "Portside Wealth Group, LLC"
- },
- "1978879": {
-  "shares": 18602,
-  "value": 21471906,
-  "name": "Compound Planning, Inc."
  },
  "1978883": {
   "shares": 4550,
@@ -15134,6 +15134,11 @@
   "value": 1373605,
   "name": "Atala Financial Inc"
  },
+ "2053783": {
+  "shares": 470,
+  "value": 542516,
+  "name": "BostonPremier Wealth LLC"
+ },
  "2053786": {
   "shares": 618,
   "value": 611237,
@@ -15868,11 +15873,6 @@
   "shares": 13793,
   "value": 15921122,
   "name": "Genoa Capital Gestora de Recursos Ltda."
- },
- "2064920": {
-  "shares": 1146,
-  "value": 1322816,
-  "name": "Pacific Capital Partners Ltd"
  },
  "2065247": {
   "shares": 214,
@@ -16934,11 +16934,6 @@
   "value": 331535,
   "name": "Tencap Wealth Coaching, LLC"
  },
- "2107860": {
-  "shares": 219,
-  "value": 252790,
-  "name": "Sandro Wealth Management LLC"
- },
  "2107902": {
   "shares": 395,
   "value": 455945,
@@ -16958,11 +16953,6 @@
   "shares": 297,
   "value": 343356,
   "name": "Fullerton Advisors, LLC"
- },
- "2108411": {
-  "shares": 2000,
-  "value": 2308580,
-  "name": "INTERCAPITAL, LLC"
  },
  "2108684": {
   "shares": 273,
@@ -17453,6 +17443,11 @@
   "shares": 375,
   "value": 432705,
   "name": "Tulsa Wealth Advisors, INC"
+ },
+ "2114448": {
+  "shares": 1114,
+  "value": 1286238,
+  "name": "Cedarwood Wealth LLC"
  },
  "2114679": {
   "shares": 479,
@@ -18003,6 +17998,11 @@
   "shares": 10902,
   "value": 12584072,
   "name": "Oakmont Investment Advisors, Inc."
+ },
+ "2150492": {
+  "shares": 2605,
+  "value": 3007075,
+  "name": "Thompson David Blair"
  },
  "2150676": {
   "shares": 2513,

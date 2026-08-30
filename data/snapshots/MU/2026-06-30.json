@@ -214,6 +214,11 @@
   "value": 732974,
   "name": "Pekin Hardy Strauss, Inc."
  },
+ "1020585": {
+  "shares": 211,
+  "value": 243555,
+  "name": "DUNCKER STREETT & CO INC"
+ },
  "1021223": {
   "shares": 7584,
   "value": 8755166,
@@ -709,6 +714,11 @@
   "value": 136245465,
   "name": "INTECH INVESTMENT MANAGEMENT LLC"
  },
+ "108634": {
+  "shares": 261,
+  "value": 301267,
+  "name": "WULFF, HANSEN & CO."
+ },
  "1086483": {
   "shares": 84726,
   "value": 97800242,
@@ -823,6 +833,11 @@
   "shares": 4406,
   "value": 5085802,
   "name": "MassMutual Private Wealth & Trust, FSB"
+ },
+ "1103887": {
+  "shares": 134400,
+  "value": 155137,
+  "name": "NWI MANAGEMENT LP"
  },
  "1104329": {
   "shares": 136205,
@@ -5019,11 +5034,6 @@
   "value": 4817,
   "name": "Analyst IMS Investment Management Services Ltd."
  },
- "1634212": {
-  "shares": 433,
-  "value": 499808,
-  "name": "Diversified Portfolios, Inc."
- },
  "1634556": {
   "shares": 6279,
   "value": 7247644,
@@ -5184,11 +5194,6 @@
   "value": 12998459,
   "name": "EDMOND DE ROTHSCHILD HOLDING S.A."
  },
- "1650135": {
-  "shares": 192446,
-  "value": 222138493,
-  "name": "Hosking Partners LLP"
- },
  "1650150": {
   "shares": 251538,
   "value": 290348504,
@@ -5328,6 +5333,11 @@
   "shares": 1121,
   "value": 1293959,
   "name": "Sender Co & Partners, Inc."
+ },
+ "1659978": {
+  "shares": 489,
+  "value": 564268,
+  "name": "Quartz Partners, LLC"
  },
  "1660177": {
   "shares": 5484,
@@ -5653,11 +5663,6 @@
   "shares": 3786,
   "value": 4370142,
   "name": "MFA WEALTH ADVISORS, LLC"
- },
- "1688666": {
-  "shares": 17335,
-  "value": 20009639,
-  "name": "Knights of Columbus Asset Advisors LLC"
  },
  "1689013": {
   "shares": 6553,
@@ -6834,6 +6839,11 @@
   "value": 3143132,
   "name": "D.B. Root & Company, LLC"
  },
+ "1731731": {
+  "shares": 10444,
+  "value": 12055205,
+  "name": "SWS Partners"
+ },
  "1731732": {
   "shares": 2948,
   "value": 3403197,
@@ -7053,11 +7063,6 @@
   "shares": 1083,
   "value": 1250096,
   "name": "Peachtree Investment Partners, LLC"
- },
- "1743941": {
-  "shares": 1075,
-  "value": 1241005,
-  "name": "Elm Partners Management LLC"
  },
  "1744317": {
   "shares": 26696,
@@ -7354,11 +7359,6 @@
   "value": 1470565,
   "name": "Evolution Wealth Advisors, LLC"
  },
- "1763146": {
-  "shares": 26826,
-  "value": 30964984,
-  "name": "Wahed Invest LLC"
- },
  "1763350": {
   "shares": 1431,
   "value": 1651942,
@@ -7443,11 +7443,6 @@
   "shares": 3829,
   "value": 4420788,
   "name": "Ellis Investment Partners, LLC"
- },
- "1765594": {
-  "shares": 1513,
-  "value": 1746475,
-  "name": "CRA Financial Services, LLC"
  },
  "1765595": {
   "shares": 640,
@@ -7624,6 +7619,11 @@
   "value": 1435937,
   "name": "Yarbrough Capital, LLC"
  },
+ "1767710": {
+  "shares": 365,
+  "value": 421316,
+  "name": "Guidance Point Advisors, LLC"
+ },
  "1767724": {
   "shares": 1593,
   "value": 1838784,
@@ -7764,11 +7764,6 @@
   "value": 333591,
   "name": "Prestige Wealth Management Group LLC"
  },
- "1773205": {
-  "shares": 635,
-  "value": 732743,
-  "name": "KMG FIDUCIARY PARTNERS, LLC"
- },
  "1773368": {
   "shares": 58030,
   "value": 66983,
@@ -7858,11 +7853,6 @@
   "shares": 174,
   "value": 200860,
   "name": "Spectrum Wealth Advisory Group, LLC"
- },
- "1776878": {
-  "shares": 1392,
-  "value": 1606772,
-  "name": "Core Alternative Capital"
  },
  "1777271": {
   "shares": 90864,
@@ -8044,11 +8034,6 @@
   "value": 3385533,
   "name": "Cinctive Capital Management LP"
  },
- "1787274": {
-  "shares": 266,
-  "value": 307041,
-  "name": "Sierra Capital LLC"
- },
  "1787596": {
   "shares": 2325,
   "value": 2683724,
@@ -8198,11 +8183,6 @@
   "shares": 93155,
   "value": 107528095,
   "name": "VERUS CAPITAL PARTNERS, LLC"
- },
- "1797135": {
-  "shares": 183,
-  "value": 211236,
-  "name": "ARBOR TRUST WEALTH ADVISORS, LLC"
  },
  "1797678": {
   "shares": 7227,
@@ -9409,11 +9389,6 @@
   "value": 13858812,
   "name": "Octavia Wealth Advisors, LLC"
  },
- "1841496": {
-  "shares": 788,
-  "value": 909581,
-  "name": "Marshall Financial Group, LLC"
- },
  "1841506": {
   "shares": 187,
   "value": 215852,
@@ -9668,6 +9643,11 @@
   "shares": 7755,
   "value": 8951519,
   "name": "Greystone Financial Group, LLC"
+ },
+ "1845521": {
+  "shares": 648,
+  "value": 747545,
+  "name": "Urban Wealth Management, LLC"
  },
  "1845536": {
   "shares": 319,
@@ -10444,11 +10424,6 @@
   "value": 1813026,
   "name": "Whalen Wealth Management Inc."
  },
- "1894532": {
-  "shares": 13875,
-  "value": 16015774,
-  "name": "SORA INVESTORS LLC"
- },
  "1894712": {
   "shares": 3519,
   "value": 4061946,
@@ -10663,6 +10638,11 @@
   "shares": 2096,
   "value": 1990618,
   "name": "KINTRA WEALTH, LLC"
+ },
+ "1904677": {
+  "shares": 657,
+  "value": 758369,
+  "name": "White Knight Strategic Wealth Advisors, LLC"
  },
  "1904770": {
   "shares": 578,
@@ -14139,11 +14119,6 @@
   "value": 449019,
   "name": "Midwest Capital Advisors, LLC"
  },
- "2026645": {
-  "shares": 3569,
-  "value": 4119661,
-  "name": "HAGER INVESTMENT MANAGEMENT SERVICES, LLC"
- },
  "2026745": {
   "shares": 60000,
   "value": 69257400,
@@ -16649,11 +16624,6 @@
   "value": 24240,
   "name": "Networth Advisors, LLC"
  },
- "2099097": {
-  "shares": 5,
-  "value": 5771,
-  "name": "Miller Global Investments, LLC"
- },
  "2099154": {
   "shares": 265,
   "value": 305887,
@@ -16934,6 +16904,11 @@
   "value": 331535,
   "name": "Tencap Wealth Coaching, LLC"
  },
+ "2107860": {
+  "shares": 219,
+  "value": 252790,
+  "name": "Sandro Wealth Management LLC"
+ },
  "2107902": {
   "shares": 395,
   "value": 455945,
@@ -16953,6 +16928,11 @@
   "shares": 297,
   "value": 343356,
   "name": "Fullerton Advisors, LLC"
+ },
+ "2108411": {
+  "shares": 2000,
+  "value": 2308580,
+  "name": "INTERCAPITAL, LLC"
  },
  "2108684": {
   "shares": 273,
@@ -17143,11 +17123,6 @@
   "shares": 398,
   "value": 456756,
   "name": "BCV Asset Management Inc."
- },
- "2110759": {
-  "shares": 323,
-  "value": 292093,
-  "name": "Asset One Wealth Management LLC"
  },
  "2110806": {
   "shares": 466,
@@ -17573,11 +17548,6 @@
   "shares": 1222,
   "value": 1410542,
   "name": "American State Bank (Iowa)"
- },
- "2122970": {
-  "shares": 1336,
-  "value": 1542131,
-  "name": "RED REEF ADVISORS LLC"
  },
  "2123661": {
   "shares": 1653,

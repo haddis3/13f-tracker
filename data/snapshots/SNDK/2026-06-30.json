@@ -2074,11 +2074,6 @@
   "value": 9620153,
   "name": "Private Advisor Group, LLC"
  },
- "1568132": {
-  "shares": 62,
-  "value": 140971,
-  "name": "Financial Management Professionals, Inc."
- },
  "1568303": {
   "shares": 142,
   "value": 322870,
@@ -2414,6 +2409,11 @@
   "value": 13940239,
   "name": "Abacus FCF Advisors LLC"
  },
+ "1606588": {
+  "shares": 2731,
+  "value": 1735113,
+  "name": "One Capital Management, LLC"
+ },
  "1607239": {
   "shares": 3850,
   "value": 8753861,
@@ -2573,6 +2573,11 @@
   "shares": 497,
   "value": 1130044,
   "name": "Bayesian Capital Management, LP"
+ },
+ "1632554": {
+  "shares": 1,
+  "value": 2274,
+  "name": "Trust Co"
  },
  "1632812": {
   "shares": 2358,

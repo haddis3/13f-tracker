@@ -1249,11 +1249,6 @@
   "value": 1193654752,
   "name": "ADAGE CAPITAL PARTNERS GP, L.L.C."
  },
- "1165805": {
-  "shares": 244,
-  "value": 281647,
-  "name": "WOODLEY FARRA MANION PORTFOLIO MANAGEMENT INC"
- },
  "1166588": {
   "shares": 8099974,
   "value": 9349718988,
@@ -1673,11 +1668,6 @@
   "shares": 8668489,
   "value": 10005950,
   "name": "SG Americas Securities, LLC"
- },
- "1313792": {
-  "shares": 1838,
-  "value": 2122169,
-  "name": "Edgemoor Investment Advisors, Inc."
  },
  "1313871": {
   "shares": 2957,
@@ -4604,11 +4594,6 @@
   "value": 592571,
   "name": "One Capital Management, LLC"
  },
- "1606609": {
-  "shares": 10837,
-  "value": 12509058,
-  "name": "Archford Capital Strategies, LLC"
- },
  "1606666": {
   "shares": 4433,
   "value": 5116447,
@@ -5194,6 +5179,11 @@
   "value": 12998459,
   "name": "EDMOND DE ROTHSCHILD HOLDING S.A."
  },
+ "1650135": {
+  "shares": 192446,
+  "value": 222138493,
+  "name": "Hosking Partners LLP"
+ },
  "1650150": {
   "shares": 251538,
   "value": 290348504,
@@ -5664,15 +5654,15 @@
   "value": 4370142,
   "name": "MFA WEALTH ADVISORS, LLC"
  },
+ "1688666": {
+  "shares": 17335,
+  "value": 20009639,
+  "name": "Knights of Columbus Asset Advisors LLC"
+ },
  "1689013": {
   "shares": 6553,
   "value": 7564062,
   "name": "JT Stratford LLC"
- },
- "1689144": {
-  "shares": 6433,
-  "value": 7425548,
-  "name": "Legacy Bridge, LLC"
  },
  "1689232": {
   "shares": 5337,
@@ -6639,11 +6629,6 @@
   "value": 1507465,
   "name": "Crewe Advisors LLC"
  },
- "1730073": {
-  "shares": 671006,
-  "value": 774536002,
-  "name": "PFA Pension, Forsikringsaktieselskab"
- },
  "1730126": {
   "shares": 339,
   "value": 391305,
@@ -7064,6 +7049,11 @@
   "value": 1250096,
   "name": "Peachtree Investment Partners, LLC"
  },
+ "1743941": {
+  "shares": 1075,
+  "value": 1241005,
+  "name": "Elm Partners Management LLC"
+ },
  "1744317": {
   "shares": 26696,
   "value": 30696630,
@@ -7359,6 +7349,11 @@
   "value": 1470565,
   "name": "Evolution Wealth Advisors, LLC"
  },
+ "1763146": {
+  "shares": 26826,
+  "value": 30964984,
+  "name": "Wahed Invest LLC"
+ },
  "1763350": {
   "shares": 1431,
   "value": 1651942,
@@ -7443,6 +7438,11 @@
   "shares": 3829,
   "value": 4420788,
   "name": "Ellis Investment Partners, LLC"
+ },
+ "1765594": {
+  "shares": 1513,
+  "value": 1746475,
+  "name": "CRA Financial Services, LLC"
  },
  "1765595": {
   "shares": 640,
@@ -8034,6 +8034,11 @@
   "value": 3385533,
   "name": "Cinctive Capital Management LP"
  },
+ "1787274": {
+  "shares": 266,
+  "value": 307041,
+  "name": "Sierra Capital LLC"
+ },
  "1787596": {
   "shares": 2325,
   "value": 2683724,
@@ -8184,6 +8189,11 @@
   "value": 107528095,
   "name": "VERUS CAPITAL PARTNERS, LLC"
  },
+ "1797135": {
+  "shares": 183,
+  "value": 211236,
+  "name": "ARBOR TRUST WEALTH ADVISORS, LLC"
+ },
  "1797678": {
   "shares": 7227,
   "value": 8342316,
@@ -8203,11 +8213,6 @@
   "shares": 554,
   "value": 639476,
   "name": "BCS Wealth Management"
- },
- "1798686": {
-  "shares": 1000,
-  "value": 1154290,
-  "name": "Kapitalo Investimentos Ltda"
  },
  "1798923": {
   "shares": 5522,
@@ -9389,6 +9394,11 @@
   "value": 13858812,
   "name": "Octavia Wealth Advisors, LLC"
  },
+ "1841496": {
+  "shares": 788,
+  "value": 909581,
+  "name": "Marshall Financial Group, LLC"
+ },
  "1841506": {
   "shares": 187,
   "value": 215852,
@@ -10099,11 +10109,6 @@
   "value": 6685648,
   "name": "Heartland Bank & Trust Co"
  },
- "1866189": {
-  "shares": 3662,
-  "value": 4226705,
-  "name": "Keystone Wealth Services, LLC"
- },
  "1867587": {
   "shares": 2124,
   "value": 2451758,
@@ -10423,6 +10428,11 @@
   "shares": 1571,
   "value": 1813026,
   "name": "Whalen Wealth Management Inc."
+ },
+ "1894532": {
+  "shares": 13875,
+  "value": 16015774,
+  "name": "SORA INVESTORS LLC"
  },
  "1894712": {
   "shares": 3519,
@@ -11408,11 +11418,6 @@
   "shares": 615,
   "value": 709606,
   "name": "Investmark Advisory Group LLC"
- },
- "1926571": {
-  "shares": 296,
-  "value": 341670,
-  "name": "Lansing Street Advisors"
  },
  "1926596": {
   "shares": 6072,
@@ -12598,6 +12603,11 @@
   "shares": 4955,
   "value": 5719542,
   "name": "Portside Wealth Group, LLC"
+ },
+ "1978879": {
+  "shares": 18602,
+  "value": 21471906,
+  "name": "Compound Planning, Inc."
  },
  "1978883": {
   "shares": 4550,
@@ -14119,6 +14129,11 @@
   "value": 449019,
   "name": "Midwest Capital Advisors, LLC"
  },
+ "2026645": {
+  "shares": 3569,
+  "value": 4119661,
+  "name": "HAGER INVESTMENT MANAGEMENT SERVICES, LLC"
+ },
  "2026745": {
   "shares": 60000,
   "value": 69257400,
@@ -15089,11 +15104,6 @@
   "value": 6340515,
   "name": "POSTROCK PARTNERS LLC"
  },
- "2053695": {
-  "shares": 263,
-  "value": 303578,
-  "name": "Serenus Wealth Advisors, LLC"
- },
  "2053727": {
   "shares": 5566,
   "value": 6429797,
@@ -15489,11 +15499,6 @@
   "value": 601385,
   "name": "Headland Capital, LLC"
  },
- "2056653": {
-  "shares": 456,
-  "value": 526376,
-  "name": "Helium Advisors LLC"
- },
  "2056656": {
   "shares": 688,
   "value": 793749,
@@ -15848,6 +15853,11 @@
   "shares": 13793,
   "value": 15921122,
   "name": "Genoa Capital Gestora de Recursos Ltda."
+ },
+ "2064920": {
+  "shares": 1146,
+  "value": 1322816,
+  "name": "Pacific Capital Partners Ltd"
  },
  "2065247": {
   "shares": 214,
@@ -16624,6 +16634,11 @@
   "value": 24240,
   "name": "Networth Advisors, LLC"
  },
+ "2099097": {
+  "shares": 5,
+  "value": 5771,
+  "name": "Miller Global Investments, LLC"
+ },
  "2099154": {
   "shares": 265,
   "value": 305887,
@@ -17123,6 +17138,11 @@
   "shares": 398,
   "value": 456756,
   "name": "BCV Asset Management Inc."
+ },
+ "2110759": {
+  "shares": 323,
+  "value": 292093,
+  "name": "Asset One Wealth Management LLC"
  },
  "2110806": {
   "shares": 466,
@@ -19198,11 +19218,6 @@
   "shares": 72926,
   "value": 84177753,
   "name": "GROUP ONE TRADING LLC"
- },
- "932929": {
-  "shares": 14315,
-  "value": 16523661,
-  "name": "WESTBOURNE INVESTMENTS, INC."
  },
  "933429": {
   "shares": 32994,

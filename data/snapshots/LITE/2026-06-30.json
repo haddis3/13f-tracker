@@ -459,11 +459,6 @@
   "value": 538862,
   "name": "Meiji Yasuda Life Insurance Co"
  },
- "1145020": {
-  "shares": 2563,
-  "value": 2199208,
-  "name": "THORNBURG INVESTMENT MANAGEMENT INC"
- },
  "1158202": {
   "shares": 1023,
   "value": 878275,
@@ -1684,6 +1679,11 @@
   "value": 333785,
   "name": "Baader Bank Aktiengesellschaft"
  },
+ "1544204": {
+  "shares": 4749,
+  "value": 4074927,
+  "name": "Liontrust Investment Partners LLP"
+ },
  "1544576": {
   "shares": 451,
   "value": 387054,
@@ -2493,6 +2493,11 @@
   "shares": 1158,
   "value": 994217,
   "name": "Parallel Advisors, LLC"
+ },
+ "1690370": {
+  "shares": 2763,
+  "value": 2370820,
+  "name": "OneDigital Investment Advisors LLC"
  },
  "1691766": {
   "shares": 807,
@@ -4964,6 +4969,11 @@
   "value": 222238,
   "name": "Fairfield Financial Advisors, LTD"
  },
+ "2033266": {
+  "shares": 4790,
+  "value": 4110107,
+  "name": "OPTIMIZE FINANCIAL INC."
+ },
  "2033413": {
   "shares": 872,
   "value": 748228,
@@ -5419,6 +5429,11 @@
   "value": 271147,
   "name": "VARCOV Co."
  },
+ "2079571": {
+  "shares": 2958,
+  "value": 2538142,
+  "name": "Investors Towarzystwo Funduszy Inwestycyjnych Spolka Akcyjna"
+ },
  "2079812": {
   "shares": 18,
   "value": 13110,
@@ -5758,6 +5773,11 @@
   "shares": 6814,
   "value": 5846821,
   "name": "N10 ASSETS, LLC"
+ },
+ "2148724": {
+  "shares": 25,
+  "value": 21415,
+  "name": "COMPASS FINANCIAL MANAGEMENT LLC"
  },
  "2148930": {
   "shares": 20,

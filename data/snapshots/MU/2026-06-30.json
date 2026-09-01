@@ -834,11 +834,6 @@
   "value": 5085802,
   "name": "MassMutual Private Wealth & Trust, FSB"
  },
- "1103887": {
-  "shares": 134400,
-  "value": 155137,
-  "name": "NWI MANAGEMENT LP"
- },
  "1104329": {
   "shares": 136205,
   "value": 157220069,
@@ -2699,11 +2694,6 @@
   "value": 291594431,
   "name": "Prime Capital Management Co Ltd"
  },
- "1449126": {
-  "shares": 25156,
-  "value": 29037422,
-  "name": "Sigma Planning Corp"
- },
  "1450144": {
   "shares": 478,
   "value": 551751,
@@ -3153,11 +3143,6 @@
   "shares": 2842,
   "value": 3280492,
   "name": "Clear Harbor Asset Management, LLC"
- },
- "1512022": {
-  "shares": 18100,
-  "value": 20828756,
-  "name": "HERALD INVESTMENT MANAGEMENT Ltd"
  },
  "1512024": {
   "shares": 98418,
@@ -5024,11 +5009,6 @@
   "value": 4817,
   "name": "Analyst IMS Investment Management Services Ltd."
  },
- "1634212": {
-  "shares": 433,
-  "value": 499808,
-  "name": "Diversified Portfolios, Inc."
- },
  "1634556": {
   "shares": 6279,
   "value": 7247644,
@@ -5679,6 +5659,11 @@
   "value": 7564062,
   "name": "JT Stratford LLC"
  },
+ "1689144": {
+  "shares": 6433,
+  "value": 7425548,
+  "name": "Legacy Bridge, LLC"
+ },
  "1689232": {
   "shares": 5337,
   "value": 6160446,
@@ -6183,11 +6168,6 @@
   "shares": 313,
   "value": 361293,
   "name": "Brickley Wealth Management"
- },
- "1712686": {
-  "shares": 9622,
-  "value": 11106578,
-  "name": "Broadleaf Partners, LLC"
  },
  "1713112": {
   "shares": 259,
@@ -8894,6 +8874,11 @@
   "value": 130859549,
   "name": "Investment Management Corp of Ontario"
  },
+ "1811783": {
+  "shares": 220,
+  "value": 253944,
+  "name": "Richard P Slaughter Associates Inc"
+ },
  "1811805": {
   "shares": 442,
   "value": 510196,
@@ -9409,6 +9394,11 @@
   "value": 13858812,
   "name": "Octavia Wealth Advisors, LLC"
  },
+ "1841496": {
+  "shares": 788,
+  "value": 909581,
+  "name": "Marshall Financial Group, LLC"
+ },
  "1841506": {
   "shares": 187,
   "value": 215852,
@@ -9589,6 +9579,11 @@
   "value": 2060408,
   "name": "Evolutionary Tree Capital Management, LLC"
  },
+ "1844375": {
+  "shares": 509,
+  "value": 587534,
+  "name": "Veery Capital, LLC"
+ },
  "1844424": {
   "shares": 2086,
   "value": 2407461,
@@ -9758,11 +9753,6 @@
   "shares": 6256,
   "value": 7221415,
   "name": "Sovereign Financial Group, Inc."
- },
- "1846177": {
-  "shares": 1630,
-  "value": 1880957,
-  "name": "WOODWARD DIVERSIFIED CAPITAL, LLC"
  },
  "1846310": {
   "shares": 446,
@@ -10114,6 +10104,11 @@
   "value": 6685648,
   "name": "Heartland Bank & Trust Co"
  },
+ "1866189": {
+  "shares": 3662,
+  "value": 4226705,
+  "name": "Keystone Wealth Services, LLC"
+ },
  "1867587": {
   "shares": 2124,
   "value": 2451758,
@@ -10363,11 +10358,6 @@
   "shares": 10,
   "value": 11544,
   "name": "MARYLAND CAPITAL ADVISORS INC."
- },
- "1891240": {
-  "shares": 824,
-  "value": 950822,
-  "name": "Independent Wealth Network Inc."
  },
  "1891713": {
   "shares": 1581,
@@ -11169,6 +11159,11 @@
   "value": 844940,
   "name": "BetterWealth, LLC"
  },
+ "1911726": {
+  "shares": 540,
+  "value": 623416,
+  "name": "Raleigh Capital Management Inc."
+ },
  "1911735": {
   "shares": 19965,
   "value": 23045,
@@ -11223,6 +11218,11 @@
   "shares": 372,
   "value": 429396,
   "name": "AlphaCentric Advisors LLC"
+ },
+ "1913545": {
+  "shares": 305,
+  "value": 352058,
+  "name": "Vienna Asset Management LLC"
  },
  "1913590": {
   "shares": 437,
@@ -12004,11 +12004,6 @@
   "value": 33128123,
   "name": "Schear Investment Advisers, LLC"
  },
- "1962933": {
-  "shares": 21250,
-  "value": 24528376,
-  "name": "Riverview Capital Advisers, LLC"
- },
  "1963040": {
   "shares": 597,
   "value": 689111,
@@ -12018,11 +12013,6 @@
   "shares": 3009,
   "value": 3472894,
   "name": "Icon Wealth Advisors, LLC"
- },
- "1963319": {
-  "shares": 184,
-  "value": 212428,
-  "name": "GEM Asset Management, LLC"
  },
  "1963355": {
   "shares": 6,
@@ -12258,11 +12248,6 @@
   "shares": 354,
   "value": 408619,
   "name": "Beverly Hills Private Wealth, LLC"
- },
- "1965756": {
-  "shares": 1419,
-  "value": 1637444,
-  "name": "C2P Capital Advisory Group, LLC d.b.a. Prosperity Capital Advisors"
  },
  "1965772": {
   "shares": 6388,
@@ -14399,6 +14384,11 @@
   "value": 24240090,
   "name": "Headwater Capital Co Ltd"
  },
+ "2036461": {
+  "shares": 9858,
+  "value": 11378991,
+  "name": "S-Bank Fund Management Ltd"
+ },
  "2036517": {
   "shares": 773,
   "value": 892266,
@@ -15044,6 +15034,11 @@
   "value": 377453,
   "name": "Illumine Investment Management, LLC"
  },
+ "2052992": {
+  "shares": 457,
+  "value": 527511,
+  "name": "Panoramic Capital Partners, LLC"
+ },
  "2053138": {
   "shares": 1350,
   "value": 1558292,
@@ -15489,6 +15484,11 @@
   "value": 601385,
   "name": "Headland Capital, LLC"
  },
+ "2056653": {
+  "shares": 456,
+  "value": 526376,
+  "name": "Helium Advisors LLC"
+ },
  "2056656": {
   "shares": 688,
   "value": 793749,
@@ -15724,6 +15724,11 @@
   "value": 3167372,
   "name": "Fire Capital Management LLC"
  },
+ "2059574": {
+  "shares": 279,
+  "value": 322047,
+  "name": "MEMBERS WEALTH LLC"
+ },
  "2059742": {
   "shares": 296,
   "value": 341670,
@@ -15838,11 +15843,6 @@
   "shares": 13793,
   "value": 15921122,
   "name": "Genoa Capital Gestora de Recursos Ltda."
- },
- "2064920": {
-  "shares": 1146,
-  "value": 1322816,
-  "name": "Pacific Capital Partners Ltd"
  },
  "2065247": {
   "shares": 214,
@@ -17424,6 +17424,11 @@
   "value": 432705,
   "name": "Tulsa Wealth Advisors, INC"
  },
+ "2114448": {
+  "shares": 1114,
+  "value": 1286238,
+  "name": "Cedarwood Wealth LLC"
+ },
  "2114679": {
   "shares": 479,
   "value": 552903,
@@ -17593,11 +17598,6 @@
   "shares": 272408,
   "value": 314437830,
   "name": "Anther Capital Ltd"
- },
- "2126773": {
-  "shares": 28,
-  "value": 32320,
-  "name": "Bravera Wealth"
  },
  "2126814": {
   "shares": 1507,
@@ -18248,11 +18248,6 @@
   "shares": 6470,
   "value": 7468130,
   "name": "ALTFEST L J & CO INC"
- },
- "71210": {
-  "shares": 840,
-  "value": 969,
-  "name": "NEVILLE RODIE & SHAW INC"
  },
  "712537": {
   "shares": 813,

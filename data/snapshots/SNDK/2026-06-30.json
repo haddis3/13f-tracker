@@ -1489,6 +1489,11 @@
   "value": 1191435,
   "name": "Avidian Wealth Enterprises, LLC"
  },
+ "14745": {
+  "shares": 4,
+  "value": 9095,
+  "name": "BROWN, LISLE/CUMMINGS, INC."
+ },
  "1475045": {
   "shares": 211,
   "value": 479757,
@@ -1750,8 +1755,8 @@
   "name": "J.Safra Asset Management Corp"
  },
  "1535323": {
-  "shares": 33387,
-  "value": 21654462,
+  "shares": 38570,
+  "value": 87697766,
   "name": "Allianz Asset Management GmbH"
  },
  "1535385": {
@@ -3438,6 +3443,11 @@
   "shares": 9,
   "value": 20464,
   "name": "Strategic Wealth Partners, Ltd."
+ },
+ "1720969": {
+  "shares": 115,
+  "value": 262177,
+  "name": "Legacy Advisors, LLC"
  },
  "1721168": {
   "shares": 604,
@@ -6794,6 +6804,11 @@
   "value": 1359691,
   "name": "Central Pacific Bank - Trust Division"
  },
+ "2021047": {
+  "shares": 4731,
+  "value": 10756253,
+  "name": "SEEDS INVESTOR LLC"
+ },
  "2021232": {
   "shares": 1609,
   "value": 2056318,
@@ -7073,6 +7088,11 @@
   "shares": 171,
   "value": 388808,
   "name": "XXI WEALTH, LLC"
+ },
+ "2047540": {
+  "shares": 775,
+  "value": 1762141,
+  "name": "Generali Investments CEE, investicni spolecnost, a.s."
  },
  "2048423": {
   "shares": 90,
@@ -8079,6 +8099,11 @@
   "value": 427462,
   "name": "Owl Creek Wealth Partners LLC"
  },
+ "2133991": {
+  "shares": 4,
+  "value": 9095,
+  "name": "1015 Capital Partners, LLC"
+ },
  "2134631": {
   "shares": 167,
   "value": 379713,
@@ -8154,10 +8179,20 @@
   "value": 9095,
   "name": "Highland Investment Advisors LLC"
  },
+ "2149956": {
+  "shares": 111,
+  "value": 252384,
+  "name": "MLG Wealth Management DBA Pine Grove Financial Group"
+ },
  "2150676": {
   "shares": 121,
   "value": 275121,
   "name": "Advus Financial Partners, LLC"
+ },
+ "2152629": {
+  "shares": 153,
+  "value": 347844,
+  "name": "Range Advisory, LLC"
  },
  "2230": {
   "shares": 9900,

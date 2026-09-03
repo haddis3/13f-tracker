@@ -289,11 +289,6 @@
   "value": 7726135,
   "name": "MITCHELL CAPITAL MANAGEMENT CO"
  },
- "1080576": {
-  "shares": 256,
-  "value": 582240,
-  "name": "SILVER OAK SECURITIES, INCORPORATED"
- },
  "1081019": {
   "shares": 380392755,
   "value": 167299,
@@ -578,11 +573,6 @@
   "shares": 2138,
   "value": 4861235,
   "name": "GREENLEAF TRUST"
- },
- "1163648": {
-  "shares": 24090,
-  "value": 54774156,
-  "name": "CI INVESTMENTS INC."
  },
  "1163653": {
   "shares": 36750,
@@ -884,11 +874,6 @@
   "value": 26994480,
   "name": "KNIGHTSBRIDGE ASSET MANAGEMENT, LLC"
  },
- "1332905": {
-  "shares": 893,
-  "value": 2030442,
-  "name": "Curi Capital, LLC"
- },
  "1333986": {
   "shares": 538,
   "value": 1223266,
@@ -1048,11 +1033,6 @@
   "shares": 3650,
   "value": 8299115,
   "name": "Dorsey Wright & Associates"
- },
- "1379995": {
-  "shares": 273,
-  "value": 368687,
-  "name": "HBK Sorce Advisory LLC"
  },
  "1384042": {
   "shares": 951,
@@ -1489,11 +1469,6 @@
   "value": 1191435,
   "name": "Avidian Wealth Enterprises, LLC"
  },
- "14745": {
-  "shares": 4,
-  "value": 9095,
-  "name": "BROWN, LISLE/CUMMINGS, INC."
- },
  "1475045": {
   "shares": 211,
   "value": 479757,
@@ -1755,8 +1730,8 @@
   "name": "J.Safra Asset Management Corp"
  },
  "1535323": {
-  "shares": 38570,
-  "value": 87697766,
+  "shares": 33387,
+  "value": 21654462,
   "name": "Allianz Asset Management GmbH"
  },
  "1535385": {
@@ -2368,11 +2343,6 @@
   "shares": 44387,
   "value": 100924053,
   "name": "Tidal Investments LLC"
- },
- "1600403": {
-  "shares": 1,
-  "value": 2,
-  "name": "CKW FINANCIAL GROUP"
  },
  "1601086": {
   "shares": 1620,
@@ -3268,11 +3238,6 @@
   "shares": 741,
   "value": 1684834,
   "name": "Bryn Mawr Trust Advisors, LLC"
- },
- "1700574": {
-  "shares": 82945,
-  "value": 188594535,
-  "name": "Holocene Advisors, LP"
  },
  "1702435": {
   "shares": 1833,
@@ -4653,11 +4618,6 @@
   "shares": 708,
   "value": 1609801,
   "name": "Stone Wealth Partners"
- },
- "1814214": {
-  "shares": 64,
-  "value": 145519,
-  "name": "Concord Wealth Partners"
  },
  "1814234": {
   "shares": 115,
@@ -8003,11 +7963,6 @@
   "shares": 113,
   "value": 256931,
   "name": "EJMK Ventures LLC"
- },
- "2115120": {
-  "shares": 300,
-  "value": 682119,
-  "name": "Purpose Unlimited Inc."
  },
  "2115254": {
   "shares": 348,

@@ -74,11 +74,6 @@
   "value": 8761,
   "name": "THOMPSON SIEGEL & WALMSLEY LLC"
  },
- "1008937": {
-  "shares": 7280,
-  "value": 8403231,
-  "name": "TRUST CO OF TOLEDO NA /OH/"
- },
  "1009005": {
   "shares": 14705,
   "value": 16973834,
@@ -1959,11 +1954,6 @@
   "value": 2308580,
   "name": "Miura Global Management, LLC"
  },
- "1352449": {
-  "shares": 12072,
-  "value": 13934589,
-  "name": "Norman Fields, Gottscho Capital Management, LLC"
- },
  "1352547": {
   "shares": 475,
   "value": 548287,
@@ -2073,6 +2063,11 @@
   "shares": 55931,
   "value": 64560594,
   "name": "VAN LANSCHOT KEMPEN INVESTMENT MANAGEMENT N.V."
+ },
+ "1367653": {
+  "shares": 10102,
+  "value": 11660664,
+  "name": "Huntleigh Advisors, Inc."
  },
  "1368163": {
   "shares": 986674,
@@ -2669,6 +2664,11 @@
   "value": 6313966,
   "name": "INTACT INVESTMENT MANAGEMENT INC."
  },
+ "1443095": {
+  "shares": 27937,
+  "value": 32247129,
+  "name": "Welch Group, LLC"
+ },
  "1445893": {
   "shares": 137820,
   "value": 159084248,
@@ -3149,6 +3149,11 @@
   "value": 3280492,
   "name": "Clear Harbor Asset Management, LLC"
  },
+ "1512022": {
+  "shares": 18100,
+  "value": 20828756,
+  "name": "HERALD INVESTMENT MANAGEMENT Ltd"
+ },
  "1512024": {
   "shares": 98418,
   "value": 113602872,
@@ -3253,11 +3258,6 @@
   "shares": 68953,
   "value": 79591759,
   "name": "AIA Group Ltd"
- },
- "1525234": {
-  "shares": 466943,
-  "value": 538987635,
-  "name": "Jericho Capital Asset Management L.P."
  },
  "1527488": {
   "shares": 686,
@@ -3643,6 +3643,11 @@
   "shares": 16756,
   "value": 19341689,
   "name": "RWA WEALTH PARTNERS, LLC"
+ },
+ "1544599": {
+  "shares": 249868,
+  "value": 288134415,
+  "name": "Bank Julius Baer & Co. Ltd, Zurich"
  },
  "1544806": {
   "shares": 1848,
@@ -4314,11 +4319,6 @@
   "value": 499512071,
   "name": "Connor, Clark & Lunn Investment Management Ltd."
  },
- "1596957": {
-  "shares": 774,
-  "value": 893431,
-  "name": "FAS Wealth Partners, Inc."
- },
  "1597099": {
   "shares": 6257,
   "value": 7222393,
@@ -4348,11 +4348,6 @@
   "shares": 500,
   "value": 577145,
   "name": "New Paradigm Capital Management, LLC"
- },
- "1598180": {
-  "shares": 651,
-  "value": 751443,
-  "name": "Waldron Private Wealth LLC"
  },
  "1598186": {
   "shares": 7032,
@@ -5013,11 +5008,6 @@
   "shares": 4173,
   "value": 4817,
   "name": "Analyst IMS Investment Management Services Ltd."
- },
- "1634212": {
-  "shares": 433,
-  "value": 499808,
-  "name": "Diversified Portfolios, Inc."
  },
  "1634556": {
   "shares": 6279,
@@ -6274,6 +6264,11 @@
   "value": 948408527,
   "name": "Aberdeen Group plc"
  },
+ "1716984": {
+  "shares": 16216,
+  "value": 18717848,
+  "name": "Slow Capital, Inc."
+ },
  "1717443": {
   "shares": 462285,
   "value": 533610953,
@@ -6834,6 +6829,11 @@
   "value": 3143132,
   "name": "D.B. Root & Company, LLC"
  },
+ "1731731": {
+  "shares": 10444,
+  "value": 12055205,
+  "name": "SWS Partners"
+ },
  "1731732": {
   "shares": 2948,
   "value": 3403197,
@@ -7158,11 +7158,6 @@
   "shares": 8683,
   "value": 10022700,
   "name": "Hidden Lake Asset Management LP"
- },
- "1750405": {
-  "shares": 5473,
-  "value": 6317581,
-  "name": "Truvestments Capital LLC"
  },
  "1750852": {
   "shares": 1138,
@@ -9464,6 +9459,11 @@
   "value": 1232782,
   "name": "Heron Bay Capital Management"
  },
+ "1842296": {
+  "shares": 118220,
+  "value": 136460164,
+  "name": "E Fund Management Co., Ltd."
+ },
  "1842362": {
   "shares": 1125,
   "value": 1298576,
@@ -9594,6 +9594,11 @@
   "value": 2060408,
   "name": "Evolutionary Tree Capital Management, LLC"
  },
+ "1844375": {
+  "shares": 509,
+  "value": 587534,
+  "name": "Veery Capital, LLC"
+ },
  "1844424": {
   "shares": 2086,
   "value": 2407461,
@@ -9663,6 +9668,11 @@
   "shares": 7755,
   "value": 8951519,
   "name": "Greystone Financial Group, LLC"
+ },
+ "1845521": {
+  "shares": 648,
+  "value": 747545,
+  "name": "Urban Wealth Management, LLC"
  },
  "1845536": {
   "shares": 319,
@@ -10439,6 +10449,11 @@
   "value": 1813026,
   "name": "Whalen Wealth Management Inc."
  },
+ "1894532": {
+  "shares": 13875,
+  "value": 16015774,
+  "name": "SORA INVESTORS LLC"
+ },
  "1894712": {
   "shares": 3519,
   "value": 4061946,
@@ -10728,11 +10743,6 @@
   "shares": 886,
   "value": 1022701,
   "name": "SAXON INTERESTS, INC."
- },
- "1905875": {
-  "shares": 428,
-  "value": 494036,
-  "name": "Conrad Siegel Investment Advisors, Inc."
  },
  "1906014": {
   "shares": 1470,
@@ -11839,11 +11849,6 @@
   "value": 1097730,
   "name": "Leslie Global Wealth, LLC"
  },
- "1954929": {
-  "shares": 265,
-  "value": 305887,
-  "name": "Summa Corp."
- },
  "1956244": {
   "shares": 1074,
   "value": 1239707,
@@ -11984,11 +11989,6 @@
   "value": 883032,
   "name": "MELFA WEALTH MANAGEMENT, INC."
  },
- "1962615": {
-  "shares": 658,
-  "value": 759523,
-  "name": "Trifecta Capital Advisors, LLC"
- },
  "1962628": {
   "shares": 290,
   "value": 272130,
@@ -12033,6 +12033,11 @@
   "shares": 3009,
   "value": 3472894,
   "name": "Icon Wealth Advisors, LLC"
+ },
+ "1963319": {
+  "shares": 184,
+  "value": 212428,
+  "name": "GEM Asset Management, LLC"
  },
  "1963355": {
   "shares": 6,
@@ -12388,11 +12393,6 @@
   "shares": 939,
   "value": 1083741,
   "name": "LUTS & GREENLEIGH GROUP, INC."
- },
- "1968109": {
-  "shares": 254244,
-  "value": 291180568,
-  "name": "Vinva Investment Management Ltd"
  },
  "1968434": {
   "shares": 244,
@@ -13519,6 +13519,11 @@
   "value": 1144,
   "name": "LM Advisors LLC"
  },
+ "2011333": {
+  "shares": 3690,
+  "value": 4259330,
+  "name": "VICTORY FINANCIAL GROUP, LLC"
+ },
  "2011342": {
   "shares": 57,
   "value": 65795,
@@ -14404,6 +14409,11 @@
   "value": 24240090,
   "name": "Headwater Capital Co Ltd"
  },
+ "2036461": {
+  "shares": 9858,
+  "value": 11378991,
+  "name": "S-Bank Fund Management Ltd"
+ },
  "2036517": {
   "shares": 773,
   "value": 892266,
@@ -14538,11 +14548,6 @@
   "shares": 464,
   "value": 535591,
   "name": "Dale Q Rice Investment Management Ltd"
- },
- "2041436": {
-  "shares": 86,
-  "value": 99269,
-  "name": "Principia Wealth Advisory, LLC"
  },
  "2041807": {
   "shares": 202,
@@ -15049,11 +15054,6 @@
   "value": 377453,
   "name": "Illumine Investment Management, LLC"
  },
- "2052992": {
-  "shares": 457,
-  "value": 527511,
-  "name": "Panoramic Capital Partners, LLC"
- },
  "2053138": {
   "shares": 1350,
   "value": 1558292,
@@ -15113,11 +15113,6 @@
   "shares": 578,
   "value": 667500,
   "name": "Michels Family Financial, LLC"
- },
- "2053750": {
-  "shares": 605,
-  "value": 698496,
-  "name": "CAPITAL & PLANNING, LLC"
  },
  "2053756": {
   "shares": 1190,
@@ -15439,6 +15434,11 @@
   "value": 3770109,
   "name": "MSH Capital Advisors LLC"
  },
+ "2056313": {
+  "shares": 2033,
+  "value": 2346672,
+  "name": "Bernard Wealth Management Corp."
+ },
  "2056334": {
   "shares": 1994,
   "value": 2301655,
@@ -15553,11 +15553,6 @@
   "shares": 10699,
   "value": 12349749,
   "name": "Collar Capital Management, LLC"
- },
- "2056728": {
-  "shares": 433,
-  "value": 499808,
-  "name": "Oak Wealth Advisors LLC"
  },
  "2056729": {
   "shares": 460,
@@ -17444,6 +17439,11 @@
   "value": 432705,
   "name": "Tulsa Wealth Advisors, INC"
  },
+ "2114448": {
+  "shares": 1114,
+  "value": 1286238,
+  "name": "Cedarwood Wealth LLC"
+ },
  "2114679": {
   "shares": 479,
   "value": 552903,
@@ -18453,6 +18453,11 @@
   "shares": 3931,
   "value": 4537514,
   "name": "SYM FINANCIAL Corp"
+ },
+ "769317": {
+  "shares": 16182,
+  "value": 18679,
+  "name": "SIT INVESTMENT ASSOCIATES INC"
  },
  "769963": {
   "shares": 15944,

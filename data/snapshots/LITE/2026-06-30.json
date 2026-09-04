@@ -1264,6 +1264,11 @@
   "value": 52417169,
   "name": "Ensign Peak Advisors, Inc"
  },
+ "1455267": {
+  "shares": 205,
+  "value": 175903,
+  "name": "Parkside Financial Bank & Trust"
+ },
  "1455495": {
   "shares": 8791,
   "value": 7543205,
@@ -3649,11 +3654,6 @@
   "value": 334889663,
   "name": "Polar Capital Holdings Plc"
  },
- "1838222": {
-  "shares": 1800,
-  "value": 1545,
-  "name": "Maxi Investments CY Ltd"
- },
  "1839122": {
   "shares": 8621,
   "value": 7397335,
@@ -5473,6 +5473,11 @@
   "shares": 2160,
   "value": 1853410,
   "name": "PINEBRIDGE INVESTMENTS LLC"
+ },
+ "2092389": {
+  "shares": 386,
+  "value": 331211,
+  "name": "MOR Wealth Management, LLC"
  },
  "2093108": {
   "shares": 2737,

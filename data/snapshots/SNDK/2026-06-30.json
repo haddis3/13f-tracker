@@ -289,6 +289,11 @@
   "value": 7726135,
   "name": "MITCHELL CAPITAL MANAGEMENT CO"
  },
+ "1080576": {
+  "shares": 256,
+  "value": 582240,
+  "name": "SILVER OAK SECURITIES, INCORPORATED"
+ },
  "1081019": {
   "shares": 380392755,
   "value": 167299,
@@ -564,15 +569,15 @@
   "value": 421367,
   "name": "Penn Capital Management Company, LLC"
  },
- "1161722": {
-  "shares": 1713,
-  "value": 3894899,
-  "name": "HOLLENCREST CAPITAL MANAGEMENT"
- },
  "1162170": {
   "shares": 2138,
   "value": 4861235,
   "name": "GREENLEAF TRUST"
+ },
+ "1163648": {
+  "shares": 24090,
+  "value": 54774156,
+  "name": "CI INVESTMENTS INC."
  },
  "1163653": {
   "shares": 36750,
@@ -874,6 +879,11 @@
   "value": 26994480,
   "name": "KNIGHTSBRIDGE ASSET MANAGEMENT, LLC"
  },
+ "1332905": {
+  "shares": 893,
+  "value": 2030442,
+  "name": "Curi Capital, LLC"
+ },
  "1333986": {
   "shares": 538,
   "value": 1223266,
@@ -1033,6 +1043,11 @@
   "shares": 3650,
   "value": 8299115,
   "name": "Dorsey Wright & Associates"
+ },
+ "1379995": {
+  "shares": 273,
+  "value": 368687,
+  "name": "HBK Sorce Advisory LLC"
  },
  "1384042": {
   "shares": 951,
@@ -1359,6 +1374,11 @@
   "value": 84662337,
   "name": "Ensign Peak Advisors, Inc"
  },
+ "1455267": {
+  "shares": 1270,
+  "value": 2887638,
+  "name": "Parkside Financial Bank & Trust"
+ },
  "1455452": {
   "shares": 2500,
   "value": 5684325,
@@ -1468,6 +1488,11 @@
   "shares": 524,
   "value": 1191435,
   "name": "Avidian Wealth Enterprises, LLC"
+ },
+ "14745": {
+  "shares": 4,
+  "value": 9095,
+  "name": "BROWN, LISLE/CUMMINGS, INC."
  },
  "1475045": {
   "shares": 211,
@@ -1730,8 +1755,8 @@
   "name": "J.Safra Asset Management Corp"
  },
  "1535323": {
-  "shares": 33387,
-  "value": 21654462,
+  "shares": 38570,
+  "value": 87697766,
   "name": "Allianz Asset Management GmbH"
  },
  "1535385": {
@@ -2343,6 +2368,11 @@
   "shares": 44387,
   "value": 100924053,
   "name": "Tidal Investments LLC"
+ },
+ "1600403": {
+  "shares": 1,
+  "value": 2,
+  "name": "CKW FINANCIAL GROUP"
  },
  "1601086": {
   "shares": 1620,
@@ -3239,6 +3269,11 @@
   "value": 1684834,
   "name": "Bryn Mawr Trust Advisors, LLC"
  },
+ "1700574": {
+  "shares": 82945,
+  "value": 188594535,
+  "name": "Holocene Advisors, LP"
+ },
  "1702435": {
   "shares": 1833,
   "value": 4167747,
@@ -3623,11 +3658,6 @@
   "shares": 4076,
   "value": 9267723,
   "name": "Howard Capital Management, LLC"
- },
- "1733472": {
-  "shares": 3,
-  "value": 6822,
-  "name": "Quaker Wealth Management, LLC"
  },
  "1735057": {
   "shares": 527,
@@ -4618,6 +4648,11 @@
   "shares": 708,
   "value": 1609801,
   "name": "Stone Wealth Partners"
+ },
+ "1814214": {
+  "shares": 64,
+  "value": 145519,
+  "name": "Concord Wealth Partners"
  },
  "1814234": {
   "shares": 115,
@@ -7964,6 +7999,11 @@
   "value": 256931,
   "name": "EJMK Ventures LLC"
  },
+ "2115120": {
+  "shares": 300,
+  "value": 682119,
+  "name": "Purpose Unlimited Inc."
+ },
  "2115254": {
   "shares": 348,
   "value": 791258,
@@ -8848,11 +8888,6 @@
   "shares": 3823,
   "value": 8692470,
   "name": "GLYNN CAPITAL MANAGEMENT LLC"
- },
- "911274": {
-  "shares": 280,
-  "value": 636644,
-  "name": "BEESE FULMER INVESTMENT MANAGEMENT, INC."
  },
  "912938": {
   "shares": 249714,

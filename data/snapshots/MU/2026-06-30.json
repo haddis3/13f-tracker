@@ -2164,11 +2164,6 @@
   "value": 3759796,
   "name": "Ifrah Financial Services, Inc."
  },
- "1383782": {
-  "shares": 3713,
-  "value": 4285880,
-  "name": "Merrion Investment Management Co, LLC"
- },
  "1384042": {
   "shares": 11444,
   "value": 13209800,
@@ -3203,6 +3198,11 @@
   "shares": 400,
   "value": 461716,
   "name": "SPROTT INC.  (SII)"
+ },
+ "1512991": {
+  "shares": 4671,
+  "value": 5391689,
+  "name": "Quantbot Technologies LP"
  },
  "1513189": {
   "shares": 565,
@@ -6199,6 +6199,11 @@
   "value": 361293,
   "name": "Brickley Wealth Management"
  },
+ "1712686": {
+  "shares": 9622,
+  "value": 11106578,
+  "name": "Broadleaf Partners, LLC"
+ },
  "1713112": {
   "shares": 259,
   "value": 298679,
@@ -6584,11 +6589,6 @@
   "value": 609466,
   "name": "Holistic Financial Partners"
  },
- "1729347": {
-  "shares": 2309,
-  "value": 2008465,
-  "name": "ABS Direct Equity Fund LLC"
- },
  "1729428": {
   "shares": 2575,
   "value": 2972365,
@@ -6838,11 +6838,6 @@
   "shares": 3234,
   "value": 3733067,
   "name": "G&S Capital LLC"
- },
- "1731601": {
-  "shares": 188,
-  "value": 217007,
-  "name": "Alaska Wealth Advisors, LLC"
  },
  "1731671": {
   "shares": 2637,
@@ -7183,11 +7178,6 @@
   "shares": 8683,
   "value": 10022700,
   "name": "Hidden Lake Asset Management LP"
- },
- "1750405": {
-  "shares": 5473,
-  "value": 6317581,
-  "name": "Truvestments Capital LLC"
  },
  "1750852": {
   "shares": 1138,
@@ -8074,6 +8064,11 @@
   "value": 3385533,
   "name": "Cinctive Capital Management LP"
  },
+ "1787274": {
+  "shares": 266,
+  "value": 307041,
+  "name": "Sierra Capital LLC"
+ },
  "1787596": {
   "shares": 2325,
   "value": 2683724,
@@ -8249,11 +8244,6 @@
   "value": 639476,
   "name": "BCS Wealth Management"
  },
- "1798686": {
-  "shares": 1000,
-  "value": 1154290,
-  "name": "Kapitalo Investimentos Ltda"
- },
  "1798923": {
   "shares": 5522,
   "value": 6373989,
@@ -8358,6 +8348,11 @@
   "shares": 339,
   "value": 391304,
   "name": "Laidlaw Wealth Management LLC"
+ },
+ "1800620": {
+  "shares": 352,
+  "value": 406310,
+  "name": "Sound Financial Strategies Group, LLC"
  },
  "1800687": {
   "shares": 5839,
@@ -8664,11 +8659,6 @@
   "value": 259715,
   "name": "Petix & Botte Co"
  },
- "1803296": {
-  "shares": 361,
-  "value": 416380,
-  "name": "WNY Asset Management, LLC"
- },
  "1803329": {
   "shares": 2748,
   "value": 3171989,
@@ -8799,11 +8789,6 @@
   "value": 242446,
   "name": "AWM CAPITAL, LLC"
  },
- "1807060": {
-  "shares": 3820,
-  "value": 4409084,
-  "name": "SHP Wealth Management"
- },
  "1807092": {
   "shares": 12000,
   "value": 13851480,
@@ -8908,11 +8893,6 @@
   "shares": 113368,
   "value": 130859549,
   "name": "Investment Management Corp of Ontario"
- },
- "1811783": {
-  "shares": 220,
-  "value": 253944,
-  "name": "Richard P Slaughter Associates Inc"
  },
  "1811805": {
   "shares": 442,
@@ -9434,6 +9414,11 @@
   "value": 909581,
   "name": "Marshall Financial Group, LLC"
  },
+ "1841506": {
+  "shares": 187,
+  "value": 215852,
+  "name": "CGN Advisors LLC"
+ },
  "1841544": {
   "shares": 3001,
   "value": 3463769,
@@ -9593,11 +9578,6 @@
   "shares": 177,
   "value": 204309,
   "name": "Johnson Bixby & Associates, LLC"
- },
- "1844250": {
-  "shares": 803,
-  "value": 927011,
-  "name": "Purus Wealth Management, LLC"
  },
  "1844314": {
   "shares": 199,
@@ -10084,11 +10064,6 @@
   "value": 11120267,
   "name": "Pallas Capital Advisors LLC"
  },
- "1862428": {
-  "shares": 3525,
-  "value": 4068872,
-  "name": "Union Heritage Capital, LLC"
- },
  "1862443": {
   "shares": 178,
   "value": 205464,
@@ -10464,11 +10439,6 @@
   "value": 1813026,
   "name": "Whalen Wealth Management Inc."
  },
- "1894532": {
-  "shares": 13875,
-  "value": 16015774,
-  "name": "SORA INVESTORS LLC"
- },
  "1894712": {
   "shares": 3519,
   "value": 4061946,
@@ -10758,11 +10728,6 @@
   "shares": 886,
   "value": 1022701,
   "name": "SAXON INTERESTS, INC."
- },
- "1905875": {
-  "shares": 428,
-  "value": 494036,
-  "name": "Conrad Siegel Investment Advisors, Inc."
  },
  "1906014": {
   "shares": 1470,
@@ -11669,6 +11634,11 @@
   "value": 318584,
   "name": "Wellment Financial"
  },
+ "1940033": {
+  "shares": 517,
+  "value": 596774,
+  "name": "Plan Group Financial, LLC"
+ },
  "1940869": {
   "shares": 77256,
   "value": 89175828,
@@ -11869,6 +11839,11 @@
   "value": 1097730,
   "name": "Leslie Global Wealth, LLC"
  },
+ "1954929": {
+  "shares": 265,
+  "value": 305887,
+  "name": "Summa Corp."
+ },
  "1956244": {
   "shares": 1074,
   "value": 1239707,
@@ -12009,11 +11984,6 @@
   "value": 883032,
   "name": "MELFA WEALTH MANAGEMENT, INC."
  },
- "1962615": {
-  "shares": 658,
-  "value": 759523,
-  "name": "Trifecta Capital Advisors, LLC"
- },
  "1962628": {
   "shares": 290,
   "value": 272130,
@@ -12043,6 +12013,11 @@
   "shares": 28700,
   "value": 33128123,
   "name": "Schear Investment Advisers, LLC"
+ },
+ "1962933": {
+  "shares": 21250,
+  "value": 24528376,
+  "name": "Riverview Capital Advisers, LLC"
  },
  "1963040": {
   "shares": 597,
@@ -12799,11 +12774,6 @@
   "value": 15675431,
   "name": "NORDEN GROUP LLC"
  },
- "1991334": {
-  "shares": 488,
-  "value": 563294,
-  "name": "Prosperity Financial Group, Inc."
- },
  "1991340": {
   "shares": 13,
   "value": 15006,
@@ -13539,6 +13509,11 @@
   "value": 1144,
   "name": "LM Advisors LLC"
  },
+ "2011333": {
+  "shares": 3690,
+  "value": 4259330,
+  "name": "VICTORY FINANCIAL GROUP, LLC"
+ },
  "2011342": {
   "shares": 57,
   "value": 65795,
@@ -13573,6 +13548,11 @@
   "shares": 953,
   "value": 1100399,
   "name": "ROI Financial Advisors, LLC"
+ },
+ "2011649": {
+  "shares": 2189,
+  "value": 1955193,
+  "name": "UP STRATEGIC WEALTH INVESTMENT ADVISORS LLC"
  },
  "2011651": {
   "shares": 313,
@@ -13668,6 +13648,11 @@
   "shares": 14845,
   "value": 17135435,
   "name": "Sivia Capital Partners, LLC"
+ },
+ "2012034": {
+  "shares": 1155,
+  "value": 1333205,
+  "name": "Sollinda Capital Management LLC"
  },
  "2012041": {
   "shares": 521,
@@ -14414,6 +14399,11 @@
   "value": 24240090,
   "name": "Headwater Capital Co Ltd"
  },
+ "2036461": {
+  "shares": 9858,
+  "value": 11378991,
+  "name": "S-Bank Fund Management Ltd"
+ },
  "2036517": {
   "shares": 773,
   "value": 892266,
@@ -14548,11 +14538,6 @@
   "shares": 464,
   "value": 535591,
   "name": "Dale Q Rice Investment Management Ltd"
- },
- "2041436": {
-  "shares": 86,
-  "value": 99269,
-  "name": "Principia Wealth Advisory, LLC"
  },
  "2041807": {
   "shares": 202,
@@ -14859,10 +14844,10 @@
   "value": 767291,
   "name": "Kaufman Rossin Wealth, LLC"
  },
- "2050169": {
-  "shares": 425,
-  "value": 490573,
-  "name": "Quantum Financial Planning Services, Inc."
+ "2050130": {
+  "shares": 27347,
+  "value": 31565915,
+  "name": "VestGen Advisors, LLC"
  },
  "2050308": {
   "shares": 642,
@@ -15053,11 +15038,6 @@
   "shares": 0,
   "value": 377453,
   "name": "Illumine Investment Management, LLC"
- },
- "2052992": {
-  "shares": 457,
-  "value": 527511,
-  "name": "Panoramic Capital Partners, LLC"
  },
  "2053138": {
   "shares": 1350,
@@ -15564,11 +15544,6 @@
   "value": 12349749,
   "name": "Collar Capital Management, LLC"
  },
- "2056728": {
-  "shares": 433,
-  "value": 499808,
-  "name": "Oak Wealth Advisors LLC"
- },
  "2056729": {
   "shares": 460,
   "value": 530948,
@@ -15748,11 +15723,6 @@
   "shares": 2744,
   "value": 3167372,
   "name": "Fire Capital Management LLC"
- },
- "2059574": {
-  "shares": 279,
-  "value": 322047,
-  "name": "MEMBERS WEALTH LLC"
  },
  "2059742": {
   "shares": 296,
@@ -16218,6 +16188,11 @@
   "shares": 908,
   "value": 1048095,
   "name": "Cogent Private Wealth, Inc."
+ },
+ "2078724": {
+  "shares": 24793,
+  "value": 28618312,
+  "name": "Golden Unicorn (BVI) Ltd"
  },
  "2078760": {
   "shares": 6703,
@@ -16859,6 +16834,11 @@
   "value": 145441,
   "name": "Key Capital Management, INC"
  },
+ "2107255": {
+  "shares": 796,
+  "value": 918815,
+  "name": "Pacific Park Financial, Inc."
+ },
  "2107271": {
   "shares": 3580,
   "value": 4132358,
@@ -16923,6 +16903,11 @@
   "shares": 287,
   "value": 331535,
   "name": "Tencap Wealth Coaching, LLC"
+ },
+ "2107860": {
+  "shares": 219,
+  "value": 252790,
+  "name": "Sandro Wealth Management LLC"
  },
  "2107902": {
   "shares": 395,
@@ -18993,6 +18978,11 @@
   "shares": 23700,
   "value": 27356673,
   "name": "LOCKHEED MARTIN INVESTMENT MANAGEMENT CO"
+ },
+ "898286": {
+  "shares": 531635,
+  "value": 613660964,
+  "name": "CAISSE DE DEPOT ET PLACEMENT DU QUEBEC"
  },
  "898358": {
   "shares": 6395,

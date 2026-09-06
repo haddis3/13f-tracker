@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-05T23:42:07.214497Z",
+ "generated": "2026-09-06T23:40:13.261671Z",
  "quarters": [
   "2026-06-30"
  ],
@@ -10,9 +10,9 @@
    "tl": [
     {
      "q": "2026-06-30",
-     "holders": 1824,
-     "valueB": 242.42,
-     "neu": 1824,
+     "holders": 1825,
+     "valueB": 242.43,
+     "neu": 1825,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -145,13 +145,13 @@
   },
   "MU": {
    "name": "MICRON TECHNOLOGY",
-   "sharesM": 885.9,
+   "sharesM": 885.4,
    "tl": [
     {
      "q": "2026-06-30",
-     "holders": 3876,
-     "valueB": 979.48,
-     "neu": 3876,
+     "holders": 3881,
+     "valueB": 978.96,
+     "neu": 3881,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -290,13 +290,13 @@
   },
   "LITE": {
    "name": "LUMENTUM HLDGS INC",
-   "sharesM": 83.8,
+   "sharesM": 83.9,
    "tl": [
     {
      "q": "2026-06-30",
-     "holders": 1320,
-     "valueB": 68.78,
-     "neu": 1320,
+     "holders": 1321,
+     "valueB": 68.79,
+     "neu": 1321,
      "inc": 0,
      "dec": 0,
      "sold": 0

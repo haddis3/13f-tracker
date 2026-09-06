@@ -884,6 +884,11 @@
   "value": 26994480,
   "name": "KNIGHTSBRIDGE ASSET MANAGEMENT, LLC"
  },
+ "1332905": {
+  "shares": 893,
+  "value": 2030442,
+  "name": "Curi Capital, LLC"
+ },
  "1333986": {
   "shares": 538,
   "value": 1223266,
@@ -1043,6 +1048,11 @@
   "shares": 3650,
   "value": 8299115,
   "name": "Dorsey Wright & Associates"
+ },
+ "1379995": {
+  "shares": 273,
+  "value": 368687,
+  "name": "HBK Sorce Advisory LLC"
  },
  "1384042": {
   "shares": 951,
@@ -3653,11 +3663,6 @@
   "shares": 4076,
   "value": 9267723,
   "name": "Howard Capital Management, LLC"
- },
- "1733472": {
-  "shares": 3,
-  "value": 6822,
-  "name": "Quaker Wealth Management, LLC"
  },
  "1735057": {
   "shares": 527,

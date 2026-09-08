@@ -279,6 +279,11 @@
   "value": 10157752,
   "name": "PARADIGM ASSET MANAGEMENT CO LLC"
  },
+ "1034642": {
+  "shares": 1133,
+  "value": 1307325,
+  "name": "CLIFFORD SWAN INVESTMENT COUNSEL LLC"
+ },
  "1034771": {
   "shares": 21967,
   "value": 25356287,
@@ -3199,11 +3204,6 @@
   "value": 461716,
   "name": "SPROTT INC.  (SII)"
  },
- "1512991": {
-  "shares": 4671,
-  "value": 5391689,
-  "name": "Quantbot Technologies LP"
- },
  "1513189": {
   "shares": 565,
   "value": 652174,
@@ -5149,11 +5149,6 @@
   "value": 25263712,
   "name": "MISSION WEALTH MANAGEMENT, LP"
  },
- "1645890": {
-  "shares": 3444,
-  "value": 3975375,
-  "name": "Fiduciary Group, LLC"
- },
  "1646247": {
   "shares": 20015,
   "value": 23102542,
@@ -6839,11 +6834,6 @@
   "value": 3733067,
   "name": "G&S Capital LLC"
  },
- "1731601": {
-  "shares": 188,
-  "value": 217007,
-  "name": "Alaska Wealth Advisors, LLC"
- },
  "1731671": {
   "shares": 2637,
   "value": 3043863,
@@ -6853,6 +6843,11 @@
   "shares": 2723,
   "value": 3143132,
   "name": "D.B. Root & Company, LLC"
+ },
+ "1731731": {
+  "shares": 10444,
+  "value": 12055205,
+  "name": "SWS Partners"
  },
  "1731732": {
   "shares": 2948,
@@ -7178,6 +7173,11 @@
   "shares": 8683,
   "value": 10022700,
   "name": "Hidden Lake Asset Management LP"
+ },
+ "1750405": {
+  "shares": 5473,
+  "value": 6317581,
+  "name": "Truvestments Capital LLC"
  },
  "1750852": {
   "shares": 1138,
@@ -7639,6 +7639,11 @@
   "value": 1435937,
   "name": "Yarbrough Capital, LLC"
  },
+ "1767710": {
+  "shares": 365,
+  "value": 421316,
+  "name": "Guidance Point Advisors, LLC"
+ },
  "1767724": {
   "shares": 1593,
   "value": 1838784,
@@ -7793,11 +7798,6 @@
   "shares": 310,
   "value": 357830,
   "name": "PATRIOT INVESTMENT MANAGEMENT GROUP, INC."
- },
- "1774086": {
-  "shares": 4796,
-  "value": 5535602,
-  "name": "RDA Financial Network"
  },
  "1774087": {
   "shares": 2081,
@@ -8494,6 +8494,11 @@
   "value": 271,
   "name": "Aurora Private Wealth, Inc."
  },
+ "1802136": {
+  "shares": 355,
+  "value": 438630,
+  "name": "Investment Research & Advisory Group, Inc."
+ },
  "1802167": {
   "shares": 13496,
   "value": 15578358,
@@ -8788,6 +8793,11 @@
   "shares": 210,
   "value": 242446,
   "name": "AWM CAPITAL, LLC"
+ },
+ "1807060": {
+  "shares": 3820,
+  "value": 4409084,
+  "name": "SHP Wealth Management"
  },
  "1807092": {
   "shares": 12000,
@@ -9598,6 +9608,11 @@
   "shares": 1785,
   "value": 2060408,
   "name": "Evolutionary Tree Capital Management, LLC"
+ },
+ "1844375": {
+  "shares": 509,
+  "value": 587534,
+  "name": "Veery Capital, LLC"
  },
  "1844424": {
   "shares": 2086,
@@ -11249,6 +11264,11 @@
   "value": 429396,
   "name": "AlphaCentric Advisors LLC"
  },
+ "1913545": {
+  "shares": 305,
+  "value": 352058,
+  "name": "Vienna Asset Management LLC"
+ },
  "1913590": {
   "shares": 437,
   "value": 504425,
@@ -11849,6 +11869,11 @@
   "value": 1097730,
   "name": "Leslie Global Wealth, LLC"
  },
+ "1954929": {
+  "shares": 265,
+  "value": 305887,
+  "name": "Summa Corp."
+ },
  "1956244": {
   "shares": 1074,
   "value": 1239707,
@@ -12218,6 +12243,11 @@
   "shares": 892,
   "value": 1029627,
   "name": "WATERSHED PRIVATE WEALTH LLC"
+ },
+ "1965334": {
+  "shares": 23844,
+  "value": 27522891,
+  "name": "Moran Wealth Management, LLC"
  },
  "1965351": {
   "shares": 3213,
@@ -13559,11 +13589,6 @@
   "value": 188325015,
   "name": "Pathstone Holdings, LLC"
  },
- "2011633": {
-  "shares": 953,
-  "value": 1100399,
-  "name": "ROI Financial Advisors, LLC"
- },
  "2011649": {
   "shares": 2189,
   "value": 1955193,
@@ -14553,6 +14578,11 @@
   "shares": 464,
   "value": 535591,
   "name": "Dale Q Rice Investment Management Ltd"
+ },
+ "2041436": {
+  "shares": 86,
+  "value": 99269,
+  "name": "Principia Wealth Advisory, LLC"
  },
  "2041807": {
   "shares": 202,
@@ -16223,6 +16253,11 @@
   "shares": 908,
   "value": 1048095,
   "name": "Cogent Private Wealth, Inc."
+ },
+ "2078724": {
+  "shares": 24793,
+  "value": 28618312,
+  "name": "Golden Unicorn (BVI) Ltd"
  },
  "2078760": {
   "shares": 6703,
@@ -18458,11 +18493,6 @@
   "shares": 3931,
   "value": 4537514,
   "name": "SYM FINANCIAL Corp"
- },
- "769317": {
-  "shares": 16182,
-  "value": 18679,
-  "name": "SIT INVESTMENT ASSOCIATES INC"
  },
  "769963": {
   "shares": 15944,

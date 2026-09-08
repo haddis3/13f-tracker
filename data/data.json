@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-06T23:40:13.261671Z",
+ "generated": "2026-09-08T00:08:22.923311Z",
  "quarters": [
   "2026-06-30"
  ],
@@ -10,9 +10,9 @@
    "tl": [
     {
      "q": "2026-06-30",
-     "holders": 1825,
+     "holders": 1824,
      "valueB": 242.43,
-     "neu": 1825,
+     "neu": 1824,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -149,9 +149,9 @@
    "tl": [
     {
      "q": "2026-06-30",
-     "holders": 3881,
-     "valueB": 978.96,
-     "neu": 3881,
+     "holders": 3887,
+     "valueB": 979.02,
+     "neu": 3887,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -290,13 +290,13 @@
   },
   "LITE": {
    "name": "LUMENTUM HLDGS INC",
-   "sharesM": 83.9,
+   "sharesM": 83.8,
    "tl": [
     {
      "q": "2026-06-30",
-     "holders": 1321,
-     "valueB": 68.79,
-     "neu": 1321,
+     "holders": 1320,
+     "valueB": 68.78,
+     "neu": 1320,
      "inc": 0,
      "dec": 0,
      "sold": 0

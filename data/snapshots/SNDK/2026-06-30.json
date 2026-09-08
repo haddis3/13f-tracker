@@ -1049,11 +1049,6 @@
   "value": 8299115,
   "name": "Dorsey Wright & Associates"
  },
- "1379995": {
-  "shares": 273,
-  "value": 368687,
-  "name": "HBK Sorce Advisory LLC"
- },
  "1384042": {
   "shares": 951,
   "value": 2162317,
@@ -2374,11 +2369,6 @@
   "value": 100924053,
   "name": "Tidal Investments LLC"
  },
- "1600403": {
-  "shares": 1,
-  "value": 2,
-  "name": "CKW FINANCIAL GROUP"
- },
  "1601086": {
   "shares": 1620,
   "value": 3683443,
@@ -2630,8 +2620,8 @@
   "name": "Towercrest Capital Management"
  },
  "1633366": {
-  "shares": 108,
-  "value": 245563,
+  "shares": 86,
+  "value": 54640,
   "name": "MV CAPITAL MANAGEMENT, INC."
  },
  "1633387": {
@@ -3663,6 +3653,11 @@
   "shares": 4076,
   "value": 9267723,
   "name": "Howard Capital Management, LLC"
+ },
+ "1733472": {
+  "shares": 3,
+  "value": 6822,
+  "name": "Quaker Wealth Management, LLC"
  },
  "1735057": {
   "shares": 527,

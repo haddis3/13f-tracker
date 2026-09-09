@@ -2349,6 +2349,11 @@
   "value": 688940,
   "name": "Atika Capital Management LLC"
  },
+ "1599747": {
+  "shares": 428,
+  "value": 973156,
+  "name": "Dynamic Advisor Solutions LLC"
+ },
  "1599760": {
   "shares": 93,
   "value": 211457,
@@ -3685,8 +3690,8 @@
   "name": "CX Institutional"
  },
  "1737109": {
-  "shares": 5478,
-  "value": 12458071,
+  "shares": 4425,
+  "value": 10061559,
   "name": "Integrated Wealth Concepts LLC"
  },
  "1737112": {
@@ -5153,6 +5158,11 @@
   "shares": 13157,
   "value": 29916216,
   "name": "NewEdge Wealth, LLC"
+ },
+ "1862067": {
+  "shares": 310,
+  "value": 445334,
+  "name": "FWG Holdings, LLC"
  },
  "1862282": {
   "shares": 1703,
@@ -7158,11 +7168,6 @@
   "shares": 652,
   "value": 1482472,
   "name": "SummitTX Capital, L.P."
- },
- "2052593": {
-  "shares": 6602,
-  "value": 15011165,
-  "name": "Cache Advisors, LLC"
  },
  "2053305": {
   "shares": 85743,

@@ -1049,6 +1049,11 @@
   "value": 8299115,
   "name": "Dorsey Wright & Associates"
  },
+ "1379995": {
+  "shares": 273,
+  "value": 368687,
+  "name": "HBK Sorce Advisory LLC"
+ },
  "1384042": {
   "shares": 951,
   "value": 2162317,
@@ -2344,11 +2349,6 @@
   "value": 688940,
   "name": "Atika Capital Management LLC"
  },
- "1599747": {
-  "shares": 428,
-  "value": 973156,
-  "name": "Dynamic Advisor Solutions LLC"
- },
  "1599760": {
   "shares": 93,
   "value": 211457,
@@ -2368,6 +2368,11 @@
   "shares": 44387,
   "value": 100924053,
   "name": "Tidal Investments LLC"
+ },
+ "1600403": {
+  "shares": 1,
+  "value": 2,
+  "name": "CKW FINANCIAL GROUP"
  },
  "1601086": {
   "shares": 1620,
@@ -2620,8 +2625,8 @@
   "name": "Towercrest Capital Management"
  },
  "1633366": {
-  "shares": 86,
-  "value": 54640,
+  "shares": 108,
+  "value": 245563,
   "name": "MV CAPITAL MANAGEMENT, INC."
  },
  "1633387": {
@@ -5035,8 +5040,8 @@
   "name": "Alamar Capital Management, LLC"
  },
  "1847328": {
-  "shares": 63473,
-  "value": 144321086,
+  "shares": 47155,
+  "value": 107217738,
   "name": "Nykredit A/S"
  },
  "1847610": {
@@ -5148,11 +5153,6 @@
   "shares": 13157,
   "value": 29916216,
   "name": "NewEdge Wealth, LLC"
- },
- "1862067": {
-  "shares": 310,
-  "value": 445334,
-  "name": "FWG Holdings, LLC"
  },
  "1862282": {
   "shares": 1703,

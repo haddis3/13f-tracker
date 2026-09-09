@@ -4,11 +4,6 @@
   "value": 3863474000,
   "name": "ROYAL BANK OF CANADA  (RY, RYLBF)"
  },
- "1000742": {
-  "shares": 520,
-  "value": 600231,
-  "name": "SANDLER CAPITAL MANAGEMENT"
- },
  "1001011": {
   "shares": 5819,
   "value": 6716814,
@@ -833,6 +828,11 @@
   "shares": 4406,
   "value": 5085802,
   "name": "MassMutual Private Wealth & Trust, FSB"
+ },
+ "1103887": {
+  "shares": 134400,
+  "value": 155137,
+  "name": "NWI MANAGEMENT LP"
  },
  "1104329": {
   "shares": 136205,
@@ -2319,16 +2319,6 @@
   "value": 525202,
   "name": "ZEVIN ASSET MANAGEMENT LLC"
  },
- "1395055": {
-  "shares": 817,
-  "value": 943055,
-  "name": "Callahan Advisors, LLC"
- },
- "1395067": {
-  "shares": 135,
-  "value": 155830,
-  "name": "Marquette Asset Management, LLC"
- },
  "1396318": {
   "shares": 460028,
   "value": 531005720,
@@ -3204,6 +3194,11 @@
   "value": 461716,
   "name": "SPROTT INC.  (SII)"
  },
+ "1512991": {
+  "shares": 4671,
+  "value": 5391689,
+  "name": "Quantbot Technologies LP"
+ },
  "1513189": {
   "shares": 565,
   "value": 652174,
@@ -3708,11 +3703,6 @@
   "shares": 171152,
   "value": 197559042,
   "name": "Utah Retirement Systems"
- },
- "1549042": {
-  "shares": 3293,
-  "value": 3801053,
-  "name": "Diligent Investors, LLC"
  },
  "1549230": {
   "shares": 1694,
@@ -4584,11 +4574,6 @@
   "value": 359772570,
   "name": "Point72 Asset Management, L.P."
  },
- "1604723": {
-  "shares": 18655,
-  "value": 21532878,
-  "name": "RKL Wealth Management LLC"
- },
  "1605401": {
   "shares": 2219,
   "value": 2562264,
@@ -5173,11 +5158,6 @@
   "shares": 218749,
   "value": 252500044,
   "name": "Baird Financial Group, Inc."
- },
- "1649147": {
-  "shares": 214,
-  "value": 247209,
-  "name": "Harfst & Associates, Inc."
  },
  "1649186": {
   "shares": 1770,
@@ -6653,6 +6633,11 @@
   "shares": 1306,
   "value": 1507465,
   "name": "Crewe Advisors LLC"
+ },
+ "1730073": {
+  "shares": 671006,
+  "value": 774536002,
+  "name": "PFA Pension, Forsikringsaktieselskab"
  },
  "1730126": {
   "shares": 339,
@@ -8494,11 +8479,6 @@
   "value": 271,
   "name": "Aurora Private Wealth, Inc."
  },
- "1802136": {
-  "shares": 355,
-  "value": 438630,
-  "name": "Investment Research & Advisory Group, Inc."
- },
  "1802167": {
   "shares": 13496,
   "value": 15578358,
@@ -9609,11 +9589,6 @@
   "value": 2060408,
   "name": "Evolutionary Tree Capital Management, LLC"
  },
- "1844375": {
-  "shares": 509,
-  "value": 587534,
-  "name": "Veery Capital, LLC"
- },
  "1844424": {
   "shares": 2086,
   "value": 2407461,
@@ -9835,8 +9810,8 @@
   "name": "Round Rock Advisors LLC"
  },
  "1847328": {
-  "shares": 367488,
-  "value": 424187724,
+  "shares": 303984,
+  "value": 350885691,
   "name": "Nykredit A/S"
  },
  "1847343": {
@@ -10079,11 +10054,6 @@
   "value": 3831152,
   "name": "FWG Holdings, LLC"
  },
- "1862282": {
-  "shares": 9634,
-  "value": 11120267,
-  "name": "Pallas Capital Advisors LLC"
- },
  "1862428": {
   "shares": 3525,
   "value": 4068872,
@@ -10138,6 +10108,11 @@
   "shares": 5792,
   "value": 6685648,
   "name": "Heartland Bank & Trust Co"
+ },
+ "1866189": {
+  "shares": 3662,
+  "value": 4226705,
+  "name": "Keystone Wealth Services, LLC"
  },
  "1867587": {
   "shares": 2124,
@@ -12243,11 +12218,6 @@
   "shares": 892,
   "value": 1029627,
   "name": "WATERSHED PRIVATE WEALTH LLC"
- },
- "1965334": {
-  "shares": 23844,
-  "value": 27522891,
-  "name": "Moran Wealth Management, LLC"
  },
  "1965351": {
   "shares": 3213,
@@ -14419,11 +14389,6 @@
   "value": 4214144,
   "name": "HERITAGE OAK WEALTH ADVISORS LLC"
  },
- "2035883": {
-  "shares": 218,
-  "value": 251167,
-  "name": "KEELER & NADLER FINANCIAL PLANNING & WEALTH MANAGEMENT"
- },
  "2035951": {
   "shares": 957,
   "value": 1104719,
@@ -15868,11 +15833,6 @@
   "shares": 261,
   "value": 301272,
   "name": "BINGHAM PRIVATE WEALTH, LLC"
- },
- "2063452": {
-  "shares": 836,
-  "value": 965539,
-  "name": "Milestone Asset Management Group, LLC"
  },
  "2063915": {
   "shares": 2056,
@@ -18048,6 +18008,16 @@
   "shares": 2513,
   "value": 2900285,
   "name": "Advus Financial Partners, LLC"
+ },
+ "2151928": {
+  "shares": 186,
+  "value": 214899,
+  "name": "Kachkovsky & Fisher, Inc."
+ },
+ "2152085": {
+  "shares": 1027,
+  "value": 1185456,
+  "name": "Willow Creek Capital Management, Inc."
  },
  "2152629": {
   "shares": 3504,

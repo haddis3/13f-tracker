@@ -1559,11 +1559,6 @@
   "value": 10049077,
   "name": "Savant Capital, LLC"
  },
- "1483065": {
-  "shares": 950,
-  "value": 2160044,
-  "name": "Supplemental Annuity Collective Trust of NJ"
- },
  "1483066": {
   "shares": 46580,
   "value": 105910343,
@@ -5064,6 +5059,11 @@
   "value": 10072624,
   "name": "B. Metzler seel. Sohn & Co. AG"
  },
+ "1848237": {
+  "shares": 200,
+  "value": 455,
+  "name": "SkyView Investment Advisors, LLC"
+ },
  "1848433": {
   "shares": 109,
   "value": 236700,
@@ -6559,11 +6559,6 @@
   "value": 784437,
   "name": "Arbor Wealth Advisors LLC"
  },
- "2010029": {
-  "shares": 12,
-  "value": 27285,
-  "name": "EVOLUTION WEALTH MANAGEMENT INC."
- },
  "2010186": {
   "shares": 64,
   "value": 145519,
@@ -7173,6 +7168,11 @@
   "shares": 652,
   "value": 1482472,
   "name": "SummitTX Capital, L.P."
+ },
+ "2052593": {
+  "shares": 6602,
+  "value": 15011165,
+  "name": "Cache Advisors, LLC"
  },
  "2053305": {
   "shares": 85743,

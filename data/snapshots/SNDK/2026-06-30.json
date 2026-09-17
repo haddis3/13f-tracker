@@ -514,11 +514,6 @@
   "value": 568433,
   "name": "BRANDYWINE MANAGERS, LLC"
  },
- "1137774": {
-  "shares": 148689,
-  "value": 338078639,
-  "name": "PRUDENTIAL FINANCIAL INC  (PFH, PRH, PRS, PRU)"
- },
  "1137881": {
   "shares": 125,
   "value": 218054,
@@ -6559,6 +6554,11 @@
   "value": 784437,
   "name": "Arbor Wealth Advisors LLC"
  },
+ "2010029": {
+  "shares": 12,
+  "value": 27285,
+  "name": "EVOLUTION WEALTH MANAGEMENT INC."
+ },
  "2010186": {
   "shares": 64,
   "value": 145519,
@@ -7168,11 +7168,6 @@
   "shares": 652,
   "value": 1482472,
   "name": "SummitTX Capital, L.P."
- },
- "2052593": {
-  "shares": 6602,
-  "value": 15011165,
-  "name": "Cache Advisors, LLC"
  },
  "2053305": {
   "shares": 85743,
@@ -8438,11 +8433,6 @@
   "shares": 402,
   "value": 672936,
   "name": "ROMAN BUTLER FULLERTON & CO"
- },
- "743127": {
-  "shares": 753,
-  "value": 1712316,
-  "name": "PINNACLE ASSOCIATES LTD"
  },
  "748054": {
   "shares": 75425,

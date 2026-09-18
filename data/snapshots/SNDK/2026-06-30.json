@@ -514,6 +514,11 @@
   "value": 568433,
   "name": "BRANDYWINE MANAGERS, LLC"
  },
+ "1137774": {
+  "shares": 148689,
+  "value": 338078639,
+  "name": "PRUDENTIAL FINANCIAL INC  (PFH, PRH, PRS, PRU)"
+ },
  "1137881": {
   "shares": 125,
   "value": 218054,
@@ -1079,11 +1084,6 @@
   "value": 1514304,
   "name": "Aull & Monroe Investment Management Corp"
  },
- "1389059": {
-  "shares": 1420,
-  "value": 3228697,
-  "name": "BLB&B Advisors, LLC"
- },
  "1389256": {
   "shares": 20000,
   "value": 45474600,
@@ -1553,6 +1553,11 @@
   "shares": 6879,
   "value": 10049077,
   "name": "Savant Capital, LLC"
+ },
+ "1483065": {
+  "shares": 950,
+  "value": 2160044,
+  "name": "Supplemental Annuity Collective Trust of NJ"
  },
  "1483066": {
   "shares": 46580,
@@ -3863,11 +3868,6 @@
   "shares": 96,
   "value": 218278,
   "name": "Strategic Investment Advisors / MI"
- },
- "1761013": {
-  "shares": 6058,
-  "value": 13773966,
-  "name": "Cresset Asset Management, LLC"
  },
  "1761054": {
   "shares": 72631,
@@ -6554,11 +6554,6 @@
   "value": 784437,
   "name": "Arbor Wealth Advisors LLC"
  },
- "2010029": {
-  "shares": 12,
-  "value": 27285,
-  "name": "EVOLUTION WEALTH MANAGEMENT INC."
- },
  "2010186": {
   "shares": 64,
   "value": 145519,
@@ -6929,11 +6924,6 @@
   "value": 12041674,
   "name": "OPTIMIZE FINANCIAL INC."
  },
- "2033312": {
-  "shares": 479,
-  "value": 1089117,
-  "name": "Summit Wealth Partners, LLC"
- },
  "2033536": {
   "shares": 187,
   "value": 383423,
@@ -7168,6 +7158,11 @@
   "shares": 652,
   "value": 1482472,
   "name": "SummitTX Capital, L.P."
+ },
+ "2052593": {
+  "shares": 6602,
+  "value": 15011165,
+  "name": "Cache Advisors, LLC"
  },
  "2053305": {
   "shares": 85743,
@@ -8433,6 +8428,11 @@
   "shares": 402,
   "value": 672936,
   "name": "ROMAN BUTLER FULLERTON & CO"
+ },
+ "743127": {
+  "shares": 753,
+  "value": 1712316,
+  "name": "PINNACLE ASSOCIATES LTD"
  },
  "748054": {
   "shares": 75425,

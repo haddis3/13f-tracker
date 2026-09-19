@@ -1,18 +1,18 @@
 {
- "generated": "2026-09-18T00:03:01.427441Z",
+ "generated": "2026-09-19T00:05:31.506798Z",
  "quarters": [
   "2026-06-30"
  ],
  "stocks": {
   "SNDK": {
    "name": "SANDISK CORP",
-   "sharesM": 492.0,
+   "sharesM": 491.9,
    "tl": [
     {
      "q": "2026-06-30",
-     "holders": 1824,
-     "valueB": 242.37,
-     "neu": 1824,
+     "holders": 1821,
+     "valueB": 242.03,
+     "neu": 1821,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -145,13 +145,13 @@
   },
   "MU": {
    "name": "MICRON TECHNOLOGY",
-   "sharesM": 641.1,
+   "sharesM": 881.7,
    "tl": [
     {
      "q": "2026-06-30",
-     "holders": 3770,
-     "valueB": 711.28,
-     "neu": 3770,
+     "holders": 3888,
+     "valueB": 974.58,
+     "neu": 3888,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -165,6 +165,12 @@
      "value": "$887.4M"
     },
     {
+     "fund": "Renaissance Technologies LLC",
+     "action": "NEW",
+     "shares": "211.6K",
+     "value": "$244.2M"
+    },
+    {
      "fund": "Millennium Management LLC",
      "action": "NEW",
      "shares": "517.1K",
@@ -175,6 +181,12 @@
      "action": "NEW",
      "shares": "116.7K",
      "value": "$134.7M"
+    },
+    {
+     "fund": "Citadel Advisors LLC",
+     "action": "NEW",
+     "shares": "600.5K",
+     "value": "$693.2M"
     },
     {
      "fund": "Appaloosa LP",
@@ -191,6 +203,18 @@
      "chg": "NEW"
     },
     {
+     "fund": "VANGUARD CAPITAL MANAGEMENT LLC",
+     "shares": "73.7M",
+     "value": "$85.0B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "STATE STREET CORP  (STT, STT-PG)",
+     "shares": "50.1M",
+     "value": "$57.8B",
+     "chg": "NEW"
+    },
+    {
      "fund": "Invesco Ltd.  (IVZ)",
      "shares": "36.3M",
      "value": "$41.9B",
@@ -203,6 +227,12 @@
      "chg": "NEW"
     },
     {
+     "fund": "GEODE CAPITAL MANAGEMENT, LLC",
+     "shares": "27.7M",
+     "value": "$31.9B",
+     "chg": "NEW"
+    },
+    {
      "fund": "FMR LLC",
      "shares": "26.7M",
      "value": "$30.8B",
@@ -212,6 +242,12 @@
      "fund": "JPMORGAN CHASE & CO  (JPM, AMJB, VYLD, JPM-PC, JPM-PD, JPM-PJ, JPM-PK, JPM-PL, JPM-PM)",
      "shares": "25.8M",
      "value": "$29.6B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "VANGUARD PORTFOLIO MANAGEMENT LLC",
+     "shares": "24.7M",
+     "value": "$28.5B",
      "chg": "NEW"
     },
     {
@@ -249,30 +285,6 @@
      "shares": "10.4M",
      "value": "$12.0B",
      "chg": "NEW"
-    },
-    {
-     "fund": "BANK OF AMERICA CORP /DE/  (BAC, BAC-PB, BAC-PE, BAC-PK, BAC-PL, BAC-PM, BAC-PN, BAC-PO, BAC-PP, BAC-PQ, BAC-PS, BML-PG, BML-PL)",
-     "shares": "10.2M",
-     "value": "$11.7B",
-     "chg": "NEW"
-    },
-    {
-     "fund": "UBS AM, a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC",
-     "shares": "8.9M",
-     "value": "$10.3B",
-     "chg": "NEW"
-    },
-    {
-     "fund": "BNP PARIBAS FINANCIAL MARKETS",
-     "shares": "8.1M",
-     "value": "$9.3B",
-     "chg": "NEW"
-    },
-    {
-     "fund": "Bank of New York Mellon Corp  (BNY, BNY-PK)",
-     "shares": "7.1M",
-     "value": "$8.2B",
-     "chg": "NEW"
     }
    ]
   },
@@ -282,9 +294,9 @@
    "tl": [
     {
      "q": "2026-06-30",
-     "holders": 1320,
+     "holders": 1319,
      "valueB": 68.75,
-     "neu": 1320,
+     "neu": 1319,
      "inc": 0,
      "dec": 0,
      "sold": 0

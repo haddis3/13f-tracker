@@ -514,11 +514,6 @@
   "value": 568433,
   "name": "BRANDYWINE MANAGERS, LLC"
  },
- "1137774": {
-  "shares": 148689,
-  "value": 338078639,
-  "name": "PRUDENTIAL FINANCIAL INC  (PFH, PRH, PRS, PRU)"
- },
  "1137881": {
   "shares": 125,
   "value": 218054,
@@ -1049,11 +1044,6 @@
   "value": 8299115,
   "name": "Dorsey Wright & Associates"
  },
- "1379995": {
-  "shares": 273,
-  "value": 368687,
-  "name": "HBK Sorce Advisory LLC"
- },
  "1384042": {
   "shares": 951,
   "value": 2162317,
@@ -1083,6 +1073,11 @@
   "shares": 666,
   "value": 1514304,
   "name": "Aull & Monroe Investment Management Corp"
+ },
+ "1389059": {
+  "shares": 1420,
+  "value": 3228697,
+  "name": "BLB&B Advisors, LLC"
  },
  "1389256": {
   "shares": 20000,
@@ -3869,6 +3864,11 @@
   "value": 218278,
   "name": "Strategic Investment Advisors / MI"
  },
+ "1761013": {
+  "shares": 6058,
+  "value": 13773966,
+  "name": "Cresset Asset Management, LLC"
+ },
  "1761054": {
   "shares": 72631,
   "value": 165143,
@@ -4318,11 +4318,6 @@
   "shares": 194,
   "value": 441104,
   "name": "WEALTH ALLIANCE, LLC"
- },
- "1794543": {
-  "shares": 517,
-  "value": 1175518,
-  "name": "Kathmere Capital Management, LLC"
  },
  "1795173": {
   "shares": 154,
@@ -6519,11 +6514,6 @@
   "value": 309227,
   "name": "Traveka Wealth, LLC"
  },
- "2009426": {
-  "shares": 41,
-  "value": 93223,
-  "name": "Bare Financial Services, Inc"
- },
  "2009486": {
   "shares": 100,
   "value": 227373,
@@ -6553,6 +6543,11 @@
   "shares": 345,
   "value": 784437,
   "name": "Arbor Wealth Advisors LLC"
+ },
+ "2010029": {
+  "shares": 12,
+  "value": 27285,
+  "name": "EVOLUTION WEALTH MANAGEMENT INC."
  },
  "2010186": {
   "shares": 64,
@@ -6924,6 +6919,11 @@
   "value": 12041674,
   "name": "OPTIMIZE FINANCIAL INC."
  },
+ "2033312": {
+  "shares": 479,
+  "value": 1089117,
+  "name": "Summit Wealth Partners, LLC"
+ },
  "2033536": {
   "shares": 187,
   "value": 383423,
@@ -7158,11 +7158,6 @@
   "shares": 652,
   "value": 1482472,
   "name": "SummitTX Capital, L.P."
- },
- "2052593": {
-  "shares": 6602,
-  "value": 15011165,
-  "name": "Cache Advisors, LLC"
  },
  "2053305": {
   "shares": 85743,
@@ -8144,11 +8139,6 @@
   "value": 11821122,
   "name": "N10 ASSETS, LLC"
  },
- "2148724": {
-  "shares": 364,
-  "value": 722720,
-  "name": "COMPASS FINANCIAL MANAGEMENT LLC"
- },
  "2148757": {
   "shares": 83,
   "value": 188720,
@@ -8428,11 +8418,6 @@
   "shares": 402,
   "value": 672936,
   "name": "ROMAN BUTLER FULLERTON & CO"
- },
- "743127": {
-  "shares": 753,
-  "value": 1712316,
-  "name": "PINNACLE ASSOCIATES LTD"
  },
  "748054": {
   "shares": 75425,

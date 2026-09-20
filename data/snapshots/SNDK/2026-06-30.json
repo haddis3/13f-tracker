@@ -334,11 +334,6 @@
   "value": 82725119,
   "name": "SCHRODER INVESTMENT MANAGEMENT GROUP"
  },
- "1089877": {
-  "shares": 1829,
-  "value": 4158650,
-  "name": "KEYBANK NATIONAL ASSOCIATION/OH"
- },
  "1091370": {
   "shares": 2028,
   "value": 4611,
@@ -1043,6 +1038,11 @@
   "shares": 3650,
   "value": 8299115,
   "name": "Dorsey Wright & Associates"
+ },
+ "1379995": {
+  "shares": 273,
+  "value": 368687,
+  "name": "HBK Sorce Advisory LLC"
  },
  "1384042": {
   "shares": 951,
@@ -3624,11 +3624,6 @@
   "value": 1875352,
   "name": "MGO ONE SEVEN LLC"
  },
- "1731446": {
-  "shares": 3698,
-  "value": 8408799,
-  "name": "Prime Capital Investment Advisors, LLC"
- },
  "1731876": {
   "shares": 11,
   "value": 25011,
@@ -3653,11 +3648,6 @@
   "shares": 4076,
   "value": 9267723,
   "name": "Howard Capital Management, LLC"
- },
- "1733472": {
-  "shares": 3,
-  "value": 6822,
-  "name": "Quaker Wealth Management, LLC"
  },
  "1735057": {
   "shares": 527,
@@ -4289,11 +4279,6 @@
   "value": 3706180,
   "name": "Meeder Advisory Services, Inc."
  },
- "1792283": {
-  "shares": 669,
-  "value": 1521125,
-  "name": "Venture Visionary Partners LLC"
- },
  "1792397": {
   "shares": 3885,
   "value": 8833441,
@@ -4318,6 +4303,11 @@
   "shares": 194,
   "value": 441104,
   "name": "WEALTH ALLIANCE, LLC"
+ },
+ "1794543": {
+  "shares": 517,
+  "value": 1175518,
+  "name": "Kathmere Capital Management, LLC"
  },
  "1795173": {
   "shares": 154,
@@ -6514,6 +6504,11 @@
   "value": 309227,
   "name": "Traveka Wealth, LLC"
  },
+ "2009426": {
+  "shares": 41,
+  "value": 93223,
+  "name": "Bare Financial Services, Inc"
+ },
  "2009486": {
   "shares": 100,
   "value": 227373,
@@ -7158,6 +7153,11 @@
   "shares": 652,
   "value": 1482472,
   "name": "SummitTX Capital, L.P."
+ },
+ "2052593": {
+  "shares": 6602,
+  "value": 15011165,
+  "name": "Cache Advisors, LLC"
  },
  "2053305": {
   "shares": 85743,
@@ -8418,6 +8418,11 @@
   "shares": 402,
   "value": 672936,
   "name": "ROMAN BUTLER FULLERTON & CO"
+ },
+ "743127": {
+  "shares": 753,
+  "value": 1712316,
+  "name": "PINNACLE ASSOCIATES LTD"
  },
  "748054": {
   "shares": 75425,

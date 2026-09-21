@@ -4254,11 +4254,6 @@
   "value": 2290229,
   "name": "BIP Wealth, LLC"
  },
- "1590495": {
-  "shares": 11960,
-  "value": 13805308,
-  "name": "Yelin Lapidot Holdings Management Ltd."
- },
  "1591097": {
   "shares": 610,
   "value": 704117,
@@ -4673,6 +4668,11 @@
   "shares": 46817,
   "value": 54040549,
   "name": "Caprock Group, LLC"
+ },
+ "1610880": {
+  "shares": 16,
+  "value": 18469,
+  "name": "BlueCrest Capital Management Ltd"
  },
  "1611518": {
   "shares": 2734,
@@ -5578,6 +5578,11 @@
   "shares": 5192,
   "value": 5993585,
   "name": "Cornerstone Wealth Management, LLC"
+ },
+ "1674486": {
+  "shares": 9161,
+  "value": 10574458,
+  "name": "Simmons Bank"
  },
  "1674836": {
   "shares": 8972,
@@ -8154,6 +8159,11 @@
   "value": 69457475,
   "name": "Kingsview Wealth Management, LLC"
  },
+ "1791996": {
+  "shares": 2269,
+  "value": 2619408,
+  "name": "1900 WEALTH MANAGEMENT LLC"
+ },
  "1791998": {
   "shares": 439,
   "value": 506668,
@@ -8914,11 +8924,6 @@
   "value": 2812240590,
   "name": "Vanguard Global Advisers, LLC"
  },
- "1811308": {
-  "shares": 1708,
-  "value": 1970761,
-  "name": "Wellspring Financial Advisors, LLC"
- },
  "1811345": {
   "shares": 3200,
   "value": 3693728,
@@ -9033,6 +9038,11 @@
   "shares": 9147,
   "value": 10558291,
   "name": "Prudent Man Advisors, LLC"
+ },
+ "1817494": {
+  "shares": 1055,
+  "value": 1217776,
+  "name": "Walkner Condon Financial Advisors LLC"
  },
  "1817648": {
   "shares": 2226,
@@ -10689,11 +10699,6 @@
   "value": 2845489,
   "name": "SHELTON WEALTH MANAGEMENT, LLC"
  },
- "1904274": {
-  "shares": 17183,
-  "value": 16827510,
-  "name": "Wedmont Private Capital"
- },
  "1904388": {
   "shares": 2181,
   "value": 2517506,
@@ -10793,11 +10798,6 @@
   "shares": 428,
   "value": 494036,
   "name": "Conrad Siegel Investment Advisors, Inc."
- },
- "1906014": {
-  "shares": 1470,
-  "value": 1696789,
-  "name": "Aspire Capital Advisors LLC"
  },
  "1906023": {
   "shares": 207,
@@ -11634,11 +11634,6 @@
   "value": 564448,
   "name": "STG SECURITIES, LLC"
  },
- "1934500": {
-  "shares": 305,
-  "value": 352059,
-  "name": "Coastwise Capital Group, LLC"
- },
  "1936416": {
   "shares": 6704,
   "value": 7738361,
@@ -11923,6 +11918,11 @@
   "shares": 1505,
   "value": 1737206,
   "name": "FourThought Financial Partners, LLC"
+ },
+ "1956824": {
+  "shares": 8626,
+  "value": 9957127,
+  "name": "DAYMARK WEALTH PARTNERS, LLC"
  },
  "1957124": {
   "shares": 900,
@@ -12653,6 +12653,11 @@
   "shares": 10412,
   "value": 12018607,
   "name": "KENNEDY INVESTMENT GROUP, INC."
+ },
+ "1978011": {
+  "shares": 1511,
+  "value": 1744132,
+  "name": "Abacus Wealth Partners, LLC"
  },
  "1978521": {
   "shares": 6125,
@@ -14849,6 +14854,11 @@
   "value": 3155829,
   "name": "Integrated Quantitative Investments LLC"
  },
+ "2047201": {
+  "shares": 321,
+  "value": 370527,
+  "name": "Reyes Financial Architecture, Inc."
+ },
  "2047270": {
   "shares": 431,
   "value": 497499,
@@ -15118,6 +15128,11 @@
   "shares": 0,
   "value": 377453,
   "name": "Illumine Investment Management, LLC"
+ },
+ "2052992": {
+  "shares": 457,
+  "value": 527511,
+  "name": "Panoramic Capital Partners, LLC"
  },
  "2053138": {
   "shares": 1350,
@@ -15983,11 +15998,6 @@
   "shares": 18615,
   "value": 21487108,
   "name": "Bosman Wealth Management, LLC"
- },
- "2066311": {
-  "shares": 41,
-  "value": 47314,
-  "name": "RHL GROUP, LLC"
  },
  "2066488": {
   "shares": 1378,
@@ -16924,11 +16934,6 @@
   "value": 145441,
   "name": "Key Capital Management, INC"
  },
- "2107255": {
-  "shares": 796,
-  "value": 918815,
-  "name": "Pacific Park Financial, Inc."
- },
  "2107271": {
   "shares": 3580,
   "value": 4132358,
@@ -16958,6 +16963,11 @@
   "shares": 34,
   "value": 39,
   "name": "Merrithew & Thorsten Inc"
+ },
+ "2107464": {
+  "shares": 193,
+  "value": 222777,
+  "name": "Gambit Capital Management, LLC"
  },
  "2107629": {
   "shares": 266,
@@ -17338,11 +17348,6 @@
   "shares": 6606,
   "value": 7624809,
   "name": "Blue Line Capital, LLC / IL"
- },
- "2111409": {
-  "shares": 230,
-  "value": 265487,
-  "name": "Livet Wealth, LLC"
  },
  "2111427": {
   "shares": 8150,
@@ -18893,6 +18898,11 @@
   "shares": 6055,
   "value": 6989226,
   "name": "TOTH FINANCIAL ADVISORY CORP"
+ },
+ "867626": {
+  "shares": 33966,
+  "value": 39206614,
+  "name": "MUFG SECURITIES AMERICAS INC."
  },
  "867926": {
   "shares": 1999,

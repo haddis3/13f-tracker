@@ -2294,6 +2294,11 @@
   "value": 30222419,
   "name": "MUFG Securities EMEA plc"
  },
+ "1597878": {
+  "shares": 31,
+  "value": 70,
+  "name": "Capital Advisors, Ltd. LLC"
+ },
  "1598130": {
   "shares": 200,
   "value": 454746,
@@ -2603,11 +2608,6 @@
   "shares": 475,
   "value": 1080022,
   "name": "JUNCTURE WEALTH STRATEGIES, LLC"
- },
- "1632972": {
-  "shares": 84847,
-  "value": 158705444,
-  "name": "WEALTH ENHANCEMENT ADVISORY SERVICES, LLC"
  },
  "1633037": {
   "shares": 93,
@@ -2963,6 +2963,11 @@
   "shares": 5000,
   "value": 11368650,
   "name": "RIPOSTE CAPITAL LLC"
+ },
+ "1673633": {
+  "shares": 343,
+  "value": 779019,
+  "name": "Silicon Valley Capital Partners"
  },
  "1674020": {
   "shares": 5,
@@ -3629,6 +3634,11 @@
   "value": 1875352,
   "name": "MGO ONE SEVEN LLC"
  },
+ "1731446": {
+  "shares": 3698,
+  "value": 8408799,
+  "name": "Prime Capital Investment Advisors, LLC"
+ },
  "1731876": {
   "shares": 11,
   "value": 25011,
@@ -4289,11 +4299,6 @@
   "value": 3706180,
   "name": "Meeder Advisory Services, Inc."
  },
- "1792283": {
-  "shares": 669,
-  "value": 1521125,
-  "name": "Venture Visionary Partners LLC"
- },
  "1792397": {
   "shares": 3885,
   "value": 8833441,
@@ -4344,20 +4349,10 @@
   "value": 38141821,
   "name": "Americana Partners, LLC"
  },
- "1798986": {
-  "shares": 57,
-  "value": 129603,
-  "name": "Cedar Mountain Advisors, LLC"
- },
  "1799435": {
   "shares": 200,
   "value": 454746,
   "name": "EPIQ PARTNERS, LLC"
- },
- "1799544": {
-  "shares": 20,
-  "value": 45475,
-  "name": "HOEY INVESTMENTS, INC"
  },
  "1799880": {
   "shares": 266,

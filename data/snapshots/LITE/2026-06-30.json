@@ -1634,6 +1634,11 @@
   "value": 49492901,
   "name": "Mawer Investment Management Ltd."
  },
+ "1539041": {
+  "shares": 20258,
+  "value": 17382584,
+  "name": "PICTON MAHONEY ASSET MANAGEMENT"
+ },
  "1539204": {
   "shares": 3202,
   "value": 2747508,
@@ -2413,6 +2418,11 @@
   "shares": 562,
   "value": 482230,
   "name": "Numerai GP LLC"
+ },
+ "1673633": {
+  "shares": 450,
+  "value": 386127,
+  "name": "Silicon Valley Capital Partners"
  },
  "1673907": {
   "shares": 2408,
@@ -5473,11 +5483,6 @@
   "shares": 2160,
   "value": 1853410,
   "name": "PINEBRIDGE INVESTMENTS LLC"
- },
- "2092389": {
-  "shares": 386,
-  "value": 331211,
-  "name": "MOR Wealth Management, LLC"
  },
  "2093108": {
   "shares": 2737,

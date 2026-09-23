@@ -1,18 +1,18 @@
 {
- "generated": "2026-09-22T00:42:47.575713Z",
+ "generated": "2026-09-23T00:13:23.852067Z",
  "quarters": [
   "2026-06-30"
  ],
  "stocks": {
   "SNDK": {
    "name": "SANDISK CORP",
-   "sharesM": 491.9,
+   "sharesM": 492.0,
    "tl": [
     {
      "q": "2026-06-30",
-     "holders": 1824,
-     "valueB": 242.23,
-     "neu": 1824,
+     "holders": 1828,
+     "valueB": 242.39,
+     "neu": 1828,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -145,13 +145,13 @@
   },
   "MU": {
    "name": "MICRON TECHNOLOGY",
-   "sharesM": 885.5,
+   "sharesM": 886.4,
    "tl": [
     {
      "q": "2026-06-30",
-     "holders": 3893,
-     "valueB": 979.4,
-     "neu": 3893,
+     "holders": 3904,
+     "valueB": 979.96,
+     "neu": 3904,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -294,9 +294,9 @@
    "tl": [
     {
      "q": "2026-06-30",
-     "holders": 1322,
-     "valueB": 68.76,
-     "neu": 1322,
+     "holders": 1324,
+     "valueB": 68.78,
+     "neu": 1324,
      "inc": 0,
      "dec": 0,
      "sold": 0

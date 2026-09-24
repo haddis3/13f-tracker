@@ -139,6 +139,11 @@
   "value": 11323175,
   "name": "RENAISSANCE TECHNOLOGIES LLC"
  },
+ "1039128": {
+  "shares": 26,
+  "value": 59,
+  "name": "HARBOR CAPITAL ADVISORS, INC."
+ },
  "1039765": {
   "shares": 52047,
   "value": 118340825,
@@ -1308,11 +1313,6 @@
   "shares": 141,
   "value": 320596,
   "name": "OXFORD ASSET MANAGEMENT LLP"
- },
- "1439805": {
-  "shares": 13173,
-  "value": 29952,
-  "name": "Greenwich Wealth Management LLC"
  },
  "1442641": {
   "shares": 125,
@@ -4073,11 +4073,6 @@
   "shares": 931,
   "value": 2116843,
   "name": "OSTRUM ASSET MANAGEMENT"
- },
- "1767989": {
-  "shares": 6,
-  "value": 13642,
-  "name": "Bay Harbor Wealth Management, LLC"
  },
  "1768099": {
   "shares": 299,
@@ -8139,11 +8134,6 @@
   "value": 707130,
   "name": "Essential Partners LLC"
  },
- "2139665": {
-  "shares": 19,
-  "value": 43201,
-  "name": "Planning Strategies Inc."
- },
  "2142299": {
   "shares": 620,
   "value": 1409,
@@ -8508,11 +8498,6 @@
   "shares": 259,
   "value": 588896,
   "name": "SYM FINANCIAL Corp"
- },
- "771118": {
-  "shares": 2475,
-  "value": 5628398,
-  "name": "WOODARD & CO ASSET MANAGEMENT GROUP INC /ADV"
  },
  "771572": {
   "shares": 296,

@@ -129,11 +129,6 @@
   "value": 3587533,
   "name": "ORLEANS CAPITAL MANAGEMENT CORP/LA"
  },
- "1015079": {
-  "shares": 3477,
-  "value": 4013439,
-  "name": "BRANDES INVESTMENT PARTNERS, LP"
- },
  "1015083": {
   "shares": 77,
   "value": 88880,
@@ -1043,6 +1038,11 @@
   "shares": 48335,
   "value": 55792607,
   "name": "Itau Unibanco Holding S.A.  (ITUB)"
+ },
+ "1132699": {
+  "shares": 236,
+  "value": 178,
+  "name": "VESTOR CAPITAL, LLC"
  },
  "1132708": {
   "shares": 1150,
@@ -2694,6 +2694,11 @@
   "value": 159084248,
   "name": "CTC LLC"
  },
+ "1446114": {
+  "shares": 7982,
+  "value": 9214113,
+  "name": "Ancora Advisors LLC"
+ },
  "1446194": {
   "shares": 2845862,
   "value": 3284950048,
@@ -2948,11 +2953,6 @@
   "shares": 204062,
   "value": 235546726,
   "name": "MONTRUSCO BOLTON INVESTMENTS INC."
- },
- "1476804": {
-  "shares": 20408,
-  "value": 23556966,
-  "name": "Roundview Capital LLC"
  },
  "1477024": {
   "shares": 858,
@@ -3714,11 +3714,6 @@
   "value": 6790688,
   "name": "Iowa State Bank"
  },
- "1546989": {
-  "shares": 1295,
-  "value": 1494810,
-  "name": "NewSquare Capital LLC"
- },
  "1547926": {
   "shares": 100262,
   "value": 115377499,
@@ -4408,6 +4403,11 @@
   "shares": 240,
   "value": 277334,
   "name": "Rench Wealth Management, Inc."
+ },
+ "1599054": {
+  "shares": 5127,
+  "value": 5918045,
+  "name": "Bouchey Financial Group, Ltd."
  },
  "1599084": {
   "shares": 106,
@@ -5514,6 +5514,11 @@
   "value": 16683712,
   "name": "TRUE Private Wealth Advisors"
  },
+ "1667132": {
+  "shares": 268,
+  "value": 309350,
+  "name": "Well Done, LLC"
+ },
  "1667134": {
   "shares": 7175,
   "value": 8282226,
@@ -5994,6 +5999,11 @@
   "value": 8294,
   "name": "Summit Global Investments"
  },
+ "1698091": {
+  "shares": 350,
+  "value": 403466,
+  "name": "Narus Financial Partners, LLC"
+ },
  "1698218": {
   "shares": 38411,
   "value": 44337666,
@@ -6033,11 +6043,6 @@
   "shares": 22114,
   "value": 25525969,
   "name": "Synergy Asset Management, LLC"
- },
- "1699575": {
-  "shares": 664400,
-  "value": 766910276,
-  "name": "Cable Car Capital, LP"
  },
  "1700481": {
   "shares": 810,
@@ -6814,15 +6819,15 @@
   "value": 2604381,
   "name": "Financial Partners Group, Inc"
  },
+ "1731221": {
+  "shares": 390,
+  "value": 450173,
+  "name": "FSA WEALTH PARTNERS, INC."
+ },
  "1731260": {
   "shares": 1658,
   "value": 1913763,
   "name": "Aljian Capital Management, LLC"
- },
- "1731358": {
-  "shares": 4200,
-  "value": 4848018,
-  "name": "All Terrain Financial Advisors, LLC"
  },
  "1731359": {
   "shares": 368,
@@ -6958,11 +6963,6 @@
   "shares": 35654,
   "value": 41154027,
   "name": "Vestmark Advisory Solutions, Inc."
- },
- "1737012": {
-  "shares": 25,
-  "value": 29233,
-  "name": "Vermillion Wealth Management, Inc."
  },
  "1737088": {
   "shares": 496,
@@ -7468,6 +7468,11 @@
   "shares": 93,
   "value": 95856,
   "name": "Kozak & Associates, Inc."
+ },
+ "1765216": {
+  "shares": 2006,
+  "value": 2315530,
+  "name": "Magnus Financial Group LLC"
  },
  "1765387": {
   "shares": 10093,
@@ -9444,11 +9449,6 @@
   "value": 898609,
   "name": "Galvin, Gaustad & Stein, LLC"
  },
- "1841015": {
-  "shares": 5930,
-  "value": 6844940,
-  "name": "WD RUTHERFORD LLC"
- },
  "1841173": {
   "shares": 7721,
   "value": 8912319,
@@ -9933,11 +9933,6 @@
   "shares": 254,
   "value": 293190,
   "name": "Alliance Wealth Advisors, LLC"
- },
- "1851418": {
-  "shares": 1325,
-  "value": 1529434,
-  "name": "Valley Brook Capital Group, Inc."
  },
  "1851815": {
   "shares": 112158,
@@ -10614,11 +10609,6 @@
   "value": 654482,
   "name": "Cross Staff Investments Inc"
  },
- "1900584": {
-  "shares": 262,
-  "value": 302424,
-  "name": "Amplius Wealth Advisors, LLC"
- },
  "1900923": {
   "shares": 23527,
   "value": 27156981,
@@ -11239,11 +11229,6 @@
   "value": 472396,
   "name": "REGATTA CAPITAL GROUP, LLC"
  },
- "1911520": {
-  "shares": 1524,
-  "value": 1759370,
-  "name": "Cladis Investment Advisory, LLC"
- },
  "1911702": {
   "shares": 732,
   "value": 844940,
@@ -11368,11 +11353,6 @@
   "shares": 142187,
   "value": 164075888,
   "name": "ASR Vermogensbeheer N.V."
- },
- "1916908": {
-  "shares": 3006,
-  "value": 3469796,
-  "name": "AXQ CAPITAL, LP"
  },
  "1917686": {
   "shares": 746,
@@ -13734,6 +13714,11 @@
   "value": 8737985,
   "name": "Williamson Legacy Group, LLC"
  },
+ "2012028": {
+  "shares": 682,
+  "value": 786771,
+  "name": "Lakeridge Wealth Management LLC"
+ },
  "2012031": {
   "shares": 95,
   "value": 109658,
@@ -14014,11 +13999,6 @@
   "value": 813106,
   "name": "Embree Financial Group"
  },
- "2021047": {
-  "shares": 5874,
-  "value": 6780349,
-  "name": "SEEDS INVESTOR LLC"
- },
  "2021208": {
   "shares": 1082,
   "value": 1248501,
@@ -14203,11 +14183,6 @@
   "shares": 682,
   "value": 787539,
   "name": "Landing Point Financial Group, LLC"
- },
- "2026127": {
-  "shares": 4464,
-  "value": 5152751,
-  "name": "KEYNOTE FINANCIAL SERVICES LLC"
  },
  "2026286": {
   "shares": 8630,
@@ -15329,6 +15304,11 @@
   "value": 301572,
   "name": "PARTNERS WEALTH MANAGEMENT, LLC"
  },
+ "2054795": {
+  "shares": 1139,
+  "value": 1314,
+  "name": "Warburton Capital Management, LLC"
+ },
  "2054801": {
   "shares": 54113,
   "value": 62462094,
@@ -15913,11 +15893,6 @@
   "shares": 536,
   "value": 618588,
   "name": "Mascagni Wealth Management, Inc."
- },
- "2063211": {
-  "shares": 261,
-  "value": 301272,
-  "name": "BINGHAM PRIVATE WEALTH, LLC"
  },
  "2063452": {
   "shares": 836,
@@ -18134,6 +18109,11 @@
   "value": 4044118,
   "name": "Range Advisory, LLC"
  },
+ "2153025": {
+  "shares": 2000,
+  "value": 2308580,
+  "name": "Twin Peaks Capital Ltd"
+ },
  "2156071": {
   "shares": 603,
   "value": 696036,
@@ -18504,6 +18484,11 @@
   "value": 147923418,
   "name": "ARS Investment Partners, LLC"
  },
+ "733444": {
+  "shares": 2390,
+  "value": 2239281,
+  "name": "ROMAN BUTLER FULLERTON & CO"
+ },
  "741073": {
   "shares": 3108,
   "value": 3587534,
@@ -18808,11 +18793,6 @@
   "shares": 43110,
   "value": 49761729,
   "name": "Clearstead Advisors, LLC"
- },
- "842782": {
-  "shares": 152816,
-  "value": 176394215,
-  "name": "ZWJ INVESTMENT COUNSEL INC"
  },
  "842941": {
   "shares": 2175,

@@ -459,6 +459,11 @@
   "value": 538862,
   "name": "Meiji Yasuda Life Insurance Co"
  },
+ "1145020": {
+  "shares": 2563,
+  "value": 2199208,
+  "name": "THORNBURG INVESTMENT MANAGEMENT INC"
+ },
  "1158202": {
   "shares": 1023,
   "value": 878275,
@@ -593,6 +598,11 @@
   "shares": 1000,
   "value": 858060,
   "name": "WBH ADVISORY INC"
+ },
+ "1259969": {
+  "shares": 45,
+  "value": 38613,
+  "name": "FARMERS & MERCHANTS INVESTMENTS INC"
  },
  "12600": {
   "shares": 434,
@@ -2149,6 +2159,11 @@
   "value": 253986,
   "name": "Bayesian Capital Management, LP"
  },
+ "1632844": {
+  "shares": 6,
+  "value": 5148,
+  "name": "Hurley Capital, LLC"
+ },
  "1632965": {
   "shares": 2418,
   "value": 2074789,
@@ -3188,11 +3203,6 @@
   "shares": 89,
   "value": 76368,
   "name": "Prestige Wealth Management Group LLC"
- },
- "1776033": {
-  "shares": 455,
-  "value": 390418,
-  "name": "Golden State Wealth Management, LLC"
  },
  "1776082": {
   "shares": 391,
@@ -5788,11 +5798,6 @@
   "shares": 20,
   "value": 17161,
   "name": "NBH Bank"
- },
- "2148988": {
-  "shares": 1417,
-  "value": 1215871,
-  "name": "AlphaGrep UK Ltd"
  },
  "2149844": {
   "shares": 9,

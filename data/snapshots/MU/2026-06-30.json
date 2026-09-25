@@ -129,15 +129,15 @@
   "value": 3587533,
   "name": "ORLEANS CAPITAL MANAGEMENT CORP/LA"
  },
+ "1015079": {
+  "shares": 3477,
+  "value": 4013439,
+  "name": "BRANDES INVESTMENT PARTNERS, LP"
+ },
  "1015083": {
   "shares": 77,
   "value": 88880,
   "name": "EMERALD ADVISERS, LLC"
- },
- "1015086": {
-  "shares": 1573,
-  "value": 1816174,
-  "name": "BRADLEY FOSTER & SARGENT INC/CT"
  },
  "1015247": {
   "shares": 1700,
@@ -153,11 +153,6 @@
   "shares": 3570,
   "value": 4120815,
   "name": "MCINTYRE FREEDMAN & FLYNN INVESTMENT ADVISERS INC"
- },
- "1016021": {
-  "shares": 342,
-  "value": 394767,
-  "name": "EDMP, INC."
  },
  "1016683": {
   "shares": 3381,
@@ -1044,11 +1039,6 @@
   "value": 178,
   "name": "VESTOR CAPITAL, LLC"
  },
- "1132708": {
-  "shares": 1150,
-  "value": 1059093,
-  "name": "NORTHSTAR ASSET MANAGEMENT Co"
- },
  "1132897": {
   "shares": 40,
   "value": 46172,
@@ -1423,11 +1413,6 @@
   "shares": 29017,
   "value": 33494162,
   "name": "EVERGREEN CAPITAL MANAGEMENT LLC"
- },
- "1263548": {
-  "shares": 40101,
-  "value": 37629511,
-  "name": "WHITTIER TRUST CO OF NEVADA INC"
  },
  "1265131": {
   "shares": 12164,
@@ -2954,6 +2939,11 @@
   "value": 235546726,
   "name": "MONTRUSCO BOLTON INVESTMENTS INC."
  },
+ "1476804": {
+  "shares": 20408,
+  "value": 23556966,
+  "name": "Roundview Capital LLC"
+ },
  "1477024": {
   "shares": 858,
   "value": 990382,
@@ -3713,6 +3703,11 @@
   "shares": 5883,
   "value": 6790688,
   "name": "Iowa State Bank"
+ },
+ "1546989": {
+  "shares": 1295,
+  "value": 1494810,
+  "name": "NewSquare Capital LLC"
  },
  "1547926": {
   "shares": 100262,
@@ -6044,6 +6039,11 @@
   "value": 25525969,
   "name": "Synergy Asset Management, LLC"
  },
+ "1699575": {
+  "shares": 664400,
+  "value": 766910276,
+  "name": "Cable Car Capital, LP"
+ },
  "1700481": {
   "shares": 810,
   "value": 935003,
@@ -6829,6 +6829,11 @@
   "value": 1913763,
   "name": "Aljian Capital Management, LLC"
  },
+ "1731358": {
+  "shares": 4200,
+  "value": 4848018,
+  "name": "All Terrain Financial Advisors, LLC"
+ },
  "1731359": {
   "shares": 368,
   "value": 424239,
@@ -6963,6 +6968,11 @@
   "shares": 35654,
   "value": 41154027,
   "name": "Vestmark Advisory Solutions, Inc."
+ },
+ "1737012": {
+  "shares": 25,
+  "value": 29233,
+  "name": "Vermillion Wealth Management, Inc."
  },
  "1737088": {
   "shares": 496,
@@ -9449,6 +9459,11 @@
   "value": 898609,
   "name": "Galvin, Gaustad & Stein, LLC"
  },
+ "1841015": {
+  "shares": 5930,
+  "value": 6844940,
+  "name": "WD RUTHERFORD LLC"
+ },
  "1841173": {
   "shares": 7721,
   "value": 8912319,
@@ -10179,11 +10194,6 @@
   "value": 4226705,
   "name": "Keystone Wealth Services, LLC"
  },
- "1867587": {
-  "shares": 2124,
-  "value": 2451758,
-  "name": "Invst, LLC"
- },
  "1867894": {
   "shares": 1668,
   "value": 1925356,
@@ -10608,6 +10618,11 @@
   "shares": 567,
   "value": 654482,
   "name": "Cross Staff Investments Inc"
+ },
+ "1900584": {
+  "shares": 262,
+  "value": 302424,
+  "name": "Amplius Wealth Advisors, LLC"
  },
  "1900923": {
   "shares": 23527,
@@ -11229,6 +11244,11 @@
   "value": 472396,
   "name": "REGATTA CAPITAL GROUP, LLC"
  },
+ "1911520": {
+  "shares": 1524,
+  "value": 1759370,
+  "name": "Cladis Investment Advisory, LLC"
+ },
  "1911702": {
   "shares": 732,
   "value": 844940,
@@ -11353,6 +11373,11 @@
   "shares": 142187,
   "value": 164075888,
   "name": "ASR Vermogensbeheer N.V."
+ },
+ "1916908": {
+  "shares": 3006,
+  "value": 3469796,
+  "name": "AXQ CAPITAL, LP"
  },
  "1917686": {
   "shares": 746,
@@ -12774,11 +12799,6 @@
   "value": 2869565,
   "name": "Point Nemo Capital, LLC"
  },
- "1988563": {
-  "shares": 1479,
-  "value": 1707195,
-  "name": "LJI Wealth Management, LLC"
- },
  "1989251": {
   "shares": 5297,
   "value": 6114281,
@@ -13088,11 +13108,6 @@
   "shares": 254,
   "value": 293190,
   "name": "POWER WEALTH MANAGEMENT LLC"
- },
- "2001155": {
-  "shares": 476,
-  "value": 549444,
-  "name": "Exchange Bank"
  },
  "2001473": {
   "shares": 260,
@@ -13669,11 +13684,6 @@
   "value": 1601314,
   "name": "Mosley Wealth Management"
  },
- "2011850": {
-  "shares": 1148,
-  "value": 1325125,
-  "name": "Optimist Retirement Group LLC"
- },
  "2011856": {
   "shares": 200,
   "value": 230858,
@@ -13999,6 +14009,11 @@
   "value": 813106,
   "name": "Embree Financial Group"
  },
+ "2021047": {
+  "shares": 5874,
+  "value": 6780349,
+  "name": "SEEDS INVESTOR LLC"
+ },
  "2021208": {
   "shares": 1082,
   "value": 1248501,
@@ -14089,11 +14104,6 @@
   "value": 346287,
   "name": "Rockport Wealth LLC"
  },
- "2022908": {
-  "shares": 1730,
-  "value": 1996922,
-  "name": "SPIREPOINT PRIVATE CLIENT, LLC"
- },
  "2023071": {
   "shares": 959,
   "value": 1106964,
@@ -14183,6 +14193,11 @@
   "shares": 682,
   "value": 787539,
   "name": "Landing Point Financial Group, LLC"
+ },
+ "2026127": {
+  "shares": 4464,
+  "value": 5152751,
+  "name": "KEYNOTE FINANCIAL SERVICES LLC"
  },
  "2026286": {
   "shares": 8630,
@@ -15304,11 +15319,6 @@
   "value": 301572,
   "name": "PARTNERS WEALTH MANAGEMENT, LLC"
  },
- "2054795": {
-  "shares": 1139,
-  "value": 1314,
-  "name": "Warburton Capital Management, LLC"
- },
  "2054801": {
   "shares": 54113,
   "value": 62462094,
@@ -15894,6 +15904,11 @@
   "value": 618588,
   "name": "Mascagni Wealth Management, Inc."
  },
+ "2063211": {
+  "shares": 261,
+  "value": 301272,
+  "name": "BINGHAM PRIVATE WEALTH, LLC"
+ },
  "2063452": {
   "shares": 836,
   "value": 965539,
@@ -16184,11 +16199,6 @@
   "value": 1655252,
   "name": "Markin Volterra Fund LP"
  },
- "2073676": {
-  "shares": 835,
-  "value": 963832,
-  "name": "Zinnia Wealth Advisory, LLC"
- },
  "2073833": {
   "shares": 9,
   "value": 10389,
@@ -16413,11 +16423,6 @@
   "shares": 1838,
   "value": 2121585,
   "name": "Third View Private Wealth, LLC"
- },
- "2083456": {
-  "shares": 1802,
-  "value": 2080031,
-  "name": "Vilga Financial Planning LLC"
  },
  "2083499": {
   "shares": 316,
@@ -17279,11 +17284,6 @@
   "value": 17873420,
   "name": "EVOLVE PRIVATE WEALTH, LLC"
  },
- "2111167": {
-  "shares": 7725,
-  "value": 8917275,
-  "name": "TritonPoint Partners, LLC"
- },
  "2111172": {
   "shares": 992,
   "value": 1145072,
@@ -17798,11 +17798,6 @@
   "shares": 325,
   "value": 375144,
   "name": "Causey Wealth LLC"
- },
- "2133354": {
-  "shares": 2381,
-  "value": 2221,
-  "name": "Forum Finance Group S.A."
  },
  "2133805": {
   "shares": 1180,
@@ -18793,6 +18788,11 @@
   "shares": 43110,
   "value": 49761729,
   "name": "Clearstead Advisors, LLC"
+ },
+ "842782": {
+  "shares": 152816,
+  "value": 176394215,
+  "name": "ZWJ INVESTMENT COUNSEL INC"
  },
  "842941": {
   "shares": 2175,

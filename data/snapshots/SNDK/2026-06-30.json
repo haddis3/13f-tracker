@@ -1314,6 +1314,11 @@
   "value": 320596,
   "name": "OXFORD ASSET MANAGEMENT LLP"
  },
+ "1439805": {
+  "shares": 13173,
+  "value": 29952,
+  "name": "Greenwich Wealth Management LLC"
+ },
  "1442641": {
   "shares": 125,
   "value": 284216,
@@ -3423,11 +3428,6 @@
   "shares": 33080,
   "value": 75214988,
   "name": "KLP KAPITALFORVALTNING AS"
- },
- "1718251": {
-  "shares": 445,
-  "value": 1011810,
-  "name": "FORTRESS PRIVATE LEDGER, LLC"
  },
  "1719165": {
   "shares": 167,
@@ -8134,6 +8134,11 @@
   "value": 707130,
   "name": "Essential Partners LLC"
  },
+ "2139665": {
+  "shares": 19,
+  "value": 43201,
+  "name": "Planning Strategies Inc."
+ },
  "2142299": {
   "shares": 620,
   "value": 1409,
@@ -8498,6 +8503,11 @@
   "shares": 259,
   "value": 588896,
   "name": "SYM FINANCIAL Corp"
+ },
+ "771118": {
+  "shares": 2475,
+  "value": 5628398,
+  "name": "WOODARD & CO ASSET MANAGEMENT GROUP INC /ADV"
  },
  "771572": {
   "shares": 296,

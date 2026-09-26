@@ -3429,6 +3429,11 @@
   "value": 75214988,
   "name": "KLP KAPITALFORVALTNING AS"
  },
+ "1718251": {
+  "shares": 445,
+  "value": 1011810,
+  "name": "FORTRESS PRIVATE LEDGER, LLC"
+ },
  "1719165": {
   "shares": 167,
   "value": 380,
@@ -3473,11 +3478,6 @@
   "shares": 608,
   "value": 1104454,
   "name": "DV Trading LLC"
- },
- "1721780": {
-  "shares": 366,
-  "value": 680127,
-  "name": "Successful Portfolios LLC"
  },
  "1722641": {
   "shares": 1059,
@@ -4073,6 +4073,11 @@
   "shares": 931,
   "value": 2116843,
   "name": "OSTRUM ASSET MANAGEMENT"
+ },
+ "1767989": {
+  "shares": 6,
+  "value": 13642,
+  "name": "Bay Harbor Wealth Management, LLC"
  },
  "1768099": {
   "shares": 299,
@@ -8133,6 +8138,11 @@
   "shares": 311,
   "value": 707130,
   "name": "Essential Partners LLC"
+ },
+ "2137372": {
+  "shares": 12,
+  "value": 25342,
+  "name": "Atomic Invest LLC"
  },
  "2139665": {
   "shares": 19,

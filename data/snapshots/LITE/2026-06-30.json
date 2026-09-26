@@ -599,11 +599,6 @@
   "value": 858060,
   "name": "WBH ADVISORY INC"
  },
- "1259969": {
-  "shares": 45,
-  "value": 38613,
-  "name": "FARMERS & MERCHANTS INVESTMENTS INC"
- },
  "12600": {
   "shares": 434,
   "value": 372398,
@@ -2180,8 +2175,8 @@
   "name": "Patten Group, Inc."
  },
  "1633366": {
-  "shares": 7,
-  "value": 6007,
+  "shares": 13,
+  "value": 9136,
   "name": "MV CAPITAL MANAGEMENT, INC."
  },
  "1633389": {
@@ -3203,6 +3198,11 @@
   "shares": 89,
   "value": 76368,
   "name": "Prestige Wealth Management Group LLC"
+ },
+ "1776033": {
+  "shares": 455,
+  "value": 390418,
+  "name": "Golden State Wealth Management, LLC"
  },
  "1776082": {
   "shares": 391,
@@ -5798,6 +5798,11 @@
   "shares": 20,
   "value": 17161,
   "name": "NBH Bank"
+ },
+ "2148988": {
+  "shares": 1417,
+  "value": 1215871,
+  "name": "AlphaGrep UK Ltd"
  },
  "2149844": {
   "shares": 9,

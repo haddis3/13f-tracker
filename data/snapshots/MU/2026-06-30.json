@@ -1049,11 +1049,6 @@
   "value": 178,
   "name": "VESTOR CAPITAL, LLC"
  },
- "1132708": {
-  "shares": 1150,
-  "value": 1059093,
-  "name": "NORTHSTAR ASSET MANAGEMENT Co"
- },
  "1132897": {
   "shares": 40,
   "value": 46172,
@@ -2524,6 +2519,11 @@
   "value": 2117787,
   "name": "WealthTrust Axiom LLC"
  },
+ "1426196": {
+  "shares": 230359,
+  "value": 265901090,
+  "name": "CAPSTONE INVESTMENT ADVISORS, LLC"
+ },
  "1426319": {
   "shares": 82226,
   "value": 94912650,
@@ -2949,6 +2949,11 @@
   "value": 235546726,
   "name": "MONTRUSCO BOLTON INVESTMENTS INC."
  },
+ "1476804": {
+  "shares": 20408,
+  "value": 23556966,
+  "name": "Roundview Capital LLC"
+ },
  "1477024": {
   "shares": 858,
   "value": 990382,
@@ -3213,11 +3218,6 @@
   "shares": 4671,
   "value": 5391689,
   "name": "Quantbot Technologies LP"
- },
- "1513189": {
-  "shares": 565,
-  "value": 652174,
-  "name": "First Western Trust Bank"
  },
  "1513211": {
   "shares": 108636,
@@ -3533,11 +3533,6 @@
   "shares": 70538,
   "value": 81421308,
   "name": "Kentucky Retirement Systems"
- },
- "1538383": {
-  "shares": 10895,
-  "value": 12576511,
-  "name": "Westside Investment Management, Inc."
  },
  "1538846": {
   "shares": 31275,
@@ -4819,6 +4814,11 @@
   "value": 326664,
   "name": "Aegis Wealth Management LLC"
  },
+ "1629271": {
+  "shares": 29,
+  "value": 33474,
+  "name": "PALLADIEM, LLC"
+ },
  "1629290": {
   "shares": 3744,
   "value": 4274,
@@ -4923,6 +4923,11 @@
   "shares": 130028,
   "value": 150090020,
   "name": "Belvedere Trading LLC"
+ },
+ "1632553": {
+  "shares": 10,
+  "value": 11543,
+  "name": "Eukles Asset Management"
  },
  "1632554": {
   "shares": 128,
@@ -5984,6 +5989,11 @@
   "value": 8294,
   "name": "Summit Global Investments"
  },
+ "1698091": {
+  "shares": 350,
+  "value": 403466,
+  "name": "Narus Financial Partners, LLC"
+ },
  "1698218": {
   "shares": 38411,
   "value": 44337666,
@@ -6249,11 +6259,6 @@
   "value": 52390915,
   "name": "THAMES CAPITAL MANAGEMENT LLC"
  },
- "1714341": {
-  "shares": 650,
-  "value": 750289,
-  "name": "Abbot Financial Management, Inc."
- },
  "1714506": {
   "shares": 207,
   "value": 238508,
@@ -6348,11 +6353,6 @@
   "shares": 2162,
   "value": 2495575,
   "name": "Ruane, Cunniff & Goldfarb L.P."
- },
- "1720969": {
-  "shares": 6182,
-  "value": 7135250,
-  "name": "Legacy Advisors, LLC"
  },
  "1720980": {
   "shares": 4342,
@@ -10469,6 +10469,11 @@
   "value": 2420546,
   "name": "Tanager Wealth Management LLP"
  },
+ "1893134": {
+  "shares": 2648,
+  "value": 3056560,
+  "name": "Smith Group Asset Management, LLC"
+ },
  "1893143": {
   "shares": 15,
   "value": 17314,
@@ -10723,6 +10728,11 @@
   "shares": 657,
   "value": 758369,
   "name": "White Knight Strategic Wealth Advisors, LLC"
+ },
+ "1904770": {
+  "shares": 578,
+  "value": 667180,
+  "name": "Manhattan West Asset Management, LLC"
  },
  "1904832": {
   "shares": 7087,
@@ -11419,6 +11429,11 @@
   "value": 720277,
   "name": "WorthPointe, LLC"
  },
+ "1921487": {
+  "shares": 1401,
+  "value": 1617266,
+  "name": "Beacon Capital Management, LLC"
+ },
  "1922200": {
   "shares": 1199,
   "value": 1384277,
@@ -11723,11 +11738,6 @@
   "shares": 2644,
   "value": 3051909,
   "name": "FSM Wealth Advisors, LLC"
- },
- "1942932": {
-  "shares": 4159,
-  "value": 4326425,
-  "name": "Global Assets Advisory, LLC"
  },
  "1943004": {
   "shares": 700,
@@ -13794,11 +13804,6 @@
   "value": 227396,
   "name": "Prospect Financial Services LLC"
  },
- "2012614": {
-  "shares": 30581,
-  "value": 35299343,
-  "name": "SIERRA SUMMIT ADVISORS LLC"
- },
  "2012674": {
   "shares": 1186,
   "value": 1368988,
@@ -15309,11 +15314,6 @@
   "value": 301572,
   "name": "PARTNERS WEALTH MANAGEMENT, LLC"
  },
- "2054795": {
-  "shares": 1139,
-  "value": 1314,
-  "name": "Warburton Capital Management, LLC"
- },
  "2054801": {
   "shares": 54113,
   "value": 62462094,
@@ -15358,11 +15358,6 @@
   "shares": 379,
   "value": 437476,
   "name": "Opulen Financial Group LLC"
- },
- "2055130": {
-  "shares": 280,
-  "value": 323201,
-  "name": "Magnolia Private Wealth, LLC"
  },
  "2055137": {
   "shares": 1078,
@@ -15413,11 +15408,6 @@
   "shares": 757,
   "value": 873798,
   "name": "Meriwether Wealth & Planning, LLC"
- },
- "2055568": {
-  "shares": 2274,
-  "value": 2624610,
-  "name": "Aspire Growth Partners LLC"
  },
  "2055570": {
   "shares": 718,
@@ -15754,11 +15744,6 @@
   "value": 4477495,
   "name": "Total Wealth Planning & Management, Inc."
  },
- "2058446": {
-  "shares": 1529,
-  "value": 1764909,
-  "name": "Brucke Financial, Inc."
- },
  "2058455": {
   "shares": 3506,
   "value": 4047087,
@@ -15923,11 +15908,6 @@
   "shares": 33224,
   "value": 38350131,
   "name": "North Dakota State Investment Board"
- },
- "2064329": {
-  "shares": 977,
-  "value": 1127740,
-  "name": "Henderson Brothers Financial Partners, LLC"
  },
  "2064545": {
   "shares": 9500,
@@ -16949,6 +16929,11 @@
   "value": 1267410,
   "name": "August Group Capital Ltd"
  },
+ "2107449": {
+  "shares": 34,
+  "value": 9,
+  "name": "Strategic Wealth Advisors LLC"
+ },
  "2107460": {
   "shares": 34,
   "value": 39,
@@ -16979,11 +16964,6 @@
   "value": 423755,
   "name": "Sherry Group, Inc."
  },
- "2107740": {
-  "shares": 1832,
-  "value": 2114659,
-  "name": "Ponta Wealth Partners, LLC"
- },
  "2107751": {
   "shares": 287,
   "value": 331535,
@@ -17003,11 +16983,6 @@
   "shares": 53346,
   "value": 61567152,
   "name": "Boundless Plain Holdings Ltd"
- },
- "2108281": {
-  "shares": 1172,
-  "value": 1352828,
-  "name": "Piedmont Capital Management, LLC/NC"
  },
  "2108355": {
   "shares": 297,
@@ -17273,6 +17248,11 @@
   "shares": 15484,
   "value": 17873420,
   "name": "EVOLVE PRIVATE WEALTH, LLC"
+ },
+ "2111167": {
+  "shares": 7725,
+  "value": 8917275,
+  "name": "TritonPoint Partners, LLC"
  },
  "2111172": {
   "shares": 992,
@@ -17554,11 +17534,6 @@
   "value": 6696159,
   "name": "Henson-Edgewater Management, LLC"
  },
- "2116061": {
-  "shares": 534,
-  "value": 616581,
-  "name": "Storen Legacy Partners, LLC"
- },
  "2116119": {
   "shares": 1716,
   "value": 1967910,
@@ -17783,6 +17758,11 @@
   "shares": 325,
   "value": 375144,
   "name": "Causey Wealth LLC"
+ },
+ "2133354": {
+  "shares": 2381,
+  "value": 2221,
+  "name": "Forum Finance Group S.A."
  },
  "2133805": {
   "shares": 1180,

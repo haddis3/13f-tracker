@@ -2014,6 +2014,11 @@
   "value": 23702715,
   "name": "Fulcrum Asset Management LLP"
  },
+ "1354821": {
+  "shares": 1623,
+  "value": 1873571,
+  "name": "LEVIN CAPITAL STRATEGIES, L.P."
+ },
  "1356202": {
   "shares": 4033,
   "value": 4655252,
@@ -2674,11 +2679,6 @@
   "value": 20864693,
   "name": "EVENTIDE ASSET MANAGEMENT, LLC"
  },
- "1443077": {
-  "shares": 5470,
-  "value": 6313966,
-  "name": "INTACT INVESTMENT MANAGEMENT INC."
- },
  "1443095": {
   "shares": 27937,
   "value": 32247129,
@@ -2803,11 +2803,6 @@
   "shares": 304537,
   "value": 351524014,
   "name": "DnB Asset Management AS"
- },
- "1457005": {
-  "shares": 1564,
-  "value": 1804929,
-  "name": "PRIVATE CLIENT SERVICES, LLC"
  },
  "1457320": {
   "shares": 521296,
@@ -2948,11 +2943,6 @@
   "shares": 204062,
   "value": 235546726,
   "name": "MONTRUSCO BOLTON INVESTMENTS INC."
- },
- "1476804": {
-  "shares": 20408,
-  "value": 23556966,
-  "name": "Roundview Capital LLC"
  },
  "1477024": {
   "shares": 858,
@@ -3533,6 +3523,11 @@
   "shares": 70538,
   "value": 81421308,
   "name": "Kentucky Retirement Systems"
+ },
+ "1538383": {
+  "shares": 10895,
+  "value": 12576511,
+  "name": "Westside Investment Management, Inc."
  },
  "1538846": {
   "shares": 31275,
@@ -4813,11 +4808,6 @@
   "shares": 283,
   "value": 326664,
   "name": "Aegis Wealth Management LLC"
- },
- "1629271": {
-  "shares": 29,
-  "value": 33474,
-  "name": "PALLADIEM, LLC"
  },
  "1629290": {
   "shares": 3744,
@@ -6214,11 +6204,6 @@
   "value": 361293,
   "name": "Brickley Wealth Management"
  },
- "1712686": {
-  "shares": 9622,
-  "value": 11106578,
-  "name": "Broadleaf Partners, LLC"
- },
  "1713112": {
   "shares": 259,
   "value": 298679,
@@ -6258,6 +6243,11 @@
   "shares": 45388,
   "value": 52390915,
   "name": "THAMES CAPITAL MANAGEMENT LLC"
+ },
+ "1714341": {
+  "shares": 650,
+  "value": 750289,
+  "name": "Abbot Financial Management, Inc."
  },
  "1714506": {
   "shares": 207,
@@ -10989,11 +10979,6 @@
   "value": 9572530,
   "name": "PRIMORIS WEALTH ADVISORS, LLC"
  },
- "1909664": {
-  "shares": 208,
-  "value": 240092,
-  "name": "Pitti Group Wealth Management, LLC"
- },
  "1909760": {
   "shares": 2441,
   "value": 2817925,
@@ -11388,11 +11373,6 @@
   "shares": 487488,
   "value": 438018370,
   "name": "Saudi Central Bank"
- },
- "1919176": {
-  "shares": 2625,
-  "value": 3030011,
-  "name": "Retireful, LLC"
  },
  "1919438": {
   "shares": 561,
@@ -12008,6 +11988,11 @@
   "shares": 251,
   "value": 289727,
   "name": "Shira Ridge Wealth Management"
+ },
+ "1961290": {
+  "shares": 4894,
+  "value": 5649222,
+  "name": "Mainsail Financial Group, LLC"
  },
  "1961628": {
   "shares": 1222,
@@ -15019,6 +15004,11 @@
   "value": 221624,
   "name": "LIFELONG WEALTH ADVISORS, INC."
  },
+ "2051965": {
+  "shares": 300,
+  "value": 346287,
+  "name": "Berkeley, Inc"
+ },
  "2051980": {
   "shares": 36,
   "value": 41302,
@@ -15314,6 +15304,11 @@
   "value": 301572,
   "name": "PARTNERS WEALTH MANAGEMENT, LLC"
  },
+ "2054795": {
+  "shares": 1139,
+  "value": 1314,
+  "name": "Warburton Capital Management, LLC"
+ },
  "2054801": {
   "shares": 54113,
   "value": 62462094,
@@ -15408,6 +15403,11 @@
   "shares": 757,
   "value": 873798,
   "name": "Meriwether Wealth & Planning, LLC"
+ },
+ "2055568": {
+  "shares": 2274,
+  "value": 2624610,
+  "name": "Aspire Growth Partners LLC"
  },
  "2055570": {
   "shares": 718,
@@ -15909,6 +15909,11 @@
   "value": 38350131,
   "name": "North Dakota State Investment Board"
  },
+ "2064329": {
+  "shares": 977,
+  "value": 1127740,
+  "name": "Henderson Brothers Financial Partners, LLC"
+ },
  "2064545": {
   "shares": 9500,
   "value": 10965755,
@@ -16239,6 +16244,11 @@
   "value": 103424384,
   "name": "Square Wave Capital, LLC"
  },
+ "2077884": {
+  "shares": 1428,
+  "value": 1648441,
+  "name": "J. Derek Lewis & Associates Inc."
+ },
  "2077903": {
   "shares": 1800,
   "value": 2077722,
@@ -16483,6 +16493,11 @@
   "shares": 3086,
   "value": 3562140,
   "name": "Pitcairn Wealth Advisors LLC"
+ },
+ "2089183": {
+  "shares": 5,
+  "value": 5771,
+  "name": "Align Financial, LLC"
  },
  "2089528": {
   "shares": 1377,
@@ -16904,11 +16919,6 @@
   "value": 145441,
   "name": "Key Capital Management, INC"
  },
- "2107255": {
-  "shares": 796,
-  "value": 918815,
-  "name": "Pacific Park Financial, Inc."
- },
  "2107271": {
   "shares": 3580,
   "value": 4132358,
@@ -16964,6 +16974,11 @@
   "value": 423755,
   "name": "Sherry Group, Inc."
  },
+ "2107740": {
+  "shares": 1832,
+  "value": 2114659,
+  "name": "Ponta Wealth Partners, LLC"
+ },
  "2107751": {
   "shares": 287,
   "value": 331535,
@@ -16983,6 +16998,11 @@
   "shares": 53346,
   "value": 61567152,
   "name": "Boundless Plain Holdings Ltd"
+ },
+ "2108281": {
+  "shares": 1172,
+  "value": 1352828,
+  "name": "Piedmont Capital Management, LLC/NC"
  },
  "2108355": {
   "shares": 297,
@@ -17249,11 +17269,6 @@
   "value": 17873420,
   "name": "EVOLVE PRIVATE WEALTH, LLC"
  },
- "2111167": {
-  "shares": 7725,
-  "value": 8917275,
-  "name": "TritonPoint Partners, LLC"
- },
  "2111172": {
   "shares": 992,
   "value": 1145072,
@@ -17278,6 +17293,11 @@
   "shares": 21650,
   "value": 24990379,
   "name": "Frec Markets, Inc."
+ },
+ "2111360": {
+  "shares": 908,
+  "value": 894322,
+  "name": "Tenzing Financial LLC"
  },
  "2111369": {
   "shares": 2589,
@@ -17534,6 +17554,11 @@
   "value": 6696159,
   "name": "Henson-Edgewater Management, LLC"
  },
+ "2116061": {
+  "shares": 534,
+  "value": 616581,
+  "name": "Storen Legacy Partners, LLC"
+ },
  "2116119": {
   "shares": 1716,
   "value": 1967910,
@@ -17759,11 +17784,6 @@
   "value": 375144,
   "name": "Causey Wealth LLC"
  },
- "2133354": {
-  "shares": 2381,
-  "value": 2221,
-  "name": "Forum Finance Group S.A."
- },
  "2133805": {
   "shares": 1180,
   "value": 1362063,
@@ -17813,6 +17833,11 @@
   "shares": 8401,
   "value": 9697190,
   "name": "Bull Harbor Capital LLC"
+ },
+ "2135144": {
+  "shares": 184,
+  "value": 212389,
+  "name": "Walsh & Associates, LLC"
  },
  "2135169": {
   "shares": 3,
@@ -18978,11 +19003,6 @@
   "shares": 655543,
   "value": 756686729,
   "name": "JACOBS LEVY EQUITY MANAGEMENT, INC"
- },
- "884423": {
-  "shares": 178055,
-  "value": 205527106,
-  "name": "SALEM INVESTMENT COUNSELORS INC"
  },
  "884546": {
   "shares": 6966392,

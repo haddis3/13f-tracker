@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28T00:29:15.119771Z",
+ "generated": "2026-09-29T01:41:25.276805Z",
  "quarters": [
   "2026-06-30"
  ],
@@ -145,13 +145,13 @@
   },
   "MU": {
    "name": "MICRON TECHNOLOGY",
-   "sharesM": 886.1,
+   "sharesM": 836.4,
    "tl": [
     {
      "q": "2026-06-30",
-     "holders": 3897,
-     "valueB": 979.64,
-     "neu": 3897,
+     "holders": 3798,
+     "valueB": 922.98,
+     "neu": 3798,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -169,12 +169,6 @@
      "action": "NEW",
      "shares": "211.6K",
      "value": "$244.2M"
-    },
-    {
-     "fund": "Millennium Management LLC",
-     "action": "NEW",
-     "shares": "517.1K",
-     "value": "$596.9M"
     },
     {
      "fund": "Bridgewater Associates, LP",
@@ -257,12 +251,6 @@
      "chg": "NEW"
     },
     {
-     "fund": "MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ)",
-     "shares": "18.5M",
-     "value": "$21.3B",
-     "chg": "NEW"
-    },
-    {
      "fund": "GOLDMAN SACHS GROUP INC  (GS, GSCE, GS-PA, GS-PC, GS-PD)",
      "shares": "18.1M",
      "value": "$20.9B",
@@ -285,6 +273,12 @@
      "shares": "10.4M",
      "value": "$12.0B",
      "chg": "NEW"
+    },
+    {
+     "fund": "BANK OF AMERICA CORP /DE/  (BAC, BAC-PB, BAC-PE, BAC-PK, BAC-PL, BAC-PM, BAC-PN, BAC-PO, BAC-PP, BAC-PQ, BAC-PS, BML-PG, BML-PL)",
+     "shares": "10.2M",
+     "value": "$11.7B",
+     "chg": "NEW"
     }
    ]
   },
@@ -294,9 +288,9 @@
    "tl": [
     {
      "q": "2026-06-30",
-     "holders": 1324,
-     "valueB": 68.78,
-     "neu": 1324,
+     "holders": 1322,
+     "valueB": 68.75,
+     "neu": 1322,
      "inc": 0,
      "dec": 0,
      "sold": 0

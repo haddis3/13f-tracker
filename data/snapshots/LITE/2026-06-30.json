@@ -904,11 +904,6 @@
   "value": 75795012,
   "name": "ProShare Advisors LLC"
  },
- "1360533": {
-  "shares": 13227,
-  "value": 11349560,
-  "name": "Orion Porfolio Solutions, LLC"
- },
  "1360798": {
   "shares": 2810,
   "value": 2410736,
@@ -1564,11 +1559,6 @@
   "value": 36657181,
   "name": "Allianz Asset Management GmbH"
  },
- "1535452": {
-  "shares": 20399,
-  "value": 17503566,
-  "name": "Andra AP-fonden"
- },
  "1535588": {
   "shares": 2222,
   "value": 1906609,
@@ -2180,8 +2170,8 @@
   "name": "Patten Group, Inc."
  },
  "1633366": {
-  "shares": 13,
-  "value": 9136,
+  "shares": 7,
+  "value": 6007,
   "name": "MV CAPITAL MANAGEMENT, INC."
  },
  "1633389": {

@@ -904,6 +904,11 @@
   "value": 75795012,
   "name": "ProShare Advisors LLC"
  },
+ "1360533": {
+  "shares": 13227,
+  "value": 11349560,
+  "name": "Orion Porfolio Solutions, LLC"
+ },
  "1360798": {
   "shares": 2810,
   "value": 2410736,
@@ -1558,6 +1563,11 @@
   "shares": 42721,
   "value": 36657181,
   "name": "Allianz Asset Management GmbH"
+ },
+ "1535452": {
+  "shares": 20399,
+  "value": 17503566,
+  "name": "Andra AP-fonden"
  },
  "1535588": {
   "shares": 2222,
@@ -5333,11 +5343,6 @@
   "shares": 697,
   "value": 598068,
   "name": "Elevated Financial Group LLC"
- },
- "2064039": {
-  "shares": 2094,
-  "value": 1796778,
-  "name": "North Dakota State Investment Board"
  },
  "2064545": {
   "shares": 6435,

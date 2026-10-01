@@ -874,11 +874,6 @@
   "value": 353521,
   "name": "Magnetar Financial LLC"
  },
- "1352860": {
-  "shares": 55,
-  "value": 47193,
-  "name": "BLUE BELL PRIVATE WEALTH MANAGEMENT, LLC"
- },
  "1353312": {
   "shares": 96453,
   "value": 82762461,
@@ -5344,6 +5339,11 @@
   "value": 598068,
   "name": "Elevated Financial Group LLC"
  },
+ "2064039": {
+  "shares": 2094,
+  "value": 1796778,
+  "name": "North Dakota State Investment Board"
+ },
  "2064545": {
   "shares": 6435,
   "value": 5521616,
@@ -5483,11 +5483,6 @@
   "shares": 2160,
   "value": 1853410,
   "name": "PINEBRIDGE INVESTMENTS LLC"
- },
- "2092389": {
-  "shares": 386,
-  "value": 331211,
-  "name": "MOR Wealth Management, LLC"
  },
  "2093108": {
   "shares": 2737,

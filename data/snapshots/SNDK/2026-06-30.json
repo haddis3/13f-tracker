@@ -249,6 +249,11 @@
   "value": 960152708,
   "name": "VOYA INVESTMENT MANAGEMENT LLC"
  },
+ "1068851": {
+  "shares": 5,
+  "value": 11369,
+  "name": "PROSPERITY BANCSHARES INC  (PB)"
+ },
  "1068855": {
   "shares": 9776,
   "value": 22227984,
@@ -1354,6 +1359,11 @@
   "value": 1875758,
   "name": "BENJAMIN EDWARDS INC"
  },
+ "1452765": {
+  "shares": 9850,
+  "value": 22396241,
+  "name": "GTS SECURITIES LLC"
+ },
  "1452861": {
   "shares": 34584,
   "value": 78634678,
@@ -1898,6 +1908,11 @@
   "shares": 205,
   "value": 466115,
   "name": "Aviance Capital Partners, LLC"
+ },
+ "1542629": {
+  "shares": 1115,
+  "value": 2535209,
+  "name": "Baader Bank Aktiengesellschaft"
  },
  "1543100": {
   "shares": 292,
@@ -3489,6 +3504,11 @@
   "value": 363797,
   "name": "Ovata Capital Management Ltd"
  },
+ "1725690": {
+  "shares": 485,
+  "value": 1102759,
+  "name": "Bridgefront Capital, LLC"
+ },
  "1726752": {
   "shares": 953,
   "value": 2166865,
@@ -3628,6 +3648,11 @@
   "shares": 11,
   "value": 25011,
   "name": "Steigerwald, Gordon & Koch Inc."
+ },
+ "1731927": {
+  "shares": 130,
+  "value": 295585,
+  "name": "Elmwood Wealth Management, Inc."
  },
  "1732074": {
   "shares": 10,
@@ -6814,11 +6839,6 @@
   "value": 2519293,
   "name": "Nutshell Asset Management Ltd"
  },
- "2021658": {
-  "shares": 90,
-  "value": 204636,
-  "name": "Hilltop National Bank"
- },
  "2022028": {
   "shares": 6080,
   "value": 12466371,
@@ -7084,6 +7104,11 @@
   "value": 388808,
   "name": "XXI WEALTH, LLC"
  },
+ "2047540": {
+  "shares": 775,
+  "value": 1762141,
+  "name": "Generali Investments CEE, investicni spolecnost, a.s."
+ },
  "2048423": {
   "shares": 90,
   "value": 204636,
@@ -7118,11 +7143,6 @@
   "shares": 178,
   "value": 404724,
   "name": "KEYVANTAGE WEALTH, LLC"
- },
- "2050972": {
-  "shares": 3953,
-  "value": 8988045,
-  "name": "FLORIDA FINANCIAL ADVISORS, LLC"
  },
  "2051323": {
   "shares": 38288,

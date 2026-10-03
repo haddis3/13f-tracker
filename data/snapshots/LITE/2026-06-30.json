@@ -459,6 +459,11 @@
   "value": 538862,
   "name": "Meiji Yasuda Life Insurance Co"
  },
+ "1145020": {
+  "shares": 2563,
+  "value": 2199208,
+  "name": "THORNBURG INVESTMENT MANAGEMENT INC"
+ },
  "1158202": {
   "shares": 1023,
   "value": 878275,
@@ -593,6 +598,11 @@
   "shares": 1000,
   "value": 858060,
   "name": "WBH ADVISORY INC"
+ },
+ "1259969": {
+  "shares": 45,
+  "value": 38613,
+  "name": "FARMERS & MERCHANTS INVESTMENTS INC"
  },
  "12600": {
   "shares": 434,
@@ -1353,6 +1363,11 @@
   "shares": 5,
   "value": 4291,
   "name": "Asset Dedication, LLC"
+ },
+ "1477024": {
+  "shares": 1100,
+  "value": 943866,
+  "name": "Johnson Financial Group, Inc."
  },
  "1479844": {
   "shares": 963,
@@ -2165,8 +2180,8 @@
   "name": "Patten Group, Inc."
  },
  "1633366": {
-  "shares": 13,
-  "value": 9136,
+  "shares": 7,
+  "value": 6007,
   "name": "MV CAPITAL MANAGEMENT, INC."
  },
  "1633389": {
@@ -2803,6 +2818,11 @@
   "shares": 14007,
   "value": 12019186,
   "name": "Global Trust Asset Management, LLC"
+ },
+ "1729829": {
+  "shares": 23988,
+  "value": 20583143,
+  "name": "Qube Research & Technologies Ltd"
  },
  "1729985": {
   "shares": 3463,
@@ -4854,6 +4874,11 @@
   "value": 51484,
   "name": "Mowery & Schoenfeld Wealth Management, LLC"
  },
+ "2020066": {
+  "shares": 2372,
+  "value": 2035318,
+  "name": "Central Pacific Bank - Trust Division"
+ },
  "2021047": {
   "shares": 4436,
   "value": 3806354,
@@ -5823,6 +5848,11 @@
   "shares": 76413,
   "value": 65566939,
   "name": "BARROW HANLEY MEWHINNEY & STRAUSS LLC"
+ },
+ "314949": {
+  "shares": 1905,
+  "value": 1634604,
+  "name": "GLENMEDE TRUST CO NA"
  },
  "314969": {
   "shares": 54723,

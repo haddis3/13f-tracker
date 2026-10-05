@@ -1,18 +1,18 @@
 {
- "generated": "2026-10-04T00:29:02.198195Z",
+ "generated": "2026-10-05T00:37:55.793460Z",
  "quarters": [
   "2026-06-30"
  ],
  "stocks": {
   "SNDK": {
    "name": "SANDISK CORP",
-   "sharesM": 492.0,
+   "sharesM": 487.1,
    "tl": [
     {
      "q": "2026-06-30",
-     "holders": 1828,
-     "valueB": 242.39,
-     "neu": 1828,
+     "holders": 1814,
+     "valueB": 231.69,
+     "neu": 1814,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -82,12 +82,6 @@
      "chg": "NEW"
     },
     {
-     "fund": "GEODE CAPITAL MANAGEMENT, LLC",
-     "shares": "3.6M",
-     "value": "$8.2B",
-     "chg": "NEW"
-    },
-    {
      "fund": "JPMORGAN CHASE & CO  (JPM, AMJB, VYLD, JPM-PC, JPM-PD, JPM-PJ, JPM-PK, JPM-PL, JPM-PM)",
      "shares": "3.9M",
      "value": "$8.1B",
@@ -140,6 +134,12 @@
      "shares": "1.7M",
      "value": "$4.0B",
      "chg": "NEW"
+    },
+    {
+     "fund": "GOLDMAN SACHS GROUP INC  (GS, GSCE, GS-PA, GS-PC, GS-PD)",
+     "shares": "1.4M",
+     "value": "$3.3B",
+     "chg": "NEW"
     }
    ]
   },
@@ -149,9 +149,9 @@
    "tl": [
     {
      "q": "2026-06-30",
-     "holders": 3900,
-     "valueB": 979.96,
-     "neu": 3900,
+     "holders": 3904,
+     "valueB": 979.92,
+     "neu": 3904,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -294,9 +294,9 @@
    "tl": [
     {
      "q": "2026-06-30",
-     "holders": 1324,
-     "valueB": 68.78,
-     "neu": 1324,
+     "holders": 1323,
+     "valueB": 68.77,
+     "neu": 1323,
      "inc": 0,
      "dec": 0,
      "sold": 0

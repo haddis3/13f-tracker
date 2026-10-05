@@ -59,6 +59,11 @@
   "value": 529423189,
   "name": "PUBLIC EMPLOYEES RETIREMENT SYSTEM OF OHIO"
  },
+ "1007295": {
+  "shares": 303,
+  "value": 349750,
+  "name": "BRIDGES INVESTMENT MANAGEMENT INC"
+ },
  "1007524": {
   "shares": 8964,
   "value": 10347056,
@@ -419,6 +424,11 @@
   "value": 1179685,
   "name": "ALBION FINANCIAL GROUP /UT"
  },
+ "105495": {
+  "shares": 1835,
+  "value": 2118122,
+  "name": "WELCH & FORBES LLC"
+ },
  "1055290": {
   "shares": 80158,
   "value": 92526,
@@ -488,6 +498,11 @@
   "shares": 15958,
   "value": 18420160,
   "name": "CHILTON CAPITAL MANAGEMENT LLC"
+ },
+ "1056943": {
+  "shares": 3000,
+  "value": 3462870,
+  "name": "PEOPLES FINANCIAL SERVICES CORP.  (PFIS)"
  },
  "1056947": {
   "shares": 19220,
@@ -619,11 +634,6 @@
   "value": 583,
   "name": "AR ASSET MANAGEMENT INC"
  },
- "1080351": {
-  "shares": 15821,
-  "value": 18262022,
-  "name": "MITCHELL CAPITAL MANAGEMENT CO"
- },
  "1080374": {
   "shares": 17647,
   "value": 20369756,
@@ -753,11 +763,6 @@
   "shares": 1341,
   "value": 1547903,
   "name": "C M BIDWELL & ASSOCIATES LTD"
- },
- "1091961": {
-  "shares": 275,
-  "value": 317430,
-  "name": "GOULD ASSET MANAGEMENT LLC /CA/"
  },
  "1092203": {
   "shares": 33029,
@@ -2899,11 +2904,6 @@
   "value": 17314350,
   "name": "Telligent Fund, LP"
  },
- "1470876": {
-  "shares": 23563,
-  "value": 27199369,
-  "name": "Freestone Capital Holdings, LLC"
- },
  "1470944": {
   "shares": 25422,
   "value": 29344360,
@@ -4254,11 +4254,6 @@
   "value": 2290229,
   "name": "BIP Wealth, LLC"
  },
- "1590495": {
-  "shares": 11960,
-  "value": 13805308,
-  "name": "Yelin Lapidot Holdings Management Ltd."
- },
  "1591097": {
   "shares": 610,
   "value": 704117,
@@ -4468,11 +4463,6 @@
   "shares": 5304,
   "value": 6122173,
   "name": "Dynamic Advisor Solutions LLC"
- },
- "1599760": {
-  "shares": 183,
-  "value": 211235,
-  "name": "HAMEL ASSOCIATES, INC."
  },
  "1599852": {
   "shares": 648,
@@ -7504,6 +7494,11 @@
   "value": 38245976,
   "name": "Summit Financial, LLC"
  },
+ "1765590": {
+  "shares": 3829,
+  "value": 4420788,
+  "name": "Ellis Investment Partners, LLC"
+ },
  "1765594": {
   "shares": 1513,
   "value": 1746475,
@@ -8014,11 +8009,6 @@
   "value": 964603,
   "name": "Meridian Wealth Partners, LLC"
  },
- "1782491": {
-  "shares": 2475,
-  "value": 2856868,
-  "name": "Jacobsen Capital Management"
- },
  "1782624": {
   "shares": 465,
   "value": 536745,
@@ -8198,11 +8188,6 @@
   "shares": 17982,
   "value": 20756443,
   "name": "Gunderson Capital Management LLC"
- },
- "1792704": {
-  "shares": 822,
-  "value": 948,
-  "name": "Avion Wealth"
  },
  "1792851": {
   "shares": 1459,
@@ -8508,6 +8493,11 @@
   "shares": 64,
   "value": 74078,
   "name": "BELLEVUE ASSET MANAGEMENT, LLC"
+ },
+ "1801667": {
+  "shares": 10090,
+  "value": 11646310,
+  "name": "Great Lakes Retirement, Inc."
  },
  "1801674": {
   "shares": 1125,
@@ -9839,11 +9829,6 @@
   "value": 1880957,
   "name": "WOODWARD DIVERSIFIED CAPITAL, LLC"
  },
- "1846310": {
-  "shares": 446,
-  "value": 514871,
-  "name": "Palumbo Wealth Management LLC"
- },
  "1846462": {
   "shares": 2649,
   "value": 3057242,
@@ -11133,11 +11118,6 @@
   "shares": 2680,
   "value": 3093908,
   "name": "VANCE WEALTH, LLC"
- },
- "1910876": {
-  "shares": 5074,
-  "value": 5857330,
-  "name": "KRS Capital Management, LLC"
  },
  "1910971": {
   "shares": 10037,
@@ -12604,6 +12584,11 @@
   "value": 726048,
   "name": "CHANNEL WEALTH LLC"
  },
+ "1975700": {
+  "shares": 1546,
+  "value": 1784180,
+  "name": "Decker Retirement Planning Inc."
+ },
  "1976010": {
   "shares": 530,
   "value": 612062,
@@ -12663,6 +12648,11 @@
   "shares": 4072,
   "value": 4700779,
   "name": "National Wealth Management Group, LLC"
+ },
+ "1977759": {
+  "shares": 2651,
+  "value": 3060430,
+  "name": "TITLEIST ASSET MANAGEMENT, LLC"
  },
  "1977992": {
   "shares": 1973,
@@ -12928,11 +12918,6 @@
   "shares": 1227,
   "value": 1416314,
   "name": "Dixon Mitchell Investment Counsel Inc."
- },
- "1993607": {
-  "shares": 1244,
-  "value": 1435937,
-  "name": "Borer Denton & Associates, Inc."
  },
  "1993888": {
   "shares": 1060258,
@@ -14864,6 +14849,11 @@
   "value": 67507496,
   "name": "Generali Asset Management SPA SGR"
  },
+ "2046822": {
+  "shares": 5273,
+  "value": 6086571,
+  "name": "SHARPEPOINT LLC"
+ },
  "2046834": {
   "shares": 2734,
   "value": 3155829,
@@ -15428,6 +15418,11 @@
   "shares": 757,
   "value": 873798,
   "name": "Meriwether Wealth & Planning, LLC"
+ },
+ "2055568": {
+  "shares": 2274,
+  "value": 2624610,
+  "name": "Aspire Growth Partners LLC"
  },
  "2055570": {
   "shares": 718,
@@ -16169,6 +16164,11 @@
   "value": 1687572,
   "name": "LEGACY CAPITAL WEALTH MANAGEMENT, LLC"
  },
+ "2071468": {
+  "shares": 103,
+  "value": 118322,
+  "name": "BIRCHBROOK, INC."
+ },
  "2072223": {
   "shares": 575,
   "value": 663723,
@@ -16719,6 +16719,11 @@
   "value": 3276768,
   "name": "Indivisible Partners"
  },
+ "2099019": {
+  "shares": 21,
+  "value": 24240,
+  "name": "Networth Advisors, LLC"
+ },
  "2099097": {
   "shares": 5,
   "value": 5771,
@@ -16969,6 +16974,11 @@
   "value": 39,
   "name": "Merrithew & Thorsten Inc"
  },
+ "2107464": {
+  "shares": 193,
+  "value": 222777,
+  "name": "Gambit Capital Management, LLC"
+ },
  "2107629": {
   "shares": 266,
   "value": 307185,
@@ -17013,6 +17023,11 @@
   "shares": 53346,
   "value": 61567152,
   "name": "Boundless Plain Holdings Ltd"
+ },
+ "2108281": {
+  "shares": 1172,
+  "value": 1352828,
+  "name": "Piedmont Capital Management, LLC/NC"
  },
  "2108355": {
   "shares": 297,
@@ -17563,6 +17578,11 @@
   "shares": 7348,
   "value": 6696159,
   "name": "Henson-Edgewater Management, LLC"
+ },
+ "2116061": {
+  "shares": 534,
+  "value": 616581,
+  "name": "Storen Legacy Partners, LLC"
  },
  "2116119": {
   "shares": 1716,

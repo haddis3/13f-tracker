@@ -139,6 +139,11 @@
   "value": 11323175,
   "name": "RENAISSANCE TECHNOLOGIES LLC"
  },
+ "1039128": {
+  "shares": 26,
+  "value": 59,
+  "name": "HARBOR CAPITAL ADVISORS, INC."
+ },
  "1039765": {
   "shares": 52047,
   "value": 118340825,
@@ -424,6 +429,11 @@
   "value": 62823160,
   "name": "GATEWAY INVESTMENT ADVISERS LLC"
  },
+ "1115418": {
+  "shares": 214727,
+  "value": 488231093,
+  "name": "RHUMBLINE ADVISERS"
+ },
  "1120927": {
   "shares": 824,
   "value": 1874440,
@@ -633,6 +643,11 @@
   "shares": 16318,
   "value": 37102726,
   "name": "LAZARD ASSET MANAGEMENT LLC"
+ },
+ "1214717": {
+  "shares": 3591499,
+  "value": 8154590925,
+  "name": "GEODE CAPITAL MANAGEMENT, LLC"
  },
  "1215838": {
   "shares": 856,
@@ -1059,11 +1074,6 @@
   "value": 1356382263,
   "name": "Whale Rock Capital Management LLC"
  },
- "1387508": {
-  "shares": 715,
-  "value": 1625717,
-  "name": "PRELUDE CAPITAL MANAGEMENT, LLC"
- },
  "1387615": {
   "shares": 666,
   "value": 1514304,
@@ -1419,6 +1429,11 @@
   "value": 25095159,
   "name": "Mitsubishi UFJ Trust & Banking Corp"
  },
+ "1462245": {
+  "shares": 13413,
+  "value": 30498311,
+  "name": "HighTower Advisors, LLC"
+ },
  "1463217": {
   "shares": 3836,
   "value": 8722028,
@@ -1489,6 +1504,11 @@
   "value": 140687044,
   "name": "Sumitomo Mitsui Trust Group, Inc."
  },
+ "1475597": {
+  "shares": 205315,
+  "value": 466829,
+  "name": "HRT FINANCIAL LP"
+ },
  "1475896": {
   "shares": 21,
   "value": 47749,
@@ -1498,6 +1518,11 @@
   "shares": 115,
   "value": 261479,
   "name": "Roundview Capital LLC"
+ },
+ "1477024": {
+  "shares": 6,
+  "value": 13643,
+  "name": "Johnson Financial Group, Inc."
  },
  "1479844": {
   "shares": 2222,
@@ -2459,11 +2484,6 @@
   "value": 991347,
   "name": "HighPoint Advisor Group LLC"
  },
- "1616336": {
-  "shares": 29,
-  "value": 65938,
-  "name": "One River Asset Management, LLC"
- },
  "1616667": {
   "shares": 103383,
   "value": 235065,
@@ -2563,6 +2583,11 @@
   "shares": 1,
   "value": 2274,
   "name": "Trust Co"
+ },
+ "1632812": {
+  "shares": 2358,
+  "value": 3777141,
+  "name": "BDF-GESTION"
  },
  "1632813": {
   "shares": 2467,
@@ -3039,6 +3064,11 @@
   "value": 1853092,
   "name": "Jacobi Capital Management LLC"
  },
+ "1690010": {
+  "shares": 2422,
+  "value": 5507429,
+  "name": "Parallel Advisors, LLC"
+ },
  "1690370": {
   "shares": 1834,
   "value": 4170021,
@@ -3504,6 +3534,11 @@
   "value": 1334676,
   "name": "IFG Advisory, LLC"
  },
+ "1728321": {
+  "shares": 2480,
+  "value": 5296120,
+  "name": "Kovack Advisors, Inc."
+ },
  "1729269": {
   "shares": 997,
   "value": 2267,
@@ -3578,6 +3613,11 @@
   "shares": 656,
   "value": 1491567,
   "name": "Sound Income Strategies, LLC"
+ },
+ "1731061": {
+  "shares": 816,
+  "value": 1855364,
+  "name": "Larson Financial Group LLC"
  },
  "1731169": {
   "shares": 90,
@@ -4149,6 +4189,11 @@
   "value": 13190,
   "name": "BI Asset Management Fondsmaeglerselskab A/S"
  },
+ "1779789": {
+  "shares": 40840,
+  "value": 92859582,
+  "name": "IEQ CAPITAL, LLC"
+ },
  "1780055": {
   "shares": 102,
   "value": 231920,
@@ -4233,11 +4278,6 @@
   "shares": 117,
   "value": 202080,
   "name": "Triton Wealth Management, PLLC"
- },
- "1791965": {
-  "shares": 1691,
-  "value": 3844877,
-  "name": "Kingsview Wealth Management, LLC"
  },
  "1791998": {
   "shares": 130,
@@ -4709,6 +4749,11 @@
   "value": 15917,
   "name": "TFC Financial Management, Inc."
  },
+ "1828301": {
+  "shares": 434,
+  "value": 986799,
+  "name": "XTX Topco Ltd"
+ },
  "1829271": {
   "shares": 94,
   "value": 213731,
@@ -4813,11 +4858,6 @@
   "shares": 20993,
   "value": 47732414,
   "name": "Hel Ved Capital Management Ltd"
- },
- "1840341": {
-  "shares": 127,
-  "value": 288764,
-  "name": "Birchcreek Wealth Management, LLC"
  },
  "1840455": {
   "shares": 1177,
@@ -5113,11 +5153,6 @@
   "shares": 13157,
   "value": 29916216,
   "name": "NewEdge Wealth, LLC"
- },
- "1862067": {
-  "shares": 310,
-  "value": 445334,
-  "name": "FWG Holdings, LLC"
  },
  "1862282": {
   "shares": 1703,
@@ -6054,11 +6089,6 @@
   "value": 590032,
   "name": "Vinva Investment Management Ltd"
  },
- "1968777": {
-  "shares": 174,
-  "value": 395629,
-  "name": "25 LLC"
- },
  "1969566": {
   "shares": 31240,
   "value": 71031,
@@ -6078,11 +6108,6 @@
   "shares": 899,
   "value": 2044083,
   "name": "Werba Rubin Papier Wealth Management"
- },
- "1971427": {
-  "shares": 185,
-  "value": 420640,
-  "name": "PETRA FINANCIAL ADVISORS INC"
  },
  "1972138": {
   "shares": 34,
@@ -6449,11 +6474,6 @@
   "value": 22421252,
   "name": "Freestone Grove Partners LP"
  },
- "2007960": {
-  "shares": 92,
-  "value": 209183,
-  "name": "Foundry Financial Group, Inc."
- },
  "2008171": {
   "shares": 198,
   "value": 450199,
@@ -6778,11 +6798,6 @@
   "shares": 1108,
   "value": 2519293,
   "name": "Nutshell Asset Management Ltd"
- },
- "2021658": {
-  "shares": 90,
-  "value": 204636,
-  "name": "Hilltop National Bank"
  },
  "2022028": {
   "shares": 6080,
@@ -7123,11 +7138,6 @@
   "shares": 652,
   "value": 1482472,
   "name": "SummitTX Capital, L.P."
- },
- "2052593": {
-  "shares": 6602,
-  "value": 15011165,
-  "name": "Cache Advisors, LLC"
  },
  "2053305": {
   "shares": 85743,
@@ -7749,11 +7759,6 @@
   "value": 184172,
   "name": "Keating Financial Advisory Services, Inc."
  },
- "2104539": {
-  "shares": 112100,
-  "value": 254885133,
-  "name": "Blue Sparrow, LLC /DE"
- },
  "2105684": {
   "shares": 434,
   "value": 986778,
@@ -8054,6 +8059,11 @@
   "value": 505,
   "name": "Forum Finance Group S.A."
  },
+ "2133805": {
+  "shares": 188,
+  "value": 427462,
+  "name": "Owl Creek Wealth Partners LLC"
+ },
  "2133991": {
   "shares": 4,
   "value": 9095,
@@ -8083,6 +8093,11 @@
   "shares": 12,
   "value": 25342,
   "name": "Atomic Invest LLC"
+ },
+ "2139665": {
+  "shares": 19,
+  "value": 43201,
+  "name": "Planning Strategies Inc."
  },
  "2142299": {
   "shares": 620,
@@ -8369,6 +8384,11 @@
   "value": 193110,
   "name": "LORD, ABBETT & CO. LLC"
  },
+ "72971": {
+  "shares": 839305,
+  "value": 1908350946,
+  "name": "WELLS FARGO & COMPANY/MN  (WFC, WFCNP, WFC-PA, WFC-PC, WFC-PD, WFC-PL, WFC-PY, WFC-PZ)"
+ },
  "73124": {
   "shares": 1274137,
   "value": 2897043520,
@@ -8603,6 +8623,11 @@
   "shares": 628,
   "value": 1428,
   "name": "COMMERZBANK AKTIENGESELLSCHAFT /FI"
+ },
+ "85338": {
+  "shares": 1492,
+  "value": 3392405,
+  "name": "ROTHSCHILD INVESTMENT LLC"
  },
  "853758": {
   "shares": 15971,

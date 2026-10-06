@@ -459,6 +459,11 @@
   "value": 538862,
   "name": "Meiji Yasuda Life Insurance Co"
  },
+ "1145020": {
+  "shares": 2563,
+  "value": 2199208,
+  "name": "THORNBURG INVESTMENT MANAGEMENT INC"
+ },
  "1158202": {
   "shares": 1023,
   "value": 878275,
@@ -1438,11 +1443,6 @@
   "shares": 8353,
   "value": 7167375,
   "name": "Gotham Asset Management, LLC"
- },
- "1510434": {
-  "shares": 551,
-  "value": 472792,
-  "name": "Empirical Financial Services, LLC d.b.a. Empirical Wealth Management"
  },
  "1511739": {
   "shares": 910,

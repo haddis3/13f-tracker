@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T02:12:35.139037Z",
+ "generated": "2026-10-07T01:19:27.499099Z",
  "quarters": [
   "2026-06-30"
  ],
@@ -10,9 +10,9 @@
    "tl": [
     {
      "q": "2026-06-30",
-     "holders": 1819,
-     "valueB": 242.11,
-     "neu": 1819,
+     "holders": 1828,
+     "valueB": 242.1,
+     "neu": 1828,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -145,13 +145,13 @@
   },
   "MU": {
    "name": "MICRON TECHNOLOGY",
-   "sharesM": 716.6,
+   "sharesM": 886.2,
    "tl": [
     {
      "q": "2026-06-30",
-     "holders": 3874,
-     "valueB": 784.32,
-     "neu": 3874,
+     "holders": 3907,
+     "valueB": 979.74,
+     "neu": 3907,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -197,6 +197,12 @@
    ],
    "holders": [
     {
+     "fund": "BlackRock, Inc.  (BLK)",
+     "shares": "104.8M",
+     "value": "$121.0B",
+     "chg": "NEW"
+    },
+    {
      "fund": "VANGUARD CAPITAL MANAGEMENT LLC",
      "shares": "73.7M",
      "value": "$85.0B",
@@ -233,6 +239,12 @@
      "chg": "NEW"
     },
     {
+     "fund": "JPMORGAN CHASE & CO  (JPM, AMJB, VYLD, JPM-PC, JPM-PD, JPM-PJ, JPM-PK, JPM-PL, JPM-PM)",
+     "shares": "25.8M",
+     "value": "$29.6B",
+     "chg": "NEW"
+    },
+    {
      "fund": "VANGUARD PORTFOLIO MANAGEMENT LLC",
      "shares": "24.7M",
      "value": "$28.5B",
@@ -257,6 +269,12 @@
      "chg": "NEW"
     },
     {
+     "fund": "NORGES BANK",
+     "shares": "15.2M",
+     "value": "$17.5B",
+     "chg": "NEW"
+    },
+    {
      "fund": "NORTHERN TRUST CORP  (NTRS, NTRSO)",
      "shares": "10.8M",
      "value": "$12.5B",
@@ -267,24 +285,6 @@
      "shares": "10.4M",
      "value": "$12.0B",
      "chg": "NEW"
-    },
-    {
-     "fund": "BANK OF AMERICA CORP /DE/  (BAC, BAC-PB, BAC-PE, BAC-PK, BAC-PL, BAC-PM, BAC-PN, BAC-PO, BAC-PP, BAC-PQ, BAC-PS, BML-PG, BML-PL)",
-     "shares": "10.2M",
-     "value": "$11.7B",
-     "chg": "NEW"
-    },
-    {
-     "fund": "BNP PARIBAS FINANCIAL MARKETS",
-     "shares": "8.1M",
-     "value": "$9.3B",
-     "chg": "NEW"
-    },
-    {
-     "fund": "Legal & General Group Plc",
-     "shares": "7.3M",
-     "value": "$8.4B",
-     "chg": "NEW"
     }
    ]
   },
@@ -294,9 +294,9 @@
    "tl": [
     {
      "q": "2026-06-30",
-     "holders": 1323,
-     "valueB": 68.78,
-     "neu": 1323,
+     "holders": 1313,
+     "valueB": 68.75,
+     "neu": 1313,
      "inc": 0,
      "dec": 0,
      "sold": 0

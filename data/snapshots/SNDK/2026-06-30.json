@@ -504,11 +504,6 @@
   "value": 6821,
   "name": "TRUST CO OF VERMONT"
  },
- "1134813": {
-  "shares": 5890,
-  "value": 13392,
-  "name": "STEVENS CAPITAL MANAGEMENT LP"
- },
  "1135121": {
   "shares": 250,
   "value": 568433,
@@ -1769,11 +1764,6 @@
   "value": 37311909,
   "name": "Artemis Investment Management LLP"
  },
- "1535660": {
-  "shares": 1640,
-  "value": 3728917,
-  "name": "Lombard Odier Asset Management (Switzerland) SA"
- },
  "1535784": {
   "shares": 1318,
   "value": 2996776,
@@ -2594,6 +2584,11 @@
   "value": 2274,
   "name": "Trust Co"
  },
+ "1632812": {
+  "shares": 2358,
+  "value": 3777141,
+  "name": "BDF-GESTION"
+ },
  "1632813": {
   "shares": 2467,
   "value": 5609,
@@ -3089,6 +3084,11 @@
   "value": 486578,
   "name": "SIMON QUICK ADVISORS, LLC"
  },
+ "1692234": {
+  "shares": 126175,
+  "value": 284800263,
+  "name": "Russell Investments Group, Ltd."
+ },
  "1692507": {
   "shares": 923,
   "value": 2098653,
@@ -3474,11 +3474,6 @@
   "value": 680127,
   "name": "Successful Portfolios LLC"
  },
- "1722641": {
-  "shares": 1059,
-  "value": 2408471,
-  "name": "Valeo Financial Advisors, LLC"
- },
  "1723397": {
   "shares": 32276,
   "value": 73386909,
@@ -3553,11 +3548,6 @@
   "shares": 3278,
   "value": 7453930,
   "name": "Global Trust Asset Management, LLC"
- },
- "1729673": {
-  "shares": 100,
-  "value": 227373,
-  "name": "DDD Partners, LLC"
  },
  "1729829": {
   "shares": 409650,
@@ -5484,11 +5474,6 @@
   "value": 5451723,
   "name": "Wedmont Private Capital"
  },
- "1904388": {
-  "shares": 417,
-  "value": 948145,
-  "name": "Wick Capital Partners, LLC"
- },
  "1904432": {
   "shares": 220,
   "value": 336566,
@@ -6058,11 +6043,6 @@
   "shares": 310,
   "value": 704856,
   "name": "C2P Capital Advisory Group, LLC d.b.a. Prosperity Capital Advisors"
- },
- "1965772": {
-  "shares": 631,
-  "value": 1434724,
-  "name": "LMG Wealth Partners, LLC"
  },
  "1965796": {
   "shares": 46,
@@ -8393,11 +8373,6 @@
   "shares": 6,
   "value": 13,
   "name": "OGOREK ANTHONY JOSEPH /NY/ /ADV"
- },
- "715113": {
-  "shares": 169,
-  "value": 384260,
-  "name": "MJP ASSOCIATES INC /ADV"
  },
  "716851": {
   "shares": 444,

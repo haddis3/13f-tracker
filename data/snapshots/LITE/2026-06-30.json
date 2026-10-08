@@ -179,6 +179,11 @@
   "value": 331568113,
   "name": "FEDERATED HERMES, INC.  (FHI)"
  },
+ "1056825": {
+  "shares": 1521,
+  "value": 1305,
+  "name": "PRAXIS INVESTMENT MANAGEMENT INC"
+ },
  "1056859": {
   "shares": 43,
   "value": 36897,
@@ -869,6 +874,11 @@
   "value": 353521,
   "name": "Magnetar Financial LLC"
  },
+ "1352860": {
+  "shares": 55,
+  "value": 47193,
+  "name": "BLUE BELL PRIVATE WEALTH MANAGEMENT, LLC"
+ },
  "1353312": {
   "shares": 96453,
   "value": 82762461,
@@ -1509,6 +1519,11 @@
   "value": 1752159,
   "name": "Tower Research Capital LLC (TRC)"
  },
+ "1533457": {
+  "shares": 680,
+  "value": 583481,
+  "name": "FOX RUN MANAGEMENT, L.L.C."
+ },
  "1533950": {
   "shares": 36553,
   "value": 31364667,
@@ -1548,6 +1563,11 @@
   "shares": 42721,
   "value": 36657181,
   "name": "Allianz Asset Management GmbH"
+ },
+ "1535452": {
+  "shares": 20399,
+  "value": 17503566,
+  "name": "Andra AP-fonden"
  },
  "1535588": {
   "shares": 2222,
@@ -1869,6 +1889,11 @@
   "value": 172791833,
   "name": "Swiss National Bank"
  },
+ "1582732": {
+  "shares": 268,
+  "value": 230123,
+  "name": "Capital Investment Advisors, LLC"
+ },
  "1584087": {
   "shares": 8841,
   "value": 7586108,
@@ -2155,8 +2180,8 @@
   "name": "Patten Group, Inc."
  },
  "1633366": {
-  "shares": 13,
-  "value": 9136,
+  "shares": 7,
+  "value": 6007,
   "name": "MV CAPITAL MANAGEMENT, INC."
  },
  "1633389": {
@@ -3499,6 +3524,11 @@
   "value": 5148,
   "name": "Rosenberg Matthew Hamilton"
  },
+ "1812155": {
+  "shares": 182,
+  "value": 156167,
+  "name": "StrongBox Wealth, LLC"
+ },
  "1812178": {
   "shares": 24485,
   "value": 21009599,
@@ -4199,11 +4229,6 @@
   "value": 17307978,
   "name": "Resona Asset Management Co.,Ltd."
  },
- "1944437": {
-  "shares": 17,
-  "value": 14587,
-  "name": "Cape Investment Advisory, Inc."
- },
  "1948780": {
   "shares": 10318,
   "value": 8853270,
@@ -4614,6 +4639,11 @@
   "value": 485662,
   "name": "Savvy Advisors, Inc."
  },
+ "2004720": {
+  "shares": 4,
+  "value": 3432,
+  "name": "WEST PACES ADVISORS INC."
+ },
  "2005245": {
   "shares": 1055,
   "value": 905253,
@@ -4753,6 +4783,11 @@
   "shares": 22536,
   "value": 19353708,
   "name": "Pathstone Holdings, LLC"
+ },
+ "2011849": {
+  "shares": 15,
+  "value": 12871,
+  "name": "Mosley Wealth Management"
  },
  "2011850": {
   "shares": 1178,
@@ -5179,6 +5214,11 @@
   "value": 317685,
   "name": "AssuredPartners Investment Advisors, LLC"
  },
+ "2055882": {
+  "shares": 9300,
+  "value": 7979958,
+  "name": "Sava Infond d.o.o."
+ },
  "2056045": {
   "shares": 30000,
   "value": 25741800,
@@ -5298,6 +5338,11 @@
   "shares": 697,
   "value": 598068,
   "name": "Elevated Financial Group LLC"
+ },
+ "2064039": {
+  "shares": 2094,
+  "value": 1796778,
+  "name": "North Dakota State Investment Board"
  },
  "2064545": {
   "shares": 6435,
@@ -5553,6 +5598,11 @@
   "shares": 3070,
   "value": 2634244,
   "name": "Timothy G. Youngquist 2020 Irrevocable Trust"
+ },
+ "2109204": {
+  "shares": 500,
+  "value": 429030,
+  "name": "Sound Portfolio Advisors, LLC"
  },
  "2109813": {
   "shares": 10,

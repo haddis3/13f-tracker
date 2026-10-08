@@ -1,18 +1,18 @@
 {
- "generated": "2026-10-07T01:19:27.499099Z",
+ "generated": "2026-10-08T01:42:25.586990Z",
  "quarters": [
   "2026-06-30"
  ],
  "stocks": {
   "SNDK": {
    "name": "SANDISK CORP",
-   "sharesM": 491.9,
+   "sharesM": 492.0,
    "tl": [
     {
      "q": "2026-06-30",
-     "holders": 1828,
-     "valueB": 242.1,
-     "neu": 1828,
+     "holders": 1823,
+     "valueB": 242.38,
+     "neu": 1823,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -145,13 +145,13 @@
   },
   "MU": {
    "name": "MICRON TECHNOLOGY",
-   "sharesM": 886.2,
+   "sharesM": 867.4,
    "tl": [
     {
      "q": "2026-06-30",
-     "holders": 3907,
-     "valueB": 979.74,
-     "neu": 3907,
+     "holders": 3815,
+     "valueB": 958.61,
+     "neu": 3815,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -281,9 +281,9 @@
      "chg": "NEW"
     },
     {
-     "fund": "Capital International Investors",
-     "shares": "10.4M",
-     "value": "$12.0B",
+     "fund": "BANK OF AMERICA CORP /DE/  (BAC, BAC-PB, BAC-PE, BAC-PK, BAC-PL, BAC-PM, BAC-PN, BAC-PO, BAC-PP, BAC-PQ, BAC-PS, BML-PG, BML-PL)",
+     "shares": "10.2M",
+     "value": "$11.7B",
      "chg": "NEW"
     }
    ]
@@ -294,9 +294,9 @@
    "tl": [
     {
      "q": "2026-06-30",
-     "holders": 1313,
-     "valueB": 68.75,
-     "neu": 1313,
+     "holders": 1323,
+     "valueB": 68.78,
+     "neu": 1323,
      "inc": 0,
      "dec": 0,
      "sold": 0

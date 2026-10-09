@@ -504,6 +504,11 @@
   "value": 6821,
   "name": "TRUST CO OF VERMONT"
  },
+ "1134813": {
+  "shares": 5890,
+  "value": 13392,
+  "name": "STEVENS CAPITAL MANAGEMENT LP"
+ },
  "1135121": {
   "shares": 250,
   "value": 568433,
@@ -673,11 +678,6 @@
   "shares": 94,
   "value": 213731,
   "name": "FARMERS & MERCHANTS INVESTMENTS INC"
- },
- "12600": {
-  "shares": 1903,
-  "value": 4326908,
-  "name": "PRINCIPAL SECURITIES, INC."
  },
  "1260824": {
   "shares": 6025,
@@ -1763,6 +1763,11 @@
   "shares": 16410,
   "value": 37311909,
   "name": "Artemis Investment Management LLP"
+ },
+ "1535660": {
+  "shares": 1640,
+  "value": 3728917,
+  "name": "Lombard Odier Asset Management (Switzerland) SA"
  },
  "1535784": {
   "shares": 1318,
@@ -3024,11 +3029,6 @@
   "value": 30563479,
   "name": "STOREBRAND ASSET MANAGEMENT AS"
  },
- "1686343": {
-  "shares": 90,
-  "value": 204636,
-  "name": "RED CRANE WEALTH MANAGEMENT, LLC"
- },
  "1686970": {
   "shares": 7757,
   "value": 17637324,
@@ -3474,6 +3474,11 @@
   "value": 680127,
   "name": "Successful Portfolios LLC"
  },
+ "1722641": {
+  "shares": 1059,
+  "value": 2408471,
+  "name": "Valeo Financial Advisors, LLC"
+ },
  "1723397": {
   "shares": 32276,
   "value": 73386909,
@@ -3534,11 +3539,6 @@
   "value": 5296120,
   "name": "Kovack Advisors, Inc."
  },
- "1729269": {
-  "shares": 997,
-  "value": 2267,
-  "name": "Westwind Capital"
- },
  "1729443": {
   "shares": 94,
   "value": 213731,
@@ -3548,6 +3548,11 @@
   "shares": 3278,
   "value": 7453930,
   "name": "Global Trust Asset Management, LLC"
+ },
+ "1729673": {
+  "shares": 100,
+  "value": 227373,
+  "name": "DDD Partners, LLC"
  },
  "1729829": {
   "shares": 409650,
@@ -3763,11 +3768,6 @@
   "shares": 230,
   "value": 522958,
   "name": "Facet Wealth, Inc."
- },
- "1748278": {
-  "shares": 800,
-  "value": 1818213,
-  "name": "JGP Wealth Management, LLC"
  },
  "1749744": {
   "shares": 4607,
@@ -4854,11 +4854,6 @@
   "value": 47732414,
   "name": "Hel Ved Capital Management Ltd"
  },
- "1840341": {
-  "shares": 127,
-  "value": 288764,
-  "name": "Birchcreek Wealth Management, LLC"
- },
  "1840455": {
   "shares": 1177,
   "value": 2677151,
@@ -5474,6 +5469,11 @@
   "value": 5451723,
   "name": "Wedmont Private Capital"
  },
+ "1904388": {
+  "shares": 417,
+  "value": 948145,
+  "name": "Wick Capital Partners, LLC"
+ },
  "1904432": {
   "shares": 220,
   "value": 336566,
@@ -5954,11 +5954,6 @@
   "value": 252384,
   "name": "Kestra Investment Management, LLC"
  },
- "1962615": {
-  "shares": 1,
-  "value": 2274,
-  "name": "Trifecta Capital Advisors, LLC"
- },
  "1962755": {
   "shares": 989,
   "value": 2248719,
@@ -6044,6 +6039,11 @@
   "value": 704856,
   "name": "C2P Capital Advisory Group, LLC d.b.a. Prosperity Capital Advisors"
  },
+ "1965772": {
+  "shares": 631,
+  "value": 1434724,
+  "name": "LMG Wealth Partners, LLC"
+ },
  "1965796": {
   "shares": 46,
   "value": 104591,
@@ -6084,11 +6084,6 @@
   "value": 590032,
   "name": "Vinva Investment Management Ltd"
  },
- "1968777": {
-  "shares": 174,
-  "value": 395629,
-  "name": "25 LLC"
- },
  "1969566": {
   "shares": 31240,
   "value": 71031,
@@ -6108,11 +6103,6 @@
   "shares": 899,
   "value": 2044083,
   "name": "Werba Rubin Papier Wealth Management"
- },
- "1971427": {
-  "shares": 185,
-  "value": 420640,
-  "name": "PETRA FINANCIAL ADVISORS INC"
  },
  "1972138": {
   "shares": 34,
@@ -6178,11 +6168,6 @@
   "shares": 181,
   "value": 411545,
   "name": "Quintet Private Bank (Europe) S.A."
- },
- "1977500": {
-  "shares": 108,
-  "value": 245563,
-  "name": "ABLE Financial Group, LLC"
  },
  "1977560": {
   "shares": 1885,
@@ -6479,11 +6464,6 @@
   "value": 22421252,
   "name": "Freestone Grove Partners LP"
  },
- "2007960": {
-  "shares": 92,
-  "value": 209183,
-  "name": "Foundry Financial Group, Inc."
- },
  "2008171": {
   "shares": 198,
   "value": 450199,
@@ -6583,11 +6563,6 @@
   "shares": 407,
   "value": 925408,
   "name": "Signal Advisors Wealth, LLC"
- },
- "2010942": {
-  "shares": 19508,
-  "value": 44355925,
-  "name": "Focus Financial Network, Inc."
  },
  "2011052": {
   "shares": 115,
@@ -7454,11 +7429,6 @@
   "value": 55686542,
   "name": "Rakuten Investment Management, Inc."
  },
- "2063003": {
-  "shares": 73,
-  "value": 165982,
-  "name": "Curat Global, LLC"
- },
  "2063452": {
   "shares": 116,
   "value": 263753,
@@ -7779,11 +7749,6 @@
   "value": 184172,
   "name": "Keating Financial Advisory Services, Inc."
  },
- "2104539": {
-  "shares": 112100,
-  "value": 254885133,
-  "name": "Blue Sparrow, LLC /DE"
- },
  "2105684": {
   "shares": 434,
   "value": 986778,
@@ -8023,11 +7988,6 @@
   "shares": 526,
   "value": 1195982,
   "name": "TCFG Investment Advisors, LLC"
- },
- "2122180": {
-  "shares": 109,
-  "value": 247836,
-  "name": "JOURNEY RETIREMENT PLANNING & INVESTMENT MANAGEMENT LLC"
  },
  "2124867": {
   "shares": 53,
@@ -8373,6 +8333,11 @@
   "shares": 6,
   "value": 13,
   "name": "OGOREK ANTHONY JOSEPH /NY/ /ADV"
+ },
+ "715113": {
+  "shares": 169,
+  "value": 384260,
+  "name": "MJP ASSOCIATES INC /ADV"
  },
  "716851": {
   "shares": 444,
@@ -8923,11 +8888,6 @@
   "shares": 49,
   "value": 111413,
   "name": "ALERUS FINANCIAL NA"
- },
- "919530": {
-  "shares": 99,
-  "value": 225099,
-  "name": "JOHN G ULLMAN & ASSOCIATES INC"
  },
  "919859": {
   "shares": 57359,

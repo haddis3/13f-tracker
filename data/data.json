@@ -1,18 +1,18 @@
 {
- "generated": "2026-10-09T01:55:23.618497Z",
+ "generated": "2026-10-10T01:39:50.750994Z",
  "quarters": [
   "2026-06-30"
  ],
  "stocks": {
   "SNDK": {
    "name": "SANDISK CORP",
-   "sharesM": 491.9,
+   "sharesM": 477.5,
    "tl": [
     {
      "q": "2026-06-30",
-     "holders": 1815,
-     "valueB": 242.08,
-     "neu": 1815,
+     "holders": 1766,
+     "valueB": 212.45,
+     "neu": 1766,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -26,28 +26,10 @@
      "value": "$1.3B"
     },
     {
-     "fund": "Renaissance Technologies LLC",
-     "action": "NEW",
-     "shares": "5.0K",
-     "value": "$11.3M"
-    },
-    {
      "fund": "Millennium Management LLC",
      "action": "NEW",
      "shares": "366.1K",
      "value": "$832.5M"
-    },
-    {
-     "fund": "Bridgewater Associates, LP",
-     "action": "NEW",
-     "shares": "317",
-     "value": "$721K"
-    },
-    {
-     "fund": "Citadel Advisors LLC",
-     "action": "NEW",
-     "shares": "67.4K",
-     "value": "$153.3M"
     }
    ],
    "holders": [
@@ -55,12 +37,6 @@
      "fund": "BlackRock, Inc.  (BLK)",
      "shares": "10.3M",
      "value": "$23.4B",
-     "chg": "NEW"
-    },
-    {
-     "fund": "VANGUARD CAPITAL MANAGEMENT LLC",
-     "shares": "9.7M",
-     "value": "$22.0B",
      "chg": "NEW"
     },
     {
@@ -140,24 +116,42 @@
      "shares": "1.7M",
      "value": "$4.0B",
      "chg": "NEW"
+    },
+    {
+     "fund": "GOLDMAN SACHS GROUP INC  (GS, GSCE, GS-PA, GS-PC, GS-PD)",
+     "shares": "1.4M",
+     "value": "$3.3B",
+     "chg": "NEW"
     }
    ]
   },
   "MU": {
    "name": "MICRON TECHNOLOGY",
-   "sharesM": 661.7,
+   "sharesM": 883.4,
    "tl": [
     {
      "q": "2026-06-30",
-     "holders": 3709,
-     "valueB": 723.49,
-     "neu": 3709,
+     "holders": 3845,
+     "valueB": 976.53,
+     "neu": 3845,
      "inc": 0,
      "dec": 0,
      "sold": 0
     }
    ],
    "signals": [
+    {
+     "fund": "D. E. Shaw & Co., Inc.",
+     "action": "NEW",
+     "shares": "768.8K",
+     "value": "$887.4M"
+    },
+    {
+     "fund": "Renaissance Technologies LLC",
+     "action": "NEW",
+     "shares": "211.6K",
+     "value": "$244.2M"
+    },
     {
      "fund": "Millennium Management LLC",
      "action": "NEW",
@@ -185,6 +179,12 @@
    ],
    "holders": [
     {
+     "fund": "BlackRock, Inc.  (BLK)",
+     "shares": "104.8M",
+     "value": "$121.0B",
+     "chg": "NEW"
+    },
+    {
      "fund": "VANGUARD CAPITAL MANAGEMENT LLC",
      "shares": "73.7M",
      "value": "$85.0B",
@@ -203,6 +203,12 @@
      "chg": "NEW"
     },
     {
+     "fund": "Capital World Investors",
+     "shares": "29.5M",
+     "value": "$34.0B",
+     "chg": "NEW"
+    },
+    {
      "fund": "GEODE CAPITAL MANAGEMENT, LLC",
      "shares": "27.7M",
      "value": "$31.9B",
@@ -212,6 +218,12 @@
      "fund": "FMR LLC",
      "shares": "26.7M",
      "value": "$30.8B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "JPMORGAN CHASE & CO  (JPM, AMJB, VYLD, JPM-PC, JPM-PD, JPM-PJ, JPM-PK, JPM-PL, JPM-PM)",
+     "shares": "25.8M",
+     "value": "$29.6B",
      "chg": "NEW"
     },
     {
@@ -239,6 +251,12 @@
      "chg": "NEW"
     },
     {
+     "fund": "NORGES BANK",
+     "shares": "15.2M",
+     "value": "$17.5B",
+     "chg": "NEW"
+    },
+    {
      "fund": "NORTHERN TRUST CORP  (NTRS, NTRSO)",
      "shares": "10.8M",
      "value": "$12.5B",
@@ -249,42 +267,18 @@
      "shares": "10.4M",
      "value": "$12.0B",
      "chg": "NEW"
-    },
-    {
-     "fund": "BANK OF AMERICA CORP /DE/  (BAC, BAC-PB, BAC-PE, BAC-PK, BAC-PL, BAC-PM, BAC-PN, BAC-PO, BAC-PP, BAC-PQ, BAC-PS, BML-PG, BML-PL)",
-     "shares": "10.2M",
-     "value": "$11.7B",
-     "chg": "NEW"
-    },
-    {
-     "fund": "BNP PARIBAS FINANCIAL MARKETS",
-     "shares": "8.1M",
-     "value": "$9.3B",
-     "chg": "NEW"
-    },
-    {
-     "fund": "Legal & General Group Plc",
-     "shares": "7.3M",
-     "value": "$8.4B",
-     "chg": "NEW"
-    },
-    {
-     "fund": "Bank of New York Mellon Corp  (BNY, BNY-PK)",
-     "shares": "7.1M",
-     "value": "$8.2B",
-     "chg": "NEW"
     }
    ]
   },
   "LITE": {
    "name": "LUMENTUM HLDGS INC",
-   "sharesM": 82.6,
+   "sharesM": 81.7,
    "tl": [
     {
      "q": "2026-06-30",
-     "holders": 1284,
-     "valueB": 67.75,
-     "neu": 1284,
+     "holders": 1287,
+     "valueB": 66.97,
+     "neu": 1287,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -308,6 +302,12 @@
      "action": "NEW",
      "shares": "64.2K",
      "value": "$55.1M"
+    },
+    {
+     "fund": "Bridgewater Associates, LP",
+     "action": "NEW",
+     "shares": "18.6K",
+     "value": "$16.0M"
     },
     {
      "fund": "Citadel Advisors LLC",

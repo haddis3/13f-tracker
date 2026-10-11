@@ -1,18 +1,18 @@
 {
- "generated": "2026-10-10T01:39:50.750994Z",
+ "generated": "2026-10-11T00:48:07.134448Z",
  "quarters": [
   "2026-06-30"
  ],
  "stocks": {
   "SNDK": {
    "name": "SANDISK CORP",
-   "sharesM": 477.5,
+   "sharesM": 492.0,
    "tl": [
     {
      "q": "2026-06-30",
-     "holders": 1766,
-     "valueB": 212.45,
-     "neu": 1766,
+     "holders": 1830,
+     "valueB": 242.39,
+     "neu": 1830,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -26,10 +26,28 @@
      "value": "$1.3B"
     },
     {
+     "fund": "Renaissance Technologies LLC",
+     "action": "NEW",
+     "shares": "5.0K",
+     "value": "$11.3M"
+    },
+    {
      "fund": "Millennium Management LLC",
      "action": "NEW",
      "shares": "366.1K",
      "value": "$832.5M"
+    },
+    {
+     "fund": "Bridgewater Associates, LP",
+     "action": "NEW",
+     "shares": "317",
+     "value": "$721K"
+    },
+    {
+     "fund": "Citadel Advisors LLC",
+     "action": "NEW",
+     "shares": "67.4K",
+     "value": "$153.3M"
     }
    ],
    "holders": [
@@ -37,6 +55,12 @@
      "fund": "BlackRock, Inc.  (BLK)",
      "shares": "10.3M",
      "value": "$23.4B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "VANGUARD CAPITAL MANAGEMENT LLC",
+     "shares": "9.7M",
+     "value": "$22.0B",
      "chg": "NEW"
     },
     {
@@ -116,24 +140,18 @@
      "shares": "1.7M",
      "value": "$4.0B",
      "chg": "NEW"
-    },
-    {
-     "fund": "GOLDMAN SACHS GROUP INC  (GS, GSCE, GS-PA, GS-PC, GS-PD)",
-     "shares": "1.4M",
-     "value": "$3.3B",
-     "chg": "NEW"
     }
    ]
   },
   "MU": {
    "name": "MICRON TECHNOLOGY",
-   "sharesM": 883.4,
+   "sharesM": 886.4,
    "tl": [
     {
      "q": "2026-06-30",
-     "holders": 3845,
-     "valueB": 976.53,
-     "neu": 3845,
+     "holders": 3917,
+     "valueB": 980.0,
+     "neu": 3917,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -272,13 +290,13 @@
   },
   "LITE": {
    "name": "LUMENTUM HLDGS INC",
-   "sharesM": 81.7,
+   "sharesM": 83.8,
    "tl": [
     {
      "q": "2026-06-30",
-     "holders": 1287,
-     "valueB": 66.97,
-     "neu": 1287,
+     "holders": 1324,
+     "valueB": 68.78,
+     "neu": 1324,
      "inc": 0,
      "dec": 0,
      "sold": 0

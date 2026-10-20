@@ -1,9 +1,4 @@
 {
- "1000275": {
-  "shares": 272976,
-  "value": 234231000,
-  "name": "ROYAL BANK OF CANADA  (RY, RYLBF)"
- },
  "1000742": {
   "shares": 443,
   "value": 380121,
@@ -18,11 +13,6 @@
   "shares": 20800,
   "value": 17847648,
   "name": "VIRGINIA RETIREMENT SYSTEMS ET Al"
- },
- "1007280": {
-  "shares": 25300,
-  "value": 21708918,
-  "name": "PUBLIC EMPLOYEES RETIREMENT SYSTEM OF OHIO"
  },
  "1008322": {
   "shares": 400,
@@ -814,11 +804,6 @@
   "value": 687934,
   "name": "Curi Capital, LLC"
  },
- "1333986": {
-  "shares": 2624,
-  "value": 2251550,
-  "name": "Equitable Holdings, Inc.  (EQH, EQH-PA, EQH-PC)"
- },
  "1335325": {
   "shares": 1517,
   "value": 1301677,
@@ -1254,11 +1239,6 @@
   "value": 193090958,
   "name": "Alyeska Investment Group, L.P."
  },
- "1454027": {
-  "shares": 18420,
-  "value": 15805465,
-  "name": "Verition Fund Management LLC"
- },
  "1454984": {
   "shares": 61088,
   "value": 52417169,
@@ -1429,11 +1409,6 @@
   "value": 6396837,
   "name": "Norinchukin Bank, The"
  },
- "1502149": {
-  "shares": 7022,
-  "value": 6025404,
-  "name": "Transamerica Financial Advisors, LLC"
- },
  "1504169": {
   "shares": 2728,
   "value": 2340788,
@@ -1588,11 +1563,6 @@
   "shares": 70740,
   "value": 60699164,
   "name": "HEALTHCARE OF ONTARIO PENSION PLAN TRUST FUND"
- },
- "1535865": {
-  "shares": 4915,
-  "value": 4217228,
-  "name": "Atria Investments, Inc"
  },
  "1535950": {
   "shares": 7199,
@@ -1749,11 +1719,6 @@
   "value": 29346510,
   "name": "Vanguard Investments Australia, Ltd."
  },
- "1551017": {
-  "shares": 66,
-  "value": 56632,
-  "name": "TD PRIVATE CLIENT WEALTH LLC"
- },
  "1555170": {
   "shares": 1724,
   "value": 1478884,
@@ -1883,11 +1848,6 @@
   "shares": 11453,
   "value": 9827361,
   "name": "Tuttle Capital Management, LLC"
- },
- "1582202": {
-  "shares": 201375,
-  "value": 172791833,
-  "name": "Swiss National Bank"
  },
  "1582732": {
   "shares": 268,
@@ -2094,11 +2054,6 @@
   "value": 11479,
   "name": "Pacer Advisors, Inc."
  },
- "1620220": {
-  "shares": 3350,
-  "value": 2874501,
-  "name": "Engineers Gate Manager LP"
- },
  "1621225": {
   "shares": 4416,
   "value": 3788902,
@@ -2188,11 +2143,6 @@
   "shares": 397,
   "value": 340650,
   "name": "Koshinski Asset Management, Inc."
- },
- "1633445": {
-  "shares": 17164,
-  "value": 14727742,
-  "name": "Trexquant Investment LP"
  },
  "1633516": {
   "shares": 9205,
@@ -2373,11 +2323,6 @@
   "shares": 4,
   "value": 4041,
   "name": "Darwin Wealth Management, LLC"
- },
- "1664193": {
-  "shares": 1175,
-  "value": 1008220,
-  "name": "Aptus Capital Advisors, LLC"
  },
  "1665198": {
   "shares": 700,
@@ -2719,11 +2664,6 @@
   "value": 508135,
   "name": "Csenge Advisory Group"
  },
- "1715740": {
-  "shares": 13,
-  "value": 11155,
-  "name": "Bogart Wealth, LLC"
- },
  "1715862": {
   "shares": 425,
   "value": 364659,
@@ -2844,11 +2784,6 @@
   "value": 469359,
   "name": "Bedel Financial Consulting, Inc."
  },
- "1730765": {
-  "shares": 833,
-  "value": 714764,
-  "name": "Triumph Capital Management"
- },
  "1730810": {
   "shares": 424,
   "value": 363817,
@@ -2938,11 +2873,6 @@
   "shares": 17534,
   "value": 15045224,
   "name": "Silvant Capital Management LLC"
- },
- "1739439": {
-  "shares": 7436,
-  "value": 6380534,
-  "name": "Rockefeller Capital Management L.P."
  },
  "1739728": {
   "shares": 1157,
@@ -3138,11 +3068,6 @@
   "shares": 288,
   "value": 247121,
   "name": "Abundance Wealth Counselors"
- },
- "1767306": {
-  "shares": 8734,
-  "value": 7494296,
-  "name": "Vanguard Personalized Indexing Management, LLC"
  },
  "1767349": {
   "shares": 16,
@@ -3584,11 +3509,6 @@
   "value": 570610,
   "name": "State of Wyoming"
  },
- "1822587": {
-  "shares": 13,
-  "value": 10786,
-  "name": "Cornerstone Planning Group LLC"
- },
  "1822632": {
   "shares": 15,
   "value": 12871,
@@ -3729,11 +3649,6 @@
   "value": 3414221,
   "name": "TriaGen Wealth Management LLC"
  },
- "1845003": {
-  "shares": 45,
-  "value": 38612,
-  "name": "Ascentis Independent Advisors"
- },
  "1845859": {
   "shares": 387,
   "value": 332069,
@@ -3748,11 +3663,6 @@
   "shares": 433,
   "value": 371531,
   "name": "Interchange Capital Partners, LLC"
- },
- "1846532": {
-  "shares": 4,
-  "value": 3432,
-  "name": "Continuum Advisory, LLC"
  },
  "1847328": {
   "shares": 52021,
@@ -5189,11 +5099,6 @@
   "value": 1561669,
   "name": "Chung Wu Investment Group, LLC"
  },
- "2054465": {
-  "shares": 9,
-  "value": 7723,
-  "name": "Hughes Financial Services, LLC"
- },
  "2054677": {
   "shares": 6710,
   "value": 5757583,
@@ -5253,11 +5158,6 @@
   "shares": 310,
   "value": 265999,
   "name": "SAGESPRING WEALTH PARTNERS, LLC"
- },
- "2056510": {
-  "shares": 166,
-  "value": 142438,
-  "name": "Rossby Financial, LCC"
  },
  "2056656": {
   "shares": 257,
@@ -5704,11 +5604,6 @@
   "value": 257418,
   "name": "Purpose Unlimited Inc."
  },
- "2115254": {
-  "shares": 104,
-  "value": 89238,
-  "name": "Basecamp Wealth Advisors LLC"
- },
  "2116119": {
   "shares": 50,
   "value": 42045,
@@ -5924,20 +5819,10 @@
   "value": 203360,
   "name": "1ST SOURCE BANK"
  },
- "36104": {
-  "shares": 27353,
-  "value": 23470496,
-  "name": "US BANCORP \\DE\\  (USB, USB-PA, USB-PH, USB-PP, USB-PQ, USB-PR, USB-PS)"
- },
  "36270": {
   "shares": 14744,
   "value": 12651696,
   "name": "M&T BANK CORP  (MTB, MTBPL, MTB-PH, MTB-PJ, MTB-PK)"
- },
- "36966": {
-  "shares": 48,
-  "value": 41187,
-  "name": "FIRST HORIZON CORP  (FHN, FHN-PE, FHN-PF, FHN-PH)"
  },
  "38777": {
   "shares": 478858,
@@ -5948,11 +5833,6 @@
   "shares": 11101,
   "value": 9525324,
   "name": "CULLEN/FROST BANKERS, INC.  (CFR, CFR-PB)"
- },
- "44365": {
-  "shares": 8,
-  "value": 6865,
-  "name": "CENTRAL TRUST Co"
  },
  "46392": {
   "shares": 5,
@@ -6003,11 +5883,6 @@
   "shares": 2315,
   "value": 1986,
   "name": "NEVILLE RODIE & SHAW INC"
- },
- "713676": {
-  "shares": 11607,
-  "value": 9959503,
-  "name": "PNC FINANCIAL SERVICES GROUP, INC.  (PNC)"
  },
  "714142": {
   "shares": 5550,
@@ -6334,11 +6209,6 @@
   "value": 12871,
   "name": "SALEM INVESTMENT COUNSELORS INC"
  },
- "884546": {
-  "shares": 983932,
-  "value": 844272692,
-  "name": "CHARLES SCHWAB INVESTMENT MANAGEMENT INC"
- },
  "886982": {
   "shares": 1107958,
   "value": 950694536,
@@ -6419,11 +6289,6 @@
   "value": 104026046,
   "name": "WELLINGTON MANAGEMENT GROUP LLP"
  },
- "902367": {
-  "shares": 4753,
-  "value": 4078285,
-  "name": "BLAIR WILLIAM & CO/IL"
- },
  "902464": {
   "shares": 2297,
   "value": 1970964,
@@ -6448,11 +6313,6 @@
   "shares": 3176260,
   "value": 2725421389,
   "name": "Invesco Ltd.  (IVZ)"
- },
- "916542": {
-  "shares": 12351,
-  "value": 10584,
-  "name": "ACADIAN ASSET MANAGEMENT LLC"
  },
  "919079": {
   "shares": 119519,
@@ -6568,11 +6428,6 @@
   "shares": 72185,
   "value": 61939061,
   "name": "OBERWEIS ASSET MANAGEMENT INC/"
- },
- "938076": {
-  "shares": 62016,
-  "value": 53213449,
-  "name": "STATE BOARD OF ADMINISTRATION OF FLORIDA RETIREMENT SYSTEM"
  },
  "938206": {
   "shares": 82768,

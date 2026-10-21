@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T01:02:37.035040Z",
+ "generated": "2026-10-21T00:31:47.150151Z",
  "quarters": [
   "2026-06-30"
  ],
@@ -290,13 +290,13 @@
   },
   "LITE": {
    "name": "LUMENTUM HLDGS INC",
-   "sharesM": 82.2,
+   "sharesM": 83.8,
    "tl": [
     {
      "q": "2026-06-30",
-     "holders": 1295,
-     "valueB": 67.35,
-     "neu": 1295,
+     "holders": 1324,
+     "valueB": 68.78,
+     "neu": 1324,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -420,9 +420,9 @@
      "chg": "NEW"
     },
     {
-     "fund": "Value Aligned Research Advisors, LLC",
-     "shares": "734.7K",
-     "value": "$630.4M",
+     "fund": "CHARLES SCHWAB INVESTMENT MANAGEMENT INC",
+     "shares": "983.9K",
+     "value": "$844.3M",
      "chg": "NEW"
     }
    ]

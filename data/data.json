@@ -1,18 +1,18 @@
 {
- "generated": "2026-10-21T00:31:47.150151Z",
+ "generated": "2026-10-22T00:33:15.403832Z",
  "quarters": [
   "2026-06-30"
  ],
  "stocks": {
   "SNDK": {
    "name": "SANDISK CORP",
-   "sharesM": 492.0,
+   "sharesM": 478.6,
    "tl": [
     {
      "q": "2026-06-30",
-     "holders": 1830,
-     "valueB": 242.39,
-     "neu": 1830,
+     "holders": 1812,
+     "valueB": 212.27,
+     "neu": 1812,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -51,12 +51,6 @@
     }
    ],
    "holders": [
-    {
-     "fund": "BlackRock, Inc.  (BLK)",
-     "shares": "10.3M",
-     "value": "$23.4B",
-     "chg": "NEW"
-    },
     {
      "fund": "VANGUARD CAPITAL MANAGEMENT LLC",
      "shares": "9.7M",
@@ -112,12 +106,6 @@
      "chg": "NEW"
     },
     {
-     "fund": "MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ)",
-     "shares": "2.4M",
-     "value": "$5.5B",
-     "chg": "NEW"
-    },
-    {
      "fund": "ARROWSTREET CAPITAL, LIMITED PARTNERSHIP",
      "shares": "2.2M",
      "value": "$4.9B",
@@ -139,6 +127,18 @@
      "fund": "CHARLES SCHWAB INVESTMENT MANAGEMENT INC",
      "shares": "1.7M",
      "value": "$4.0B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "GOLDMAN SACHS GROUP INC  (GS, GSCE, GS-PA, GS-PC, GS-PD)",
+     "shares": "1.4M",
+     "value": "$3.3B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "NORTHERN TRUST CORP  (NTRS, NTRSO)",
+     "shares": "1.3M",
+     "value": "$2.9B",
      "chg": "NEW"
     }
    ]

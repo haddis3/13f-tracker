@@ -1129,11 +1129,6 @@
   "value": 2407880,
   "name": "Blackstone Inc.  (BX)"
  },
- "1393825": {
-  "shares": 306118,
-  "value": 696029680,
-  "name": "Hudson Bay Capital Management LP"
- },
  "1395067": {
   "shares": 17,
   "value": 38654,
@@ -1903,6 +1898,11 @@
   "shares": 22866,
   "value": 51109921,
   "name": "Focus Partners Wealth"
+ },
+ "1542383": {
+  "shares": 205,
+  "value": 466115,
+  "name": "Aviance Capital Partners, LLC"
  },
  "1542629": {
   "shares": 1115,

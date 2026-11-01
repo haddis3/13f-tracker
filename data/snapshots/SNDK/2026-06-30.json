@@ -484,6 +484,11 @@
   "value": 875386,
   "name": "MONETARY MANAGEMENT GROUP INC"
  },
+ "1133639": {
+  "shares": 20351,
+  "value": 46272679,
+  "name": "NEW YORK LIFE INVESTMENT MANAGEMENT LLC"
+ },
  "1133742": {
   "shares": 10,
   "value": 22737,
@@ -1314,6 +1319,11 @@
   "value": 29952,
   "name": "Greenwich Wealth Management LLC"
  },
+ "1442641": {
+  "shares": 125,
+  "value": 284216,
+  "name": "Legato Capital Management LLC"
+ },
  "1442891": {
   "shares": 1256,
   "value": 2713091,
@@ -1728,6 +1738,11 @@
   "shares": 423,
   "value": 961225,
   "name": "Skandinaviska Enskilda Banken AB (publ)"
+ },
+ "1534866": {
+  "shares": 333,
+  "value": 757152,
+  "name": "Boston Trust Walden Corp"
  },
  "1535110": {
   "shares": 1500,
@@ -2829,6 +2844,11 @@
   "value": 209183,
   "name": "Shakespeare Wealth Management, LLC"
  },
+ "1659047": {
+  "shares": 1796,
+  "value": 4083207,
+  "name": "Krilogy Financial LLC"
+ },
  "1659203": {
   "shares": 454,
   "value": 1032273,
@@ -3594,6 +3614,11 @@
   "value": 393355,
   "name": "Poehling Capital Management, INC."
  },
+ "1730942": {
+  "shares": 539,
+  "value": 1225540,
+  "name": "Waterloo Capital, L.P."
+ },
  "1730960": {
   "shares": 656,
   "value": 1491567,
@@ -3789,6 +3814,11 @@
   "value": 1134591,
   "name": "Cooper Financial Group"
  },
+ "1752212": {
+  "shares": 149,
+  "value": 338785,
+  "name": "Essex Bank"
+ },
  "1752579": {
   "shares": 89,
   "value": 202362,
@@ -3838,6 +3868,11 @@
   "shares": 86027,
   "value": 195604328,
   "name": "Quantinno Capital Management LP"
+ },
+ "1760145": {
+  "shares": 15,
+  "value": 34106,
+  "name": "Costello Asset Management, INC"
  },
  "1760540": {
   "shares": 96,
@@ -5144,6 +5179,11 @@
   "value": 445334,
   "name": "FWG Holdings, LLC"
  },
+ "1862282": {
+  "shares": 1703,
+  "value": 3872162,
+  "name": "Pallas Capital Advisors LLC"
+ },
  "1862427": {
   "shares": 1361,
   "value": 214023,
@@ -5588,6 +5628,11 @@
   "shares": 94,
   "value": 213731,
   "name": "James Reed Financial Services, Inc."
+ },
+ "1911056": {
+  "shares": 1141,
+  "value": 2594326,
+  "name": "AXXCESS WEALTH MANAGEMENT, LLC"
  },
  "1911087": {
   "shares": 162,
@@ -7904,6 +7949,11 @@
   "value": 200088,
   "name": "Silver Grove Financial Group, Inc."
  },
+ "2111345": {
+  "shares": 495,
+  "value": 1125496,
+  "name": "OpenArc Corporate Advisory, LLC"
+ },
  "2111359": {
   "shares": 1684,
   "value": 3828961,
@@ -8540,8 +8590,8 @@
   "name": "JAMES INVESTMENT RESEARCH, INC."
  },
  "812291": {
-  "shares": 8923,
-  "value": 5669139,
+  "shares": 11594,
+  "value": 26361626,
   "name": "MIZUHO SECURITIES USA LLC"
  },
  "815917": {
@@ -8778,11 +8828,6 @@
   "shares": 9650,
   "value": 21941495,
   "name": "FACTORY MUTUAL INSURANCE CO"
- },
- "891478": {
-  "shares": 39672,
-  "value": 90203417,
-  "name": "Banco Santander, S.A.  (SAN, BCDRF)"
  },
  "891943": {
   "shares": 900,

@@ -5744,11 +5744,6 @@
   "value": 6160446,
   "name": "PATTON FUND MANAGEMENT, INC."
  },
- "1689470": {
-  "shares": 12115,
-  "value": 13984326,
-  "name": "HMS Capital Management, LLC"
- },
  "1689646": {
   "shares": 7595,
   "value": 8766415,
@@ -11104,11 +11099,6 @@
   "value": 265432,
   "name": "TILIA FIDUCIARY PARTNERS, INC."
  },
- "1910273": {
-  "shares": 1309,
-  "value": 1511321,
-  "name": "Investment Advisory Group, LLC"
- },
  "1910381": {
   "shares": 488,
   "value": 563324,
@@ -15528,6 +15518,11 @@
   "shares": 258,
   "value": 297805,
   "name": "WAYSTONE ADVISORS LLC"
+ },
+ "2056037": {
+  "shares": 300,
+  "value": 346287,
+  "name": "Prepared Retirement Institute LLC"
  },
  "2056052": {
   "shares": 2053,

@@ -5744,6 +5744,11 @@
   "value": 6160446,
   "name": "PATTON FUND MANAGEMENT, INC."
  },
+ "1689470": {
+  "shares": 12115,
+  "value": 13984326,
+  "name": "HMS Capital Management, LLC"
+ },
  "1689646": {
   "shares": 7595,
   "value": 8766415,
@@ -9834,11 +9839,6 @@
   "value": 2369801,
   "name": "SITTNER & NELSON, LLC"
  },
- "1846150": {
-  "shares": 2096,
-  "value": 708204,
-  "name": "SAX WEALTH ADVISORS, LLC"
- },
  "1846151": {
   "shares": 6631,
   "value": 7654097,
@@ -11098,6 +11098,11 @@
   "shares": 230,
   "value": 265432,
   "name": "TILIA FIDUCIARY PARTNERS, INC."
+ },
+ "1910273": {
+  "shares": 1309,
+  "value": 1511321,
+  "name": "Investment Advisory Group, LLC"
  },
  "1910381": {
   "shares": 488,
@@ -14049,11 +14054,6 @@
   "value": 813106,
   "name": "Embree Financial Group"
  },
- "2021047": {
-  "shares": 5874,
-  "value": 6780349,
-  "name": "SEEDS INVESTOR LLC"
- },
  "2021208": {
   "shares": 1082,
   "value": 1248501,
@@ -16264,11 +16264,6 @@
   "value": 2888878,
   "name": "Aventura Private Wealth, LLC"
  },
- "2075029": {
-  "shares": 25637,
-  "value": 29592534,
-  "name": "MASTERINVEST Kapitalanlage GmbH"
- },
  "2075193": {
   "shares": 25261,
   "value": 29158718,
@@ -16363,11 +16358,6 @@
   "shares": 229,
   "value": 264332,
   "name": "VARCOV Co."
- },
- "2079207": {
-  "shares": 564,
-  "value": 651020,
-  "name": "Traub Capital Management LLC"
  },
  "2079571": {
   "shares": 10605,
@@ -16563,11 +16553,6 @@
   "shares": 3086,
   "value": 3562140,
   "name": "Pitcairn Wealth Advisors LLC"
- },
- "2089183": {
-  "shares": 5,
-  "value": 5771,
-  "name": "Align Financial, LLC"
  },
  "2089528": {
   "shares": 1377,

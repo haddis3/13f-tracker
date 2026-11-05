@@ -744,11 +744,6 @@
   "value": 2756455,
   "name": "FIRST FOUNDATION ADVISORS"
  },
- "1088731": {
-  "shares": 488,
-  "value": 563294,
-  "name": "BOURGEON CAPITAL MANAGEMENT LLC"
- },
  "1088875": {
   "shares": 80,
   "value": 92343,
@@ -968,11 +963,6 @@
   "shares": 3789,
   "value": 4373605,
   "name": "PROFFITT & GOODSON INC"
- },
- "1125243": {
-  "shares": 366,
-  "value": 422470,
-  "name": "WEDGEWOOD INVESTORS INC /PA/"
  },
  "1125725": {
   "shares": 679,
@@ -5469,11 +5459,6 @@
   "value": 1690118,
   "name": "Cottage Street Advisors LLC"
  },
- "1665337": {
-  "shares": 390,
-  "value": 450049,
-  "name": "Integrated Investment Consultants, LLC"
- },
  "1665359": {
   "shares": 452,
   "value": 521740,
@@ -5678,11 +5663,6 @@
   "shares": 4654,
   "value": 5372066,
   "name": "Almanack Investment Partners, LLC."
- },
- "1681490": {
-  "shares": 425,
-  "value": 490573,
-  "name": "Cascade Investment Advisors, Inc."
  },
  "1682057": {
   "shares": 2471,
@@ -8199,11 +8179,6 @@
   "value": 2619408,
   "name": "1900 WEALTH MANAGEMENT LLC"
  },
- "1791998": {
-  "shares": 439,
-  "value": 506668,
-  "name": "Net Worth Advisory Group"
- },
  "1792167": {
   "shares": 26963,
   "value": 31123417,
@@ -9838,6 +9813,11 @@
   "shares": 2053,
   "value": 2369801,
   "name": "SITTNER & NELSON, LLC"
+ },
+ "1846150": {
+  "shares": 2096,
+  "value": 708204,
+  "name": "SAX WEALTH ADVISORS, LLC"
  },
  "1846151": {
   "shares": 6631,
@@ -11733,11 +11713,6 @@
   "shares": 8831,
   "value": 10193535,
   "name": "Acumen Wealth Advisors, LLC"
- },
- "1939831": {
-  "shares": 542,
-  "value": 625417,
-  "name": "PRESILIUM PRIVATE WEALTH, LLC"
  },
  "1939970": {
   "shares": 16189,
@@ -14054,6 +14029,11 @@
   "value": 813106,
   "name": "Embree Financial Group"
  },
+ "2021047": {
+  "shares": 5874,
+  "value": 6780349,
+  "name": "SEEDS INVESTOR LLC"
+ },
  "2021208": {
   "shares": 1082,
   "value": 1248501,
@@ -16264,6 +16244,11 @@
   "value": 2888878,
   "name": "Aventura Private Wealth, LLC"
  },
+ "2075029": {
+  "shares": 25637,
+  "value": 29592534,
+  "name": "MASTERINVEST Kapitalanlage GmbH"
+ },
  "2075193": {
   "shares": 25261,
   "value": 29158718,
@@ -16358,6 +16343,11 @@
   "shares": 229,
   "value": 264332,
   "name": "VARCOV Co."
+ },
+ "2079207": {
+  "shares": 564,
+  "value": 651020,
+  "name": "Traub Capital Management LLC"
  },
  "2079571": {
   "shares": 10605,
@@ -16553,6 +16543,11 @@
   "shares": 3086,
   "value": 3562140,
   "name": "Pitcairn Wealth Advisors LLC"
+ },
+ "2089183": {
+  "shares": 5,
+  "value": 5771,
+  "name": "Align Financial, LLC"
  },
  "2089528": {
   "shares": 1377,

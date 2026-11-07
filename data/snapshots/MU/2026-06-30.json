@@ -249,11 +249,6 @@
   "value": 3871613,
   "name": "ARVEST INVESTMENTS, INC."
  },
- "1025835": {
-  "shares": 5248,
-  "value": 6057713,
-  "name": "ENTERPRISE FINANCIAL SERVICES CORP  (EFSC, EFSCP)"
- },
  "1028074": {
   "shares": 16950,
   "value": 19565216,
@@ -4949,11 +4944,6 @@
   "value": 150090020,
   "name": "Belvedere Trading LLC"
  },
- "1632553": {
-  "shares": 10,
-  "value": 11543,
-  "name": "Eukles Asset Management"
- },
  "1632554": {
   "shares": 128,
   "value": 147749,
@@ -8094,6 +8084,11 @@
   "value": 1154,
   "name": "PETERSON WEALTH MANAGEMENT"
  },
+ "1785342": {
+  "shares": 2597,
+  "value": 2997691,
+  "name": "National Philanthropic Trust"
+ },
  "1785498": {
   "shares": 509,
   "value": 587534,
@@ -9558,11 +9553,6 @@
   "shares": 52000,
   "value": 60023080,
   "name": "Proem Advisors LLC"
- },
- "1842554": {
-  "shares": 452,
-  "value": 522092,
-  "name": "ACT Advisors, LLC."
  },
  "1842572": {
   "shares": 2136,
@@ -11314,11 +11304,6 @@
   "value": 6162173,
   "name": "Quent Capital, LLC"
  },
- "1912339": {
-  "shares": 2651,
-  "value": 3060025,
-  "name": "Resurgent Financial Advisors LLC"
- },
  "1912451": {
   "shares": 23,
   "value": 26549,
@@ -12633,6 +12618,11 @@
   "shares": 1546,
   "value": 1784180,
   "name": "Decker Retirement Planning Inc."
+ },
+ "1976010": {
+  "shares": 530,
+  "value": 612062,
+  "name": "INSTRUMENTAL WEALTH, LLC"
  },
  "1976151": {
   "shares": 4102,
@@ -17014,11 +17004,6 @@
   "value": 1267410,
   "name": "August Group Capital Ltd"
  },
- "2107449": {
-  "shares": 34,
-  "value": 9,
-  "name": "Strategic Wealth Advisors LLC"
- },
  "2107460": {
   "shares": 34,
   "value": 39,
@@ -17378,6 +17363,11 @@
   "shares": 908,
   "value": 894322,
   "name": "Tenzing Financial LLC"
+ },
+ "2111369": {
+  "shares": 2589,
+  "value": 2988457,
+  "name": "VUB Generali dochodkova spravcovska spolocnost, a.s."
  },
  "2111372": {
   "shares": 247,

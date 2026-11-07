@@ -295,8 +295,8 @@
   "name": "SILVER OAK SECURITIES, INCORPORATED"
  },
  "1081019": {
-  "shares": 380392755,
-  "value": 167299,
+  "shares": 167299,
+  "value": 380392755,
   "name": "CALIFORNIA STATE TEACHERS RETIREMENT SYSTEM"
  },
  "1082215": {
@@ -678,6 +678,11 @@
   "shares": 94,
   "value": 213731,
   "name": "FARMERS & MERCHANTS INVESTMENTS INC"
+ },
+ "12600": {
+  "shares": 1903,
+  "value": 4326908,
+  "name": "PRINCIPAL SECURITIES, INC."
  },
  "1260824": {
   "shares": 6025,
@@ -2838,6 +2843,11 @@
   "shares": 92,
   "value": 209183,
   "name": "Shakespeare Wealth Management, LLC"
+ },
+ "1659047": {
+  "shares": 1796,
+  "value": 4083207,
+  "name": "Krilogy Financial LLC"
  },
  "1659203": {
   "shares": 454,

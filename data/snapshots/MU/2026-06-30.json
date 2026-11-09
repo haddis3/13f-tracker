@@ -249,6 +249,11 @@
   "value": 3871613,
   "name": "ARVEST INVESTMENTS, INC."
  },
+ "1025835": {
+  "shares": 5248,
+  "value": 6057713,
+  "name": "ENTERPRISE FINANCIAL SERVICES CORP  (EFSC, EFSCP)"
+ },
  "1028074": {
   "shares": 16950,
   "value": 19565216,
@@ -5734,11 +5739,6 @@
   "value": 6160446,
   "name": "PATTON FUND MANAGEMENT, INC."
  },
- "1689470": {
-  "shares": 12115,
-  "value": 13984326,
-  "name": "HMS Capital Management, LLC"
- },
  "1689646": {
   "shares": 7595,
   "value": 8766415,
@@ -9553,6 +9553,11 @@
   "shares": 52000,
   "value": 60023080,
   "name": "Proem Advisors LLC"
+ },
+ "1842554": {
+  "shares": 452,
+  "value": 522092,
+  "name": "ACT Advisors, LLC."
  },
  "1842572": {
   "shares": 2136,

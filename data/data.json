@@ -1,18 +1,18 @@
 {
- "generated": "2026-11-09T01:33:17.561526Z",
+ "generated": "2026-11-10T04:04:08.901405Z",
  "quarters": [
   "2026-06-30"
  ],
  "stocks": {
   "SNDK": {
    "name": "SANDISK CORP",
-   "sharesM": 111.8,
+   "sharesM": 492.0,
    "tl": [
     {
      "q": "2026-06-30",
-     "holders": 1829,
-     "valueB": 242.68,
-     "neu": 1829,
+     "holders": 1830,
+     "valueB": 242.39,
+     "neu": 1830,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -149,9 +149,9 @@
    "tl": [
     {
      "q": "2026-06-30",
-     "holders": 3913,
-     "valueB": 979.98,
-     "neu": 3913,
+     "holders": 3912,
+     "valueB": 979.99,
+     "neu": 3912,
      "inc": 0,
      "dec": 0,
      "sold": 0

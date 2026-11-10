@@ -4949,6 +4949,11 @@
   "value": 150090020,
   "name": "Belvedere Trading LLC"
  },
+ "1632553": {
+  "shares": 10,
+  "value": 11543,
+  "name": "Eukles Asset Management"
+ },
  "1632554": {
   "shares": 128,
   "value": 147749,
@@ -5738,6 +5743,11 @@
   "shares": 5337,
   "value": 6160446,
   "name": "PATTON FUND MANAGEMENT, INC."
+ },
+ "1689470": {
+  "shares": 12115,
+  "value": 13984326,
+  "name": "HMS Capital Management, LLC"
  },
  "1689646": {
   "shares": 7595,
@@ -9204,11 +9214,6 @@
   "value": 1209699,
   "name": "Signature Wealth Management Partners, LLC"
  },
- "1824700": {
-  "shares": 2503,
-  "value": 2888758,
-  "name": "Capital Advisors Wealth Management, LLC"
- },
  "1825516": {
   "shares": 72973,
   "value": 84232004,
@@ -11309,6 +11314,11 @@
   "value": 6162173,
   "name": "Quent Capital, LLC"
  },
+ "1912339": {
+  "shares": 2651,
+  "value": 3060025,
+  "name": "Resurgent Financial Advisors LLC"
+ },
  "1912451": {
   "shares": 23,
   "value": 26549,
@@ -12129,11 +12139,6 @@
   "value": 24528376,
   "name": "Riverview Capital Advisers, LLC"
  },
- "1963040": {
-  "shares": 597,
-  "value": 689111,
-  "name": "LODESTAR PRIVATE ASSET MANAGEMENT LLC"
- },
  "1963212": {
   "shares": 3009,
   "value": 3472894,
@@ -12623,11 +12628,6 @@
   "shares": 1546,
   "value": 1784180,
   "name": "Decker Retirement Planning Inc."
- },
- "1976010": {
-  "shares": 530,
-  "value": 612062,
-  "name": "INSTRUMENTAL WEALTH, LLC"
  },
  "1976151": {
   "shares": 4102,
@@ -16384,11 +16384,6 @@
   "value": 3643125,
   "name": "WINNACLE WEALTH LLC"
  },
- "2079812": {
-  "shares": 1832,
-  "value": 1787226,
-  "name": "Tripletail Wealth Management, LLC"
- },
  "2079815": {
   "shares": 78,
   "value": 90035,
@@ -17009,6 +17004,11 @@
   "value": 1267410,
   "name": "August Group Capital Ltd"
  },
+ "2107449": {
+  "shares": 34,
+  "value": 9,
+  "name": "Strategic Wealth Advisors LLC"
+ },
  "2107460": {
   "shares": 34,
   "value": 39,
@@ -17368,11 +17368,6 @@
   "shares": 908,
   "value": 894322,
   "name": "Tenzing Financial LLC"
- },
- "2111369": {
-  "shares": 2589,
-  "value": 2988457,
-  "name": "VUB Generali dochodkova spravcovska spolocnost, a.s."
  },
  "2111372": {
   "shares": 247,

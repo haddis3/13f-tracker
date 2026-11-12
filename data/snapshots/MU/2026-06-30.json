@@ -229,6 +229,11 @@
   "value": 245864,
   "name": "BALDWIN WEALTH PARTNERS LLC/MA"
  },
+ "1021926": {
+  "shares": 536729,
+  "value": 619540917,
+  "name": "CIBC Asset Management Inc"
+ },
  "1021944": {
   "shares": 133006,
   "value": 153527496,
@@ -853,11 +858,6 @@
   "shares": 720,
   "value": 831089,
   "name": "WEBSTER BANK, N. A."
- },
- "1105907": {
-  "shares": 16,
-  "value": 18469,
-  "name": "BARD ASSOCIATES INC"
  },
  "1106832": {
   "shares": 7890,
@@ -3854,6 +3854,11 @@
   "value": 119944344,
   "name": "Horizon Investments, LLC"
  },
+ "1561082": {
+  "shares": 29372,
+  "value": 33768522,
+  "name": "ABN AMRO Bank N.V."
+ },
  "1561330": {
   "shares": 786,
   "value": 907274,
@@ -4933,11 +4938,6 @@
   "shares": 130028,
   "value": 150090020,
   "name": "Belvedere Trading LLC"
- },
- "1632553": {
-  "shares": 10,
-  "value": 11543,
-  "name": "Eukles Asset Management"
  },
  "1632554": {
   "shares": 128,
@@ -7929,11 +7929,6 @@
   "value": 200860,
   "name": "Spectrum Wealth Advisory Group, LLC"
  },
- "1776878": {
-  "shares": 1392,
-  "value": 1606772,
-  "name": "Core Alternative Capital"
- },
  "1777271": {
   "shares": 90864,
   "value": 104883899,
@@ -8248,6 +8243,11 @@
   "shares": 225,
   "value": 260280,
   "name": "ICW Investment Advisors LLC"
+ },
+ "1794972": {
+  "shares": 2365,
+  "value": 2729895,
+  "name": "BANTAMAC CAPITAL, LLC"
  },
  "1795173": {
   "shares": 750,
@@ -9134,6 +9134,11 @@
   "value": 2725279,
   "name": "Intelligence Driven Advisers, LLC"
  },
+ "1820593": {
+  "shares": 605,
+  "value": 698345,
+  "name": "Navalign, LLC"
+ },
  "1820681": {
   "shares": 753,
   "value": 869074,
@@ -9188,6 +9193,11 @@
   "shares": 1048,
   "value": 1209699,
   "name": "Signature Wealth Management Partners, LLC"
+ },
+ "1824700": {
+  "shares": 2503,
+  "value": 2888758,
+  "name": "Capital Advisors Wealth Management, LLC"
  },
  "1825516": {
   "shares": 72973,
@@ -12114,6 +12124,11 @@
   "value": 24528376,
   "name": "Riverview Capital Advisers, LLC"
  },
+ "1963040": {
+  "shares": 597,
+  "value": 689111,
+  "name": "LODESTAR PRIVATE ASSET MANAGEMENT LLC"
+ },
  "1963212": {
   "shares": 3009,
   "value": 3472894,
@@ -12603,6 +12618,11 @@
   "shares": 1546,
   "value": 1784180,
   "name": "Decker Retirement Planning Inc."
+ },
+ "1976010": {
+  "shares": 530,
+  "value": 612062,
+  "name": "INSTRUMENTAL WEALTH, LLC"
  },
  "1976151": {
   "shares": 4102,
@@ -13938,6 +13958,11 @@
   "shares": 1815,
   "value": 2095036,
   "name": "Columbia Bank"
+ },
+ "201772": {
+  "shares": 153,
+  "value": 176606,
+  "name": "ESSEX INVESTMENT MANAGEMENT CO LLC"
  },
  "2017868": {
   "shares": 17130,
@@ -15484,11 +15509,6 @@
   "value": 297805,
   "name": "WAYSTONE ADVISORS LLC"
  },
- "2056037": {
-  "shares": 300,
-  "value": 346287,
-  "name": "Prepared Retirement Institute LLC"
- },
  "2056052": {
   "shares": 2053,
   "value": 2369757,
@@ -16239,11 +16259,6 @@
   "value": 29158718,
   "name": "Spartan Wealth Advisory Services LLC"
  },
- "2075393": {
-  "shares": 401,
-  "value": 462870,
-  "name": "SNOWWATER INVESTMENT PARTNERS, LLC"
- },
  "2075597": {
   "shares": 208,
   "value": 240092,
@@ -16348,6 +16363,11 @@
   "shares": 3156,
   "value": 3643125,
   "name": "WINNACLE WEALTH LLC"
+ },
+ "2079812": {
+  "shares": 1832,
+  "value": 1787226,
+  "name": "Tripletail Wealth Management, LLC"
  },
  "2079815": {
   "shares": 78,
@@ -16969,11 +16989,6 @@
   "value": 1267410,
   "name": "August Group Capital Ltd"
  },
- "2107449": {
-  "shares": 34,
-  "value": 9,
-  "name": "Strategic Wealth Advisors LLC"
- },
  "2107460": {
   "shares": 34,
   "value": 39,
@@ -17333,6 +17348,11 @@
   "shares": 908,
   "value": 894322,
   "name": "Tenzing Financial LLC"
+ },
+ "2111369": {
+  "shares": 2589,
+  "value": 2988457,
+  "name": "VUB Generali dochodkova spravcovska spolocnost, a.s."
  },
  "2111372": {
   "shares": 247,

@@ -2009,6 +2009,11 @@
   "value": 75599249,
   "name": "VOLORIDGE INVESTMENT MANAGEMENT, LLC"
  },
+ "1557017": {
+  "shares": 249,
+  "value": 566159,
+  "name": "Capula Management Ltd"
+ },
  "1558481": {
   "shares": 39709,
   "value": 90287545,
@@ -2869,11 +2874,6 @@
   "value": 1568,
   "name": "Darwin Wealth Management, LLC"
  },
- "1664193": {
-  "shares": 6627,
-  "value": 15068009,
-  "name": "Aptus Capital Advisors, LLC"
- },
  "1665198": {
   "shares": 1020,
   "value": 2321410,
@@ -3234,6 +3234,11 @@
   "value": 5568365,
   "name": "ICICI Prudential Asset Management Co Ltd"
  },
+ "1697856": {
+  "shares": 126,
+  "value": 286490,
+  "name": "Financial Advisors Network, Inc."
+ },
  "1697953": {
   "shares": 321,
   "value": 730,
@@ -3373,6 +3378,11 @@
   "shares": 1787,
   "value": 4825281,
   "name": "AlphaCore Capital LLC"
+ },
+ "1713697": {
+  "shares": 120,
+  "value": 272848,
+  "name": "FLC Capital Advisors"
  },
  "1713735": {
   "shares": 891,
@@ -5114,6 +5124,11 @@
   "value": 3456070,
   "name": "PINNBROOK CAPITAL MANAGEMENT LP"
  },
+ "1856405": {
+  "shares": 2500,
+  "value": 5684325,
+  "name": "SONA ASSET MANAGEMENT (US) LLC"
+ },
  "1856637": {
   "shares": 118,
   "value": 268300,
@@ -5743,6 +5758,11 @@
   "shares": 129,
   "value": 293311,
   "name": "Fortitude Advisory Group L.L.C."
+ },
+ "1929008": {
+  "shares": 204,
+  "value": 463841,
+  "name": "Balboa Wealth Partners"
  },
  "1929139": {
   "shares": 444,
@@ -7709,6 +7729,11 @@
   "value": 325143,
   "name": "BLALOCK WILLIAMS, LLC"
  },
+ "2092853": {
+  "shares": 220,
+  "value": 500221,
+  "name": "Odyssean, LLC"
+ },
  "2093023": {
   "shares": 136,
   "value": 260565,
@@ -9033,6 +9058,11 @@
   "shares": 575,
   "value": 1307395,
   "name": "MAVERICK CAPITAL LTD"
+ },
+ "934745": {
+  "shares": 1127,
+  "value": 2562494,
+  "name": "WEATHERLY ASSET MANAGEMENT L. P."
  },
  "936941": {
   "shares": 380,

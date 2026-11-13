@@ -295,8 +295,8 @@
   "name": "SILVER OAK SECURITIES, INCORPORATED"
  },
  "1081019": {
-  "shares": 380392755,
-  "value": 167299,
+  "shares": 167299,
+  "value": 380392755,
   "name": "CALIFORNIA STATE TEACHERS RETIREMENT SYSTEM"
  },
  "1082215": {
@@ -2873,6 +2873,11 @@
   "shares": 0,
   "value": 1568,
   "name": "Darwin Wealth Management, LLC"
+ },
+ "1664193": {
+  "shares": 6627,
+  "value": 15068009,
+  "name": "Aptus Capital Advisors, LLC"
  },
  "1665198": {
   "shares": 1020,

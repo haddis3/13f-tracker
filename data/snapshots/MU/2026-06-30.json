@@ -229,11 +229,6 @@
   "value": 245864,
   "name": "BALDWIN WEALTH PARTNERS LLC/MA"
  },
- "1021926": {
-  "shares": 536729,
-  "value": 619540917,
-  "name": "CIBC Asset Management Inc"
- },
  "1021944": {
   "shares": 133006,
   "value": 153527496,
@@ -859,6 +854,11 @@
   "value": 831089,
   "name": "WEBSTER BANK, N. A."
  },
+ "1105907": {
+  "shares": 16,
+  "value": 18469,
+  "name": "BARD ASSOCIATES INC"
+ },
  "1106832": {
   "shares": 7890,
   "value": 9107348,
@@ -963,6 +963,11 @@
   "shares": 3789,
   "value": 4373605,
   "name": "PROFFITT & GOODSON INC"
+ },
+ "1125243": {
+  "shares": 366,
+  "value": 422470,
+  "name": "WEDGEWOOD INVESTORS INC /PA/"
  },
  "1125725": {
   "shares": 679,
@@ -4939,6 +4944,11 @@
   "value": 150090020,
   "name": "Belvedere Trading LLC"
  },
+ "1632553": {
+  "shares": 10,
+  "value": 11543,
+  "name": "Eukles Asset Management"
+ },
  "1632554": {
   "shares": 128,
   "value": 147749,
@@ -7524,11 +7534,6 @@
   "value": 12356396,
   "name": "MONECO ADVISORS, LLC"
  },
- "1765876": {
-  "shares": 32508,
-  "value": 37523659,
-  "name": "MMBG INVESTMENT ADVISORS CO."
- },
  "1765885": {
   "shares": 2825,
   "value": 3260888,
@@ -7928,6 +7933,11 @@
   "shares": 174,
   "value": 200860,
   "name": "Spectrum Wealth Advisory Group, LLC"
+ },
+ "1776878": {
+  "shares": 1392,
+  "value": 1606772,
+  "name": "Core Alternative Capital"
  },
  "1777271": {
   "shares": 90864,
@@ -10519,11 +10529,6 @@
   "value": 1320509,
   "name": "SJS Investment Consulting Inc."
  },
- "1894447": {
-  "shares": 1571,
-  "value": 1813026,
-  "name": "Whalen Wealth Management Inc."
- },
  "1894532": {
   "shares": 13875,
   "value": 16015774,
@@ -11068,11 +11073,6 @@
   "shares": 1685,
   "value": 1944979,
   "name": "Ameliora Wealth Management Ltd."
- },
- "1910174": {
-  "shares": 355,
-  "value": 409323,
-  "name": "Archvest Wealth Advisors, Inc."
  },
  "1910183": {
   "shares": 4172,
@@ -15284,11 +15284,6 @@
   "value": 305887,
   "name": "Centerpoint Advisory Group"
  },
- "2054098": {
-  "shares": 500,
-  "value": 577145,
-  "name": "Clare Market Investments LLC"
- },
  "2054100": {
   "shares": 6,
   "value": 6926,
@@ -15508,6 +15503,11 @@
   "shares": 258,
   "value": 297805,
   "name": "WAYSTONE ADVISORS LLC"
+ },
+ "2056037": {
+  "shares": 300,
+  "value": 346287,
+  "name": "Prepared Retirement Institute LLC"
  },
  "2056052": {
   "shares": 2053,
@@ -15904,11 +15904,6 @@
   "value": 425,
   "name": "Cloud Capital Management, LLC"
  },
- "2060765": {
-  "shares": 1618,
-  "value": 1590688,
-  "name": "DSG Capital Advisors, LLC"
- },
  "2060772": {
   "shares": 258,
   "value": 297807,
@@ -16259,6 +16254,11 @@
   "value": 29158718,
   "name": "Spartan Wealth Advisory Services LLC"
  },
+ "2075393": {
+  "shares": 401,
+  "value": 462870,
+  "name": "SNOWWATER INVESTMENT PARTNERS, LLC"
+ },
  "2075597": {
   "shares": 208,
   "value": 240092,
@@ -16343,6 +16343,11 @@
   "shares": 229,
   "value": 264332,
   "name": "VARCOV Co."
+ },
+ "2079207": {
+  "shares": 564,
+  "value": 651020,
+  "name": "Traub Capital Management LLC"
  },
  "2079571": {
   "shares": 10605,
@@ -16988,6 +16993,11 @@
   "shares": 1099,
   "value": 1267410,
   "name": "August Group Capital Ltd"
+ },
+ "2107449": {
+  "shares": 34,
+  "value": 9,
+  "name": "Strategic Wealth Advisors LLC"
  },
  "2107460": {
   "shares": 34,
@@ -17809,6 +17819,11 @@
   "value": 981317,
   "name": "Investment Management Trust, LLC"
  },
+ "2132054": {
+  "shares": 204,
+  "value": 235475,
+  "name": "MTM FINANCIAL GROUP, LLC"
+ },
  "2132074": {
   "shares": 1389,
   "value": 1603309,
@@ -17898,11 +17913,6 @@
   "shares": 24,
   "value": 27703,
   "name": "PlanVest Financial, Inc"
- },
- "2135269": {
-  "shares": 217,
-  "value": 215186,
-  "name": "Financial Solutions Advisory Group, Inc."
  },
  "2135623": {
   "shares": 4900,

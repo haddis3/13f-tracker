@@ -229,6 +229,11 @@
   "value": 245864,
   "name": "BALDWIN WEALTH PARTNERS LLC/MA"
  },
+ "1021926": {
+  "shares": 536729,
+  "value": 619540917,
+  "name": "CIBC Asset Management Inc"
+ },
  "1021944": {
   "shares": 133006,
   "value": 153527496,
@@ -853,11 +858,6 @@
   "shares": 720,
   "value": 831089,
   "name": "WEBSTER BANK, N. A."
- },
- "1105907": {
-  "shares": 16,
-  "value": 18469,
-  "name": "BARD ASSOCIATES INC"
  },
  "1106832": {
   "shares": 7890,
@@ -5254,11 +5254,6 @@
   "value": 482159630,
   "name": "Tredje AP-fonden"
  },
- "1650300": {
-  "shares": 33,
-  "value": 38092,
-  "name": "Jackson, Grant Investment Advisers, Inc."
- },
  "1650717": {
   "shares": 27892,
   "value": 32195457,
@@ -7534,6 +7529,11 @@
   "value": 12356396,
   "name": "MONECO ADVISORS, LLC"
  },
+ "1765876": {
+  "shares": 32508,
+  "value": 37523659,
+  "name": "MMBG INVESTMENT ADVISORS CO."
+ },
  "1765885": {
   "shares": 2825,
   "value": 3260888,
@@ -8313,11 +8313,6 @@
   "shares": 5522,
   "value": 6373989,
   "name": "LRT Capital Management, LLC"
- },
- "1798924": {
-  "shares": 330,
-  "value": 380916,
-  "name": "Bay Rivers Group"
  },
  "1798986": {
   "shares": 62,
@@ -10529,6 +10524,11 @@
   "value": 1320509,
   "name": "SJS Investment Consulting Inc."
  },
+ "1894447": {
+  "shares": 1571,
+  "value": 1813026,
+  "name": "Whalen Wealth Management Inc."
+ },
  "1894532": {
   "shares": 13875,
   "value": 16015774,
@@ -11073,6 +11073,11 @@
   "shares": 1685,
   "value": 1944979,
   "name": "Ameliora Wealth Management Ltd."
+ },
+ "1910174": {
+  "shares": 355,
+  "value": 409323,
+  "name": "Archvest Wealth Advisors, Inc."
  },
  "1910183": {
   "shares": 4172,
@@ -15284,6 +15289,11 @@
   "value": 305887,
   "name": "Centerpoint Advisory Group"
  },
+ "2054098": {
+  "shares": 500,
+  "value": 577145,
+  "name": "Clare Market Investments LLC"
+ },
  "2054100": {
   "shares": 6,
   "value": 6926,
@@ -15903,6 +15913,11 @@
   "shares": 368,
   "value": 425,
   "name": "Cloud Capital Management, LLC"
+ },
+ "2060765": {
+  "shares": 1618,
+  "value": 1590688,
+  "name": "DSG Capital Advisors, LLC"
  },
  "2060772": {
   "shares": 258,
@@ -17913,6 +17928,11 @@
   "shares": 24,
   "value": 27703,
   "name": "PlanVest Financial, Inc"
+ },
+ "2135269": {
+  "shares": 217,
+  "value": 215186,
+  "name": "Financial Solutions Advisory Group, Inc."
  },
  "2135623": {
   "shares": 4900,

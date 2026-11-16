@@ -1304,11 +1304,6 @@
   "value": 3787741,
   "name": "JCIC Asset Management Inc."
  },
- "1502149": {
-  "shares": 3243,
-  "value": 5643807,
-  "name": "Transamerica Financial Advisors, LLC"
- },
  "1504169": {
   "shares": 5773,
   "value": 10044385,
@@ -2794,6 +2789,11 @@
   "value": 187184326,
   "name": "Aberdeen Group plc"
  },
+ "1717443": {
+  "shares": 62880,
+  "value": 109404283,
+  "name": "KLP KAPITALFORVALTNING AS"
+ },
  "1717658": {
   "shares": 4,
   "value": 6960,
@@ -3023,11 +3023,6 @@
   "shares": 563,
   "value": 979558,
   "name": "Versant Capital Management, Inc"
- },
- "1737089": {
-  "shares": 743,
-  "value": 1293,
-  "name": "CX Institutional"
  },
  "1738071": {
   "shares": 20000,
@@ -7558,6 +7553,11 @@
   "shares": 65,
   "value": 113093,
   "name": "ALERUS FINANCIAL NA"
+ },
+ "919859": {
+  "shares": 86393,
+  "value": 150314317,
+  "name": "MACKENZIE FINANCIAL CORP"
  },
  "922127": {
   "shares": 17025,

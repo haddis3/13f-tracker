@@ -8935,8 +8935,8 @@
   "name": "Riverwater Partners LLC"
  },
  "1882673": {
-  "shares": 2523,
-  "value": 2912274,
+  "shares": 2374,
+  "value": 2528571,
   "name": "US Asset Management LLC"
  },
  "1883006": {
@@ -10324,11 +10324,6 @@
   "value": 260670,
   "name": "Crane Advisory, LLC"
  },
- "1951908": {
-  "shares": 802,
-  "value": 854218,
-  "name": "INTEGRITY WEALTH ADVISORS, INC."
- },
  "1952781": {
   "shares": 5606,
   "value": 5971147,
@@ -10373,6 +10368,11 @@
   "shares": 1074,
   "value": 1143928,
   "name": "Prodigy Asset Management LLC"
+ },
+ "1956471": {
+  "shares": 1357,
+  "value": 1445290,
+  "name": "Meredith Wealth Planning"
  },
  "1956824": {
   "shares": 12252,
@@ -16378,11 +16378,6 @@
   "shares": 280570,
   "value": 298838108,
   "name": "COMMONWEALTH EQUITY SERVICES, LLC"
- },
- "312348": {
-  "shares": 13868,
-  "value": 14770945,
-  "name": "LOOMIS SAYLES & CO L P"
  },
  "313028": {
   "shares": 131044,

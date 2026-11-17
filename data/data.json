@@ -1,18 +1,18 @@
 {
- "generated": "2026-11-16T01:42:32.397184Z",
+ "generated": "2026-11-17T04:27:27.756679Z",
  "quarters": [
   "2026-09-30"
  ],
  "stocks": {
   "SNDK": {
    "name": "SANDISK CORP",
-   "sharesM": 85.3,
+   "sharesM": 105.9,
    "tl": [
     {
      "q": "2026-09-30",
-     "holders": 1539,
-     "valueB": 145.38,
-     "neu": 1539,
+     "holders": 1820,
+     "valueB": 179.19,
+     "neu": 1820,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -20,10 +20,34 @@
    ],
    "signals": [
     {
+     "fund": "D. E. Shaw & Co., Inc.",
+     "action": "NEW",
+     "shares": "161.5K",
+     "value": "$281.0M"
+    },
+    {
      "fund": "Renaissance Technologies LLC",
      "action": "NEW",
      "shares": "276.5K",
      "value": "$481.0M"
+    },
+    {
+     "fund": "Millennium Management LLC",
+     "action": "NEW",
+     "shares": "420.2K",
+     "value": "$731.2M"
+    },
+    {
+     "fund": "Bridgewater Associates, LP",
+     "action": "NEW",
+     "shares": "66.8K",
+     "value": "$116.1M"
+    },
+    {
+     "fund": "Citadel Advisors LLC",
+     "action": "NEW",
+     "shares": "57.3K",
+     "value": "$99.7M"
     }
    ],
    "holders": [
@@ -88,46 +112,46 @@
      "chg": "NEW"
     },
     {
+     "fund": "Clear Street Group Inc.",
+     "shares": "1.6M",
+     "value": "$2.8B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "NORTHERN TRUST CORP  (NTRS, NTRSO)",
+     "shares": "1.4M",
+     "value": "$2.4B",
+     "chg": "NEW"
+    },
+    {
      "fund": "Amundi",
      "shares": "1.3M",
      "value": "$2.3B",
      "chg": "NEW"
     },
     {
-     "fund": "UBS Group AG  (UBS)",
-     "shares": "896.1K",
-     "value": "$1.6B",
+     "fund": "JENNISON ASSOCIATES LLC",
+     "shares": "1.2M",
+     "value": "$2.1B",
      "chg": "NEW"
     },
     {
-     "fund": "VANGUARD FIDUCIARY TRUST CO",
-     "shares": "844.2K",
-     "value": "$1.5B",
-     "chg": "NEW"
-    },
-    {
-     "fund": "Assenagon Asset Management S.A.",
-     "shares": "828.9K",
-     "value": "$1.4B",
-     "chg": "NEW"
-    },
-    {
-     "fund": "Bank of New York Mellon Corp  (BNY, BNY-PK)",
-     "shares": "783.2K",
-     "value": "$1.4B",
+     "fund": "UBS AM, a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC",
+     "shares": "1.1M",
+     "value": "$1.9B",
      "chg": "NEW"
     }
    ]
   },
   "MU": {
    "name": "MICRON TECHNOLOGY",
-   "sharesM": 692.9,
+   "sharesM": 853.0,
    "tl": [
     {
      "q": "2026-09-30",
-     "holders": 3502,
-     "valueB": 722.59,
-     "neu": 3502,
+     "holders": 3940,
+     "valueB": 879.14,
+     "neu": 3940,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -135,10 +159,40 @@
    ],
    "signals": [
     {
+     "fund": "D. E. Shaw & Co., Inc.",
+     "action": "NEW",
+     "shares": "1.3M",
+     "value": "$1.4B"
+    },
+    {
      "fund": "Renaissance Technologies LLC",
      "action": "NEW",
      "shares": "1.5M",
      "value": "$1.6B"
+    },
+    {
+     "fund": "Millennium Management LLC",
+     "action": "NEW",
+     "shares": "1.2M",
+     "value": "$1.3B"
+    },
+    {
+     "fund": "Bridgewater Associates, LP",
+     "action": "NEW",
+     "shares": "237.1K",
+     "value": "$252.6M"
+    },
+    {
+     "fund": "Citadel Advisors LLC",
+     "action": "NEW",
+     "shares": "735.5K",
+     "value": "$783.4M"
+    },
+    {
+     "fund": "Appaloosa LP",
+     "action": "NEW",
+     "shares": "1.2M",
+     "value": "$1.3B"
     }
    ],
    "holders": [
@@ -209,40 +263,40 @@
      "chg": "NEW"
     },
     {
+     "fund": "GOLDMAN SACHS GROUP INC  (GS, GSCE, GS-PA, GS-PC, GS-PD)",
+     "shares": "15.3M",
+     "value": "$16.3B",
+     "chg": "NEW"
+    },
+    {
      "fund": "Capital International Investors",
      "shares": "11.7M",
      "value": "$12.5B",
      "chg": "NEW"
     },
     {
-     "fund": "Amundi",
-     "shares": "7.3M",
-     "value": "$7.8B",
+     "fund": "NORTHERN TRUST CORP  (NTRS, NTRSO)",
+     "shares": "11.2M",
+     "value": "$11.9B",
      "chg": "NEW"
     },
     {
-     "fund": "Bank of New York Mellon Corp  (BNY, BNY-PK)",
-     "shares": "7.0M",
-     "value": "$7.4B",
-     "chg": "NEW"
-    },
-    {
-     "fund": "BARCLAYS PLC  (BCS, BCLYF)",
-     "shares": "6.6M",
-     "value": "$7.0B",
+     "fund": "BANK OF AMERICA CORP /DE/  (BAC, BAC-PB, BAC-PE, BAC-PK, BAC-PL, BAC-PM, BAC-PN, BAC-PO, BAC-PP, BAC-PQ, BAC-PS, BML-PG, BML-PL)",
+     "shares": "10.4M",
+     "value": "$11.1B",
      "chg": "NEW"
     }
    ]
   },
   "LITE": {
    "name": "LUMENTUM HLDGS INC",
-   "sharesM": 63.0,
+   "sharesM": 77.8,
    "tl": [
     {
      "q": "2026-09-30",
-     "holders": 1154,
-     "valueB": 59.11,
-     "neu": 1154,
+     "holders": 1256,
+     "valueB": 72.31,
+     "neu": 1256,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -250,10 +304,34 @@
    ],
    "signals": [
     {
+     "fund": "D. E. Shaw & Co., Inc.",
+     "action": "NEW",
+     "shares": "113.0K",
+     "value": "$109.7M"
+    },
+    {
      "fund": "Renaissance Technologies LLC",
      "action": "NEW",
      "shares": "167.5K",
      "value": "$162.7M"
+    },
+    {
+     "fund": "Millennium Management LLC",
+     "action": "NEW",
+     "shares": "59.3K",
+     "value": "$57.6M"
+    },
+    {
+     "fund": "Bridgewater Associates, LP",
+     "action": "NEW",
+     "shares": "25.0K",
+     "value": "$24.3M"
+    },
+    {
+     "fund": "Citadel Advisors LLC",
+     "action": "NEW",
+     "shares": "27.7K",
+     "value": "$26.9M"
     }
    ],
    "holders": [
@@ -312,39 +390,39 @@
      "chg": "NEW"
     },
     {
+     "fund": "GOLDMAN SACHS GROUP INC  (GS, GSCE, GS-PA, GS-PC, GS-PD)",
+     "shares": "1.1M",
+     "value": "$1.0B",
+     "chg": "NEW"
+    },
+    {
+     "fund": "BANK OF AMERICA CORP /DE/  (BAC, BAC-PB, BAC-PE, BAC-PK, BAC-PL, BAC-PM, BAC-PN, BAC-PO, BAC-PP, BAC-PQ, BAC-PS, BML-PG, BML-PL)",
+     "shares": "798.4K",
+     "value": "$775.5M",
+     "chg": "NEW"
+    },
+    {
      "fund": "Nuveen, LLC",
      "shares": "768.9K",
      "value": "$746.8M",
      "chg": "NEW"
     },
     {
+     "fund": "Value Aligned Research Advisors, LLC",
+     "shares": "688.4K",
+     "value": "$668.6M",
+     "chg": "NEW"
+    },
+    {
+     "fund": "NORTHERN TRUST CORP  (NTRS, NTRSO)",
+     "shares": "687.9K",
+     "value": "$668.1M",
+     "chg": "NEW"
+    },
+    {
      "fund": "ARROWSTREET CAPITAL, LIMITED PARTNERSHIP",
      "shares": "681.1K",
      "value": "$661.6M",
-     "chg": "NEW"
-    },
-    {
-     "fund": "Winslow Capital Management, LLC",
-     "shares": "650.9K",
-     "value": "$632.2M",
-     "chg": "NEW"
-    },
-    {
-     "fund": "Amundi",
-     "shares": "594.1K",
-     "value": "$577.1M",
-     "chg": "NEW"
-    },
-    {
-     "fund": "BANK OF MONTREAL /CAN/  (BMO, AIQD, AIQU, BERZ, BNKD, BNKU, BRZD, BRZL, BULZ, CARD, CARU, DULL, FLYD, FLYU, FNGD, FNGO, FNGS)",
-     "shares": "587.4K",
-     "value": "$570.6M",
-     "chg": "NEW"
-    },
-    {
-     "fund": "Capital World Investors",
-     "shares": "537.9K",
-     "value": "$522.4M",
      "chg": "NEW"
     }
    ]

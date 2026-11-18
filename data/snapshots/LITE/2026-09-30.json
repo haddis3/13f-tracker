@@ -4,6 +4,16 @@
   "value": 537442000,
   "name": "ROYAL BANK OF CANADA  (RY, RYLBF)"
  },
+ "1000742": {
+  "shares": 1320,
+  "value": 1282063,
+  "name": "SANDLER CAPITAL MANAGEMENT"
+ },
+ "1002784": {
+  "shares": 8821,
+  "value": 8567484,
+  "name": "SHELTON CAPITAL MANAGEMENT"
+ },
  "1003518": {
   "shares": 179707,
   "value": 174542220,
@@ -49,6 +59,11 @@
   "value": 40602,
   "name": "NATIXIS ADVISORS, LLC"
  },
+ "1019231": {
+  "shares": 49,
+  "value": 47592,
+  "name": "UNIVERSITY OF TEXAS/TEXAS AM INVESTMENT MANAGEMENT CO"
+ },
  "1020066": {
   "shares": 14696,
   "value": 14273637,
@@ -73,6 +88,11 @@
   "shares": 320,
   "value": 310803,
   "name": "SUMITOMO MITSUI FINANCIAL GROUP, INC.  (SMFG, SMFNF)"
+ },
+ "1024896": {
+  "shares": 1568,
+  "value": 1522935,
+  "name": "CANTOR FITZGERALD, L. P."
  },
  "1034771": {
   "shares": 504,
@@ -108,6 +128,11 @@
   "shares": 1913,
   "value": 1858307,
   "name": "MAI Capital Management"
+ },
+ "1041885": {
+  "shares": 1340,
+  "value": 1301,
+  "name": "INGALLS & SNYDER LLC"
  },
  "1046192": {
   "shares": 57544,
@@ -194,6 +219,11 @@
   "value": 1872,
   "name": "PARK AVENUE SECURITIES LLC"
  },
+ "1076809": {
+  "shares": 236,
+  "value": 229,
+  "name": "GLAZER CAPITAL, LLC"
+ },
  "1080107": {
   "shares": 722,
   "value": 701250,
@@ -259,6 +289,11 @@
   "value": 7352,
   "name": "THOROUGHBRED FINANCIAL SERVICES, LLC"
  },
+ "1092203": {
+  "shares": 1362,
+  "value": 1322855,
+  "name": "FIRST CITIZENS BANK & TRUST CO"
+ },
  "109380": {
   "shares": 1077,
   "value": 1046047,
@@ -273,6 +308,11 @@
   "shares": 3500,
   "value": 3399410,
   "name": "ADVENT CAPITAL MANAGEMENT /DE/"
+ },
+ "1103646": {
+  "shares": 133108,
+  "value": 129282476,
+  "name": "CSS LLC/IL"
  },
  "1103653": {
   "shares": 255,
@@ -298,6 +338,11 @@
   "shares": 240706,
   "value": 233788110,
   "name": "AXIOM INVESTORS LLC /DE"
+ },
+ "1109228": {
+  "shares": 743,
+  "value": 721646,
+  "name": "KCM INVESTMENT ADVISORS LLC"
  },
  "1109448": {
   "shares": 160312,
@@ -534,6 +579,11 @@
   "value": 487573,
   "name": "HOLDERNESS INVESTMENTS CO"
  },
+ "1191672": {
+  "shares": 101564,
+  "value": 98645051,
+  "name": "CREDIT AGRICOLE S A"
+ },
  "1207017": {
   "shares": 6275,
   "value": 6094657,
@@ -573,6 +623,11 @@
   "shares": 10112,
   "value": 9821381,
   "name": "BRITISH COLUMBIA INVESTMENT MANAGEMENT Corp"
+ },
+ "1259671": {
+  "shares": 1000,
+  "value": 971260,
+  "name": "WBH ADVISORY INC"
  },
  "1259969": {
   "shares": 48,
@@ -648,6 +703,11 @@
   "shares": 220,
   "value": 213678,
   "name": "SUMMITRY LLC"
+ },
+ "1280487": {
+  "shares": 3888,
+  "value": 3776260,
+  "name": "FIDEURAM - INTESA SANPAOLO PRIVATE BANKING S.P.A."
  },
  "1280965": {
   "shares": 7998,
@@ -789,6 +849,11 @@
   "value": 447751,
   "name": "KNIGHTSBRIDGE ASSET MANAGEMENT, LLC"
  },
+ "1332905": {
+  "shares": 514,
+  "value": 498976,
+  "name": "Curi Capital, LLC"
+ },
  "1333792": {
   "shares": 3497,
   "value": 3396496,
@@ -838,6 +903,11 @@
   "shares": 25046,
   "value": 24326178,
   "name": "Bridgewater Associates, LP"
+ },
+ "1351731": {
+  "shares": 1,
+  "value": 971,
+  "name": "WestEnd Advisors, LLC"
  },
  "1351991": {
   "shares": 219,
@@ -934,6 +1004,11 @@
   "value": 224778,
   "name": "HBK Sorce Advisory LLC"
  },
+ "1384042": {
+  "shares": 636,
+  "value": 617721,
+  "name": "Dorsey & Whitney Trust CO LLC"
+ },
  "1386462": {
   "shares": 1213,
   "value": 1178138,
@@ -993,6 +1068,11 @@
   "shares": 26,
   "value": 25253,
   "name": "Manchester Capital Management LLC"
+ },
+ "1393818": {
+  "shares": 1063,
+  "value": 1032449,
+  "name": "Blackstone Inc.  (BX)"
  },
  "1393825": {
   "shares": 143297,
@@ -1124,6 +1204,11 @@
   "value": 467759,
   "name": "Baker Avenue Asset Management, LP"
  },
+ "1433541": {
+  "shares": 239,
+  "value": 232131,
+  "name": "ASPIRIANT, LLC"
+ },
  "1434819": {
   "shares": 55797,
   "value": 47711753,
@@ -1154,6 +1239,11 @@
   "value": 582756,
   "name": "INTACT INVESTMENT MANAGEMENT INC."
  },
+ "1446114": {
+  "shares": 11,
+  "value": 10684,
+  "name": "Ancora Advisors LLC"
+ },
  "1446194": {
   "shares": 39398,
   "value": 38265701,
@@ -1183,6 +1273,11 @@
   "shares": 1942,
   "value": 1886187,
   "name": "GTS SECURITIES LLC"
+ },
+ "1453072": {
+  "shares": 28430,
+  "value": 27612922,
+  "name": "Alyeska Investment Group, L.P."
  },
  "1454027": {
   "shares": 16710,
@@ -1289,6 +1384,11 @@
   "value": 41764,
   "name": "HARBOR INVESTMENT ADVISORY, LLC"
  },
+ "1469751": {
+  "shares": 219,
+  "value": 212706,
+  "name": "RiverFront Investment Group, LLC"
+ },
  "1470723": {
   "shares": 3000,
   "value": 2913780,
@@ -1318,6 +1418,11 @@
   "shares": 1049,
   "value": 1018851,
   "name": "Diversified Trust Co"
+ },
+ "1481045": {
+  "shares": 29339,
+  "value": 28495797,
+  "name": "Daiwa Securities Group Inc.  (DSECF, DSEEY)"
  },
  "1481986": {
   "shares": 1889,
@@ -1364,10 +1469,20 @@
   "value": 2525276,
   "name": "Meiji Yasuda Asset Management Co Ltd."
  },
+ "1496637": {
+  "shares": 8872,
+  "value": 8617019,
+  "name": "Norinchukin Bank, The"
+ },
  "1502149": {
   "shares": 9417,
   "value": 9146983,
   "name": "Transamerica Financial Advisors, LLC"
+ },
+ "1504169": {
+  "shares": 3150,
+  "value": 3059469,
+  "name": "TOKIO MARINE ASSET MANAGEMENT CO LTD"
  },
  "1510387": {
   "shares": 10839,
@@ -1403,6 +1518,11 @@
   "shares": 3320,
   "value": 3224583,
   "name": "Parallax Volatility Advisers, L.P."
+ },
+ "1522877": {
+  "shares": 1186,
+  "value": 1151914,
+  "name": "AIA Group Ltd"
  },
  "1525234": {
   "shares": 472235,
@@ -1459,15 +1579,35 @@
   "value": 2505851,
   "name": "Peregrine Asset Advisers, Inc."
  },
+ "1535323": {
+  "shares": 23886,
+  "value": 23199517,
+  "name": "Allianz Asset Management GmbH"
+ },
  "1535385": {
   "shares": 61938,
   "value": 60157902,
   "name": "Artemis Investment Management LLP"
  },
+ "1535452": {
+  "shares": 17360,
+  "value": 19675824,
+  "name": "Andra AP-fonden"
+ },
  "1535611": {
   "shares": 264,
   "value": 256413,
   "name": "Silverleafe Capital Partners, LLC"
+ },
+ "1535660": {
+  "shares": 2921,
+  "value": 2837050,
+  "name": "Lombard Odier Asset Management (Switzerland) SA"
+ },
+ "1535811": {
+  "shares": 310,
+  "value": 301091,
+  "name": "Redhawk Wealth Advisors, Inc."
  },
  "1535845": {
   "shares": 23029,
@@ -1488,6 +1628,11 @@
   "shares": 646,
   "value": 627434,
   "name": "Alta Advisers Ltd"
+ },
+ "1536186": {
+  "shares": 691,
+  "value": 671140,
+  "name": "LANDSCAPE CAPITAL MANAGEMENT, L.L.C."
  },
  "1536592": {
   "shares": 16262,
@@ -1513,6 +1658,11 @@
   "shares": 10100,
   "value": 9809726,
   "name": "Louisiana State Employees Retirement System"
+ },
+ "1537783": {
+  "shares": 4473,
+  "value": 4344446,
+  "name": "Kentucky Retirement Systems"
  },
  "1538383": {
   "shares": 428,
@@ -1579,6 +1729,11 @@
   "value": 1262638,
   "name": "Glaxis Capital Management, LLC"
  },
+ "1542383": {
+  "shares": 321,
+  "value": 311774,
+  "name": "Aviance Capital Partners, LLC"
+ },
  "1542927": {
   "shares": 4000,
   "value": 3885040,
@@ -1624,6 +1779,11 @@
   "value": 22529347,
   "name": "BOOTHBAY FUND MANAGEMENT, LLC"
  },
+ "1549275": {
+  "shares": 31,
+  "value": 30109,
+  "name": "Catalyst Capital Advisors LLC"
+ },
  "1549408": {
   "shares": 318,
   "value": 308861,
@@ -1645,8 +1805,8 @@
   "name": "AMF Tjanstepension AB"
  },
  "1555170": {
-  "shares": 1786,
-  "value": 1532084,
+  "shares": 2223,
+  "value": 2159500,
   "name": "Allworth Financial LP"
  },
  "1557017": {
@@ -1734,6 +1894,11 @@
   "value": 98338133,
   "name": "Mirae Asset Global Investments Co., Ltd."
  },
+ "1571556": {
+  "shares": 381,
+  "value": 370115,
+  "name": "Pure Financial Advisors, LLC"
+ },
  "1573876": {
   "shares": 5472,
   "value": 5315081,
@@ -1748,6 +1913,11 @@
   "shares": 361,
   "value": 350625,
   "name": "Blue Fin Capital, Inc."
+ },
+ "1577774": {
+  "shares": 1691,
+  "value": 1642401,
+  "name": "Regal Partners Ltd"
  },
  "1578177": {
   "shares": 242348,
@@ -1784,6 +1954,11 @@
   "value": 8371290,
   "name": "1492 Capital Management LLC"
  },
+ "1584686": {
+  "shares": 1811,
+  "value": 1758952,
+  "name": "Kentucky Retirement Systems Insurance Trust Fund"
+ },
  "1585859": {
   "shares": 1604,
   "value": 1557853,
@@ -1813,6 +1988,11 @@
   "shares": 2500,
   "value": 2428150,
   "name": "MYDA Advisors LLC"
+ },
+ "1591097": {
+  "shares": 7201,
+  "value": 6994043,
+  "name": "Harvest Investment Services, LLC"
  },
  "1592828": {
   "shares": 7568,
@@ -1869,6 +2049,11 @@
   "value": 341884,
   "name": "E&G Advisors, LLC"
  },
+ "1598611": {
+  "shares": 71,
+  "value": 68960,
+  "name": "Friedenthal Financial"
+ },
  "1598697": {
   "shares": 6191,
   "value": 6013,
@@ -1893,6 +2078,16 @@
   "shares": 189190,
   "value": 183752679,
   "name": "Tidal Investments LLC"
+ },
+ "1600145": {
+  "shares": 785,
+  "value": 762440,
+  "name": "Van Hulzen Asset Management, LLC"
+ },
+ "1600344": {
+  "shares": 14567,
+  "value": 14148789,
+  "name": "Lighthouse Investment Partners, LLC"
  },
  "1601384": {
   "shares": 216,
@@ -1928,6 +2123,16 @@
   "shares": 531295,
   "value": 516025582,
   "name": "UBS Group AG  (UBS)"
+ },
+ "1610769": {
+  "shares": 250,
+  "value": 242815,
+  "name": "Caprock Group, LLC"
+ },
+ "1610880": {
+  "shares": 12601,
+  "value": 12238847,
+  "name": "BlueCrest Capital Management Ltd"
  },
  "1612063": {
   "shares": 4577,
@@ -2119,6 +2324,11 @@
   "value": 1295661,
   "name": "Ellevest, Inc."
  },
+ "1644956": {
+  "shares": 1090,
+  "value": 1058673,
+  "name": "WILLIAM BLAIR INVESTMENT MANAGEMENT, LLC"
+ },
  "1645382": {
   "shares": 1296,
   "value": 1258870,
@@ -2228,6 +2438,11 @@
   "shares": 62,
   "value": 60218,
   "name": "Grove Bank & Trust"
+ },
+ "1662449": {
+  "shares": 354,
+  "value": 343827,
+  "name": "Klingman & Associates, LLC"
  },
  "1663224": {
   "shares": 33,
@@ -2354,10 +2569,20 @@
   "value": 32485675,
   "name": "ODDO BHF ASSET MANAGEMENT SAS"
  },
+ "1686988": {
+  "shares": 462,
+  "value": 448722,
+  "name": "L2 Asset Management, LLC"
+ },
  "1687241": {
   "shares": 175607,
   "value": 170560055,
   "name": "Castle Hook Partners LP"
+ },
+ "1689144": {
+  "shares": 30,
+  "value": 29138,
+  "name": "Legacy Bridge, LLC"
  },
  "1689646": {
   "shares": 144,
@@ -2394,6 +2619,11 @@
   "value": 110619086,
   "name": "Russell Investments Group, Ltd."
  },
+ "1693636": {
+  "shares": 365,
+  "value": 354510,
+  "name": "Sagewood Asset Management LP"
+ },
  "1693745": {
   "shares": 116910,
   "value": 113550007,
@@ -2403,6 +2633,16 @@
   "shares": 2294,
   "value": 2228233,
   "name": "Mutual Advisors, LLC"
+ },
+ "1694126": {
+  "shares": 28172,
+  "value": 27335,
+  "name": "Harvest Fund Management Co., Ltd"
+ },
+ "1694164": {
+  "shares": 10801,
+  "value": 10490579,
+  "name": "AustralianSuper Pty Ltd"
  },
  "1694217": {
   "shares": 318193,
@@ -2443,6 +2683,11 @@
   "shares": 12353,
   "value": 11997799,
   "name": "AE Wealth Management LLC"
+ },
+ "1697728": {
+  "shares": 6725,
+  "value": 6531724,
+  "name": "Daiichi Life Insurance Co., Ltd."
  },
  "1697765": {
   "shares": 1583,
@@ -2503,6 +2748,16 @@
   "shares": 54909,
   "value": 53338693,
   "name": "MIRAE ASSET GLOBAL ETFS HOLDINGS Ltd."
+ },
+ "1705711": {
+  "shares": 2229,
+  "value": 2164939,
+  "name": "Morse Asset Management, Inc"
+ },
+ "1706766": {
+  "shares": 6676,
+  "value": 6484132,
+  "name": "Caption Management, LLC"
  },
  "1707202": {
   "shares": 444,
@@ -2584,6 +2839,11 @@
   "value": 70,
   "name": "TrinityBridge Ltd"
  },
+ "1719087": {
+  "shares": 514,
+  "value": 499227,
+  "name": "Diametric Capital, LP"
+ },
  "1720777": {
   "shares": 6,
   "value": 5828,
@@ -2618,6 +2878,16 @@
   "shares": 9184,
   "value": 8920052,
   "name": "Steward Partners Investment Advisory, LLC"
+ },
+ "1723643": {
+  "shares": 675,
+  "value": 655601,
+  "name": "Shay Capital LLC"
+ },
+ "1725690": {
+  "shares": 572,
+  "value": 555561,
+  "name": "Bridgefront Capital, LLC"
  },
  "1726752": {
   "shares": 133,
@@ -2664,20 +2934,40 @@
   "value": 43707,
   "name": "Crewe Advisors LLC"
  },
+ "1730073": {
+  "shares": 41908,
+  "value": 40703643,
+  "name": "PFA Pension, Forsikringsaktieselskab"
+ },
  "1730464": {
   "shares": 61056,
   "value": 59301251,
   "name": "Nan Shan Life Insurance Co., Ltd."
+ },
+ "1730511": {
+  "shares": 331,
+  "value": 321487,
+  "name": "Bedel Financial Consulting, Inc."
  },
  "1730765": {
   "shares": 813,
   "value": 789885,
   "name": "Triumph Capital Management"
  },
+ "1730810": {
+  "shares": 324,
+  "value": 314688,
+  "name": "Legacy Financial Advisors, Inc."
+ },
  "1730817": {
   "shares": 1658,
   "value": 1609911,
   "name": "180 WEALTH ADVISORS, LLC"
+ },
+ "1730942": {
+  "shares": 827,
+  "value": 802989,
+  "name": "Waterloo Capital, L.P."
  },
  "1731061": {
   "shares": 788,
@@ -2709,6 +2999,11 @@
   "value": 1191,
   "name": "Q3 Asset Management"
  },
+ "1733173": {
+  "shares": 1277,
+  "value": 1240299,
+  "name": "Howard Capital Management, LLC"
+ },
  "1733472": {
   "shares": 37,
   "value": 35937,
@@ -2734,6 +3029,11 @@
   "value": 548,
   "name": "CX Institutional"
  },
+ "1737109": {
+  "shares": 5240,
+  "value": 5088943,
+  "name": "Integrated Wealth Concepts LLC"
+ },
  "1738728": {
   "shares": 80047,
   "value": 77746378,
@@ -2758,6 +3058,11 @@
   "shares": 27979,
   "value": 27174884,
   "name": "Elo Mutual Pension Insurance Co"
+ },
+ "1740053": {
+  "shares": 241,
+  "value": 234074,
+  "name": "Chicago Capital, LLC"
  },
  "1742998": {
   "shares": 6520,
@@ -2789,6 +3094,11 @@
   "value": 48494,
   "name": "North Growth Management Ltd."
  },
+ "1745981": {
+  "shares": 19462,
+  "value": 18902662,
+  "name": "WORLDQUANT MILLENNIUM ADVISORS LLC"
+ },
  "1748271": {
   "shares": 308,
   "value": 299148,
@@ -2809,6 +3119,11 @@
   "value": 646859,
   "name": "Truvestments Capital LLC"
  },
+ "1751581": {
+  "shares": 211,
+  "value": 204936,
+  "name": "Cooper Financial Group"
+ },
  "1752759": {
   "shares": 500,
   "value": 485630,
@@ -2828,6 +3143,11 @@
   "shares": 46045,
   "value": 44721667,
   "name": "Taikang Asset Management (Hong Kong) Co Ltd"
+ },
+ "1755987": {
+  "shares": 5729,
+  "value": 5564348,
+  "name": "Oak Thistle LLC"
  },
  "1757043": {
   "shares": 350,
@@ -2879,6 +3199,11 @@
   "value": 1699705,
   "name": "HHLR ADVISORS, LTD."
  },
+ "1762716": {
+  "shares": 29,
+  "value": 28166,
+  "name": "BURKETT FINANCIAL SERVICES, LLC"
+ },
  "1763121": {
   "shares": 270,
   "value": 262245,
@@ -2899,6 +3224,16 @@
   "value": 907157,
   "name": "Geneos Wealth Management Inc."
  },
+ "1764970": {
+  "shares": 66,
+  "value": 60321,
+  "name": "Kozak & Associates, Inc."
+ },
+ "1765216": {
+  "shares": 708,
+  "value": 687652,
+  "name": "Magnus Financial Group LLC"
+ },
  "1765536": {
   "shares": 1683,
   "value": 1634645,
@@ -2913,6 +3248,11 @@
   "shares": 1219,
   "value": 1184353,
   "name": "Gladstone Institutional Advisory LLC"
+ },
+ "1766904": {
+  "shares": 184,
+  "value": 178779,
+  "name": "CARY STREET PARTNERS INVESTMENT ADVISORY LLC"
  },
  "1767306": {
   "shares": 10523,
@@ -2959,6 +3299,11 @@
   "value": 101982,
   "name": "Knuff & Co LLC"
  },
+ "1768099": {
+  "shares": 343,
+  "value": 333142,
+  "name": "Qtron Investments LLC"
+ },
  "1768130": {
   "shares": 231,
   "value": 224361,
@@ -2978,6 +3323,11 @@
   "shares": 817,
   "value": 794155,
   "name": "GREAT VALLEY ADVISOR GROUP, INC."
+ },
+ "1771605": {
+  "shares": 225,
+  "value": 218534,
+  "name": "SAGE RHINO CAPITAL LLC"
  },
  "1772715": {
   "shares": 92,
@@ -3029,6 +3379,16 @@
   "value": 8543601,
   "name": "Ethic Inc."
  },
+ "1780700": {
+  "shares": 409,
+  "value": 397245,
+  "name": "Osmosis Investment Management UK Ltd"
+ },
+ "1781284": {
+  "shares": 404,
+  "value": 392391,
+  "name": "Curated Wealth Partners LLC"
+ },
  "1783412": {
   "shares": 356,
   "value": 345769,
@@ -3049,6 +3409,11 @@
   "value": 19105655,
   "name": "Woodline Partners LP"
  },
+ "1786411": {
+  "shares": 214,
+  "value": 207850,
+  "name": "Carolina Wealth Advisors, LLC"
+ },
  "1787258": {
   "shares": 426,
   "value": 413757,
@@ -3063,6 +3428,11 @@
   "shares": 703,
   "value": 682796,
   "name": "Kingsview Wealth Management, LLC"
+ },
+ "1791998": {
+  "shares": 372,
+  "value": 388839,
+  "name": "Net Worth Advisory Group"
  },
  "1792167": {
   "shares": 1750,
@@ -3114,6 +3484,11 @@
   "value": 726502,
   "name": "XML Financial, LLC"
  },
+ "1800687": {
+  "shares": 374,
+  "value": 359257,
+  "name": "Symphony Financial, Ltd. Co."
+ },
  "1800692": {
   "shares": 112,
   "value": 109264,
@@ -3154,10 +3529,25 @@
   "value": 301169272,
   "name": "Blue Whale Capital LLP"
  },
+ "1801619": {
+  "shares": 2,
+  "value": 1942,
+  "name": "BELLEVUE ASSET MANAGEMENT, LLC"
+ },
  "1801868": {
   "shares": 483,
   "value": 468789,
   "name": "SteelPeak Wealth, LLC"
+ },
+ "1802136": {
+  "shares": 8,
+  "value": 10684,
+  "name": "Investment Research & Advisory Group, Inc."
+ },
+ "1802451": {
+  "shares": 210,
+  "value": 204067,
+  "name": "HighMark Wealth Management LLC"
  },
  "1802473": {
   "shares": 1305,
@@ -3173,6 +3563,11 @@
   "shares": 374,
   "value": 363054,
   "name": "Soltis Investment Advisors LLC"
+ },
+ "1802952": {
+  "shares": 7,
+  "value": 6799,
+  "name": "Game Plan Financial Advisors, LLC"
  },
  "1802961": {
   "shares": 224,
@@ -3193,6 +3588,11 @@
   "shares": 283,
   "value": 274867,
   "name": "Resonant Capital Advisors, LLC"
+ },
+ "1803294": {
+  "shares": 8,
+  "value": 7770,
+  "name": "Goodwin Investment Advisory"
  },
  "1803456": {
   "shares": 8,
@@ -3254,6 +3654,11 @@
   "value": 645888,
   "name": "Rothschild Wealth LLC"
  },
+ "1811568": {
+  "shares": 7215,
+  "value": 7007641,
+  "name": "Investment Management Corp of Ontario"
+ },
  "1811806": {
   "shares": 1,
   "value": 971,
@@ -3299,6 +3704,11 @@
   "value": 661428,
   "name": "TrueWealth Advisors, LLC"
  },
+ "1818014": {
+  "shares": 244,
+  "value": 254375,
+  "name": "CYBER HORNET ETFs LLC"
+ },
  "1818391": {
   "shares": 400,
   "value": 388504,
@@ -3309,10 +3719,25 @@
   "value": 2688783,
   "name": "Advisor Resource Council"
  },
+ "1821561": {
+  "shares": 509,
+  "value": 494371,
+  "name": "INCEPTIONR LLC"
+ },
  "1821626": {
   "shares": 299,
   "value": 290407,
   "name": "State of Wyoming"
+ },
+ "1822632": {
+  "shares": 15,
+  "value": 14569,
+  "name": "Gleason Group, Inc."
+ },
+ "1825259": {
+  "shares": 24648,
+  "value": 23939501,
+  "name": "CaixaBank, S.A."
  },
  "1827844": {
   "shares": 1,
@@ -3323,6 +3748,11 @@
   "shares": 2329,
   "value": 2262065,
   "name": "XTX Topco Ltd"
+ },
+ "1828808": {
+  "shares": 361,
+  "value": 350624,
+  "name": "OSLO PENSJONSFORSIKRING AS"
  },
  "1830819": {
   "shares": 6759,
@@ -3349,10 +3779,25 @@
   "value": 135976,
   "name": "Volterra Technologies LP"
  },
+ "1834499": {
+  "shares": 5043,
+  "value": 4898064,
+  "name": "F/m Investments LLC"
+ },
+ "1835252": {
+  "shares": 1635,
+  "value": 1588010,
+  "name": "EWA, LLC"
+ },
  "1835730": {
   "shares": 33301,
   "value": 32343929,
   "name": "Ardmore Road Asset Management LP"
+ },
+ "1835751": {
+  "shares": 400,
+  "value": 388504,
+  "name": "CastleKnight Management LP"
  },
  "1837309": {
   "shares": 589414,
@@ -3403,6 +3848,11 @@
   "shares": 2296,
   "value": 2230216,
   "name": "MRA Advisory Group"
+ },
+ "1842296": {
+  "shares": 82135,
+  "value": 79774440,
+  "name": "E Fund Management Co., Ltd."
  },
  "1843715": {
   "shares": 41,
@@ -3459,6 +3909,11 @@
   "value": 4856,
   "name": "Continuum Advisory, LLC"
  },
+ "1846758": {
+  "shares": 20,
+  "value": 19425,
+  "name": "Orion Capital Management LLC"
+ },
  "1847328": {
   "shares": 37908,
   "value": 36818524,
@@ -3498,6 +3953,16 @@
   "shares": 3356,
   "value": 3260000,
   "name": "PINNBROOK CAPITAL MANAGEMENT LP"
+ },
+ "1856405": {
+  "shares": 4900,
+  "value": 4759174,
+  "name": "SONA ASSET MANAGEMENT (US) LLC"
+ },
+ "1856637": {
+  "shares": 2062,
+  "value": 2002738,
+  "name": "Siemens Fonds Invest GmbH"
  },
  "1858740": {
   "shares": 13142,
@@ -3589,6 +4054,11 @@
   "value": 303521664,
   "name": "Clear Street Group Inc."
  },
+ "1882132": {
+  "shares": 7544,
+  "value": 7327223,
+  "name": "Lifeworks Advisors, LLC"
+ },
  "1882673": {
   "shares": 642,
   "value": 623549,
@@ -3669,6 +4139,11 @@
   "value": 10937359,
   "name": "PensionDanmark Pensionsforsikringsaktieselskab"
  },
+ "1897612": {
+  "shares": 871702,
+  "value": 846650,
+  "name": "T. Rowe Price Investment Management, Inc."
+ },
  "1899030": {
   "shares": 951,
   "value": 923668,
@@ -3729,6 +4204,11 @@
   "value": 266125,
   "name": "FSA Advisors, Inc."
  },
+ "1906322": {
+  "shares": 4,
+  "value": 3885,
+  "name": "POM Investment Strategies, LLC"
+ },
  "1906594": {
   "shares": 14455,
   "value": 14061422,
@@ -3738,6 +4218,11 @@
   "shares": 2,
   "value": 1943,
   "name": "PayPay Securities Corp"
+ },
+ "1908923": {
+  "shares": 25457,
+  "value": 24725366,
+  "name": "Czech National Bank"
  },
  "1908938": {
   "shares": 24,
@@ -3753,6 +4238,16 @@
   "shares": 4345,
   "value": 4220125,
   "name": "WEST MICHIGAN ADVISORS, LLC"
+ },
+ "1910383": {
+  "shares": 15,
+  "value": 14569,
+  "name": "Joseph Group Capital Management"
+ },
+ "1910398": {
+  "shares": 566,
+  "value": 549733,
+  "name": "Prosperity Consulting Group, LLC"
  },
  "1910971": {
   "shares": 443,
@@ -3784,6 +4279,11 @@
   "value": 209792,
   "name": "Nicholas Wealth, LLC."
  },
+ "1911832": {
+  "shares": 249,
+  "value": 242199,
+  "name": "Forum Financial Management, LP"
+ },
  "1912338": {
   "shares": 629,
   "value": 610923,
@@ -3804,6 +4304,11 @@
   "value": 420556,
   "name": "Simplicity Wealth,LLC"
  },
+ "1914558": {
+  "shares": 483,
+  "value": 469120,
+  "name": "CREATIVE PLANNING INSTITUTIONAL ADVISORS, LLC"
+ },
  "1916757": {
   "shares": 9179,
   "value": 8914348,
@@ -3813,6 +4318,16 @@
   "shares": 1251,
   "value": 1215046,
   "name": "AXQ CAPITAL, LP"
+ },
+ "1918181": {
+  "shares": 7967,
+  "value": 7738028,
+  "name": "Saudi Central Bank"
+ },
+ "1922200": {
+  "shares": 538,
+  "value": 522694,
+  "name": "Greenspring Advisors, LLC"
  },
  "1922880": {
   "shares": 4423,
@@ -3828,6 +4343,11 @@
   "shares": 100106,
   "value": 97228953,
   "name": "KEYSTONE INVESTORS PTE LTD"
+ },
+ "1927537": {
+  "shares": 528,
+  "value": 512825,
+  "name": "CATALYST FINANCIAL PARTNERS LLC"
  },
  "1927627": {
   "shares": 28796,
@@ -3863,6 +4383,11 @@
   "shares": 326,
   "value": 316631,
   "name": "Quantum Private Wealth, LLC"
+ },
+ "1931642": {
+  "shares": 443,
+  "value": 430268,
+  "name": "Astoria Portfolio Advisors LLC."
  },
  "1932952": {
   "shares": 4,
@@ -3964,6 +4489,11 @@
   "value": 4305,
   "name": "Colonial Trust Co / SC"
  },
+ "1954107": {
+  "shares": 142,
+  "value": 137919,
+  "name": "ALL OPTIONS USA, LLC"
+ },
  "1954805": {
   "shares": 330,
   "value": 320623,
@@ -4019,6 +4549,11 @@
   "value": 306918,
   "name": "FIDELIS CAPITAL PARTNERS, LLC"
  },
+ "1963212": {
+  "shares": 390,
+  "value": 378791,
+  "name": "Icon Wealth Advisors, LLC"
+ },
  "1963355": {
   "shares": 46447,
   "value": 45112113,
@@ -4049,10 +4584,20 @@
   "value": 5711009,
   "name": "Alpine Investment Management Ltd"
  },
+ "1964652": {
+  "shares": 25,
+  "value": 24282,
+  "name": "New England Capital Financial Advisors LLC"
+ },
  "1964758": {
   "shares": 804,
   "value": 780893,
   "name": "Arista Wealth Management, LLC"
+ },
+ "1964958": {
+  "shares": 568,
+  "value": 551676,
+  "name": "INSIGNEO ADVISORY SERVICES, LLC"
  },
  "1965005": {
   "shares": 48565,
@@ -4084,6 +4629,11 @@
   "value": 69931,
   "name": "True Wealth Design, LLC"
  },
+ "1966037": {
+  "shares": 343,
+  "value": 333149,
+  "name": "Gateway Wealth Partners, LLC"
+ },
  "1966171": {
   "shares": 423,
   "value": 355024,
@@ -4094,6 +4644,16 @@
   "value": 9713,
   "name": "Financial Alternatives, Inc"
  },
+ "1968109": {
+  "shares": 661,
+  "value": 591390,
+  "name": "Vinva Investment Management Ltd"
+ },
+ "1969566": {
+  "shares": 23090,
+  "value": 22426,
+  "name": "iA Global Asset Management Inc."
+ },
  "1970075": {
   "shares": 11488,
   "value": 11157834,
@@ -4103,6 +4663,11 @@
   "shares": 998,
   "value": 969317,
   "name": "Polymer Capital Management (HK) LTD"
+ },
+ "1972653": {
+  "shares": 1,
+  "value": 971,
+  "name": "Imprint Wealth LLC"
  },
  "1973224": {
   "shares": 1003,
@@ -4144,6 +4709,11 @@
   "value": 745928,
   "name": "Frank, Rimerman Advisors LLC"
  },
+ "1977602": {
+  "shares": 17143,
+  "value": 14658899,
+  "name": "OFI INVEST ASSET MANAGEMENT"
+ },
  "1977992": {
   "shares": 418,
   "value": 405987,
@@ -4153,6 +4723,11 @@
   "shares": 321,
   "value": 311774,
   "name": "Abacus Wealth Partners, LLC"
+ },
+ "1978608": {
+  "shares": 281,
+  "value": 272924,
+  "name": "Portside Wealth Group, LLC"
  },
  "1978879": {
   "shares": 2931,
@@ -4173,6 +4748,11 @@
   "shares": 87,
   "value": 84500,
   "name": "Vanguard National Trust Co"
+ },
+ "1984475": {
+  "shares": 717,
+  "value": 699102,
+  "name": "Plato Investment Management Ltd"
  },
  "1985284": {
   "shares": 6,
@@ -4234,6 +4814,11 @@
   "value": 19230948,
   "name": "UNICOM Systems, Inc."
  },
+ "1996244": {
+  "shares": 11306,
+  "value": 10981066,
+  "name": "SIH Partners, LLLP"
+ },
  "1996454": {
   "shares": 1708,
   "value": 1658857,
@@ -4243,6 +4828,11 @@
   "shares": 3369,
   "value": 3272175,
   "name": "Financiere des Professionnels - Fonds d'investissement inc."
+ },
+ "1997464": {
+  "shares": 35242,
+  "value": 34229145,
+  "name": "Marex Group Ltd  (MRX)"
  },
  "1997685": {
   "shares": 3,
@@ -4289,6 +4879,11 @@
   "value": 489515,
   "name": "POWER WEALTH MANAGEMENT LLC"
  },
+ "2001900": {
+  "shares": 552,
+  "value": 535993,
+  "name": "Modern Wealth Management, LLC"
+ },
  "2002745": {
   "shares": 1,
   "value": 972,
@@ -4309,6 +4904,11 @@
   "value": 5828,
   "name": "WEST PACES ADVISORS INC."
  },
+ "2005409": {
+  "shares": 2,
+  "value": 1943,
+  "name": "Bruce G. Allen Investments, LLC"
+ },
  "2006218": {
   "shares": 272,
   "value": 226987,
@@ -4324,10 +4924,20 @@
   "value": 311774,
   "name": "Turtle Creek Wealth Advisors, LLC"
  },
+ "2007591": {
+  "shares": 11644,
+  "value": 11309351,
+  "name": "Freestone Grove Partners LP"
+ },
  "2008409": {
   "shares": 417,
   "value": 405015,
   "name": "StoneCrest Wealth Management, Inc."
+ },
+ "2009396": {
+  "shares": 36363,
+  "value": 35317927,
+  "name": "E. Ohman J:or Asset Management AB"
  },
  "2009426": {
   "shares": 30,
@@ -4378,6 +4988,11 @@
   "shares": 221,
   "value": 214687,
   "name": "EVERPAR ADVISORS LLC"
+ },
+ "2010657": {
+  "shares": 3,
+  "value": 2914,
+  "name": "Winthrop Capital Management, LLC"
  },
  "2010710": {
   "shares": 7,
@@ -4454,10 +5069,20 @@
   "value": 4757231,
   "name": "Williamson Legacy Group, LLC"
  },
+ "2012032": {
+  "shares": 1228,
+  "value": 1192707,
+  "name": "Sivia Capital Partners, LLC"
+ },
  "2012065": {
   "shares": 21,
   "value": 20396,
   "name": "PROATHLETE WEALTH MANAGEMENT LLC"
+ },
+ "2012155": {
+  "shares": 10,
+  "value": 9713,
+  "name": "VIMA LLC"
  },
  "2012383": {
   "shares": 9741020,
@@ -4534,9 +5159,14 @@
   "value": 2080439,
   "name": "Central Pacific Bank - Trust Division"
  },
+ "2021047": {
+  "shares": 3349,
+  "value": 3252750,
+  "name": "SEEDS INVESTOR LLC"
+ },
  "2021232": {
-  "shares": 3873,
-  "value": 3367326,
+  "shares": 2801,
+  "value": 1671240,
   "name": "Diversify Advisory Services, LLC"
  },
  "2021442": {
@@ -4549,10 +5179,20 @@
   "value": 36908,
   "name": "Hilltop National Bank"
  },
+ "2022028": {
+  "shares": 24566,
+  "value": 23914755,
+  "name": "Mediolanum International Funds Ltd"
+ },
  "2022297": {
   "shares": 10109,
   "value": 9817743,
   "name": "Federation des caisses Desjardins du Quebec"
+ },
+ "2022427": {
+  "shares": 35,
+  "value": 33995,
+  "name": "MARSHALL INVESTMENT MANAGEMENT, LLC"
  },
  "2022801": {
   "shares": 240,
@@ -4578,6 +5218,16 @@
   "shares": 461,
   "value": 447751,
   "name": "Global Financial Private Client, LLC"
+ },
+ "2024532": {
+  "shares": 37785,
+  "value": 36781438,
+  "name": "Erste Asset Management GmbH"
+ },
+ "2024579": {
+  "shares": 46769,
+  "value": 45424859,
+  "name": "Jain Global LLC"
  },
  "2025905": {
   "shares": 63855,
@@ -4615,8 +5265,8 @@
   "name": "Robocap Asset Management Ltd"
  },
  "2030780": {
-  "shares": 3873,
-  "value": 3367326,
+  "shares": 693,
+  "value": 413458,
   "name": "DIVERSIFY WEALTH MANAGEMENT, LLC"
  },
  "2031235": {
@@ -4668,6 +5318,11 @@
   "shares": 15000,
   "value": 14568900,
   "name": "KP Management LLC"
+ },
+ "2037264": {
+  "shares": 404,
+  "value": 392389,
+  "name": "Diversified Enterprises, LLC"
  },
  "2039659": {
   "shares": 1,
@@ -4749,6 +5404,11 @@
   "value": 9522233,
   "name": "Oriental Harbor Investment Master Fund"
  },
+ "2046751": {
+  "shares": 56,
+  "value": 54391,
+  "name": "Generali Asset Management SPA SGR"
+ },
  "2047089": {
   "shares": 3250,
   "value": 3156595,
@@ -4759,6 +5419,11 @@
   "value": 26224,
   "name": "Murphy & Mullick Capital Management Corp"
  },
+ "2047606": {
+  "shares": 3742,
+  "value": 3634455,
+  "name": "AG2R LA MONDIALE GESTION D'ACTIFS"
+ },
  "2048885": {
   "shares": 424,
   "value": 411814,
@@ -4768,6 +5433,11 @@
   "shares": 2584,
   "value": 2509736,
   "name": "VestGen Advisors, LLC"
+ },
+ "2050972": {
+  "shares": 5712,
+  "value": 5547837,
+  "name": "FLORIDA FINANCIAL ADVISORS, LLC"
  },
  "2051288": {
   "shares": 17,
@@ -4834,6 +5504,11 @@
   "value": 243786,
   "name": "LifeGoal Investments, LLC"
  },
+ "2054916": {
+  "shares": 215,
+  "value": 208821,
+  "name": "Impact Capital Partners LLC"
+ },
  "2054966": {
   "shares": 12,
   "value": 11656,
@@ -4884,6 +5559,16 @@
   "value": 23907662,
   "name": "Banque Transatlantique SA"
  },
+ "2056274": {
+  "shares": 41,
+  "value": 39822,
+  "name": "Redwood Park Advisors LLC"
+ },
+ "2056315": {
+  "shares": 10,
+  "value": 9713,
+  "name": "Marshall & Sterling Wealth Advisors Inc."
+ },
  "2056425": {
   "shares": 359,
   "value": 348682,
@@ -4903,6 +5588,11 @@
   "shares": 2752,
   "value": 2672908,
   "name": "TRIGLAV INVESTMENTS, D.O.O."
+ },
+ "2056691": {
+  "shares": 102,
+  "value": 99068,
+  "name": "Fourth Dimension Wealth, LLC"
  },
  "2056807": {
   "shares": 46447,
@@ -4938,6 +5628,11 @@
   "shares": 2,
   "value": 1943,
   "name": "GILPIN WEALTH MANAGEMENT, LLC"
+ },
+ "2058270": {
+  "shares": 361,
+  "value": 350625,
+  "name": "Barnes Dennig Private Wealth Management LLC"
  },
  "2058426": {
   "shares": 690,
@@ -4998,6 +5693,11 @@
   "shares": 12000,
   "value": 11655120,
   "name": "RH Tailwind Management, LLC"
+ },
+ "2065487": {
+  "shares": 45,
+  "value": 49998,
+  "name": "Rydar Equities, Inc."
  },
  "2065679": {
   "shares": 4047,
@@ -5119,6 +5819,11 @@
   "value": 971,
   "name": "Burk Holdings LLC"
  },
+ "2080096": {
+  "shares": 18,
+  "value": 15021,
+  "name": "Holos Integrated Wealth LLC"
+ },
  "2080218": {
   "shares": 66,
   "value": 64103,
@@ -5153,6 +5858,11 @@
   "shares": 56,
   "value": 54392,
   "name": "Pinnacle Financial Group, Inc."
+ },
+ "2088548": {
+  "shares": 682,
+  "value": 662399,
+  "name": "PINEBRIDGE INVESTMENTS LLC"
  },
  "2089183": {
   "shares": 2,
@@ -5204,6 +5914,11 @@
   "value": 235396,
   "name": "Saranac Partners Ltd"
  },
+ "2099019": {
+  "shares": 5,
+  "value": 4856,
+  "name": "Networth Advisors, LLC"
+ },
  "2100119": {
   "shares": 5828260,
   "value": 5660755808,
@@ -5213,6 +5928,11 @@
   "shares": 4669755,
   "value": 4535546241,
   "name": "VANGUARD PORTFOLIO MANAGEMENT LLC"
+ },
+ "2103435": {
+  "shares": 1470,
+  "value": 1407,
+  "name": "Polaris Financial Partners"
  },
  "2103443": {
   "shares": 50,
@@ -5233,6 +5953,11 @@
   "shares": 5,
   "value": 4856,
   "name": "Ares Financial Consulting, LLC"
+ },
+ "2107106": {
+  "shares": 441,
+  "value": 428326,
+  "name": "ANCHYRA PARTNERS LLC"
  },
  "2107111": {
   "shares": 425,
@@ -5454,10 +6179,20 @@
   "value": 192309,
   "name": "Essential Partners LLC"
  },
+ "2137372": {
+  "shares": 40,
+  "value": 38473,
+  "name": "Atomic Invest LLC"
+ },
  "2142299": {
   "shares": 4576,
   "value": 4444,
   "name": "Stonebridge Financial Group, LLC/CA"
+ },
+ "2145170": {
+  "shares": 1,
+  "value": 971,
+  "name": "Essential Investment Partners LLC"
  },
  "2145782": {
   "shares": 47,
@@ -5494,10 +6229,20 @@
   "value": 1465631,
   "name": "AlphaGrep UK Ltd"
  },
+ "2149844": {
+  "shares": 9,
+  "value": 8741,
+  "name": "Montgomery Financial Services LLC"
+ },
  "2150170": {
   "shares": 1004,
   "value": 975144,
   "name": "Oakmont Investment Advisors, Inc."
+ },
+ "2152629": {
+  "shares": 254,
+  "value": 246315,
+  "name": "Range Advisory, LLC"
  },
  "2154233": {
   "shares": 12,
@@ -5519,10 +6264,20 @@
   "value": 25253,
   "name": "James T. Borello RIA"
  },
+ "2160101": {
+  "shares": 20,
+  "value": 13494,
+  "name": "Schwarz Investment Partners, Inc."
+ },
  "2160654": {
   "shares": 695,
   "value": 675323,
   "name": "BFC Planning, Inc."
+ },
+ "2163408": {
+  "shares": 2,
+  "value": 1192,
+  "name": "Cavanaugh Group, Inc."
  },
  "2163472": {
   "shares": 251,
@@ -5603,6 +6358,11 @@
   "shares": 46019,
   "value": 44696414,
   "name": "FRONTIER CAPITAL MANAGEMENT CO LLC"
+ },
+ "3520": {
+  "shares": 455047,
+  "value": 441968949,
+  "name": "FRED ALGER MANAGEMENT, LLC"
  },
  "354204": {
   "shares": 352720,
@@ -5814,6 +6574,11 @@
   "value": 2914,
   "name": "VALLEY NATIONAL ADVISERS INC"
  },
+ "7789": {
+  "shares": 312,
+  "value": 303033,
+  "name": "ASSOCIATED BANC-CORP  (ASB, ASBA, ASB-PE, ASB-PF)"
+ },
  "791540": {
   "shares": 4458,
   "value": 4329877,
@@ -5848,6 +6613,11 @@
   "shares": 589,
   "value": 571615,
   "name": "HARBOUR INVESTMENTS, INC."
+ },
+ "810265": {
+  "shares": 43757,
+  "value": 42499424,
+  "name": "NEW YORK STATE COMMON RETIREMENT FUND"
  },
  "811454": {
   "shares": 9000,
@@ -5944,6 +6714,11 @@
   "value": 45113084,
   "name": "STATE OF WISCONSIN INVESTMENT BOARD"
  },
+ "860486": {
+  "shares": 2833,
+  "value": 2751580,
+  "name": "HIGHLAND CAPITAL MANAGEMENT, LLC"
+ },
  "861177": {
   "shares": 605244,
   "value": 587849286,
@@ -5973,6 +6748,11 @@
   "shares": 1641,
   "value": 1593838,
   "name": "VAN ECK ASSOCIATES CORP"
+ },
+ "869589": {
+  "shares": 25926,
+  "value": 25180887,
+  "name": "NISSAY ASSET MANAGEMENT CORP /JAPAN"
  },
  "872080": {
   "shares": 71852,
@@ -6048,6 +6828,11 @@
   "shares": 1115454,
   "value": 1083398978,
   "name": "MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ)"
+ },
+ "897378": {
+  "shares": 71116,
+  "value": 69072126,
+  "name": "CONGRESS ASSET MANAGEMENT CO"
  },
  "898358": {
   "shares": 13575,
@@ -6139,6 +6924,11 @@
   "value": 1877446,
   "name": "JOHN G ULLMAN & ASSOCIATES INC"
  },
+ "919859": {
+  "shares": 37987,
+  "value": 36895254,
+  "name": "MACKENZIE FINANCIAL CORP"
+ },
  "920441": {
   "shares": 445,
   "value": 432211,
@@ -6158,6 +6948,11 @@
   "shares": 7179,
   "value": 6972676,
   "name": "TRUIST FINANCIAL CORP  (TFC, TFC-PI, TFC-PO, TFC-PR)"
+ },
+ "922439": {
+  "shares": 4740,
+  "value": 4603772,
+  "name": "HARTFORD INVESTMENT MANAGEMENT CO"
  },
  "926171": {
   "shares": 74204,
@@ -6193,6 +6988,11 @@
   "shares": 510208,
   "value": 495544622,
   "name": "VANGUARD FIDUCIARY TRUST CO"
+ },
+ "934639": {
+  "shares": 148753,
+  "value": 144477839,
+  "name": "MAVERICK CAPITAL LTD"
  },
  "93751": {
   "shares": 3880888,

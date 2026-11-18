@@ -214,6 +214,11 @@
   "value": 102295093,
   "name": "NOMURA ASSET MANAGEMENT CO LTD"
  },
+ "1055969": {
+  "shares": 1374,
+  "value": 2390609,
+  "name": "GROUPAMA ASSET MANAGMENT"
+ },
  "1055980": {
   "shares": 6406,
   "value": 11145735,
@@ -403,6 +408,11 @@
   "shares": 580,
   "value": 1009136,
   "name": "MassMutual Private Wealth & Trust, FSB"
+ },
+ "1105838": {
+  "shares": 2896,
+  "value": 5038722,
+  "name": "ROBOTTI ROBERT"
  },
  "1107314": {
   "shares": 17948,
@@ -738,6 +748,11 @@
   "shares": 33837,
   "value": 58872658,
   "name": "NATIXIS"
+ },
+ "1275218": {
+  "shares": 268,
+  "value": 466291,
+  "name": "ALGERT GLOBAL LLC"
  },
  "1276525": {
   "shares": 1951,
@@ -1359,6 +1374,11 @@
   "value": 2021421,
   "name": "EVENTIDE ASSET MANAGEMENT, LLC"
  },
+ "1446114": {
+  "shares": 372,
+  "value": 647239,
+  "name": "Ancora Advisors LLC"
+ },
  "1446194": {
   "shares": 353705,
   "value": 615407792,
@@ -1829,6 +1849,11 @@
   "value": 1854723,
   "name": "Alta Advisers Ltd"
  },
+ "1536336": {
+  "shares": 100000,
+  "value": 173989000,
+  "name": "Ma Investment Partnership, LP"
+ },
  "1536444": {
   "shares": 2197,
   "value": 3822538,
@@ -1873,6 +1898,11 @@
   "shares": 83,
   "value": 144411,
   "name": "DT Investment Partners, LLC"
+ },
+ "1537783": {
+  "shares": 9160,
+  "value": 15937392,
+  "name": "Kentucky Retirement Systems"
  },
  "1538383": {
   "shares": 122,
@@ -2015,8 +2045,8 @@
   "name": "Weaver Capital Management LLC"
  },
  "1555170": {
-  "shares": 3930,
-  "value": 8935116,
+  "shares": 5822,
+  "value": 10129513,
   "name": "Allworth Financial LP"
  },
  "1555283": {
@@ -2199,6 +2229,11 @@
   "value": 1132668,
   "name": "Advisory Alpha, LLC"
  },
+ "1577774": {
+  "shares": 1013,
+  "value": 1762509,
+  "name": "Regal Partners Ltd"
+ },
  "1578242": {
   "shares": 816,
   "value": 1419750,
@@ -2234,6 +2269,11 @@
   "value": 238365,
   "name": "TCI Wealth Advisors, Inc."
  },
+ "1584686": {
+  "shares": 3708,
+  "value": 6451512,
+  "name": "Kentucky Retirement Systems Insurance Trust Fund"
+ },
  "1585859": {
   "shares": 10660,
   "value": 18548097,
@@ -2253,6 +2293,11 @@
   "shares": 18950,
   "value": 32963809,
   "name": "USS Investment Management Ltd"
+ },
+ "1587973": {
+  "shares": 49991,
+  "value": 86978841,
+  "name": "State of Tennessee, Department of Treasury"
  },
  "1588340": {
   "shares": 7103,
@@ -2483,6 +2528,11 @@
   "shares": 896095,
   "value": 1559106730,
   "name": "UBS Group AG  (UBS)"
+ },
+ "1610769": {
+  "shares": 2131,
+  "value": 3707706,
+  "name": "Caprock Group, LLC"
  },
  "1610880": {
   "shares": 67,
@@ -2723,6 +2773,11 @@
   "shares": 544,
   "value": 947,
   "name": "Betterment LLC"
+ },
+ "1635633": {
+  "shares": 352,
+  "value": 612450,
+  "name": "Trust Point Inc."
  },
  "1637460": {
   "shares": 16321,
@@ -3299,6 +3354,11 @@
   "value": 77365949,
   "name": "Holocene Advisors, LP"
  },
+ "1701714": {
+  "shares": 278,
+  "value": 483688,
+  "name": "McIlrath & Eck, LLC"
+ },
  "1703496": {
   "shares": 178,
   "value": 309700,
@@ -3698,6 +3758,11 @@
   "shares": 743,
   "value": 1293,
   "name": "CX Institutional"
+ },
+ "1737109": {
+  "shares": 3847,
+  "value": 6693635,
+  "name": "Integrated Wealth Concepts LLC"
  },
  "1738071": {
   "shares": 20000,
@@ -4384,6 +4449,11 @@
   "value": 3159640,
   "name": "TI-TRUST, INC"
  },
+ "1802451": {
+  "shares": 100,
+  "value": 173989,
+  "name": "HighMark Wealth Management LLC"
+ },
  "1802474": {
   "shares": 0,
   "value": 52,
@@ -4654,6 +4724,11 @@
   "value": 375817,
   "name": "Cypress Point Wealth Management, LLC"
  },
+ "1827844": {
+  "shares": 8,
+  "value": 13920,
+  "name": "TFC Financial Management, Inc."
+ },
  "1828301": {
   "shares": 1703,
   "value": 2963033,
@@ -4713,6 +4788,11 @@
   "shares": 2462,
   "value": 4283609,
   "name": "F/m Investments LLC"
+ },
+ "1835252": {
+  "shares": 457,
+  "value": 795130,
+  "name": "EWA, LLC"
  },
  "1835751": {
   "shares": 15225,
@@ -5463,6 +5543,11 @@
   "shares": 2487,
   "value": 4327106,
   "name": "WEST MICHIGAN ADVISORS, LLC"
+ },
+ "1910398": {
+  "shares": 530,
+  "value": 922142,
+  "name": "Prosperity Consulting Group, LLC"
  },
  "1910666": {
   "shares": 23,
@@ -6319,6 +6404,11 @@
   "value": 10088,
   "name": "RESOLUTE WEALTH ADVISOR, INC."
  },
+ "2005409": {
+  "shares": 52,
+  "value": 90474,
+  "name": "Bruce G. Allen Investments, LLC"
+ },
  "2006218": {
   "shares": 270,
   "value": 370202,
@@ -6659,6 +6749,11 @@
   "value": 4009862,
   "name": "SEEDS INVESTOR LLC"
  },
+ "2021232": {
+  "shares": 13292,
+  "value": 11763991,
+  "name": "Diversify Advisory Services, LLC"
+ },
  "2021442": {
   "shares": 1236,
   "value": 2150504,
@@ -6770,8 +6865,8 @@
   "name": "Axxion S.A."
  },
  "2030780": {
-  "shares": 4605,
-  "value": 6423258,
+  "shares": 508,
+  "value": 449585,
   "name": "DIVERSIFY WEALTH MANAGEMENT, LLC"
  },
  "2031671": {
@@ -7409,6 +7504,11 @@
   "value": 781402,
   "name": "SmartHarvest Portfolios, LLC"
  },
+ "2067339": {
+  "shares": 302,
+  "value": 522388,
+  "name": "Wealth Management Associates, Inc."
+ },
  "2067343": {
   "shares": 13,
   "value": 22619,
@@ -7628,6 +7728,11 @@
   "shares": 158,
   "value": 274903,
   "name": "TRED AVON FAMILY WEALTH, LLC"
+ },
+ "2095947": {
+  "shares": 175,
+  "value": 304481,
+  "name": "KERR FINANCIAL PLANNING Corp"
  },
  "2096095": {
   "shares": 7698,
@@ -8568,6 +8673,11 @@
   "shares": 594,
   "value": 1033790,
   "name": "HARBOUR INVESTMENTS, INC."
+ },
+ "810265": {
+  "shares": 152425,
+  "value": 265202733,
+  "name": "NEW YORK STATE COMMON RETIREMENT FUND"
  },
  "810384": {
   "shares": 280,

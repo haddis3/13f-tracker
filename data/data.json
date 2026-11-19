@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T03:29:49.298015Z",
+ "generated": "2026-11-19T03:03:27.913516Z",
  "quarters": [
   "2026-09-30"
  ],
@@ -10,9 +10,9 @@
    "tl": [
     {
      "q": "2026-09-30",
-     "holders": 1842,
-     "valueB": 179.77,
-     "neu": 1842,
+     "holders": 1849,
+     "valueB": 179.8,
+     "neu": 1849,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -145,13 +145,13 @@
   },
   "MU": {
    "name": "MICRON TECHNOLOGY",
-   "sharesM": 854.9,
+   "sharesM": 798.0,
    "tl": [
     {
      "q": "2026-09-30",
-     "holders": 3971,
-     "valueB": 881.09,
-     "neu": 3971,
+     "holders": 3937,
+     "valueB": 820.59,
+     "neu": 3937,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -221,12 +221,6 @@
      "chg": "NEW"
     },
     {
-     "fund": "FMR LLC",
-     "shares": "35.5M",
-     "value": "$37.8B",
-     "chg": "NEW"
-    },
-    {
      "fund": "GEODE CAPITAL MANAGEMENT, LLC",
      "shares": "28.2M",
      "value": "$30.0B",
@@ -285,18 +279,24 @@
      "shares": "10.4M",
      "value": "$11.1B",
      "chg": "NEW"
+    },
+    {
+     "fund": "UBS AM, a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC",
+     "shares": "10.2M",
+     "value": "$10.9B",
+     "chg": "NEW"
     }
    ]
   },
   "LITE": {
    "name": "LUMENTUM HLDGS INC",
-   "sharesM": 80.4,
+   "sharesM": 82.4,
    "tl": [
     {
      "q": "2026-09-30",
-     "holders": 1416,
-     "valueB": 73.99,
-     "neu": 1416,
+     "holders": 1413,
+     "valueB": 76.12,
+     "neu": 1413,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -372,6 +372,12 @@
      "chg": "NEW"
     },
     {
+     "fund": "Janus Henderson Group Ltd.",
+     "shares": "2.7M",
+     "value": "$2.6B",
+     "chg": "NEW"
+    },
+    {
      "fund": "JPMORGAN CHASE & CO  (JPM, AMJB, VYLD, JPM-PC, JPM-PD, JPM-PJ, JPM-PK, JPM-PL, JPM-PM)",
      "shares": "2.5M",
      "value": "$2.5B",
@@ -417,12 +423,6 @@
      "fund": "NORTHERN TRUST CORP  (NTRS, NTRSO)",
      "shares": "687.9K",
      "value": "$668.1M",
-     "chg": "NEW"
-    },
-    {
-     "fund": "ARROWSTREET CAPITAL, LIMITED PARTNERSHIP",
-     "shares": "681.1K",
-     "value": "$661.6M",
      "chg": "NEW"
     }
    ]

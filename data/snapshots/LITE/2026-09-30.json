@@ -354,11 +354,6 @@
   "value": 1229615,
   "name": "NATIONS FINANCIAL GROUP INC, /IA/ /ADV"
  },
- "1114618": {
-  "shares": 1107,
-  "value": 1075185,
-  "name": "GATEWAY INVESTMENT ADVISERS LLC"
- },
  "1115418": {
   "shares": 167138,
   "value": 162334313,
@@ -569,11 +564,6 @@
   "value": 59510772,
   "name": "WESTFIELD CAPITAL MANAGEMENT CO LP"
  },
- "1179392": {
-  "shares": 8262,
-  "value": 8024550,
-  "name": "TWO SIGMA INVESTMENTS, LP"
- },
  "1184820": {
   "shares": 502,
   "value": 487573,
@@ -673,6 +663,11 @@
   "shares": 59338,
   "value": 57632626,
   "name": "MILLENNIUM MANAGEMENT LLC"
+ },
+ "1274173": {
+  "shares": 2657884,
+  "value": 2581464269,
+  "name": "Janus Henderson Group Ltd."
  },
  "1274419": {
   "shares": 492,
@@ -1093,11 +1088,6 @@
   "shares": 65166,
   "value": 63293,
   "name": "Handelsbanken Fonder AB"
- },
- "1398739": {
-  "shares": 881,
-  "value": 856,
-  "name": "Employees Retirement System of Texas"
  },
  "1401561": {
   "shares": 10,
@@ -1738,6 +1728,11 @@
   "shares": 4000,
   "value": 3885040,
   "name": "National Mutual Insurance Federation of Agricultural Cooperatives"
+ },
+ "1544204": {
+  "shares": 17460,
+  "value": 16958200,
+  "name": "Liontrust Investment Partners LLP"
  },
  "1544576": {
   "shares": 447,
@@ -2614,11 +2609,6 @@
   "value": 703192,
   "name": "SIMON QUICK ADVISORS, LLC"
  },
- "1692234": {
-  "shares": 113883,
-  "value": 110619086,
-  "name": "Russell Investments Group, Ltd."
- },
  "1693636": {
   "shares": 365,
   "value": 354510,
@@ -2768,6 +2758,11 @@
   "shares": 3,
   "value": 2914,
   "name": "Clearstead Trust, LLC"
+ },
+ "1708237": {
+  "shares": 4920,
+  "value": 4778599,
+  "name": "Innovator Capital Management, LLC"
  },
  "1708759": {
   "shares": 10000,
@@ -3394,6 +3389,11 @@
   "value": 345769,
   "name": "IFG Advisors, LLC"
  },
+ "1783879": {
+  "shares": 212,
+  "value": 205909,
+  "name": "Robinhood Markets, Inc.  (HOOD)"
+ },
  "1784093": {
   "shares": 17024,
   "value": 16534245,
@@ -3998,6 +3998,11 @@
   "shares": 461,
   "value": 447751,
   "name": "Pallas Capital Advisors LLC"
+ },
+ "1862427": {
+  "shares": 211,
+  "value": 204936,
+  "name": "Fi3 FINANCIAL ADVISORS, LLC"
  },
  "1868872": {
   "shares": 2934,
@@ -4744,11 +4749,6 @@
   "value": 252539,
   "name": "9823 Capital, L.P."
  },
- "1984256": {
-  "shares": 87,
-  "value": 84500,
-  "name": "Vanguard National Trust Co"
- },
  "1984475": {
   "shares": 717,
   "value": 699102,
@@ -5449,11 +5449,6 @@
   "value": 2029933,
   "name": "CAXTON ASSOCIATES LLP"
  },
- "2051471": {
-  "shares": 328,
-  "value": 301606,
-  "name": "Sovran Advisors, LLC"
- },
  "2051491": {
   "shares": 17,
   "value": 17778,
@@ -5718,11 +5713,6 @@
   "shares": 371,
   "value": 360337,
   "name": "ANB BANK"
- },
- "2067343": {
-  "shares": 84,
-  "value": 81586,
-  "name": "WPG Advisers, LLC"
  },
  "2067696": {
   "shares": 649,
@@ -6393,11 +6383,6 @@
   "shares": 149,
   "value": 144718,
   "name": "FIRST HORIZON CORP  (FHN, FHN-PE, FHN-PF, FHN-PH)"
- },
- "38777": {
-  "shares": 563378,
-  "value": 353097163,
-  "name": "FRANKLIN TEMPLETON INC  (BEN)"
  },
  "39263": {
   "shares": 20092,

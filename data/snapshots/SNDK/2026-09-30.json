@@ -799,14 +799,9 @@
   "value": 580241136,
   "name": "CANADA PENSION PLAN INVESTMENT BOARD"
  },
- "1291318": {
-  "shares": 966,
-  "value": 1679391,
-  "name": "OVERSEA-CHINESE BANKING Corp Ltd"
- },
  "1297376": {
-  "shares": 13963,
-  "value": 4116891,
+  "shares": 729,
+  "value": 1268380,
   "name": "Advisors Asset Management, Inc."
  },
  "1304229": {
@@ -3744,6 +3739,11 @@
   "value": 17399,
   "name": "CNB Bank"
  },
+ "1732541": {
+  "shares": 956,
+  "value": 1663335,
+  "name": "Defiance ETFs, LLC"
+ },
  "1733173": {
   "shares": 4066,
   "value": 7074393,
@@ -4574,6 +4574,11 @@
   "value": 314920,
   "name": "Aspen Grove Capital, LLC"
  },
+ "1807060": {
+  "shares": 125,
+  "value": 285114,
+  "name": "SHP Wealth Management"
+ },
  "1807283": {
   "shares": 22,
   "value": 38278,
@@ -4994,11 +4999,6 @@
   "value": 1687693,
   "name": "Colonial River Investments, LLC"
  },
- "1845998": {
-  "shares": 1157,
-  "value": 2014801,
-  "name": "Interchange Capital Partners, LLC"
- },
  "1846150": {
   "shares": 684,
   "value": 1190085,
@@ -5418,6 +5418,11 @@
   "shares": 81,
   "value": 140132,
   "name": "Washington Trust Advisors, Inc."
+ },
+ "1900110": {
+  "shares": 432,
+  "value": 751632,
+  "name": "DGS Capital Management, LLC"
  },
  "1900406": {
   "shares": 410,
@@ -7948,6 +7953,11 @@
   "shares": 173,
   "value": 301001,
   "name": "Signature Equity Partners, LLC"
+ },
+ "2109846": {
+  "shares": 1500,
+  "value": 2609452,
+  "name": "PCM Encore, LLC"
  },
  "2109868": {
   "shares": 763,

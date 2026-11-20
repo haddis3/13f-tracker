@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T03:03:27.913516Z",
+ "generated": "2026-11-20T02:57:07.237932Z",
  "quarters": [
   "2026-09-30"
  ],
@@ -10,9 +10,9 @@
    "tl": [
     {
      "q": "2026-09-30",
-     "holders": 1849,
+     "holders": 1851,
      "valueB": 179.8,
-     "neu": 1849,
+     "neu": 1851,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -145,13 +145,13 @@
   },
   "MU": {
    "name": "MICRON TECHNOLOGY",
-   "sharesM": 798.0,
+   "sharesM": 855.0,
    "tl": [
     {
      "q": "2026-09-30",
-     "holders": 3937,
-     "valueB": 820.59,
-     "neu": 3937,
+     "holders": 3989,
+     "valueB": 881.26,
+     "neu": 3989,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -221,6 +221,12 @@
      "chg": "NEW"
     },
     {
+     "fund": "FMR LLC",
+     "shares": "35.5M",
+     "value": "$37.8B",
+     "chg": "NEW"
+    },
+    {
      "fund": "GEODE CAPITAL MANAGEMENT, LLC",
      "shares": "28.2M",
      "value": "$30.0B",
@@ -279,24 +285,18 @@
      "shares": "10.4M",
      "value": "$11.1B",
      "chg": "NEW"
-    },
-    {
-     "fund": "UBS AM, a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC",
-     "shares": "10.2M",
-     "value": "$10.9B",
-     "chg": "NEW"
     }
    ]
   },
   "LITE": {
    "name": "LUMENTUM HLDGS INC",
-   "sharesM": 82.4,
+   "sharesM": 83.1,
    "tl": [
     {
      "q": "2026-09-30",
-     "holders": 1413,
-     "valueB": 76.12,
-     "neu": 1413,
+     "holders": 1424,
+     "valueB": 76.62,
+     "neu": 1424,
      "inc": 0,
      "dec": 0,
      "sold": 0

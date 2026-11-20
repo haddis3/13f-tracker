@@ -354,6 +354,11 @@
   "value": 1229615,
   "name": "NATIONS FINANCIAL GROUP INC, /IA/ /ADV"
  },
+ "1114618": {
+  "shares": 1107,
+  "value": 1075185,
+  "name": "GATEWAY INVESTMENT ADVISERS LLC"
+ },
  "1115418": {
   "shares": 167138,
   "value": 162334313,
@@ -564,6 +569,11 @@
   "value": 59510772,
   "name": "WESTFIELD CAPITAL MANAGEMENT CO LP"
  },
+ "1179392": {
+  "shares": 8262,
+  "value": 8024550,
+  "name": "TWO SIGMA INVESTMENTS, LP"
+ },
  "1184820": {
   "shares": 502,
   "value": 487573,
@@ -735,8 +745,8 @@
   "name": "OVERSEA-CHINESE BANKING Corp Ltd"
  },
  "1297376": {
-  "shares": 14191,
-  "value": 2105887,
+  "shares": 17346,
+  "value": 16847476,
   "name": "Advisors Asset Management, Inc."
  },
  "1303159": {
@@ -1088,6 +1098,11 @@
   "shares": 65166,
   "value": 63293,
   "name": "Handelsbanken Fonder AB"
+ },
+ "1398739": {
+  "shares": 881,
+  "value": 856,
+  "name": "Employees Retirement System of Texas"
  },
  "1401561": {
   "shares": 10,
@@ -2464,6 +2479,11 @@
   "value": 9523204,
   "name": "Ariose Capital Management Ltd"
  },
+ "1665976": {
+  "shares": 1172,
+  "value": 1138317,
+  "name": "Coastal Bridge Advisors, LLC"
+ },
  "1666335": {
   "shares": 146375,
   "value": 142156473,
@@ -2608,6 +2628,11 @@
   "shares": 724,
   "value": 703192,
   "name": "SIMON QUICK ADVISORS, LLC"
+ },
+ "1692234": {
+  "shares": 113883,
+  "value": 110619086,
+  "name": "Russell Investments Group, Ltd."
  },
  "1693636": {
   "shares": 365,
@@ -2988,6 +3013,11 @@
   "shares": 20,
   "value": 19425,
   "name": "CNB Bank"
+ },
+ "1732541": {
+  "shares": 14422,
+  "value": 14007512,
+  "name": "Defiance ETFs, LLC"
  },
  "1732543": {
   "shares": 1226,
@@ -3618,6 +3648,11 @@
   "shares": 217,
   "value": 210763,
   "name": "Procyon Advisors, LLC"
+ },
+ "1807060": {
+  "shares": 75,
+  "value": 64163,
+  "name": "SHP Wealth Management"
  },
  "1807283": {
   "shares": 9,
@@ -4749,6 +4784,11 @@
   "value": 252539,
   "name": "9823 Capital, L.P."
  },
+ "1984256": {
+  "shares": 87,
+  "value": 84500,
+  "name": "Vanguard National Trust Co"
+ },
  "1984475": {
   "shares": 717,
   "value": 699102,
@@ -5449,6 +5489,11 @@
   "value": 2029933,
   "name": "CAXTON ASSOCIATES LLP"
  },
+ "2051471": {
+  "shares": 328,
+  "value": 301606,
+  "name": "Sovran Advisors, LLC"
+ },
  "2051491": {
   "shares": 17,
   "value": 17778,
@@ -5689,11 +5734,6 @@
   "value": 11655120,
   "name": "RH Tailwind Management, LLC"
  },
- "2065487": {
-  "shares": 45,
-  "value": 49998,
-  "name": "Rydar Equities, Inc."
- },
  "2065679": {
   "shares": 4047,
   "value": 3930689,
@@ -5713,6 +5753,11 @@
   "shares": 371,
   "value": 360337,
   "name": "ANB BANK"
+ },
+ "2067343": {
+  "shares": 84,
+  "value": 81586,
+  "name": "WPG Advisers, LLC"
  },
  "2067696": {
   "shares": 649,
@@ -5993,6 +6038,11 @@
   "shares": 32,
   "value": 31080,
   "name": "Signature Equity Partners, LLC"
+ },
+ "2109846": {
+  "shares": 766,
+  "value": 744190,
+  "name": "PCM Encore, LLC"
  },
  "2109868": {
   "shares": 22,
@@ -6383,6 +6433,11 @@
   "shares": 149,
   "value": 144718,
   "name": "FIRST HORIZON CORP  (FHN, FHN-PE, FHN-PF, FHN-PH)"
+ },
+ "38777": {
+  "shares": 563378,
+  "value": 353097163,
+  "name": "FRANKLIN TEMPLETON INC  (BEN)"
  },
  "39263": {
   "shares": 20092,

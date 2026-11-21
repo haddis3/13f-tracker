@@ -799,6 +799,11 @@
   "value": 580241136,
   "name": "CANADA PENSION PLAN INVESTMENT BOARD"
  },
+ "1291318": {
+  "shares": 966,
+  "value": 1679391,
+  "name": "OVERSEA-CHINESE BANKING Corp Ltd"
+ },
  "1297376": {
   "shares": 729,
   "value": 1268380,
@@ -4999,6 +5004,11 @@
   "value": 1687693,
   "name": "Colonial River Investments, LLC"
  },
+ "1845998": {
+  "shares": 1157,
+  "value": 2014801,
+  "name": "Interchange Capital Partners, LLC"
+ },
  "1846150": {
   "shares": 684,
   "value": 1190085,
@@ -5243,11 +5253,6 @@
   "shares": 2626,
   "value": 4568951,
   "name": "Goldstream Capital Management Ltd"
- },
- "1873989": {
-  "shares": 121,
-  "value": 210527,
-  "name": "BG Investment Services, LLC"
  },
  "1876326": {
   "shares": 248,
@@ -6489,6 +6494,11 @@
   "value": 494129,
   "name": "StoneCrest Wealth Management, Inc."
  },
+ "2008738": {
+  "shares": 328,
+  "value": 570684,
+  "name": "Stonebrook Private Inc."
+ },
  "2009176": {
   "shares": 190,
   "value": 330579,
@@ -6949,6 +6959,11 @@
   "value": 2987391,
   "name": "OPTIMIZE FINANCIAL INC."
  },
+ "2033312": {
+  "shares": 556,
+  "value": 967379,
+  "name": "Summit Wealth Partners, LLC"
+ },
  "2033536": {
   "shares": 189,
   "value": 326925,
@@ -7293,6 +7308,11 @@
   "shares": 18160,
   "value": 31596402,
   "name": "Magnolia Private Wealth, LLC"
+ },
+ "2055492": {
+  "shares": 174,
+  "value": 302505,
+  "name": "AssuredPartners Investment Advisors, LLC"
  },
  "2055554": {
   "shares": 5,
@@ -8163,6 +8183,11 @@
   "shares": 62,
   "value": 107782,
   "name": "TIAA Wealth Investment Management LLC"
+ },
+ "2127147": {
+  "shares": 143,
+  "value": 248804,
+  "name": "Innovative Asset Advisors Group, LLC"
  },
  "2127408": {
   "shares": 116,

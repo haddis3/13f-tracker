@@ -2829,11 +2829,6 @@
   "value": 229035640,
   "name": "Squarepoint Ops LLC"
  },
- "1644128": {
-  "shares": 607,
-  "value": 1056113,
-  "name": "Ellevest, Inc."
- },
  "1645382": {
   "shares": 1694,
   "value": 2948209,
@@ -5253,6 +5248,11 @@
   "shares": 2626,
   "value": 4568951,
   "name": "Goldstream Capital Management Ltd"
+ },
+ "1873989": {
+  "shares": 121,
+  "value": 210527,
+  "name": "BG Investment Services, LLC"
  },
  "1876326": {
   "shares": 248,
@@ -8238,11 +8238,6 @@
   "shares": 125,
   "value": 217487,
   "name": "Alessandra Capital Management, LLC"
- },
- "2133354": {
-  "shares": 151,
-  "value": 220,
-  "name": "Forum Finance Group S.A."
  },
  "2133805": {
   "shares": 183,

@@ -1134,6 +1134,11 @@
   "value": 102280137,
   "name": "WHITTIER TRUST CO"
  },
+ "1138486": {
+  "shares": 1152,
+  "value": 1227007,
+  "name": "1834 INVESTMENT ADVISORS CO"
+ },
  "1140022": {
   "shares": 1060462,
   "value": 1129508681,
@@ -2739,11 +2744,6 @@
   "value": 1285588,
   "name": "MOORE CAPITAL MANAGEMENT, LP"
  },
- "1448793": {
-  "shares": 252618,
-  "value": 269065958,
-  "name": "Prime Capital Management Co Ltd"
- },
  "1449126": {
   "shares": 25928,
   "value": 26617861,
@@ -4134,10 +4134,10 @@
   "value": 8343812,
   "name": "Advisory Alpha, LLC"
  },
- "1578242": {
-  "shares": 3075,
-  "value": 3275213,
-  "name": "Circle Wealth Management, LLC"
+ "1577001": {
+  "shares": 6537,
+  "value": 6962092,
+  "name": "W.G. Shaheen & Associates DBA Whitney & Co"
  },
  "1578370": {
   "shares": 5399,
@@ -4634,6 +4634,11 @@
   "value": 15549541,
   "name": "IPG Investment Advisors LLC"
  },
+ "1602730": {
+  "shares": 3154,
+  "value": 3359008,
+  "name": "Abacus Planning Group, Inc."
+ },
  "1602905": {
   "shares": 4241,
   "value": 4517579,
@@ -4723,11 +4728,6 @@
   "shares": 205,
   "value": 218348,
   "name": "BlueCrest Capital Management Ltd"
- },
- "1611518": {
-  "shares": 2564,
-  "value": 2730942,
-  "name": "Wealth Architects, LLC"
  },
  "1611519": {
   "shares": 29150,
@@ -5023,11 +5023,6 @@
   "shares": 44359,
   "value": 47247531,
   "name": "Private Advisory Group LLC"
- },
- "1632968": {
-  "shares": 1161,
-  "value": 1236592,
-  "name": "Wealthquest Corp"
  },
  "1632972": {
   "shares": 570291,
@@ -10364,11 +10359,6 @@
   "value": 296441,
   "name": "Twelve Points Wealth Management LLC"
  },
- "1877093": {
-  "shares": 1213,
-  "value": 1291978,
-  "name": "MOTIVE WEALTH ADVISORS"
- },
  "1877728": {
   "shares": 7718,
   "value": 7363883,
@@ -11923,6 +11913,11 @@
   "shares": 1815,
   "value": 1933093,
   "name": "Lodestone Wealth Management LLC"
+ },
+ "1950218": {
+  "shares": 574,
+  "value": 611433,
+  "name": "Lantern Wealth Advisors, LLC"
  },
  "1950323": {
   "shares": 290,
@@ -13639,6 +13634,11 @@
   "value": 2028902,
   "name": "SimplyRIA Advisor Network"
  },
+ "2011000": {
+  "shares": 285,
+  "value": 303556,
+  "name": "Foundation Wealth Management, LLC\\PA"
+ },
  "2011050": {
   "shares": 1493,
   "value": 1590,
@@ -13854,6 +13854,11 @@
   "value": 712167,
   "name": "Lakeridge Wealth Management LLC"
  },
+ "2012031": {
+  "shares": 129,
+  "value": 137399,
+  "name": "Financial Network Wealth Advisors LLC"
+ },
  "2012032": {
   "shares": 15371,
   "value": 16371767,
@@ -14028,6 +14033,11 @@
   "shares": 4229,
   "value": 4504350,
   "name": "SHEPHERD WEALTH MANAGEMENT Ltd LIABILITY Co"
+ },
+ "2016217": {
+  "shares": 607,
+  "value": 646522,
+  "name": "FAMILY WEALTH PARTNERS, LLC"
  },
  "2016322": {
   "shares": 433,
@@ -15248,6 +15258,11 @@
   "shares": 968,
   "value": 1031026,
   "name": "BXM Wealth LLC"
+ },
+ "2052441": {
+  "shares": 683,
+  "value": 727470,
+  "name": "T3 Companies, LLC"
  },
  "2052481": {
   "shares": 1000,
@@ -17228,11 +17243,6 @@
   "shares": 750,
   "value": 798833,
   "name": "Vigil Wealth Management, LLC"
- },
- "2107629": {
-  "shares": 255,
-  "value": 271755,
-  "name": "J. Team Financial, Inc."
  },
  "2107657": {
   "shares": 106,
@@ -19973,6 +19983,11 @@
   "shares": 122681,
   "value": 130668760,
   "name": "PARNASSUS INVESTMENTS, LLC"
+ },
+ "949012": {
+  "shares": 2724,
+  "value": 2901360,
+  "name": "BERKSHIRE ASSET MANAGEMENT LLC/PA"
  },
  "96223": {
   "shares": 923,

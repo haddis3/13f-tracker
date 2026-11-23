@@ -2744,6 +2744,11 @@
   "value": 1285588,
   "name": "MOORE CAPITAL MANAGEMENT, LP"
  },
+ "1448793": {
+  "shares": 252618,
+  "value": 269065958,
+  "name": "Prime Capital Management Co Ltd"
+ },
  "1449126": {
   "shares": 25928,
   "value": 26617861,
@@ -3899,11 +3904,6 @@
   "value": 145716805,
   "name": "Horizon Investments, LLC"
  },
- "1561082": {
-  "shares": 143230,
-  "value": 151489959,
-  "name": "ABN AMRO Bank N.V."
- },
  "1561330": {
   "shares": 760,
   "value": 809497,
@@ -5024,6 +5024,11 @@
   "value": 47247531,
   "name": "Private Advisory Group LLC"
  },
+ "1632968": {
+  "shares": 1161,
+  "value": 1236592,
+  "name": "Wealthquest Corp"
+ },
  "1632972": {
   "shares": 570291,
   "value": 565158206,
@@ -5633,11 +5638,6 @@
   "shares": 3520,
   "value": 3750,
   "name": "Premier Fund Managers Ltd"
- },
- "1673954": {
-  "shares": 768,
-  "value": 688182,
-  "name": "SevenBridge Financial Group, LLC"
  },
  "1674020": {
   "shares": 204,
@@ -7789,11 +7789,6 @@
   "value": 1481568,
   "name": "New World Advisors LLC"
  },
- "1767730": {
-  "shares": 1287,
-  "value": 1370815,
-  "name": "Frisch Financial Group, Inc."
- },
  "1767821": {
   "shares": 5777,
   "value": 6153514,
@@ -9509,11 +9504,6 @@
   "value": 7877513,
   "name": "Kesler, Norman & Wride, LLC"
  },
- "1840565": {
-  "shares": 1518,
-  "value": 1616581,
-  "name": "BAKER TILLY WEALTH MANAGEMENT, LLC"
- },
  "1840775": {
   "shares": 314,
   "value": 334445,
@@ -10359,6 +10349,11 @@
   "value": 296441,
   "name": "Twelve Points Wealth Management LLC"
  },
+ "1877093": {
+  "shares": 1213,
+  "value": 1291978,
+  "name": "MOTIVE WEALTH ADVISORS"
+ },
  "1877728": {
   "shares": 7718,
   "value": 7363883,
@@ -10513,11 +10508,6 @@
   "shares": 2501,
   "value": 2663840,
   "name": "Smith Group Asset Management, LLC"
- },
- "1893143": {
-  "shares": 15,
-  "value": 15977,
-  "name": "Atlantic Private Wealth, LLC"
  },
  "1893159": {
   "shares": 24688,
@@ -10983,11 +10973,6 @@
   "shares": 355,
   "value": 378520,
   "name": "Echo45 Advisors LLC"
- },
- "1908623": {
-  "shares": 35,
-  "value": 37279,
-  "name": "PayPay Securities Corp"
  },
  "1908765": {
   "shares": 3703,
@@ -12384,11 +12369,6 @@
   "value": 3663880,
   "name": "Garden State Investment Advisory Services LLC"
  },
- "1965401": {
-  "shares": 705,
-  "value": 750903,
-  "name": "VIAWEALTH, LLC"
- },
  "1965522": {
   "shares": 273,
   "value": 290775,
@@ -12433,6 +12413,11 @@
   "shares": 1989,
   "value": 2118643,
   "name": "C2P Capital Advisory Group, LLC d.b.a. Prosperity Capital Advisors"
+ },
+ "1965772": {
+  "shares": 6355,
+  "value": 6768774,
+  "name": "LMG Wealth Partners, LLC"
  },
  "1965796": {
   "shares": 185,
@@ -17243,6 +17228,11 @@
   "shares": 750,
   "value": 798833,
   "name": "Vigil Wealth Management, LLC"
+ },
+ "2107629": {
+  "shares": 255,
+  "value": 271755,
+  "name": "J. Team Financial, Inc."
  },
  "2107657": {
   "shares": 106,

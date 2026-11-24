@@ -1619,6 +1619,11 @@
   "value": 22367147,
   "name": "HEALTHCARE OF ONTARIO PENSION PLAN TRUST FUND"
  },
+ "1535847": {
+  "shares": 12495,
+  "value": 12136,
+  "name": "CWM, LLC"
+ },
  "1535865": {
   "shares": 8242,
   "value": 8004970,
@@ -3528,6 +3533,11 @@
   "shares": 408,
   "value": 396706,
   "name": "CERTUITY, LLC"
+ },
+ "1800798": {
+  "shares": 671,
+  "value": 651716,
+  "name": "Arkadios Wealth Advisors"
  },
  "1801212": {
   "shares": 456,
@@ -6093,6 +6103,11 @@
   "shares": 219,
   "value": 212706,
   "name": "Markin Asset Management, LP"
+ },
+ "2110897": {
+  "shares": 6803,
+  "value": 6607482,
+  "name": "NLB Skladi, upravljanje premozenja, d.o.o."
  },
  "2110902": {
   "shares": 236,

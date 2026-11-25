@@ -119,6 +119,11 @@
   "value": 45189423,
   "name": "FRANKLIN STREET ADVISORS INC /NC"
  },
+ "1010911": {
+  "shares": 311,
+  "value": 331249,
+  "name": "S&T BANK/PA"
+ },
  "1013234": {
   "shares": 2795,
   "value": 2976982,
@@ -924,6 +929,11 @@
   "value": 324859,
   "name": "FAIRFIELD, BUSH & CO."
  },
+ "1119032": {
+  "shares": 9127,
+  "value": 9721259,
+  "name": "HARVEY CAPITAL MANAGEMENT INC"
+ },
  "1119254": {
   "shares": 1113,
   "value": 1184997,
@@ -1428,11 +1438,6 @@
   "shares": 25341,
   "value": 26990893,
   "name": "PRINCIPAL SECURITIES, INC."
- },
- "1260824": {
-  "shares": 29877,
-  "value": 31822021,
-  "name": "EVERGREEN CAPITAL MANAGEMENT LLC"
  },
  "1263548": {
   "shares": 40526,
@@ -1943,11 +1948,6 @@
   "shares": 979,
   "value": 1042743,
   "name": "PHILLIPS FINANCIAL MANAGEMENT, LLC"
- },
- "1350694": {
-  "shares": 237119,
-  "value": 252557818,
-  "name": "Bridgewater Associates, LP"
  },
  "1350780": {
   "shares": 6715,
@@ -2734,10 +2734,20 @@
   "value": 1285588,
   "name": "MOORE CAPITAL MANAGEMENT, LP"
  },
+ "1448793": {
+  "shares": 252618,
+  "value": 269065958,
+  "name": "Prime Capital Management Co Ltd"
+ },
  "1449126": {
   "shares": 25928,
   "value": 26617861,
   "name": "Sigma Planning Corp"
+ },
+ "1450599": {
+  "shares": 230,
+  "value": 244976,
+  "name": "Intesa Sanpaolo Wealth Management SA"
  },
  "1450935": {
   "shares": 1466,
@@ -3278,11 +3288,6 @@
   "shares": 1624493,
   "value": 1730271217,
   "name": "BNP Paribas Asset Management Holding S.A."
- },
- "1520601": {
-  "shares": 12964,
-  "value": 13808086,
-  "name": "AFFINITY INVESTMENT ADVISORS, LLC"
  },
  "1520683": {
   "shares": 2274,
@@ -4444,6 +4449,11 @@
   "value": 7444054,
   "name": "Checchi Capital Advisers, LLC"
  },
+ "1598550": {
+  "shares": 270,
+  "value": 287580,
+  "name": "E&G Advisors, LLC"
+ },
  "1598697": {
   "shares": 88176,
   "value": 93917,
@@ -5029,6 +5039,11 @@
   "value": 1136727,
   "name": "JUNCTURE WEALTH STRATEGIES, LLC"
  },
+ "1632932": {
+  "shares": 6802,
+  "value": 7245250,
+  "name": "Sunbelt Securities, Inc."
+ },
  "1632965": {
   "shares": 44359,
   "value": 47247531,
@@ -5549,10 +5564,20 @@
   "value": 30558436,
   "name": "Coastal Bridge Advisors, LLC"
  },
+ "1666024": {
+  "shares": 6002,
+  "value": 5140502,
+  "name": "Capital Asset Advisory Services LLC"
+ },
  "1666335": {
   "shares": 304875,
   "value": 325385466,
   "name": "Rokos Capital Management LLP"
+ },
+ "1666363": {
+  "shares": 31319,
+  "value": 33358862,
+  "name": "Venturi Wealth Management, LLC"
  },
  "1666733": {
   "shares": 1804,
@@ -6118,6 +6143,11 @@
   "shares": 4717,
   "value": 5024124,
   "name": "Covalis Capital LLP"
+ },
+ "1698926": {
+  "shares": 4050,
+  "value": 4313695,
+  "name": "Adalta Capital Management LLC"
  },
  "1699080": {
   "shares": 25782,
@@ -7944,6 +7974,11 @@
   "value": 543206,
   "name": "McAlister, Sweet & Associates, Inc."
  },
+ "1774207": {
+  "shares": 1150,
+  "value": 1224877,
+  "name": "Jupiter Wealth Management LLC"
+ },
  "1774744": {
   "shares": 2793,
   "value": 2975379,
@@ -8639,11 +8674,6 @@
   "value": 1054459,
   "name": "Mattern Wealth Management LLC"
  },
- "1802387": {
-  "shares": 72,
-  "value": 76690,
-  "name": "Elevated Capital Advisors, LLC"
- },
  "1802451": {
   "shares": 254,
   "value": 270360,
@@ -8988,6 +9018,11 @@
   "shares": 1756,
   "value": 1870608,
   "name": "Royal Fund Management, LLC"
+ },
+ "1810558": {
+  "shares": 576,
+  "value": 614144,
+  "name": "Inspire Advisors, LLC"
  },
  "1810873": {
   "shares": 34474,
@@ -9988,6 +10023,11 @@
   "shares": 270,
   "value": 287580,
   "name": "DEFINED WEALTH MANAGEMENT, LLC"
+ },
+ "1849529": {
+  "shares": 3286,
+  "value": 3499419,
+  "name": "Revere Asset Management, Inc"
  },
  "1849561": {
   "shares": 4203,
@@ -11494,6 +11534,11 @@
   "value": 1084546,
   "name": "Fortune 45 LLC"
  },
+ "1919142": {
+  "shares": 400,
+  "value": 426044,
+  "name": "High Net Worth Advisory Group LLC"
+ },
  "1919176": {
   "shares": 3021,
   "value": 3217697,
@@ -12149,11 +12194,6 @@
   "value": 532555,
   "name": "Compound Global Advisors, LLC"
  },
- "1962457": {
-  "shares": 3476,
-  "value": 3702322,
-  "name": "Northern Financial Advisors Inc"
- },
  "1962465": {
   "shares": 726,
   "value": 773270,
@@ -12188,11 +12228,6 @@
   "shares": 15599,
   "value": 16614197,
   "name": "FIDELIS CAPITAL PARTNERS, LLC"
- },
- "1962838": {
-  "shares": 8388,
-  "value": 8933672,
-  "name": "Schear Investment Advisers, LLC"
  },
  "1962933": {
   "shares": 21260,
@@ -12643,6 +12678,11 @@
   "shares": 689,
   "value": 733861,
   "name": "Values Added Financial LLC"
+ },
+ "1973967": {
+  "shares": 284,
+  "value": 302491,
+  "name": "Yoder Wealth Management, Inc."
  },
  "1973981": {
   "shares": 254,
@@ -14259,6 +14299,11 @@
   "value": 330184,
   "name": "Rockport Wealth LLC"
  },
+ "2023071": {
+  "shares": 756,
+  "value": 805223,
+  "name": "Perissos Private Wealth Management, LLC"
+ },
  "2023097": {
   "shares": 1325,
   "value": 1411271,
@@ -15264,11 +15309,6 @@
   "value": 1031026,
   "name": "BXM Wealth LLC"
  },
- "2052441": {
-  "shares": 683,
-  "value": 727470,
-  "name": "T3 Companies, LLC"
- },
  "2052481": {
   "shares": 1000,
   "value": 1065110,
@@ -16179,11 +16219,6 @@
   "value": 1511391,
   "name": "Pacific Capital Partners Ltd"
  },
- "2065247": {
-  "shares": 177,
-  "value": 188565,
-  "name": "Balance Wealth Partners LLC"
- },
  "2065331": {
   "shares": 20000,
   "value": 21302200,
@@ -16428,11 +16463,6 @@
   "shares": 698,
   "value": 743447,
   "name": "Markin Volterra Fund LP"
- },
- "2073617": {
-  "shares": 210,
-  "value": 223674,
-  "name": "Warner Group LLC"
  },
  "2073676": {
   "shares": 809,
@@ -18094,11 +18124,6 @@
   "value": 609474,
   "name": "Madson Wealth Advisors Inc"
  },
- "2130067": {
-  "shares": 3899,
-  "value": 4152437,
-  "name": "Flatrock Wealth Partners LLC"
- },
  "2130988": {
   "shares": 2983,
   "value": 3177223,
@@ -18454,6 +18479,11 @@
   "value": 898954,
   "name": "IKE Capital, LLC"
  },
+ "2150676": {
+  "shares": 757,
+  "value": 806325,
+  "name": "Advus Financial Partners, LLC"
+ },
  "2151928": {
   "shares": 189,
   "value": 201526,
@@ -18623,6 +18653,11 @@
   "shares": 1655,
   "value": 1763000,
   "name": "Johnson Dunn Capital Advisors Inc"
+ },
+ "2166017": {
+  "shares": 376,
+  "value": 400481,
+  "name": "CAVU Wealth Advisors, LLC"
  },
  "2230": {
   "shares": 53200,

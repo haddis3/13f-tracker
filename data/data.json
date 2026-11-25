@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T05:49:59.556761Z",
+ "generated": "2026-11-25T04:52:20.737817Z",
  "quarters": [
   "2026-09-30"
  ],
@@ -10,9 +10,9 @@
    "tl": [
     {
      "q": "2026-09-30",
-     "holders": 1857,
-     "valueB": 179.81,
-     "neu": 1857,
+     "holders": 1860,
+     "valueB": 179.85,
+     "neu": 1860,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -145,13 +145,13 @@
   },
   "MU": {
    "name": "MICRON TECHNOLOGY",
-   "sharesM": 855.2,
+   "sharesM": 855.3,
    "tl": [
     {
      "q": "2026-09-30",
-     "holders": 4002,
-     "valueB": 881.31,
-     "neu": 4002,
+     "holders": 4009,
+     "valueB": 881.33,
+     "neu": 4009,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -175,12 +175,6 @@
      "action": "NEW",
      "shares": "1.2M",
      "value": "$1.3B"
-    },
-    {
-     "fund": "Bridgewater Associates, LP",
-     "action": "NEW",
-     "shares": "237.1K",
-     "value": "$252.6M"
     },
     {
      "fund": "Citadel Advisors LLC",
@@ -294,9 +288,9 @@
    "tl": [
     {
      "q": "2026-09-30",
-     "holders": 1429,
+     "holders": 1430,
      "valueB": 76.63,
-     "neu": 1429,
+     "neu": 1430,
      "inc": 0,
      "dec": 0,
      "sold": 0

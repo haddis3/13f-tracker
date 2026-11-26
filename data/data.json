@@ -1,18 +1,18 @@
 {
- "generated": "2026-11-25T04:52:20.737817Z",
+ "generated": "2026-11-26T04:05:07.756210Z",
  "quarters": [
   "2026-09-30"
  ],
  "stocks": {
   "SNDK": {
    "name": "SANDISK CORP",
-   "sharesM": 106.3,
+   "sharesM": 104.6,
    "tl": [
     {
      "q": "2026-09-30",
-     "holders": 1860,
-     "valueB": 179.85,
-     "neu": 1860,
+     "holders": 1853,
+     "valueB": 176.82,
+     "neu": 1853,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -145,13 +145,13 @@
   },
   "MU": {
    "name": "MICRON TECHNOLOGY",
-   "sharesM": 855.3,
+   "sharesM": 855.6,
    "tl": [
     {
      "q": "2026-09-30",
-     "holders": 4009,
-     "valueB": 881.33,
-     "neu": 4009,
+     "holders": 4018,
+     "valueB": 881.63,
+     "neu": 4018,
      "inc": 0,
      "dec": 0,
      "sold": 0
@@ -175,6 +175,12 @@
      "action": "NEW",
      "shares": "1.2M",
      "value": "$1.3B"
+    },
+    {
+     "fund": "Bridgewater Associates, LP",
+     "action": "NEW",
+     "shares": "237.1K",
+     "value": "$252.6M"
     },
     {
      "fund": "Citadel Advisors LLC",
@@ -288,9 +294,9 @@
    "tl": [
     {
      "q": "2026-09-30",
-     "holders": 1430,
+     "holders": 1431,
      "valueB": 76.63,
-     "neu": 1430,
+     "neu": 1431,
      "inc": 0,
      "dec": 0,
      "sold": 0

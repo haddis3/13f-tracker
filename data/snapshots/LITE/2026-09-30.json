@@ -1744,6 +1744,11 @@
   "value": 311774,
   "name": "Aviance Capital Partners, LLC"
  },
+ "1542629": {
+  "shares": 537,
+  "value": 468243,
+  "name": "Baader Bank Aktiengesellschaft"
+ },
  "1542927": {
   "shares": 4000,
   "value": 3885040,
@@ -2023,11 +2028,6 @@
   "shares": 566,
   "value": 551407,
   "name": "GeoWealth Management, LLC"
- },
- "1594916": {
-  "shares": 2316,
-  "value": 2249438,
-  "name": "Metis Global Partners, LLC"
  },
  "1595082": {
   "shares": 20000,
@@ -5703,6 +5703,11 @@
   "shares": 690,
   "value": 670169,
   "name": "Corient IA LP"
+ },
+ "2058915": {
+  "shares": 6,
+  "value": 5828,
+  "name": "Kilter Group LLC"
  },
  "2059321": {
   "shares": 2400,

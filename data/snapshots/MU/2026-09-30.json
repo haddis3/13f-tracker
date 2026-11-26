@@ -469,6 +469,11 @@
   "value": 1183337,
   "name": "GARRISON BRADFORD & ASSOCIATES INC"
  },
+ "1056559": {
+  "shares": 313,
+  "value": 333143,
+  "name": "NORTH STAR ASSET MANAGEMENT INC"
+ },
  "1056581": {
   "shares": 100000,
   "value": 106511000,
@@ -1439,6 +1444,11 @@
   "value": 26990893,
   "name": "PRINCIPAL SECURITIES, INC."
  },
+ "1260824": {
+  "shares": 29877,
+  "value": 31822021,
+  "name": "EVERGREEN CAPITAL MANAGEMENT LLC"
+ },
  "1263548": {
   "shares": 40526,
   "value": 41701065,
@@ -1949,6 +1959,11 @@
   "value": 1042743,
   "name": "PHILLIPS FINANCIAL MANAGEMENT, LLC"
  },
+ "1350694": {
+  "shares": 237119,
+  "value": 252557818,
+  "name": "Bridgewater Associates, LP"
+ },
  "1350780": {
   "shares": 6715,
   "value": 7152214,
@@ -2188,11 +2203,6 @@
   "shares": 2891,
   "value": 3079651,
   "name": "Ifrah Financial Services, Inc."
- },
- "1383782": {
-  "shares": 1813,
-  "value": 1931044,
-  "name": "Merrion Investment Management Co, LLC"
  },
  "1384042": {
   "shares": 12400,
@@ -2934,11 +2944,6 @@
   "value": 5476152,
   "name": "Mesirow Financial Investment Management, Inc."
  },
- "1469751": {
-  "shares": 15649,
-  "value": 16668012,
-  "name": "RiverFront Investment Group, LLC"
- },
  "1470723": {
   "shares": 15000,
   "value": 15976650,
@@ -2953,6 +2958,11 @@
   "shares": 22347,
   "value": 23802013,
   "name": "LMCG INVESTMENTS, LLC"
+ },
+ "1471265": {
+  "shares": 5631,
+  "value": 5997634,
+  "name": "Northwest Bancshares, Inc.  (NWBI)"
  },
  "1471474": {
   "shares": 9614,
@@ -3288,6 +3298,11 @@
   "shares": 1624493,
   "value": 1730271217,
   "name": "BNP Paribas Asset Management Holding S.A."
+ },
+ "1520601": {
+  "shares": 12964,
+  "value": 13808086,
+  "name": "AFFINITY INVESTMENT ADVISORS, LLC"
  },
  "1520683": {
   "shares": 2274,
@@ -3708,6 +3723,11 @@
   "shares": 3363,
   "value": 3582055,
   "name": "Aviance Capital Partners, LLC"
+ },
+ "1542629": {
+  "shares": 13536,
+  "value": 12560212,
+  "name": "Baader Bank Aktiengesellschaft"
  },
  "1542927": {
   "shares": 89000,
@@ -4779,11 +4799,6 @@
   "value": 4939981,
   "name": "Tradewinds Capital Management, LLC"
  },
- "1616034": {
-  "shares": 8596,
-  "value": 9155693,
-  "name": "HighPoint Advisor Group LLC"
- },
  "1616328": {
   "shares": 2600,
   "value": 2768986,
@@ -5218,6 +5233,11 @@
   "shares": 865,
   "value": 921320,
   "name": "Lavaca Capital LLC"
+ },
+ "1641761": {
+  "shares": 7,
+  "value": 7456,
+  "name": "1 NORTH WEALTH SERVICES LLC"
  },
  "1641866": {
   "shares": 15779,
@@ -6713,6 +6733,11 @@
   "shares": 8215,
   "value": 8750177,
   "name": "Gryphon Financial Partners LLC"
+ },
+ "1729254": {
+  "shares": 24,
+  "value": 25563,
+  "name": "Front Row Advisors LLC"
  },
  "1729269": {
   "shares": 1800,
@@ -8674,6 +8699,11 @@
   "value": 1054459,
   "name": "Mattern Wealth Management LLC"
  },
+ "1802387": {
+  "shares": 72,
+  "value": 76690,
+  "name": "Elevated Capital Advisors, LLC"
+ },
  "1802451": {
   "shares": 254,
   "value": 270360,
@@ -10153,11 +10183,6 @@
   "shares": 16507,
   "value": 17582282,
   "name": "Spire Wealth Management"
- },
- "1858782": {
-  "shares": 1378,
-  "value": 1287319,
-  "name": "Canvas Wealth Advisors, LLC"
  },
  "1858789": {
   "shares": 115874,
@@ -12194,6 +12219,11 @@
   "value": 532555,
   "name": "Compound Global Advisors, LLC"
  },
+ "1962457": {
+  "shares": 3476,
+  "value": 3702322,
+  "name": "Northern Financial Advisors Inc"
+ },
  "1962465": {
   "shares": 726,
   "value": 773270,
@@ -12229,6 +12259,11 @@
   "value": 16614197,
   "name": "FIDELIS CAPITAL PARTNERS, LLC"
  },
+ "1962838": {
+  "shares": 8388,
+  "value": 8933672,
+  "name": "Schear Investment Advisers, LLC"
+ },
  "1962933": {
   "shares": 21260,
   "value": 22644507,
@@ -12238,11 +12273,6 @@
   "shares": 597,
   "value": 635871,
   "name": "LODESTAR PRIVATE ASSET MANAGEMENT LLC"
- },
- "1963212": {
-  "shares": 3907,
-  "value": 4161214,
-  "name": "Icon Wealth Advisors, LLC"
  },
  "1963355": {
   "shares": 44,
@@ -12689,11 +12719,6 @@
   "value": 270538,
   "name": "Resolute Wealth Strategies, LLC"
  },
- "1974438": {
-  "shares": 840,
-  "value": 894692,
-  "name": "OneAscent Investment Solutions LLC"
- },
  "1974457": {
   "shares": 1543,
   "value": 1643465,
@@ -13003,11 +13028,6 @@
   "shares": 529,
   "value": 563443,
   "name": "Prosperity Financial Group, Inc."
- },
- "1991340": {
-  "shares": 10,
-  "value": 10651,
-  "name": "Strategic Advocates LLC"
  },
  "1991463": {
   "shares": 7332,
@@ -15309,6 +15329,11 @@
   "value": 1031026,
   "name": "BXM Wealth LLC"
  },
+ "2052441": {
+  "shares": 683,
+  "value": 727470,
+  "name": "T3 Companies, LLC"
+ },
  "2052481": {
   "shares": 1000,
   "value": 1065110,
@@ -16064,6 +16089,11 @@
   "value": 243161,
   "name": "BANNERMAN WEALTH MANAGEMENT GROUP, LLC"
  },
+ "2058915": {
+  "shares": 511,
+  "value": 544272,
+  "name": "Kilter Group LLC"
+ },
  "2059107": {
   "shares": 319,
   "value": 339770,
@@ -16219,6 +16249,11 @@
   "value": 1511391,
   "name": "Pacific Capital Partners Ltd"
  },
+ "2065247": {
+  "shares": 177,
+  "value": 188565,
+  "name": "Balance Wealth Partners LLC"
+ },
  "2065331": {
   "shares": 20000,
   "value": 21302200,
@@ -16228,11 +16263,6 @@
   "shares": 349,
   "value": 380162,
   "name": "Rydar Equities, Inc."
- },
- "2065679": {
-  "shares": 5256,
-  "value": 5598729,
-  "name": "Parkway Wealth Management Group, LLC"
  },
  "2065771": {
   "shares": 2065,
@@ -16463,6 +16493,11 @@
   "shares": 698,
   "value": 743447,
   "name": "Markin Volterra Fund LP"
+ },
+ "2073617": {
+  "shares": 210,
+  "value": 223674,
+  "name": "Warner Group LLC"
  },
  "2073676": {
   "shares": 809,
@@ -18124,6 +18159,11 @@
   "value": 609474,
   "name": "Madson Wealth Advisors Inc"
  },
+ "2130067": {
+  "shares": 3899,
+  "value": 4152437,
+  "name": "Flatrock Wealth Partners LLC"
+ },
  "2130988": {
   "shares": 2983,
   "value": 3177223,
@@ -18148,6 +18188,11 @@
   "shares": 3287,
   "value": 3501017,
   "name": "Collaborative Fund Advisors, LLC"
+ },
+ "2132253": {
+  "shares": 1097,
+  "value": 1168700,
+  "name": "Allied Private Wealth LLC"
  },
  "2132497": {
   "shares": 277,

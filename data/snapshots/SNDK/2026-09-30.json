@@ -309,6 +309,11 @@
   "value": 447653,
   "name": "SILVER OAK SECURITIES, INCORPORATED"
  },
+ "1081019": {
+  "shares": 169935,
+  "value": 295668207,
+  "name": "CALIFORNIA STATE TEACHERS RETIREMENT SYSTEM"
+ },
  "1081407": {
   "shares": 3219,
   "value": 5600706,
@@ -1729,6 +1734,11 @@
   "value": 1195304,
   "name": "Cambria Investment Management, L.P."
  },
+ "1529735": {
+  "shares": 37918,
+  "value": 65973149,
+  "name": "MetLife Investment Management, LLC"
+ },
  "1531593": {
   "shares": 183,
   "value": 318400,
@@ -2354,6 +2364,11 @@
   "value": 17398900,
   "name": "DAVIDSON KEMPNER CAPITAL MANAGEMENT LP"
  },
+ "1595888": {
+  "shares": 366033,
+  "value": 636857157,
+  "name": "JANE STREET GROUP, LLC"
+ },
  "1596800": {
   "shares": 19139,
   "value": 33299755,
@@ -2713,6 +2728,11 @@
   "shares": 641,
   "value": 1115304,
   "name": "JUNCTURE WEALTH STRATEGIES, LLC"
+ },
+ "1632932": {
+  "shares": 27532,
+  "value": 47902651,
+  "name": "Sunbelt Securities, Inc."
  },
  "1632972": {
   "shares": 184099,
@@ -3579,6 +3599,11 @@
   "value": 2348852,
   "name": "Shay Capital LLC"
  },
+ "1726752": {
+  "shares": 516,
+  "value": 897783,
+  "name": "Pinnacle Wealth Planning Services, Inc."
+ },
  "1727336": {
   "shares": 7,
   "value": 12179,
@@ -3753,6 +3778,11 @@
   "shares": 3,
   "value": 5220,
   "name": "Quaker Wealth Management, LLC"
+ },
+ "1735057": {
+  "shares": 563,
+  "value": 979558,
+  "name": "Versant Capital Management, Inc"
  },
  "1736225": {
   "shares": 257901,
@@ -4573,6 +4603,11 @@
   "shares": 181,
   "value": 314920,
   "name": "Aspen Grove Capital, LLC"
+ },
+ "1807060": {
+  "shares": 125,
+  "value": 285114,
+  "name": "SHP Wealth Management"
  },
  "1807283": {
   "shares": 22,
@@ -8619,6 +8654,11 @@
   "value": 188230,
   "name": "LORD, ABBETT & CO. LLC"
  },
+ "72971": {
+  "shares": 240105,
+  "value": 417756842,
+  "name": "WELLS FARGO & COMPANY/MN  (WFC, WFCNP, WFC-PA, WFC-PC, WFC-PD, WFC-PL, WFC-PY, WFC-PZ)"
+ },
  "73124": {
   "shares": 1373711,
   "value": 2390106033,
@@ -8678,6 +8718,11 @@
   "shares": 186,
   "value": 323620,
   "name": "SouthState Bank Corp  (SSB)"
+ },
+ "764068": {
+  "shares": 888406,
+  "value": 1545728713,
+  "name": "Legal & General Group Plc"
  },
  "764739": {
   "shares": 267,
@@ -9119,6 +9164,11 @@
   "value": 29621627,
   "name": "MUTUAL OF AMERICA CAPITAL MANAGEMENT LLC"
  },
+ "92230": {
+  "shares": 11623,
+  "value": 20222741,
+  "name": "TRUIST FINANCIAL CORP  (TFC, TFC-PI, TFC-PO, TFC-PR)"
+ },
  "922439": {
   "shares": 7813,
   "value": 13593761,
@@ -9138,6 +9188,11 @@
   "shares": 40,
   "value": 69596,
   "name": "VALLEY WEALTH MANAGERS, INC."
+ },
+ "926171": {
+  "shares": 3188,
+  "value": 5541751,
+  "name": "NATIONAL BANK OF CANADA /FI/"
  },
  "927971": {
   "shares": 187681,

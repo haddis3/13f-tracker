@@ -2029,6 +2029,11 @@
   "value": 551407,
   "name": "GeoWealth Management, LLC"
  },
+ "1594916": {
+  "shares": 2316,
+  "value": 2249438,
+  "name": "Metis Global Partners, LLC"
+ },
  "1595082": {
   "shares": 20000,
   "value": 19425200,
@@ -3396,7 +3401,7 @@
  },
  "1778131": {
   "shares": 32618,
-  "value": 31681,
+  "value": 31680559,
   "name": "BI Asset Management Fondsmaeglerselskab A/S"
  },
  "1779789": {
@@ -3903,6 +3908,11 @@
   "shares": 82135,
   "value": 79774440,
   "name": "E Fund Management Co., Ltd."
+ },
+ "1843715": {
+  "shares": 41,
+  "value": 39822,
+  "name": "Latitude Advisors, LLC"
  },
  "1843826": {
   "shares": 753,
@@ -4999,11 +5009,6 @@
   "value": 29137,
   "name": "Bare Financial Services, Inc"
  },
- "2009539": {
-  "shares": 2072,
-  "value": 2012451,
-  "name": "Rakuten Securities, Inc."
- },
  "2009591": {
   "shares": 2,
   "value": 1943,
@@ -5193,11 +5198,6 @@
   "shares": 2,
   "value": 1943,
   "name": "American Capital Advisory, LLC"
- },
- "2019316": {
-  "shares": 4,
-  "value": 3886,
-  "name": "Heritage Family Offices, LLP"
  },
  "2019663": {
   "shares": 243,

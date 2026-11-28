@@ -699,11 +699,6 @@
   "value": 2363479,
   "name": "TRUST CO OF OKLAHOMA"
  },
- "1084683": {
-  "shares": 929,
-  "value": 989487,
-  "name": "GREENWOOD GEARHART LLC"
- },
  "1085163": {
   "shares": 954,
   "value": 1016371,
@@ -823,6 +818,11 @@
   "shares": 306,
   "value": 325925,
   "name": "MARINO, STRAM & ASSOCIATES LLC"
+ },
+ "1100710": {
+  "shares": 1304,
+  "value": 1388903,
+  "name": "HARBOR ADVISORY CORP /MA/"
  },
  "1102578": {
   "shares": 447,
@@ -1133,11 +1133,6 @@
   "shares": 99398,
   "value": 102280137,
   "name": "WHITTIER TRUST CO"
- },
- "1138486": {
-  "shares": 1152,
-  "value": 1227007,
-  "name": "1834 INVESTMENT ADVISORS CO"
  },
  "1140022": {
   "shares": 1060462,
@@ -2744,6 +2739,11 @@
   "value": 1285588,
   "name": "MOORE CAPITAL MANAGEMENT, LP"
  },
+ "1448793": {
+  "shares": 252618,
+  "value": 269065958,
+  "name": "Prime Capital Management Co Ltd"
+ },
  "1449126": {
   "shares": 25928,
   "value": 26617861,
@@ -2938,6 +2938,11 @@
   "shares": 5141,
   "value": 5476152,
   "name": "Mesirow Financial Investment Management, Inc."
+ },
+ "1469751": {
+  "shares": 15649,
+  "value": 16668012,
+  "name": "RiverFront Investment Group, LLC"
  },
  "1470723": {
   "shares": 15000,
@@ -4794,6 +4799,11 @@
   "value": 4939981,
   "name": "Tradewinds Capital Management, LLC"
  },
+ "1616034": {
+  "shares": 8596,
+  "value": 9155693,
+  "name": "HighPoint Advisor Group LLC"
+ },
  "1616328": {
   "shares": 2600,
   "value": 2768986,
@@ -6639,11 +6649,6 @@
   "value": 5432063,
   "name": "Meristead Wealth, LLC"
  },
- "1726609": {
-  "shares": 301,
-  "value": 320599,
-  "name": "AAF Wealth Management, LLC"
- },
  "1726752": {
   "shares": 4109,
   "value": 4376023,
@@ -6908,11 +6913,6 @@
   "shares": 14,
   "value": 14912,
   "name": "Providence Capital Advisors, LLC"
- },
- "1730815": {
-  "shares": 1648,
-  "value": 1755301,
-  "name": "Poehling Capital Management, INC."
  },
  "1730817": {
   "shares": 4512,
@@ -7864,11 +7864,6 @@
   "value": 6471715,
   "name": "Global Wealth Management Investment Advisory, Inc."
  },
- "1767868": {
-  "shares": 3250,
-  "value": 3461608,
-  "name": "Inscription Capital, LLC"
- },
  "1767902": {
   "shares": 4213,
   "value": 4486840,
@@ -8091,7 +8086,7 @@
  },
  "1778131": {
   "shares": 273772,
-  "value": 291597,
+  "value": 291597295,
   "name": "BI Asset Management Fondsmaeglerselskab A/S"
  },
  "1779040": {
@@ -11024,6 +11019,11 @@
   "value": 21302,
   "name": "MILLER WEALTH ADVISORS, LLC"
  },
+ "1908165": {
+  "shares": 200,
+  "value": 213022,
+  "name": "Sovereign Investment Advisors, LLC"
+ },
  "1908169": {
   "shares": 309,
   "value": 329118,
@@ -12149,11 +12149,6 @@
   "value": 1620025,
   "name": "Verum Partners LLC"
  },
- "1959790": {
-  "shares": 2760,
-  "value": 2940478,
-  "name": "Fortis Capital Advisors, LLC"
- },
  "1960144": {
   "shares": 1279,
   "value": 1361690,
@@ -12214,11 +12209,6 @@
   "value": 532555,
   "name": "Compound Global Advisors, LLC"
  },
- "1962457": {
-  "shares": 3476,
-  "value": 3702322,
-  "name": "Northern Financial Advisors Inc"
- },
  "1962465": {
   "shares": 726,
   "value": 773270,
@@ -12268,6 +12258,11 @@
   "shares": 597,
   "value": 635871,
   "name": "LODESTAR PRIVATE ASSET MANAGEMENT LLC"
+ },
+ "1963212": {
+  "shares": 3907,
+  "value": 4161214,
+  "name": "Icon Wealth Advisors, LLC"
  },
  "1963355": {
   "shares": 44,
@@ -12713,11 +12708,6 @@
   "shares": 254,
   "value": 270538,
   "name": "Resolute Wealth Strategies, LLC"
- },
- "1974438": {
-  "shares": 840,
-  "value": 894692,
-  "name": "OneAscent Investment Solutions LLC"
  },
  "1974457": {
   "shares": 1543,
@@ -13214,11 +13204,6 @@
   "value": 16692588,
   "name": "SYON CAPITAL LLC"
  },
- "1999514": {
-  "shares": 2392,
-  "value": 2547743,
-  "name": "denkapparat Operations GmbH"
- },
  "1999606": {
   "shares": 177462,
   "value": 194975572,
@@ -13478,11 +13463,6 @@
   "shares": 227,
   "value": 241780,
   "name": "Peirce Capital Management, LLC"
- },
- "2008171": {
-  "shares": 6071,
-  "value": 6466638,
-  "name": "TRITONPOINT WEALTH, LLC"
  },
  "2008409": {
   "shares": 10362,
@@ -14224,11 +14204,6 @@
   "value": 790816,
   "name": "Embree Financial Group"
  },
- "2021047": {
-  "shares": 5603,
-  "value": 5967690,
-  "name": "SEEDS INVESTOR LLC"
- },
  "2021208": {
   "shares": 1284,
   "value": 1367198,
@@ -14844,11 +14819,6 @@
   "value": 2565957,
   "name": "Kera Capital Partners, Inc."
  },
- "2040405": {
-  "shares": 180000,
-  "value": 191719800,
-  "name": "Shengqi Capital (Hong Kong) Ltd"
- },
  "2040515": {
   "shares": 808,
   "value": 860609,
@@ -15333,11 +15303,6 @@
   "shares": 968,
   "value": 1031026,
   "name": "BXM Wealth LLC"
- },
- "2052441": {
-  "shares": 683,
-  "value": 727470,
-  "name": "T3 Companies, LLC"
  },
  "2052481": {
   "shares": 1000,

@@ -169,6 +169,11 @@
   "value": 74815,
   "name": "DIMENSION CAPITAL MANAGEMENT LLC"
  },
+ "1046192": {
+  "shares": 101249,
+  "value": 175869,
+  "name": "CANADA LIFE ASSURANCE Co"
+ },
  "1050470": {
   "shares": 49071,
   "value": 85378,
@@ -3184,11 +3189,6 @@
   "value": 556765,
   "name": "Symmetry Investments LP"
  },
- "1692038": {
-  "shares": 231,
-  "value": 401915,
-  "name": "SIMON QUICK ADVISORS, LLC"
- },
  "1692234": {
   "shares": 148421,
   "value": 258201469,
@@ -4231,7 +4231,7 @@
  },
  "1778131": {
   "shares": 33863,
-  "value": 58918,
+  "value": 58917895,
   "name": "BI Asset Management Fondsmaeglerselskab A/S"
  },
  "1779789": {
